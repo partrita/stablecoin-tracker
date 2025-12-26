@@ -1,18 +1,62 @@
-# stablecoin-tracker
+# Stablecoin Tracker
 
-스테이블코인 시장의 흐름을 한눈에 파악하는 데이터 트래커
+![Stablecoin Market Cap Plot](data/stablecoin_marketcap_plot.png)
 
-## 데이터 수십 스클립트 실행 방법
+주요 스테이블코인의 시가총액(Market Cap) 변화를 추적하고 시각화하는 프로젝트입니다.
+매일 자동으로 CoinGecko 데이터를 수집하여 시장 흐름을 한눈에 파악할 수 있습니다.
 
-명령어 뒤에 `--output` 옵션으로 저장 경로를 지정해 주세요.
+## 📂 프로젝트 구조
 
-```{bash}
-uv run src/get_coingekodata.py --output ./stable_coin_data.csv
+- **`data/`**: 수집된 데이터(`csv`)와 시각화 결과물(`png`)이 저장되는 폴더입니다.
+- **`src/`**: 데이터 수집 및 시각화 스크립트가 위치합니다.
+    - `fetch_daily_data.py`: 현재 시점의 상위 10개 스테이블코인 시가총액을 가져와 CSV에 추가합니다.
+    - `generate_plot.py`: 누적된 데이터를 바탕으로 그래프를 생성합니다.
+    - `get_coingekodata.py`: 특정 코인들의 전체 과거 데이터를 한 번에 수집할 때 사용합니다.
+
+## 🚀 시작하기
+
+이 프로젝트는 Python 패키지 매니저인 [uv](https://github.com/astral-sh/uv)를 사용하여 의존성을 관리합니다.
+
+### 설치
+
+```bash
+# 의존성 설치
+uv sync
 ```
 
-## 💡 주요 변경 사항 및 팁
+### 사용 방법
 
-- cloudscraper 적용: 일반 requests와 달리 실제 브라우저인 것처럼 위장하여 Cloudflare의 봇 감지를 통과합니다.
-- time.sleep(5): 코인게코는 매우 짧은 시간 내에 대량의 요청이 들어오면 IP를 일시 차단합니다. 10개의 코인을 가져오므로 최소 5초 정도의 간격을 두는 것이 안전합니다.
-- encoding='utf-8-sig': 저장된 CSV를 엑셀(Excel)에서 열었을 때 한글이나 특수문자가 깨지지 않도록 인코딩을 최적화했습니다.
+**1. 일일 데이터 수집 (Daily Update)**
 
+현재 시장 데이터를 가져와 `data/stablecoin_marketcap.csv` 파일에 추가합니다.
+
+```bash
+uv run src/fetch_daily_data.py
+```
+
+**2. 그래프 생성**
+
+수집된 데이터를 기반으로 시각화 이미지를 업데이트합니다.
+
+```bash
+uv run src/generate_plot.py
+```
+
+**3. 전체 히스토리 수집 (초기화용)**
+
+지정된 코인들의 과거 모든 데이터를 가져옵니다. (기존 데이터를 덮어쓸 수 있으니 주의하세요)
+
+```bash
+uv run src/get_coingekodata.py --output data/stablecoin_marketcap.csv
+```
+
+## 🤖 자동화 (GitHub Actions)
+
+이 리포지토리는 GitHub Actions를 통해 **매일 00:00 (UTC)** 에 자동으로 데이터를 수집하고 그래프를 업데이트합니다.
+(`.github/workflows/daily_scrape.yml` 참조)
+
+## 💡 참고 사항
+
+- **Cloudscraper 적용**: 일반적인 요청과 달리 실제 브라우저처럼 위장하여 Cloudflare 봇 감지를 우회합니다.
+- **안전한 수집**: CoinGecko의 IP 차단을 방지하기 위해 요청 간에 적절한 대기 시간(`time.sleep`)을 둡니다.
+- **데이터 인코딩**: CSV 파일은 엑셀 호환성을 위해 `utf-8-sig` 인코딩(또는 호환 형식)을 사용합니다.

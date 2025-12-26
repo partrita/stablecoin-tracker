@@ -30,8 +30,11 @@ jobs:
       - name: Run Scraper
         run: uv run src/fetch_daily_data.py
 
+      - name: Generate Plot
+        run: uv run src/generate_plot.py
+
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "data: update stablecoin market cap csv"
-          file_pattern: "data/*.csv"
+          commit_message: "data: update stablecoin market cap csv and plot"
+          file_pattern: "data/*.csv data/*.png"
