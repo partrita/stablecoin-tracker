@@ -1,6 +1,27 @@
 # Stablecoin Tracker
 
-![Stablecoin Market Cap Plot](data/stablecoin_marketcap_plot.png)
+<!-- START_dashboard -->
+
+### 📊 Market Overview
+*Last Updated: 2026-01-18 01:12:28 (UTC)*
+
+| Total Market Cap | 24h Change | 7d Change |
+| :--- | :--- | :--- |
+| **$296,297,900,102** | 🟢 +0.21% | 🟢 +0.78% |
+
+### 📈 Charts
+| Market Cap History | Market Dominance |
+| :---: | :---: |
+| ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
+
+### 📰 Latest News
+- [Ban on stablecoin inducements should be included in Clarity Act - America's Credit Unions](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjlwcGdLRFR1TUJMYUpod2M4VzFKcGFMbXRnWVlkYklpZ0QtLS1aNFU0ZWNzaW10V3MtcnBaRTJBTGNIWUtCMEh6UEpDcE8wU3BaY253RTRhVzRRNi1laVpOaDYxNE9HVzFodWNvejNKZTFIR3ZjMWNRcDZQeUgwZjJEQ1dFLUtlbWRaX05Ka3JKX0IzQWFTRkxyMlpBNDd1dm1SMkV6cTVScVNiTW0w?oc=5) (Tue, 13 Jan 2026 08:06:48 GMT)
+- [Visa crypto chief bets on stablecoin settlement, sees volumes growing - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxPendZWC1EU0dhSENsWTFPS1BGQXlVc245aGF3NjVLaTcxbW5rR2FlVmUxdURtQ1JPbDlLTi10d1JHRTE2aDhIQTZwalUzQlpONktmbk9CWnkxaTJVYm5ZcDRBc2RPV3ZvRFkyaGRKaTdjUmc5bVNNbms4VXQzeGVoT1BxbTNTMFNSaHRxbGhjbUZRUzZhUDloRy1ZQUZvZDlWT1lkVGItaDJFR2FHMmNUT3IzcEpBOGU1NXc?oc=5) (Wed, 14 Jan 2026 18:31:29 GMT)
+- [Unstable Coins: Stablecoin Regulation, Market Structure Legislation, and U.S. Security Risks - CSIS | Center for Strategic and International Studies](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOGNrcUpzSzhla3JnMUdKYW5vaEV0TzJaMDkzenk5ZHdHQm02cFFTaVFpWV9iRDFsSGZFUkdMdnhrSDlkUUYyRjFpdlhycEswWU9DMlpUZ2l0bG14M0l6N1ZCTjhsbk9uREFTZm9XeVlPSUIybUh6RW5rRExyZnd4SWw4dU5RcTEtR0wzNzhmVXo5VkdEN1JqXzhtZW15S2J3Q1RxRDRXNm1udHl2M19yT3pCdmptTGxo?oc=5) (Tue, 13 Jan 2026 01:11:43 GMT)
+- [From Stablecoins to Infrastructure: Circle Charts the Rise of the Internet Financial System in 2026 Report - Circle Internet](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ1RtWjNaRzlydkd6RGZVcTlWRm5qNlFHV2dtZS1zN1V0cEpZd3N0aW44WFZRdHk5aEZJN3l4Q2JuQndPRjNCbnpCcGNTNS1pZDdWNTBfWGdFeTZGRERFNy1oT0RUeEl0b1lDNGZKUmlicmNXNldjWWZzcWRlUFpPT2VYZVFBZHBQRVZIVHBzaW9adXpzX1djWGVZYVRvd0daWVlnWnFUQmhZUklyNW1KdFdxblQ5QUZUQWRHUUxtcWhITTRLakpQaVNCMC03Uzl1blhUMQ?oc=5) (Tue, 13 Jan 2026 14:06:32 GMT)
+- [Stablecoin Rewards Paid by Third-Party Platforms Should Not Be Banned - Cato Institute](https://news.google.com/rss/articles/CBMilwFBVV95cUxPSXRTTkNZVk55SWlBWWJBZ2FyWndFZzBDSGtSVzdQYVdmM1JBa0xfUHJVc3JIUExMYlNLRDdWTVhHck1qUTVfblYzYXVnUzR0YkEwZS1yYjlzOUV2UmVvSUJlV1ZZSkxESDlFXzlZSVhwalRJTlhWWndkZUEzdVJPSDRIbkVaS2lJT1lEOHJEWC04OHZITV9j?oc=5) (Wed, 14 Jan 2026 19:26:54 GMT)
+
+<!-- END_dashboard -->
 
 주요 스테이블코인의 시가총액(Market Cap) 변화를 추적하고 시각화하는 프로젝트입니다.
 매일 자동으로 CoinGecko 데이터를 수집하여 시장 흐름을 한눈에 파악할 수 있습니다.
@@ -11,7 +32,7 @@
 - **`src/`**: 데이터 수집 및 시각화 스크립트가 위치합니다.
     - `fetch_daily_data.py`: 현재 시점의 상위 10개 스테이블코인 시가총액을 가져와 CSV에 추가합니다.
     - `generate_plot.py`: 누적된 데이터를 바탕으로 그래프(선 그래프 및 파이 차트)를 생성합니다.
-    - `generate_dashboard.py`: 최신 데이터를 바탕으로 `index.html` 대시보드를 생성합니다.
+    - `update_readme.py`: 최신 데이터를 바탕으로 `README.md`의 대시보드 섹션을 업데이트합니다.
     - `get_coingekodata.py`: 특정 코인들의 전체 과거 데이터를 한 번에 수집할 때 사용합니다.
 
 ## 🚀 시작하기
@@ -43,12 +64,12 @@ uv run src/fetch_daily_data.py
 uv run src/generate_plot.py
 ```
 
-**3. 대시보드 생성**
+**3. README 대시보드 업데이트**
 
-최신 데이터를 기반으로 `index.html` 파일을 생성합니다.
+최신 데이터를 기반으로 `README.md` 파일을 업데이트합니다.
 
 ```bash
-uv run src/generate_dashboard.py
+uv run src/update_readme.py
 ```
 
 **4. 전체 히스토리 수집 (초기화용)**
