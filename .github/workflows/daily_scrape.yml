@@ -33,8 +33,11 @@ jobs:
       - name: Generate Plot
         run: uv run src/generate_plot.py
 
+      - name: Generate Dashboard
+        run: uv run src/generate_dashboard.py
+
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "data: update stablecoin market cap csv and plot"
-          file_pattern: "data/*.csv data/*.png"
+          commit_message: "data: update stablecoin market cap csv, plot, and dashboard"
+          file_pattern: "data/*.csv data/*.png index.html"
