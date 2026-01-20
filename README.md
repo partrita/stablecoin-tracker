@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-01-18 01:12:28 (UTC)*
+*Last Updated: 2026-01-20 01:06:15 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$296,297,900,102** | 🟢 +0.21% | 🟢 +0.78% |
+| **$295,637,948,408** | 🔴 -0.06% | 🟢 +0.69% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -18,8 +18,8 @@
 - [Ban on stablecoin inducements should be included in Clarity Act - America's Credit Unions](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjlwcGdLRFR1TUJMYUpod2M4VzFKcGFMbXRnWVlkYklpZ0QtLS1aNFU0ZWNzaW10V3MtcnBaRTJBTGNIWUtCMEh6UEpDcE8wU3BaY253RTRhVzRRNi1laVpOaDYxNE9HVzFodWNvejNKZTFIR3ZjMWNRcDZQeUgwZjJEQ1dFLUtlbWRaX05Ka3JKX0IzQWFTRkxyMlpBNDd1dm1SMkV6cTVScVNiTW0w?oc=5) (Tue, 13 Jan 2026 08:06:48 GMT)
 - [Visa crypto chief bets on stablecoin settlement, sees volumes growing - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxPendZWC1EU0dhSENsWTFPS1BGQXlVc245aGF3NjVLaTcxbW5rR2FlVmUxdURtQ1JPbDlLTi10d1JHRTE2aDhIQTZwalUzQlpONktmbk9CWnkxaTJVYm5ZcDRBc2RPV3ZvRFkyaGRKaTdjUmc5bVNNbms4VXQzeGVoT1BxbTNTMFNSaHRxbGhjbUZRUzZhUDloRy1ZQUZvZDlWT1lkVGItaDJFR2FHMmNUT3IzcEpBOGU1NXc?oc=5) (Wed, 14 Jan 2026 18:31:29 GMT)
 - [Unstable Coins: Stablecoin Regulation, Market Structure Legislation, and U.S. Security Risks - CSIS | Center for Strategic and International Studies](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOGNrcUpzSzhla3JnMUdKYW5vaEV0TzJaMDkzenk5ZHdHQm02cFFTaVFpWV9iRDFsSGZFUkdMdnhrSDlkUUYyRjFpdlhycEswWU9DMlpUZ2l0bG14M0l6N1ZCTjhsbk9uREFTZm9XeVlPSUIybUh6RW5rRExyZnd4SWw4dU5RcTEtR0wzNzhmVXo5VkdEN1JqXzhtZW15S2J3Q1RxRDRXNm1udHl2M19yT3pCdmptTGxo?oc=5) (Tue, 13 Jan 2026 01:11:43 GMT)
-- [From Stablecoins to Infrastructure: Circle Charts the Rise of the Internet Financial System in 2026 Report - Circle Internet](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ1RtWjNaRzlydkd6RGZVcTlWRm5qNlFHV2dtZS1zN1V0cEpZd3N0aW44WFZRdHk5aEZJN3l4Q2JuQndPRjNCbnpCcGNTNS1pZDdWNTBfWGdFeTZGRERFNy1oT0RUeEl0b1lDNGZKUmlicmNXNldjWWZzcWRlUFpPT2VYZVFBZHBQRVZIVHBzaW9adXpzX1djWGVZYVRvd0daWVlnWnFUQmhZUklyNW1KdFdxblQ5QUZUQWRHUUxtcWhITTRLakpQaVNCMC03Uzl1blhUMQ?oc=5) (Tue, 13 Jan 2026 14:06:32 GMT)
 - [Stablecoin Rewards Paid by Third-Party Platforms Should Not Be Banned - Cato Institute](https://news.google.com/rss/articles/CBMilwFBVV95cUxPSXRTTkNZVk55SWlBWWJBZ2FyWndFZzBDSGtSVzdQYVdmM1JBa0xfUHJVc3JIUExMYlNLRDdWTVhHck1qUTVfblYzYXVnUzR0YkEwZS1yYjlzOUV2UmVvSUJlV1ZZSkxESDlFXzlZSVhwalRJTlhWWndkZUEzdVJPSDRIbkVaS2lJT1lEOHJEWC04OHZITV9j?oc=5) (Wed, 14 Jan 2026 19:26:54 GMT)
+- [From Stablecoins to Infrastructure: Circle Charts the Rise of the Internet Financial System in 2026 Report - Circle Internet](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ1RtWjNaRzlydkd6RGZVcTlWRm5qNlFHV2dtZS1zN1V0cEpZd3N0aW44WFZRdHk5aEZJN3l4Q2JuQndPRjNCbnpCcGNTNS1pZDdWNTBfWGdFeTZGRERFNy1oT0RUeEl0b1lDNGZKUmlicmNXNldjWWZzcWRlUFpPT2VYZVFBZHBQRVZIVHBzaW9adXpzX1djWGVZYVRvd0daWVlnWnFUQmhZUklyNW1KdFdxblQ5QUZUQWRHUUxtcWhITTRLakpQaVNCMC03Uzl1blhUMQ?oc=5) (Tue, 13 Jan 2026 14:06:32 GMT)
 
 <!-- END_dashboard -->
 
