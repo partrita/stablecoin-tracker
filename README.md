@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-01-21 01:08:37 (UTC)*
+*Last Updated: 2026-01-22 01:08:24 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$294,514,137,029** | 🔴 -0.38% | 🟢 +0.05% |
+| **$293,751,666,784** | 🔴 -0.26% | 🔴 -0.57% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Visa crypto chief bets on stablecoin settlement, sees volumes growing - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxPendZWC1EU0dhSENsWTFPS1BGQXlVc245aGF3NjVLaTcxbW5rR2FlVmUxdURtQ1JPbDlLTi10d1JHRTE2aDhIQTZwalUzQlpONktmbk9CWnkxaTJVYm5ZcDRBc2RPV3ZvRFkyaGRKaTdjUmc5bVNNbms4VXQzeGVoT1BxbTNTMFNSaHRxbGhjbUZRUzZhUDloRy1ZQUZvZDlWT1lkVGItaDJFR2FHMmNUT3IzcEpBOGU1NXc?oc=5) (Wed, 14 Jan 2026 18:31:29 GMT)
-- [Venezuela shows how locals turn to Tether-issued USDT stablecoin as governments wobble - cnbc.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQMUNOOGNsTGg1MC1HM1licG9oX1h0MzlCTElXMHdEVnFUbVM1a3JhdHRqTkhlUlc4WVBOODRhSHRhM1cxODJ4ZkFqZFZxZmxtOC1udnpIUlZLWFdjYzh2bzJBZjIyd0hwT2dHUi1VQWtFMEtJN2k3d2FENEt5R2VTLURhU1FBYXFFbXpjcEF1b1FlTTR0T2xyYWloZkFpbFJqTEI0ck9Tb0ZoV0QtLTVWTUIxRm_SAboBQVVfeXFMUHplazM1ZFc0UGVYbEp3OWhZcXN6aEh2UW5VMVFMSm96MWtFMDBDWjFITWdGR05fU3hvZXNGYkFsbkUxT2QtOWs4ckVSc180S0RnNk1KRlE1MjNvZ2N1eW11ZlZWTlhEd3ZQMXUydXphYmlqdmZTdGtrM2xLSW5MNUJuS0FNSml2QmVKX09pZTh6Y3NpRklxczFVQW9pVmRjay1DVVp5dnZhczUxd3hwSTJtN0Yzd3NLdFlB?oc=5) (Mon, 19 Jan 2026 13:50:12 GMT)
-- [Senate Banking Committee Releases Amendment to 2025 Responsible Financial Innovation Act Draft - Davis Wright Tremaine](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQm9kYm9KcVdIWndBNVlBOUY2TlNpb0t1alFLOU9EMjcyOWI4YkZUTUlYeU0xMzhyMmMzU0EzamFYNTlTZVZFNWtYb0hWc0V4SG5lT3VSQkpTM05OSFRzUktvRnE2U3FBc0ZXYUxrRjB4NUpHTTkwNG5OTnpqaXg1cWk1NGZjbjZIRHRJTFZkZVRvTzdfNFlCTHRocTBueDRqdkNBZVZLRkRqRnlBUmNsUw?oc=5) (Thu, 15 Jan 2026 21:59:33 GMT)
-- [Stablecoin Rewards Paid by Third-Party Platforms Should Not Be Banned - Cato Institute](https://news.google.com/rss/articles/CBMilwFBVV95cUxPSXRTTkNZVk55SWlBWWJBZ2FyWndFZzBDSGtSVzdQYVdmM1JBa0xfUHJVc3JIUExMYlNLRDdWTVhHck1qUTVfblYzYXVnUzR0YkEwZS1yYjlzOUV2UmVvSUJlV1ZZSkxESDlFXzlZSVhwalRJTlhWWndkZUEzdVJPSDRIbkVaS2lJT1lEOHJEWC04OHZITV9j?oc=5) (Wed, 14 Jan 2026 19:26:54 GMT)
+- [How stablecoins can expand financial access to the most underserved and unbanked - The World Economic Forum](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWE0zeVFWR1JkQzR0RGdELWpjLU5qRk9iR1l0dkJLWmJmd2s1d3VxckwtVmlTb3BOT3otOWFDaWhoMVlyMEI0SmtfMjVnV2gwaXhYYWt1ZXFFa3hVcXJqcm9iTUM0MTVwNzhvRVAtVmdGLVBPT2huUVY5dlUxT0EtbjVNWEtISHRfYTViZg?oc=5) (Mon, 19 Jan 2026 13:00:00 GMT)
+- [Venezuela shows how locals turn to Tether-issued USDT stablecoin as governments wobble - CNBC](https://news.google.com/rss/articles/CBMitAFBVV95cUxQMUNOOGNsTGg1MC1HM1licG9oX1h0MzlCTElXMHdEVnFUbVM1a3JhdHRqTkhlUlc4WVBOODRhSHRhM1cxODJ4ZkFqZFZxZmxtOC1udnpIUlZLWFdjYzh2bzJBZjIyd0hwT2dHUi1VQWtFMEtJN2k3d2FENEt5R2VTLURhU1FBYXFFbXpjcEF1b1FlTTR0T2xyYWloZkFpbFJqTEI0ck9Tb0ZoV0QtLTVWTUIxRm_SAboBQVVfeXFMUHplazM1ZFc0UGVYbEp3OWhZcXN6aEh2UW5VMVFMSm96MWtFMDBDWjFITWdGR05fU3hvZXNGYkFsbkUxT2QtOWs4ckVSc180S0RnNk1KRlE1MjNvZ2N1eW11ZlZWTlhEd3ZQMXUydXphYmlqdmZTdGtrM2xLSW5MNUJuS0FNSml2QmVKX09pZTh6Y3NpRklxczFVQW9pVmRjay1DVVp5dnZhczUxd3hwSTJtN0Yzd3NLdFlB?oc=5) (Mon, 19 Jan 2026 13:50:12 GMT)
 - [As stablecoins rise, how are governments responding worldwide? - Euronews.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNRjlUbjdjWmFOM0tMVC15aXdENmI1VkRYaGxVWnAwR3NRWmZ1dzdCQ1VGWlJtTkQyRnBGaTdObnV2UXVDTS1ZZTEtMTNjZ2VJeExyM0RBd2RkV3RBQXBybjdOYmlNaVVzQWNuNkRqWHpHZlNyU2c1dTdaNWNCQ1N1em1QNER0dlJvTjBBN1p5VHFRZzh5R2p4V05vaVVMY29NYWRmcXFn?oc=5) (Sat, 17 Jan 2026 06:00:37 GMT)
+- [Wyoming has big plans for stablecoin - Payments Dive](https://news.google.com/rss/articles/CBMihAFBVV95cUxPOG5LMUIzUDAzWUV1M29ib2ZiZDJqTHhxVy1FUXdIZF9tQlE5c3RGSXJkNDVUOTlCaS1EbnhGX05QSDY1WU1peU5OZ3hlbXdpU2FuNkRlcFNFNlc1Vm1qV3JXb21adUMwYTh1MlA1N3ZkNGNSdy1wRks1VmpnOWFNLUhmQ2o?oc=5) (Wed, 21 Jan 2026 16:35:54 GMT)
+- [Interactive Brokers unlocks 24/7 funding with USDC, plans to rollout Ripple and PayPal stablecoins next week - The Block](https://news.google.com/rss/articles/CBMijwFBVV95cUxOdDN1UTg3Nk9aT091ak5BeTNvMlBaWERwZWpfa1NOWjVTM0NfNTl4MzU5WWxkSmlrNk1nWTNOZFRxT2VqbjBpdGFheklHNnc0SGlFSUlXMEtNQTdlUjdpdUgzdm5wV0tuSDJjU0dlMFlMbE9Vb2YyaWtiSVNHcHNGbThkWkNsQVo5RjUxcFFybw?oc=5) (Thu, 15 Jan 2026 19:55:42 GMT)
 
 <!-- END_dashboard -->
 
