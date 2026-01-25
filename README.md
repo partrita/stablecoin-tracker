@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-01-24 01:05:09 (UTC)*
+*Last Updated: 2026-01-25 01:14:24 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,129,910,109** | 🟢 +0.05% | 🔴 -0.86% |
+| **$293,163,416,550** | 🟢 +0.01% | 🔴 -1.06% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [How stablecoins can expand financial access to the most underserved and unbanked - The World Economic Forum](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWE0zeVFWR1JkQzR0RGdELWpjLU5qRk9iR1l0dkJLWmJmd2s1d3VxckwtVmlTb3BOT3otOWFDaWhoMVlyMEI0SmtfMjVnV2gwaXhYYWt1ZXFFa3hVcXJqcm9iTUM0MTVwNzhvRVAtVmdGLVBPT2huUVY5dlUxT0EtbjVNWEtISHRfYTViZg?oc=5) (Mon, 19 Jan 2026 13:00:00 GMT)
-- [Stablecoin yield fight threatens to sink CLARITY Act as Coinbase and White House clash - The Block](https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0I0MGt1Y1pBQ0N3TUVuaGhaUHVsVnQwVXVFS2tTaWp6eDBGSHZHUmhKc2M2bl9BNEJZQ3Mxb2p0MHlfc011V0lsSHVQRVRqRjhOYkN6OW9JRUM3ZGs2YTFrSkRVWlJEdG5neWNqSmYxeXdnZ2FxQTk4dm5YLUlfQWUyWkhSV0NMNHhWRTdFNnJpbkFuTUF5MzRZUUdFNDhtdnM5VWQyMjdQR0w1MTU0LVBZcHY4aGk2X09HcHVnZw?oc=5) (Sat, 17 Jan 2026 23:16:41 GMT)
+- [How stablecoins can expand financial access to the most underserved and unbanked - weforum.org](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWE0zeVFWR1JkQzR0RGdELWpjLU5qRk9iR1l0dkJLWmJmd2s1d3VxckwtVmlTb3BOT3otOWFDaWhoMVlyMEI0SmtfMjVnV2gwaXhYYWt1ZXFFa3hVcXJqcm9iTUM0MTVwNzhvRVAtVmdGLVBPT2huUVY5dlUxT0EtbjVNWEtISHRfYTViZg?oc=5) (Mon, 19 Jan 2026 13:00:00 GMT)
 - [Venezuela shows how locals turn to Tether-issued USDT stablecoin as governments wobble - CNBC](https://news.google.com/rss/articles/CBMitAFBVV95cUxQMUNOOGNsTGg1MC1HM1licG9oX1h0MzlCTElXMHdEVnFUbVM1a3JhdHRqTkhlUlc4WVBOODRhSHRhM1cxODJ4ZkFqZFZxZmxtOC1udnpIUlZLWFdjYzh2bzJBZjIyd0hwT2dHUi1VQWtFMEtJN2k3d2FENEt5R2VTLURhU1FBYXFFbXpjcEF1b1FlTTR0T2xyYWloZkFpbFJqTEI0ck9Tb0ZoV0QtLTVWTUIxRm_SAboBQVVfeXFMUHplazM1ZFc0UGVYbEp3OWhZcXN6aEh2UW5VMVFMSm96MWtFMDBDWjFITWdGR05fU3hvZXNGYkFsbkUxT2QtOWs4ckVSc180S0RnNk1KRlE1MjNvZ2N1eW11ZlZWTlhEd3ZQMXUydXphYmlqdmZTdGtrM2xLSW5MNUJuS0FNSml2QmVKX09pZTh6Y3NpRklxczFVQW9pVmRjay1DVVp5dnZhczUxd3hwSTJtN0Yzd3NLdFlB?oc=5) (Mon, 19 Jan 2026 13:50:12 GMT)
-- [As stablecoins rise, how are governments responding worldwide? - Euronews.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNRjlUbjdjWmFOM0tMVC15aXdENmI1VkRYaGxVWnAwR3NRWmZ1dzdCQ1VGWlJtTkQyRnBGaTdObnV2UXVDTS1ZZTEtMTNjZ2VJeExyM0RBd2RkV3RBQXBybjdOYmlNaVVzQWNuNkRqWHpHZlNyU2c1dTdaNWNCQ1N1em1QNER0dlJvTjBBN1p5VHFRZzh5R2p4V05vaVVMY29NYWRmcXFn?oc=5) (Sat, 17 Jan 2026 06:00:37 GMT)
 - [Wyoming has big plans for stablecoin - Payments Dive](https://news.google.com/rss/articles/CBMihAFBVV95cUxPOG5LMUIzUDAzWUV1M29ib2ZiZDJqTHhxVy1FUXdIZF9tQlE5c3RGSXJkNDVUOTlCaS1EbnhGX05QSDY1WU1peU5OZ3hlbXdpU2FuNkRlcFNFNlc1Vm1qV3JXb21adUMwYTh1MlA1N3ZkNGNSdy1wRks1VmpnOWFNLUhmQ2o?oc=5) (Wed, 21 Jan 2026 16:35:54 GMT)
+- [Hong Kong to issue first batch of stablecoin licenses in Q1, finance chief says - The Block](https://news.google.com/rss/articles/CBMigAFBVV95cUxPbzJJS1VmdFNIaFNCUmJOa1VOUTN5M0ViaVl3ZGlnSVdaM05xUi1sUk9XZWc5RVNFMUpfQmh5djZzdjNwdnMzQXM0ZFk0UUpsM2dnY2dRYm5teE5mYi1FdEZUWk1ZX1JIVTlWZlVVcGpKNV8yX0h6U3lmZVpYa1AxQw?oc=5) (Wed, 21 Jan 2026 04:13:33 GMT)
+- [Hong Kong Set to Issue First Stablecoin Licenses in Q1 2026 - Yahoo Finance](https://news.google.com/rss/articles/CBMie0FVX3lxTE9waW0xTUprSkhvQkZfeENRc2ctbmlHR25BNzRFVUszby1EUkYwWjlGaEsyT1FIcEdXM0ZXdHVaaWRKN1NIWlROWmhhcFhvTTVvVnpycmFQQzVCcjE5N1N4WTdlTDEyM1B3UDgxdjRzTThSay1UMFJKN0tKQQ?oc=5) (Wed, 21 Jan 2026 17:33:25 GMT)
 
 <!-- END_dashboard -->
 
