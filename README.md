@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-01-27 01:11:45 (UTC)*
+*Last Updated: 2026-01-28 01:07:58 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,618,067,121** | 🔴 -0.22% | 🔴 -1.02% |
+| **$292,121,018,912** | 🔴 -0.17% | 🔴 -0.81% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -17,9 +17,9 @@
 ### 📰 Latest News
 - [Stablecoins: A quiet revolution in finance - bondvigilantes.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQVltZVhJZEdGc1c0bFRmWjIwUmFneS1wSlNVa0syTVE1ZTlsckw0MTFvYnNEUHdYRDNBSXlIRVVrQ1JUdVRReFlsVURmX0Y2bHozVlFyV21aZDB3Rm1Tak1yLUQyVFdzR0tlbGJwOFUyQktiMlR1T0JoUjZ6S25jeVRlRkpSQWRlaFE?oc=5) (Fri, 23 Jan 2026 12:13:37 GMT)
 - [Wyoming has big plans for stablecoin - Payments Dive](https://news.google.com/rss/articles/CBMihAFBVV95cUxPOG5LMUIzUDAzWUV1M29ib2ZiZDJqTHhxVy1FUXdIZF9tQlE5c3RGSXJkNDVUOTlCaS1EbnhGX05QSDY1WU1peU5OZ3hlbXdpU2FuNkRlcFNFNlc1Vm1qV3JXb21adUMwYTh1MlA1N3ZkNGNSdy1wRks1VmpnOWFNLUhmQ2o?oc=5) (Wed, 21 Jan 2026 16:35:54 GMT)
-- [Hong Kong Set to Issue First Stablecoin Licenses in Q1 2026 - Yahoo Finance](https://news.google.com/rss/articles/CBMie0FVX3lxTE9waW0xTUprSkhvQkZfeENRc2ctbmlHR25BNzRFVUszby1EUkYwWjlGaEsyT1FIcEdXM0ZXdHVaaWRKN1NIWlROWmhhcFhvTTVvVnpycmFQQzVCcjE5N1N4WTdlTDEyM1B3UDgxdjRzTThSay1UMFJKN0tKQQ?oc=5) (Wed, 21 Jan 2026 17:33:25 GMT)
+- [US banks may lose $500 billion to stablecoins by 2028, Standard Chartered warns - Reuters](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYWhPOTRzLWN4T0tBV3BQMFFmODhZbzlVa2JZZzdDcE1mNjFydDd6Nnc5YkNUU0hiUGNvWi1kZWdIMDBJaWFnQURoMGl5dVYwdDlUSUlUemVYN29yTUxaUW1mcWROeDZ2MHZVTEg3dy1sRl9RWXhsSkJnbFN2N1F6Mm5GenJmN09XRldfV1FLUE9IRHZNSW1KRG01Vmlhdlhpa1IxRGNuTm80QWxHVFJlVE9Sd242QXlMR1k3NHpnVktIVzgxZmY5ZVppSVBCZGhnbjMwWUlMR201M3BGRmVOcklOYWs?oc=5) (Tue, 27 Jan 2026 21:03:25 GMT)
 - [Hong Kong to issue first batch of stablecoin licenses in Q1, finance chief says - The Block](https://news.google.com/rss/articles/CBMigAFBVV95cUxPbzJJS1VmdFNIaFNCUmJOa1VOUTN5M0ViaVl3ZGlnSVdaM05xUi1sUk9XZWc5RVNFMUpfQmh5djZzdjNwdnMzQXM0ZFk0UUpsM2dnY2dRYm5teE5mYi1FdEZUWk1ZX1JIVTlWZlVVcGpKNV8yX0h6U3lmZVpYa1AxQw?oc=5) (Wed, 21 Jan 2026 04:13:33 GMT)
-- [Even Crypto-Funded Research Affirms That Yield-Bearing Stablecoins Reduce Bank Deposits and Lending - Bank Policy Institute](https://news.google.com/rss/articles/CBMitwFBVV95cUxOajZ4VzVyMmR4WnRIWGZzY1dlVWpFQTdNWU91T3hWal81SXVDLTJNd0JLZEw5cW9rSWJEdjRscmJSb3RQSGk4S1FQM1Z6VXRucW9IMG5iajNKbnJKNmhWbHFnTW1EdU90d2U0ZjZ6cDZPQ0U2eDNldVdVSkptVmtxWWh4dUxYNGpTT2pTUFBGMnhFNkd5TnpTZTF4Ql9fWW41NlVxcU5JdmkzVTNoc3JwempZcWpFcjA?oc=5) (Fri, 23 Jan 2026 21:30:00 GMT)
+- [Tether takes the fight to Circle with a new 'made in America' stablecoin - CoinDesk](https://news.google.com/rss/articles/CBMitwFBVV95cUxQV01rU0pQSnlnT09XVy1YcFNYS0p5QW5JUThLQWxfbGRjYTU1eUxzU2ZPU25fbVprYVFPZ0xlc0Jvd1F2dU1ZTW1GSUJ2V2J4X2ZMZTVWbkFsQW1raTVHNEVDLUc4Z0ZORklZb1ZrMm4xUmw2SzdKOElvTjR6UUxNN3RnbWZ6WlYxbjBZdzZhVzYtMzFEWWZZS3E1WUUwZnRlT2dkRjI3bEZ0THNwVmtxcWNnNWs3c28?oc=5) (Tue, 27 Jan 2026 13:46:50 GMT)
 
 <!-- END_dashboard -->
 
