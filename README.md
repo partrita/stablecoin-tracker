@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-01-31 01:14:16 (UTC)*
+*Last Updated: 2026-02-01 01:29:40 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,316,095,642** | 🔴 -0.24% | 🔴 -1.30% |
+| **$289,275,846,230** | 🔴 -0.01% | 🔴 -1.33% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -16,10 +16,10 @@
 
 ### 📰 Latest News
 - [CLARITY Act Proposed Ban on Stablecoin Yield Sparks Congressional Debate - Consumer Finance and Fintech Blog](https://news.google.com/rss/articles/CBMixgFBVV95cUxOck9WLUpSU1BOakUtalBHMUZ6SnNYY3ZCY0tGMk1aYWZxV3hIYTB0Q1FzckhXbkxtVi1wZ09UNFlmQTZkTVk0MHc1QjY3ak1CUE5ZVEdjSVBkT3FXdURIVkduVkZOSmdiaU5xM0xqeGdqV2s5aDJwWkhsRGZWejNxYmJBdHJhWmVmTkprV0FfSEl5MGpIQ180SXhQVmFfN2kyclkybTRmN2J0RDN1UERTX0lsUXNZOUdLUHAwS1RZR3U2aFVRWXc?oc=5) (Thu, 29 Jan 2026 21:31:07 GMT)
-- [Fidelity enters crowded stablecoin field with new FIDD token - Fortune](https://news.google.com/rss/articles/CBMilwFBVV95cUxOaW5uR29ERDlQVG9TeXBqWE9wdW1oUnlPbW85Nzl2NmNBcFFqUGpYdE5qbmVsMFhWS2JkNndUYkZkZTRoVHpWVHRlWU42MUNTUGdqOXhpLWNCekZkU3hiRE1mWjJ1R000TXhHQ3JpNV85ZEtudm1Fdzc2NmdGTl9QZFNKWlhNSnpxUThkcU9nbzdqVmU2ZXpJ?oc=5) (Wed, 28 Jan 2026 13:30:00 GMT)
+- [UAE central bank–sanctioned US dollar stablecoin launches to boost digital-asset settlement - The Block](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1QzaUpQNVhfcWdHUnJGOHJ4cjVvZnpYejVUYUVoc193OUZnLTlES3lsZEduc0l6ZjY1WVI3aVFwWkljSXJLZEFWZ1lYX3A2VHBYZ1BvZEs5aG5zY3pwMlByOWRKbzQ3ZzIyeEVRcl9UUGZlcFl0ZmViUDZvQjBfcHA4Um9HdG5OQkdaN3RkeTh3MjY5Q2x6aXBhby0ybEN0eDBVX2l4aEpKc3NYRm1uaHluLVN6VTh3alE?oc=5) (Thu, 29 Jan 2026 06:00:00 GMT)
 - [US banks may lose $500 billion to stablecoins by 2028, Standard Chartered warns - Reuters](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYWhPOTRzLWN4T0tBV3BQMFFmODhZbzlVa2JZZzdDcE1mNjFydDd6Nnc5YkNUU0hiUGNvWi1kZWdIMDBJaWFnQURoMGl5dVYwdDlUSUlUemVYN29yTUxaUW1mcWROeDZ2MHZVTEg3dy1sRl9RWXhsSkJnbFN2N1F6Mm5GenJmN09XRldfV1FLUE9IRHZNSW1KRG01Vmlhdlhpa1IxRGNuTm80QWxHVFJlVE9Sd242QXlMR1k3NHpnVktIVzgxZmY5ZVppSVBCZGhnbjMwWUlMR201M3BGRmVOcklOYWs?oc=5) (Wed, 28 Jan 2026 16:10:11 GMT)
+- [Tether Launches ‘Made in America’ Stablecoin to Comply With GENIUS Act - Yahoo Finance](https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3V3VXBnNnRIcUJOc0VfaEpzSmRGTEp0UlR1YUpPelRabi1WbjdXR1JHamVYak52Z041Y2w0eS1jVGRqdHdPZFdwbDduelJ1Vnd0QU1wLU9jOUdYV0cwbXRVUllIRlVZc0ZHWndjb1FWSEhfeGFyaUx3bmQyRVpRNHJ3SDZCUG5wNmN0M0ZR?oc=5) (Tue, 27 Jan 2026 13:18:05 GMT)
 - [Fidelity to Launch US Dollar-Backed Stablecoin Designed to Support Investors - PYMNTS.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT1djT0VQQVd5WHU5ZFk1TzJMbUVkbkJUT1ltYUdXQWxzSjZjTDB3QjJQV29yN3FJZlRYMmNMUFFaSjgtTlczZld0cGduSFhpTl81MFJyWXZ3UGp1elhCRTd3aG9pUllobkZraG5ZTF91akE0S29qWHpldXRXWkoxWDNqY1JKbEJmV3VqSFRkTDFDa0V2WThmNWZzMjBDNHBBbzF0S2ZrNS1yM0w5TzlxVG5tMmFTbWNXbHM0TU81aUU1Vlk?oc=5) (Wed, 28 Jan 2026 17:23:04 GMT)
-- [Fidelity Investments to Launch Stablecoin In Coming Weeks - Bloomberg](https://news.google.com/rss/articles/CBMirAFBVV95cUxQcjI1dXdOSkFXT1FPaFNCeS1IZld5d1ZsV3Vwd19Pa3JfOE9WOG1oTzNTTG5mZWR6TDIwbWNyZzNHUjJ3SmJURkU3TXVGZlpXVnVnQWNKeVFMbDVRazVaMlhwYmZySTVuMTBrclFxM0VSazZEOGN3WUswZXpMNDk5anVpS2pOWUFfd1ZXNlFpWnRvLXd6d2xZbjM4UnNxclE3TldlY28tVUwwZkNq?oc=5) (Wed, 28 Jan 2026 13:30:00 GMT)
 
 <!-- END_dashboard -->
 
