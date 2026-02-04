@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-04 01:26:48 (UTC)*
+*Last Updated: 2026-02-04 01:55:04 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,923,587,636** | 🟢 +0.12% | 🔴 -0.75% |
+| **$290,273,231,569** | 🟢 +0.24% | 🔴 -0.63% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
