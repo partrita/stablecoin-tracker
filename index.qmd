@@ -44,5 +44,41 @@ fig_pie = px.pie(latest_df, values='market_cap', names='coin_name', title=f'Mark
 fig_pie.show()
 ```
 
+
 :::
+
+### 🗞️ News Archive
+
+```{python}
+#| echo: false
+#| output: asis
+import pandas as pd
+from IPython.display import Markdown
+import os
+
+archive_path = 'data/news_archive.csv'
+
+if os.path.exists(archive_path):
+    df_news = pd.read_csv(archive_path)
+    
+    # Process if data exists
+    if not df_news.empty:
+         # Ensure datetime
+        df_news['published_dt'] = pd.to_datetime(df_news['published_dt'])
+        df_news = df_news.sort_values(by='published_dt', ascending=False)
+        
+        # Create clickable title
+        df_news['Article'] = df_news.apply(lambda x: f"[{x['title']}]({x['link']})", axis=1)
+        
+        # Select and Rename columns
+        df_table = df_news[['published', 'Article']].copy()
+        df_table.columns = ['Published Date', 'Article']
+        
+        # Display as Markdown Table
+        print(df_table.to_markdown(index=False))
+    else:
+        print("No archived news available.")
+else:
+    print("News archive file not found.")
+```
 
