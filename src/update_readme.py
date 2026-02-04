@@ -11,16 +11,69 @@ def get_growth_symbol(value):
     else:
         return f"⚪ {value:.2f}%"
 
-def fetch_news():
+def update_news_archive():
     url = "https://news.google.com/rss/search?q=stablecoin+when:7d&hl=en-US&gl=US&ceid=US:en"
+    archive_path = 'data/news_archive.csv'
+    
+    # 1. Fetch new items
     try:
         feed = feedparser.parse(url)
-        news_items = []
-        for entry in feed.entries[:5]:
-            news_items.append(f"- [{entry.title}]({entry.link}) ({entry.published})")
-        return "\n".join(news_items)
+        new_items = []
+        for entry in feed.entries:
+            # Parse published date
+            published = entry.published
+            try:
+                # Convert struct_time to datetime
+                pub_dt = datetime.datetime(*entry.published_parsed[:6])
+            except:
+                pub_dt = datetime.datetime.now()
+            
+            new_items.append({
+                'title': entry.title,
+                'link': entry.link,
+                'published': published,
+                'published_dt': pub_dt
+            })
     except Exception as e:
-        return f"Error fetching news: {e}"
+        print(f"Error fetching news: {e}")
+        new_items = []
+
+    # 2. Load existing archive
+    if os.path.exists(archive_path):
+        try:
+            df_archive = pd.read_csv(archive_path)
+            # Ensure published_dt is datetime
+            df_archive['published_dt'] = pd.to_datetime(df_archive['published_dt'])
+        except Exception as e:
+            print(f"Error reading archive: {e}")
+            df_archive = pd.DataFrame(columns=['title', 'link', 'published', 'published_dt'])
+    else:
+        df_archive = pd.DataFrame(columns=['title', 'link', 'published', 'published_dt'])
+
+    # 3. Merge and De-duplicate
+    if new_items:
+        df_new = pd.DataFrame(new_items)
+        # Concatenate
+        df_combined = pd.concat([df_archive, df_new], ignore_index=True)
+        # Drop duplicates by link (keep last discovered? or first? usually link is unique ID)
+        df_combined = df_combined.drop_duplicates(subset=['link'], keep='last')
+    else:
+        df_combined = df_archive
+
+    # 4. Sort and Save
+    df_combined = df_combined.sort_values(by='published_dt', ascending=False)
+    
+    # Save to CSV
+    df_combined.to_csv(archive_path, index=False)
+    print(f"News archive updated. Total items: {len(df_combined)}")
+
+    # 5. Return top 5 formatted strings
+    top_5 = df_combined.head(5)
+    news_lines = []
+    for _, row in top_5.iterrows():
+        news_lines.append(f"- [{row['title']}]({row['link']}) ({row['published']})")
+    
+    return "\n".join(news_lines)
 
 def update_readme():
     csv_path = 'data/stablecoin_marketcap.csv'
@@ -79,7 +132,7 @@ def update_readme():
             growth_7d_str = get_growth_symbol(change)
 
     # News
-    news_section = fetch_news()
+    news_section = update_news_archive()
 
     # Generate Markdown Content for README
     markdown_content = f"""

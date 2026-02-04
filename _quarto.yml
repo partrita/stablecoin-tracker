@@ -7,6 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: news.qmd
+        text: News
     right:
       - icon: github
         href: https://github.com/partrita/stablecoin-tracker

@@ -1,0 +1,35 @@
+---
+title: "News Archive"
+format:
+  html:
+    page-layout: full
+jupyter: python3
+---
+
+Most recent news about stablecoins appearing first.
+
+```{python}
+#| echo: false
+#| output: asis
+import pandas as pd
+import os
+from IPython.display import display, Markdown
+
+archive_path = 'data/news_archive.csv'
+
+if os.path.exists(archive_path):
+    df = pd.read_csv(archive_path)
+    # Ensure datetime
+    df['published_dt'] = pd.to_datetime(df['published_dt'])
+    
+    # Sort just in case
+    df = df.sort_values(by='published_dt', ascending=False)
+    
+    # Generate Markdown table or list
+    for _, row in df.iterrows():
+        display(Markdown(f"### [{row['title']}]({row['link']})"))
+        display(Markdown(f"_{row['published']}_"))
+        display(Markdown("---"))
+else:
+    display(Markdown("No news archived yet."))
+```
