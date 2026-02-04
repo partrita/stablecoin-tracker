@@ -4,10 +4,18 @@ format:
   html:
     code-fold: true
     page-layout: full
+    theme: cosmo
 jupyter: python3
 ---
 
+{{< include _dashboard_content.qmd >}}
+
+### 📈 Interactive Charts
+
+::: {layout-ncol=2}
+
 ```{python}
+#| title: Market Cap History
 import pandas as pd
 import plotly.express as px
 
@@ -17,7 +25,24 @@ df = pd.read_csv("data/stablecoin_marketcap.csv")
 # Ensure date is datetime
 df["date"] = pd.to_datetime(df["date"])
 
-# Plot
+# Line Plot
 fig = px.line(df, x="date", y="market_cap", color="coin_name", title="Stablecoin Market Cap Over Time")
 fig.show()
 ```
+
+```{python}
+#| title: Market Dominance
+# Get latest date
+latest_date = df['date'].max()
+latest_df = df[df['date'] == latest_date].copy()
+
+# Sort by market cap descending
+latest_df = latest_df.sort_values(by='market_cap', ascending=False)
+
+# Pie Chart
+fig_pie = px.pie(latest_df, values='market_cap', names='coin_name', title=f'Market Dominance ({latest_date.strftime("%Y-%m-%d")})')
+fig_pie.show()
+```
+
+:::
+

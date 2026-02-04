@@ -81,7 +81,7 @@ def update_readme():
     # News
     news_section = fetch_news()
 
-    # Generate Markdown Content
+    # Generate Markdown Content for README
     markdown_content = f"""
 ### 📊 Market Overview
 *Last Updated: {latest_date.strftime('%Y-%m-%d %H:%M:%S')} (UTC)*
@@ -98,6 +98,24 @@ def update_readme():
 ### 📰 Latest News
 {news_section}
 """
+
+    # Generate Content for Quarto Website (No static charts)
+    quarto_content = f"""
+### 📊 Market Overview
+*Last Updated: {latest_date.strftime('%Y-%m-%d %H:%M:%S')} (UTC)*
+
+| Total Market Cap | 24h Change | 7d Change |
+| :--- | :--- | :--- |
+| **${total_market_cap:,.0f}** | {growth_1d_str} | {growth_7d_str} |
+
+### 📰 Latest News
+{news_section}
+"""
+    
+    # Save Quarto Content
+    with open('_dashboard_content.qmd', 'w', encoding='utf-8') as f:
+        f.write(quarto_content)
+    print("_dashboard_content.qmd updated successfully.")
 
     # Update README
     with open(readme_path, 'r', encoding='utf-8') as f:
