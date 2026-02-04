@@ -1,0 +1,23 @@
+---
+title: "Stablecoin Market Cap Visualization"
+format:
+  html:
+    code-fold: true
+    page-layout: full
+jupyter: python3
+---
+
+```{python}
+import pandas as pd
+import plotly.express as px
+
+# Load data
+df = pd.read_csv("data/stablecoin_marketcap.csv")
+
+# Ensure date is datetime
+df["date"] = pd.to_datetime(df["date"])
+
+# Plot
+fig = px.line(df, x="date", y="market_cap", color="coin_name", title="Stablecoin Market Cap Over Time")
+fig.show()
+```
