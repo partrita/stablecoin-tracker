@@ -1,6 +1,9 @@
 name: Daily Stablecoin Market Cap Scrape and Publish
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Run at 00:00 UTC every day
     - cron: '0 0 * * *'
