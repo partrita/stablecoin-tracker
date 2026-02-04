@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Stablecoin Market Cap Visualization",
+    "section": "",
+    "text": "Code\nimport pandas as pd\nimport plotly.express as px\n\n# Load data\ndf = pd.read_csv(\"data/stablecoin_marketcap.csv\")\n\n# Ensure date is datetime\ndf[\"date\"] = pd.to_datetime(df[\"date\"])\n\n# Plot\nfig = px.line(df, x=\"date\", y=\"market_cap\", color=\"coin_name\", title=\"Stablecoin Market Cap Over Time\")\nfig.show()"
+  }
+]
