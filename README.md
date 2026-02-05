@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-04 01:55:04 (UTC)*
+*Last Updated: 2026-02-05 01:18:13 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,273,231,569** | 🟢 +0.24% | 🔴 -0.63% |
+| **$289,971,466,600** | 🔴 -75.00% | 🔴 -0.53% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoin Rewards Remain Roadblock to Crypto Bill After White House Summit - PYMNTS.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORndFZGdjTGVFSFU3TXNMUmQycVB1MHpUR05YbWhENS1ULWJlRXltanVUWGNKZFlBVmUtOEUxMUY4TGxackx5ekNYU3JJQTgxTVJSRW5jM3JfOU5IbkJUamlfR181anpsN2NGeXRZZHBPRkZvcjVFSkRjRUNrNml3ZmZLNkU0RnRnbXVKVWhJN0xUQjJ5MmxkekFzTVlqcDA0LVBOUUJjbWNWRjl1STY0Tlk4ZHZObmhza01v?oc=5) (Tue, 03 Feb 2026 20:37:10 GMT)
-- [YC startups can now receive investment in stablecoin - TechCrunch](https://news.google.com/rss/articles/CBMikAFBVV95cUxNU3A3cUdRVk53UU0zSlBiRUFRNDVtR3BrVVVId2FTMUxQa3duaTVPMUsxQU1mVW5GT1JiMmZnakItdmdGVFpXX0UtMUdoa3pNaFlmWFlERTVBSTFOUTdVX0xqaTJkcnNUdmhPczl2YkpUWXFlMmhxa3F0Qnp0UGtTOUMtY2xWbzNjQ0p5MS1QZzk?oc=5) (Tue, 03 Feb 2026 19:54:12 GMT)
-- [Stripe’s Stablecoin Expansion Faces Sanctions Scrutiny - PYMNTS.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNN0pad1NKZjlYNVpWYVRkZkpSN3IybWtnc0RnRkdORGlZcExnU1NOZURWUGxjYmZmOGR2Y21MeFN4TlZ5cF9IODRrWklWY2NCT3p1bzdJSXhpQzVHYlZwZHhOMHEzWjhGQlhQTjFhMjlub0dTUlRWQldIWkhNcEx2M3R6aTU1MlhhVExVYnVFN3dJM0lMTUEyZEZjSnp0QQ?oc=5) (Tue, 03 Feb 2026 19:02:02 GMT)
-- [ING Groep Links Crypto ETNs And Stablecoin To Value Story - Yahoo Finance](https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ydmp4ekw0QUtoLURjSWlyVHFuNjU3a25aUTRDZU9ndGNYbWNJa1lZenl2cjVOTWc5YTlpRk9TeXVyRXM3TXRYenF1ZTBoZHpFVHp2SFdxYmtsaVZxdHFxOHZLLWRaRTVIUEhpQXJrM2hfZGd6UmJQN1VEdFdjdw?oc=5) (Tue, 03 Feb 2026 18:18:28 GMT)
-- [S&P projects 1,600x upper-bound increase in euro stablecoin issuance to $1.3 trillion by 2030 - The Block](https://news.google.com/rss/articles/CBMixAFBVV95cUxNcEJjN0JvM053ajBZYkVxN0E4c0E1S01RSXZMejROXzRNYXVFbUIteEpCeFdTSF9YWF9zbUVWRm5EYmNkRl8wOF9mdUVPTnRzU1JpTlg1NjRObXJyVUlWelRiMG9iZEpKNmlVZkJBcVdBcE9VbEl3MVdoZERsa3JoNGZmNHAzNHJlci1jdjItSUYzdEFJVGx5WnBoWDV0cHAxSHgtVGVNRjlPcldNdFZWY0xtbU40dmxuYVJlM01rNHB0ZmMw?oc=5) (Tue, 03 Feb 2026 15:42:55 GMT)
+- [Moody’s warns of hidden risks behind $300B stablecoin boom - thestreet.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxOREJDcGNvbXp5NGc5Rmt5X1NJSS0yS2Fta3R1dnRLS29KYzJVUjNqSlFwdjJ3VFRzVmlnSlRqUDRLSFVOUkFGUDQwalhqWko3aFUzQThmTUQwY1NnVE40ZDd2WWN4QnplSmtUblZwWVpaVVd5VGZqa05BLXFhMnJyd3NoeU41cnlJLURKa3VkSkZUOFAwTWFpZmhGVGxNcFU?oc=5) (Wed, 04 Feb 2026 20:46:01 GMT)
+- [Y Combinator’s Stablecoin Funding Move Gives Blueprint for Enterprise Crypto Finance - PYMNTS.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFYwbTZ6b3NWV3RZNjBZekFaY2Y1alFESlA0dDZkOVFROWpIV0EtTS1IU1dCTTNDNlR2dlZWb0M3RV9UMmk4WHdTNEI2SFRzcVY1a0lTSEZHZk9LZllQSU81NXdRMDF4UmZ2YXVXYXVUTkpQRVprR01tWG5ONjQ2T2JWZ3EtcFRFYU9tLWI3N0FWdDNPMlZ1SHRQamxZR0JnQXhhTGVzbkVtTVUwbVl5VEpFS2x5aUZBa19HMFl5eGU?oc=5) (Wed, 04 Feb 2026 19:03:37 GMT)
+- [Moody’s sends chilling warnings for $300B stablecoin market - Yahoo Finance](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWDM5Zm9DLXFvVHdEOEV3YjMxaVBQLVk1VC1JVmFYem96NGduVVFMampHRUg1bXhfSkh2a0p0bl83TkpnNGhBcXoyNDNSRVpjQ0twTHlmc0FsT29JdFdnbGFacTZLeVdMc2dlSHN3bG5PN05rX3o4V2pIYTJDcm1mRnZJNzVid2s?oc=5) (Wed, 04 Feb 2026 18:33:48 GMT)
+- [Nick DiCeglie proposal to allow Florida to accept stablecoins as payment clears first Senate Committee - Florida Politics](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS25XanhvR2otd1JRQW1RNUxJY0NOeVdsdHB2SXc0LW11cElDNVpIZ2NBdlhRdmV4NlRLQXJ0QVQ0cWxuSnIxY2FySnZUU2NFcmF5dHp1a2ZrazJFLXhjRW5xRFNYLVdmYUdwUnBMbnFPbEFOLVV6V2VZRnNzT1BtcWRxZUFGU0lDU3RlN2U3S3FFWk5pNVRPcERmbFZVcVNjRGtBRlNmZEltLXlFNUtzQXd6QjZUenhPbkhhS1hOUW5MUTBIdFFsX3owUE8yWS1jd0lmYkUzS25aZzFHMDFKeg?oc=5) (Wed, 04 Feb 2026 17:51:00 GMT)
+- [Spanish lender BBVA joins EU banks' stablecoin venture to challenge digital dollars - CoinDesk](https://news.google.com/rss/articles/CBMixgFBVV95cUxNUVBHbnNkZmVsZ2FXdm1FVGItU01yVVRhU3VFTVdmTEJsU3lwZ0tCMGpndTljamR6YnZJZHl4MjBpQzAyeDM3ZG8tSkZQWWZlakZ5aTVITm5HaDhiSkg4V1JSLWN2d1ZqVmxXNE5pZHp5YTNwcnh4bE92eFVDbzR3U3FnckYtRUlOMndvSjFJZWVPcVJZU0stMkllUkxHVVQ1VW9pNXpUV1JCWmxhQ2QxTmZ4Q2Z6aEVNZHgzLUszbTBVME9Demc?oc=5) (Wed, 04 Feb 2026 15:47:28 GMT)
 
 <!-- END_dashboard -->
 
