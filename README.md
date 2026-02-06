@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-05 01:18:13 (UTC)*
+*Last Updated: 2026-02-06 01:17:48 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,971,466,600** | 🔴 -75.00% | 🔴 -0.53% |
+| **$289,644,309,694** | 🔴 -0.11% | 🔴 -0.12% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Moody’s warns of hidden risks behind $300B stablecoin boom - thestreet.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxOREJDcGNvbXp5NGc5Rmt5X1NJSS0yS2Fta3R1dnRLS29KYzJVUjNqSlFwdjJ3VFRzVmlnSlRqUDRLSFVOUkFGUDQwalhqWko3aFUzQThmTUQwY1NnVE40ZDd2WWN4QnplSmtUblZwWVpaVVd5VGZqa05BLXFhMnJyd3NoeU41cnlJLURKa3VkSkZUOFAwTWFpZmhGVGxNcFU?oc=5) (Wed, 04 Feb 2026 20:46:01 GMT)
-- [Y Combinator’s Stablecoin Funding Move Gives Blueprint for Enterprise Crypto Finance - PYMNTS.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFYwbTZ6b3NWV3RZNjBZekFaY2Y1alFESlA0dDZkOVFROWpIV0EtTS1IU1dCTTNDNlR2dlZWb0M3RV9UMmk4WHdTNEI2SFRzcVY1a0lTSEZHZk9LZllQSU81NXdRMDF4UmZ2YXVXYXVUTkpQRVprR01tWG5ONjQ2T2JWZ3EtcFRFYU9tLWI3N0FWdDNPMlZ1SHRQamxZR0JnQXhhTGVzbkVtTVUwbVl5VEpFS2x5aUZBa19HMFl5eGU?oc=5) (Wed, 04 Feb 2026 19:03:37 GMT)
-- [Moody’s sends chilling warnings for $300B stablecoin market - Yahoo Finance](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWDM5Zm9DLXFvVHdEOEV3YjMxaVBQLVk1VC1JVmFYem96NGduVVFMampHRUg1bXhfSkh2a0p0bl83TkpnNGhBcXoyNDNSRVpjQ0twTHlmc0FsT29JdFdnbGFacTZLeVdMc2dlSHN3bG5PN05rX3o4V2pIYTJDcm1mRnZJNzVid2s?oc=5) (Wed, 04 Feb 2026 18:33:48 GMT)
-- [Nick DiCeglie proposal to allow Florida to accept stablecoins as payment clears first Senate Committee - Florida Politics](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS25XanhvR2otd1JRQW1RNUxJY0NOeVdsdHB2SXc0LW11cElDNVpIZ2NBdlhRdmV4NlRLQXJ0QVQ0cWxuSnIxY2FySnZUU2NFcmF5dHp1a2ZrazJFLXhjRW5xRFNYLVdmYUdwUnBMbnFPbEFOLVV6V2VZRnNzT1BtcWRxZUFGU0lDU3RlN2U3S3FFWk5pNVRPcERmbFZVcVNjRGtBRlNmZEltLXlFNUtzQXd6QjZUenhPbkhhS1hOUW5MUTBIdFFsX3owUE8yWS1jd0lmYkUzS25aZzFHMDFKeg?oc=5) (Wed, 04 Feb 2026 17:51:00 GMT)
-- [Spanish lender BBVA joins EU banks' stablecoin venture to challenge digital dollars - CoinDesk](https://news.google.com/rss/articles/CBMixgFBVV95cUxNUVBHbnNkZmVsZ2FXdm1FVGItU01yVVRhU3VFTVdmTEJsU3lwZ0tCMGpndTljamR6YnZJZHl4MjBpQzAyeDM3ZG8tSkZQWWZlakZ5aTVITm5HaDhiSkg4V1JSLWN2d1ZqVmxXNE5pZHp5YTNwcnh4bE92eFVDbzR3U3FnckYtRUlOMndvSjFJZWVPcVJZU0stMkllUkxHVVQ1VW9pNXpUV1JCWmxhQ2QxTmZ4Q2Z6aEVNZHgzLUszbTBVME9Demc?oc=5) (Wed, 04 Feb 2026 15:47:28 GMT)
+- [Polymarket to adopt USDC stablecoin in Circle Internet partnership (CRCL:NYSE) - Seeking Alpha](https://news.google.com/rss/articles/CBMipwFBVV95cUxOYWF4ajNpRW8yLUg3R3phSlFOVDhZZ1E2QXB2VEdMclJLb3NOWk5BNElYY1FIS2xDUmNfMkNCanRyeWJlRUphRVc1NUp2bGljazJHbE56eEZSMVRzdE15Nkx0U0dWZGc3TDBSaHg2cFM5ZW9RNWdFRmZyVGJfOVNnRGxFdHBPaVNHZXRTREk3WjVjeEdidUgyeGtSX1pMVndrWVA0MGsyOA?oc=5) (Thu, 05 Feb 2026 18:07:48 GMT)
+- [Circle and Polymarket Shift to Native USDC for Onchain Settlement - FinTech Weekly](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeEU0UXE4Q0I5RFlUWFA2VXVYbmR0MVZTLXljZVkyZlFjQVJfM0JBdHZrbnl5VHVOZ1RBNkZ5ZEFhVVhTVk14Q0dzT0l5V1JqM09ubkRUR3h5UHRWLXNwZE1KRktDNVV3THlIVkdiaHFTTE5Da2xuSVFaeFcyU1JHeEZmZUhqa1VOWUpr?oc=5) (Thu, 05 Feb 2026 16:03:00 GMT)
+- [FIDD Goes Live — Fidelity Brings Its Digital Dollar Stablecoin to Crypto Markets - Bitcoin.com News](https://news.google.com/rss/articles/CBMiogFBVV95cUxQemJNYXFzVk9LQ3JQS3czNl9idm40RFpmZ2RUZHZyaV9KajYtUDIzOWNJZHVzRXdwSTF6dHR1aE8zdjdtOUlmMDJud3JCUHFpSEtnVDg1TFJBVnZwT3B5WXNxT3ZYYXhKLTlEZTJwY0xGMnJXdmkyWWR6NlNQcHlPMmZudkVnYzJQN0hiVGVEZ2l0RDR6X3hqbGpCQkluXzNXU1E?oc=5) (Thu, 05 Feb 2026 15:37:07 GMT)
+- [Stablecoin compromise reveals shift beyond “us versus them” mentality - FinTech Weekly](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeTduZzAtOGs0MFVLTWkxQ1JYb1IxUnF0eUlVeU1JLV9BREhjRUJaQzM5T1BTdDZxLWtmVDBMZnBkS3ltWk45OHlWdFJ3MWxJUnRVbmxBQjRpSjl5Szh3dW94U0RNcXZER0ZRR1R2TkZNQVQ2WU8zWFFJNy1aZWxJS3hKSTVqUFZ6cXUyR185ZDE?oc=5) (Thu, 05 Feb 2026 15:04:00 GMT)
+- [The financial crime risks of stablecoins - elliptic.co](https://news.google.com/rss/articles/CBMieEFVX3lxTE5uYnhQQjA2WFBkX1BWTVdDcmc5M1hDVkxmT1RKN2kyOGlEQ0ZwWUdDV2NOMWJwd3BzNHV3TEh1TkpQcllYMm5GbHZXaTNyVm5qVmd3clNPTVlwM1YzUzhxU1VxVWNwZ24tdDRhXy1sRUpGbTZpTFBMTQ?oc=5) (Thu, 05 Feb 2026 14:34:09 GMT)
 
 <!-- END_dashboard -->
 
