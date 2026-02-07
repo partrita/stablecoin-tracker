@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-06 01:17:48 (UTC)*
+*Last Updated: 2026-02-07 01:15:51 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,644,309,694** | 🔴 -0.11% | 🔴 -0.12% |
+| **$292,099,906,702** | 🟢 +0.85% | 🟢 +0.96% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Polymarket to adopt USDC stablecoin in Circle Internet partnership (CRCL:NYSE) - Seeking Alpha](https://news.google.com/rss/articles/CBMipwFBVV95cUxOYWF4ajNpRW8yLUg3R3phSlFOVDhZZ1E2QXB2VEdMclJLb3NOWk5BNElYY1FIS2xDUmNfMkNCanRyeWJlRUphRVc1NUp2bGljazJHbE56eEZSMVRzdE15Nkx0U0dWZGc3TDBSaHg2cFM5ZW9RNWdFRmZyVGJfOVNnRGxFdHBPaVNHZXRTREk3WjVjeEdidUgyeGtSX1pMVndrWVA0MGsyOA?oc=5) (Thu, 05 Feb 2026 18:07:48 GMT)
-- [Circle and Polymarket Shift to Native USDC for Onchain Settlement - FinTech Weekly](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeEU0UXE4Q0I5RFlUWFA2VXVYbmR0MVZTLXljZVkyZlFjQVJfM0JBdHZrbnl5VHVOZ1RBNkZ5ZEFhVVhTVk14Q0dzT0l5V1JqM09ubkRUR3h5UHRWLXNwZE1KRktDNVV3THlIVkdiaHFTTE5Da2xuSVFaeFcyU1JHeEZmZUhqa1VOWUpr?oc=5) (Thu, 05 Feb 2026 16:03:00 GMT)
-- [FIDD Goes Live — Fidelity Brings Its Digital Dollar Stablecoin to Crypto Markets - Bitcoin.com News](https://news.google.com/rss/articles/CBMiogFBVV95cUxQemJNYXFzVk9LQ3JQS3czNl9idm40RFpmZ2RUZHZyaV9KajYtUDIzOWNJZHVzRXdwSTF6dHR1aE8zdjdtOUlmMDJud3JCUHFpSEtnVDg1TFJBVnZwT3B5WXNxT3ZYYXhKLTlEZTJwY0xGMnJXdmkyWWR6NlNQcHlPMmZudkVnYzJQN0hiVGVEZ2l0RDR6X3hqbGpCQkluXzNXU1E?oc=5) (Thu, 05 Feb 2026 15:37:07 GMT)
-- [Stablecoin compromise reveals shift beyond “us versus them” mentality - FinTech Weekly](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeTduZzAtOGs0MFVLTWkxQ1JYb1IxUnF0eUlVeU1JLV9BREhjRUJaQzM5T1BTdDZxLWtmVDBMZnBkS3ltWk45OHlWdFJ3MWxJUnRVbmxBQjRpSjl5Szh3dW94U0RNcXZER0ZRR1R2TkZNQVQ2WU8zWFFJNy1aZWxJS3hKSTVqUFZ6cXUyR185ZDE?oc=5) (Thu, 05 Feb 2026 15:04:00 GMT)
-- [The financial crime risks of stablecoins - elliptic.co](https://news.google.com/rss/articles/CBMieEFVX3lxTE5uYnhQQjA2WFBkX1BWTVdDcmc5M1hDVkxmT1RKN2kyOGlEQ0ZwWUdDV2NOMWJwd3BzNHV3TEh1TkpQcllYMm5GbHZXaTNyVm5qVmd3clNPTVlwM1YzUzhxU1VxVWNwZ24tdDRhXy1sRUpGbTZpTFBMTQ?oc=5) (Thu, 05 Feb 2026 14:34:09 GMT)
+- [MegaETH Foundation to use USDM stablecoin revenue to fund MEGA token buybacks - Yahoo Finance](https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjJCbFc2RUhmQ0pBaUtqYzNkRmEzaTZVaXloX2M3dGhTUEJHeUV1a2FqcVZTOXZfZVFQRnZ3TENIaEVDZ3RwX2g4WUItY1FrQVlxUDJtd3QwLURCdUxWTkNqa2o0T21KVHN1OEdnWTVHQXk3cTRRTE5LTjdlNXZOM0V1dmhVWGo1VUR4d0pCS0t0dw?oc=5) (Fri, 06 Feb 2026 19:34:13 GMT)
+- [TRON DAO Advances Stablecoin Dialogue at Digital Assets at Duke Conference - Bitcoin.com News](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWhUNktOdFRpbnBKbjBVTnEwVDlNVFhxdzJhbVk3M3A1WHBZNHBTREktVWxrbWlGUTQ3YmxYek1vVWxoSVEwV0ZYblFlRGM0QkZzMVl6R3JMVW15Wlk0SlowN1ljRFhUaEY0M3NYLUNKNEZVSk9QcmtIb0tOVmhfUjUxZkdIdWlKOXBYdVRsX2Q2QXVjalZyR2t0SXJMN3pyMWc?oc=5) (Fri, 06 Feb 2026 18:12:03 GMT)
+- [BBVA Joins EU Banks to Launch Euro Stablecoin in 2026 - Mexico Business News](https://news.google.com/rss/articles/CBMikgFBVV95cUxQS25FNzVxNnk0a1NkUHJ2SUMycHIybDZPZy11bEIxNk9OanpPdENpZmdOY3B6V3JWa190NUFfSHpLTE9OLXI3aUsxWmRHcXpaRGs4MEs0bmo2cUNfSGZjbVRSVmIzbUNFQm9yR2dHZkM2MHd3cU9kVzdfdkFINVI1V1pHY2VOSUtTNGxnUWxNRHZhZw?oc=5) (Fri, 06 Feb 2026 17:52:09 GMT)
+- [China Formalizes Ban on Yuan Stablecoins, RWA Tokenization - Yahoo Finance](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2twWV9rYWhrWlJJVkxTVExVTW04bWp3Nm9NT3hUNnBpMF9tN05mRVJUSFBxeXVvYzhMUTBVeV95UGV6ZjRDbzl5UmtaWFRLOGpGSVRGQldWM1c2ZkhjNmt5NzRNZk54WXlydlNtLUtCdmFUNl9aWkNILW85bTFnNEpDaVlPdGJtbVNB?oc=5) (Fri, 06 Feb 2026 16:36:13 GMT)
+- [China expands crypto crackdown to stablecoins, asset tokenization - CoinDesk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2xsSDdNU05qMlY3eVI2X3IwWlJHbHA4MC1BR2hmWFFKU1BISFRlS3Q2RFdOLVgtdTdfYVY4cUtlOHZXalRtcF9oQVFLb2FaV3otVU9yZDlZbU1wdENGRThteERYLTFoaFRDTk01VUh3Ty03RzF1NjRuLTRWNnZjRXJVX25TZmoxVUlrVHRYcXlkbklIQTVTV29hVWxuWWJ1RFNSMzZiLVo2Zlk?oc=5) (Fri, 06 Feb 2026 16:13:49 GMT)
 
 <!-- END_dashboard -->
 
