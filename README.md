@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-07 01:15:51 (UTC)*
+*Last Updated: 2026-02-08 01:53:37 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,099,906,702** | 🟢 +0.85% | 🟢 +0.96% |
+| **$292,463,534,976** | 🟢 +0.12% | 🟢 +1.10% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [MegaETH Foundation to use USDM stablecoin revenue to fund MEGA token buybacks - Yahoo Finance](https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjJCbFc2RUhmQ0pBaUtqYzNkRmEzaTZVaXloX2M3dGhTUEJHeUV1a2FqcVZTOXZfZVFQRnZ3TENIaEVDZ3RwX2g4WUItY1FrQVlxUDJtd3QwLURCdUxWTkNqa2o0T21KVHN1OEdnWTVHQXk3cTRRTE5LTjdlNXZOM0V1dmhVWGo1VUR4d0pCS0t0dw?oc=5) (Fri, 06 Feb 2026 19:34:13 GMT)
-- [TRON DAO Advances Stablecoin Dialogue at Digital Assets at Duke Conference - Bitcoin.com News](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWhUNktOdFRpbnBKbjBVTnEwVDlNVFhxdzJhbVk3M3A1WHBZNHBTREktVWxrbWlGUTQ3YmxYek1vVWxoSVEwV0ZYblFlRGM0QkZzMVl6R3JMVW15Wlk0SlowN1ljRFhUaEY0M3NYLUNKNEZVSk9QcmtIb0tOVmhfUjUxZkdIdWlKOXBYdVRsX2Q2QXVjalZyR2t0SXJMN3pyMWc?oc=5) (Fri, 06 Feb 2026 18:12:03 GMT)
-- [BBVA Joins EU Banks to Launch Euro Stablecoin in 2026 - Mexico Business News](https://news.google.com/rss/articles/CBMikgFBVV95cUxQS25FNzVxNnk0a1NkUHJ2SUMycHIybDZPZy11bEIxNk9OanpPdENpZmdOY3B6V3JWa190NUFfSHpLTE9OLXI3aUsxWmRHcXpaRGs4MEs0bmo2cUNfSGZjbVRSVmIzbUNFQm9yR2dHZkM2MHd3cU9kVzdfdkFINVI1V1pHY2VOSUtTNGxnUWxNRHZhZw?oc=5) (Fri, 06 Feb 2026 17:52:09 GMT)
-- [China Formalizes Ban on Yuan Stablecoins, RWA Tokenization - Yahoo Finance](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2twWV9rYWhrWlJJVkxTVExVTW04bWp3Nm9NT3hUNnBpMF9tN05mRVJUSFBxeXVvYzhMUTBVeV95UGV6ZjRDbzl5UmtaWFRLOGpGSVRGQldWM1c2ZkhjNmt5NzRNZk54WXlydlNtLUtCdmFUNl9aWkNILW85bTFnNEpDaVlPdGJtbVNB?oc=5) (Fri, 06 Feb 2026 16:36:13 GMT)
-- [China expands crypto crackdown to stablecoins, asset tokenization - CoinDesk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2xsSDdNU05qMlY3eVI2X3IwWlJHbHA4MC1BR2hmWFFKU1BISFRlS3Q2RFdOLVgtdTdfYVY4cUtlOHZXalRtcF9oQVFLb2FaV3otVU9yZDlZbU1wdENGRThteERYLTFoaFRDTk01VUh3Ty03RzF1NjRuLTRWNnZjRXJVX25TZmoxVUlrVHRYcXlkbklIQTVTV29hVWxuWWJ1RFNSMzZiLVo2Zlk?oc=5) (Fri, 06 Feb 2026 16:13:49 GMT)
+- [South Africa’s Kganyago Warns on Risk of Growing Stablecoin Use - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ0c1TDFQcjVYYzBtc2gwdmU2VHprSWJRSkR5QTRtb1RmQkwzY21NTk02WkdpWmRFQllBNGZHWldXdG1JTFp1VEkydmROUWRJZlhVSWJmV0Q0eldMR1RZb1B1OWdGMWljQkJJMmxGMFN2UzJTaWZvaEdnS3NtbHhWcllrVHVxdV9SeXpaY1U3QkVTcHZCMmV6dE9VZDRycFdOdV9FczJIcWNXR29WN1dMNWNOY1c?oc=5) (Sat, 07 Feb 2026 17:33:10 GMT)
+- [Stablecoins Beyond The Hype: Lack Of Credit Protection For Holders - Forbes](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZFBzY1JXYzc0UXlqRDk1TXgzOU5URTBIc29INWV2X09XVG5oYkZrc1JZVXYxMndSQ1ZONkdtd0FCUDBHeDhyV2ROdGFLRkVQU2pRUDZoM2FOdU5nczA4ZXQ4OVhFMWxIUG5iOE1WZW1vZ0JINUdRNjBTLS05MkJNQVIwMkVmVGJXZC1DTlBDdHptS0M4dTF3WF9scU1zT0staWJXX1RxZGNqbnVUbUs0OFFDZ2dKNTNCR3pEOUtNdGpUdw?oc=5) (Sat, 07 Feb 2026 14:15:09 GMT)
+- [Binance Gives Trump Family’s Crypto Firm a Leg Up - The New York Times](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yOUg3X2h5T05zemFLR2lkWGZrMmJvNHd6Vm92YkNicEM2dXFmb0xTUDNDc1FWY3ZMRGlMOHVOZk82MnJSTjFWbnowUFZXeHVaai00bE1GVHB2ZlNzV0l0VU5iSjJ5b29PMGliUTM4X3ZINnMzV3RpZQ?oc=5) (Sat, 07 Feb 2026 10:02:10 GMT)
+- [Tether May Be Forced To Sell Bitcoin To Meet Proposed U.S. Stablecoin Rules, Says JPMorgan - CoinMarketCap](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSi1pQ0U3bGFxSllLWlo5LUtEaGZ1bGVzdlJZUXN5and4WFYweG9DRUtGZFVPandmLXlsYXlaQlRwb2tiX2FleWpBVjVmMnQzb0dJZUdJOXVTVDkwSVdyME1DNDI4QXZRMVRlVVlwXzFIRFYxSGdNZDBaMDZ2XzVLMEw3OWhfOHBNUS1jZDFOVkhCQ3NhelI1UUl2M3ktZzRMbldEVUh3YkJnV1o4NlpYSFpkTUNpYmVRZDljWFM0d2Z2NjZSMnNNbg?oc=5) (Sat, 07 Feb 2026 07:17:04 GMT)
+- [CFTC Updates Crypto Collateral Letter For Bank Stablecoins - Law360](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQVYzY3lnUEpjTUdka1RIQmpYbndWbVZ4SWZmVC1sT3E0U25KLUhxRzJha19obG9wMzhCbXVHTmk3OUZrQWxmYWpVaHl6aFNpRlY3RGx6Y29zdTA4SVRzc0EteDR5Y2xES2tZektHa3lOaEpjSVluRlZxdmhPcVhoc3BLOU1wZ0I5WGNvNVExV0E1dHFHNWFUY3Zpd2ZCX2_SAVZBVV95cUxQT1JDWDNEMWVvTUd3VjgxUC1EeW9CNE9fMUZBU1ZvNnNqVEhubmZwdkRmSXJScV9Za0U5Rzd1N2hIaFJqbHZkQkJsU2p1LW90TURiQWdtQQ?oc=5) (Sat, 07 Feb 2026 00:50:00 GMT)
 
 <!-- END_dashboard -->
 
