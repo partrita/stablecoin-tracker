@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-08 01:53:37 (UTC)*
+*Last Updated: 2026-02-09 01:23:32 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,463,534,976** | 🟢 +0.12% | 🟢 +1.10% |
+| **$291,506,750,110** | 🔴 -0.33% | 🟢 +0.76% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [South Africa’s Kganyago Warns on Risk of Growing Stablecoin Use - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ0c1TDFQcjVYYzBtc2gwdmU2VHprSWJRSkR5QTRtb1RmQkwzY21NTk02WkdpWmRFQllBNGZHWldXdG1JTFp1VEkydmROUWRJZlhVSWJmV0Q0eldMR1RZb1B1OWdGMWljQkJJMmxGMFN2UzJTaWZvaEdnS3NtbHhWcllrVHVxdV9SeXpaY1U3QkVTcHZCMmV6dE9VZDRycFdOdV9FczJIcWNXR29WN1dMNWNOY1c?oc=5) (Sat, 07 Feb 2026 17:33:10 GMT)
-- [Stablecoins Beyond The Hype: Lack Of Credit Protection For Holders - Forbes](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZFBzY1JXYzc0UXlqRDk1TXgzOU5URTBIc29INWV2X09XVG5oYkZrc1JZVXYxMndSQ1ZONkdtd0FCUDBHeDhyV2ROdGFLRkVQU2pRUDZoM2FOdU5nczA4ZXQ4OVhFMWxIUG5iOE1WZW1vZ0JINUdRNjBTLS05MkJNQVIwMkVmVGJXZC1DTlBDdHptS0M4dTF3WF9scU1zT0staWJXX1RxZGNqbnVUbUs0OFFDZ2dKNTNCR3pEOUtNdGpUdw?oc=5) (Sat, 07 Feb 2026 14:15:09 GMT)
-- [Binance Gives Trump Family’s Crypto Firm a Leg Up - The New York Times](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yOUg3X2h5T05zemFLR2lkWGZrMmJvNHd6Vm92YkNicEM2dXFmb0xTUDNDc1FWY3ZMRGlMOHVOZk82MnJSTjFWbnowUFZXeHVaai00bE1GVHB2ZlNzV0l0VU5iSjJ5b29PMGliUTM4X3ZINnMzV3RpZQ?oc=5) (Sat, 07 Feb 2026 10:02:10 GMT)
-- [Tether May Be Forced To Sell Bitcoin To Meet Proposed U.S. Stablecoin Rules, Says JPMorgan - CoinMarketCap](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSi1pQ0U3bGFxSllLWlo5LUtEaGZ1bGVzdlJZUXN5and4WFYweG9DRUtGZFVPandmLXlsYXlaQlRwb2tiX2FleWpBVjVmMnQzb0dJZUdJOXVTVDkwSVdyME1DNDI4QXZRMVRlVVlwXzFIRFYxSGdNZDBaMDZ2XzVLMEw3OWhfOHBNUS1jZDFOVkhCQ3NhelI1UUl2M3ktZzRMbldEVUh3YkJnV1o4NlpYSFpkTUNpYmVRZDljWFM0d2Z2NjZSMnNNbg?oc=5) (Sat, 07 Feb 2026 07:17:04 GMT)
-- [CFTC Updates Crypto Collateral Letter For Bank Stablecoins - Law360](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQVYzY3lnUEpjTUdka1RIQmpYbndWbVZ4SWZmVC1sT3E0U25KLUhxRzJha19obG9wMzhCbXVHTmk3OUZrQWxmYWpVaHl6aFNpRlY3RGx6Y29zdTA4SVRzc0EteDR5Y2xES2tZektHa3lOaEpjSVluRlZxdmhPcVhoc3BLOU1wZ0I5WGNvNVExV0E1dHFHNWFUY3Zpd2ZCX2_SAVZBVV95cUxQT1JDWDNEMWVvTUd3VjgxUC1EeW9CNE9fMUZBU1ZvNnNqVEhubmZwdkRmSXJScV9Za0U5Rzd1N2hIaFJqbHZkQkJsU2p1LW90TURiQWdtQQ?oc=5) (Sat, 07 Feb 2026 00:50:00 GMT)
+- [South Africa’s Kganyago Warns on Risk of Growing Stablecoin Use - bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ0c1TDFQcjVYYzBtc2gwdmU2VHprSWJRSkR5QTRtb1RmQkwzY21NTk02WkdpWmRFQllBNGZHWldXdG1JTFp1VEkydmROUWRJZlhVSWJmV0Q0eldMR1RZb1B1OWdGMWljQkJJMmxGMFN2UzJTaWZvaEdnS3NtbHhWcllrVHVxdV9SeXpaY1U3QkVTcHZCMmV6dE9VZDRycFdOdV9FczJIcWNXR29WN1dMNWNOY1c?oc=5) (Sun, 08 Feb 2026 16:04:03 GMT)
+- [Visa and Mastercard Execs Recently Dismissed Stablecoin Utility. Should Crypto Investors Be Concerned? - Nasdaq](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZHBnemxEWVA0b0c3cGJvRURUcmZJU2lxdzRtQkpzWjBrRUdqTmFCSmtQcmVuYjhMX1ptcXJOaURsQUZHdF81WHRaM2lMcGxtcnFkSkdjSlpzTzRyVzFLa2V3Z1R3QkxwdlZtQlZ5VkJRTHVDdWNaMXZ2Ui1nRzBHcVVXdVh6aXgyQ3VEOHExSkhnTzRaQ0xyUmQ5alNFbnF2aGNkdklRLWVPRDZVWm1tS1Nwcng2QzhxUkJtbkE1WQ?oc=5) (Sun, 08 Feb 2026 15:25:00 GMT)
+- [Visa and Mastercard Execs Recently Dismissed Stablecoin Utility. Should Crypto Investors Be Concerned? - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFRMNXduUUQxMUxxLU5sWXM2NF9XYVNIU2hFRGJORWtodjQ4YWY2WWFsbkYxXzZmRWhPYVVSYVFXYVVGbnNoX0xxQUQtSzNpcEd5eVFCajFYaGltdUZ4d2x2N0lkXzZYOS1rLWxDS1pvVlphQW5SR0pCYXV0UC1qUl8zeFZKc0M4bWhicWduXzd4MGFDTHhNOA?oc=5) (Sun, 08 Feb 2026 15:05:00 GMT)
+- [Stablecoin: Circle Partners with Polymarket for Settlement - FinTech Magazine](https://news.google.com/rss/articles/CBMilAFBVV95cUxQTHVsMDJQdUxLTTN4LUJERE15YzdOWmNIdjZKMlV2cXhkRHVZYzk1MkFwZUZsa2tucG44ZmIyNXp1Q3BsaVVucm9tUDN6eXBkQTBQZlZhUFcwRDl2MG10anBpbDI4QzlKVVQyc1BxRWo5dkljdGJxR2JQNVpXcEpuUGtsbTV4TzR3VkFBbURPTUxHeGhl?oc=5) (Sun, 08 Feb 2026 15:04:40 GMT)
+- [Binance Gives Trump Family’s Crypto Firm a Leg Up - The New York Times](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yOUg3X2h5T05zemFLR2lkWGZrMmJvNHd6Vm92YkNicEM2dXFmb0xTUDNDc1FWY3ZMRGlMOHVOZk82MnJSTjFWbnowUFZXeHVaai00bE1GVHB2ZlNzV0l0VU5iSjJ5b29PMGliUTM4X3ZINnMzV3RpZQ?oc=5) (Sun, 08 Feb 2026 14:05:00 GMT)
 
 <!-- END_dashboard -->
 
