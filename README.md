@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-09 01:23:32 (UTC)*
+*Last Updated: 2026-02-10 01:46:26 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$291,506,750,110** | 🔴 -0.33% | 🟢 +0.76% |
+| **$291,750,975,873** | 🟢 +0.08% | 🟢 +0.75% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [South Africa’s Kganyago Warns on Risk of Growing Stablecoin Use - bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ0c1TDFQcjVYYzBtc2gwdmU2VHprSWJRSkR5QTRtb1RmQkwzY21NTk02WkdpWmRFQllBNGZHWldXdG1JTFp1VEkydmROUWRJZlhVSWJmV0Q0eldMR1RZb1B1OWdGMWljQkJJMmxGMFN2UzJTaWZvaEdnS3NtbHhWcllrVHVxdV9SeXpaY1U3QkVTcHZCMmV6dE9VZDRycFdOdV9FczJIcWNXR29WN1dMNWNOY1c?oc=5) (Sun, 08 Feb 2026 16:04:03 GMT)
-- [Visa and Mastercard Execs Recently Dismissed Stablecoin Utility. Should Crypto Investors Be Concerned? - Nasdaq](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZHBnemxEWVA0b0c3cGJvRURUcmZJU2lxdzRtQkpzWjBrRUdqTmFCSmtQcmVuYjhMX1ptcXJOaURsQUZHdF81WHRaM2lMcGxtcnFkSkdjSlpzTzRyVzFLa2V3Z1R3QkxwdlZtQlZ5VkJRTHVDdWNaMXZ2Ui1nRzBHcVVXdVh6aXgyQ3VEOHExSkhnTzRaQ0xyUmQ5alNFbnF2aGNkdklRLWVPRDZVWm1tS1Nwcng2QzhxUkJtbkE1WQ?oc=5) (Sun, 08 Feb 2026 15:25:00 GMT)
-- [Visa and Mastercard Execs Recently Dismissed Stablecoin Utility. Should Crypto Investors Be Concerned? - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFRMNXduUUQxMUxxLU5sWXM2NF9XYVNIU2hFRGJORWtodjQ4YWY2WWFsbkYxXzZmRWhPYVVSYVFXYVVGbnNoX0xxQUQtSzNpcEd5eVFCajFYaGltdUZ4d2x2N0lkXzZYOS1rLWxDS1pvVlphQW5SR0pCYXV0UC1qUl8zeFZKc0M4bWhicWduXzd4MGFDTHhNOA?oc=5) (Sun, 08 Feb 2026 15:05:00 GMT)
-- [Stablecoin: Circle Partners with Polymarket for Settlement - FinTech Magazine](https://news.google.com/rss/articles/CBMilAFBVV95cUxQTHVsMDJQdUxLTTN4LUJERE15YzdOWmNIdjZKMlV2cXhkRHVZYzk1MkFwZUZsa2tucG44ZmIyNXp1Q3BsaVVucm9tUDN6eXBkQTBQZlZhUFcwRDl2MG10anBpbDI4QzlKVVQyc1BxRWo5dkljdGJxR2JQNVpXcEpuUGtsbTV4TzR3VkFBbURPTUxHeGhl?oc=5) (Sun, 08 Feb 2026 15:04:40 GMT)
-- [Binance Gives Trump Family’s Crypto Firm a Leg Up - The New York Times](https://news.google.com/rss/articles/CBMieEFVX3lxTE0yOUg3X2h5T05zemFLR2lkWGZrMmJvNHd6Vm92YkNicEM2dXFmb0xTUDNDc1FWY3ZMRGlMOHVOZk82MnJSTjFWbnowUFZXeHVaai00bE1GVHB2ZlNzV0l0VU5iSjJ5b29PMGliUTM4X3ZINnMzV3RpZQ?oc=5) (Sun, 08 Feb 2026 14:05:00 GMT)
+- [Figure’s CFO supports treating stablecoin as cash - CFO Dive](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWd4RWxUSGZmYjZONTlNbVlIY2hSQzRwdC1QRWdrSU41UFdxczdIbzk5azlYdjdubU5LMk1ocXFyU0x0TUcyakZlU25jVU15TDBZSHlTLVpINDJMcWI4Xy0tdGVxSzdnU3kxdUtjYTJPMXJpbFpadkVFUzcwUlF1UTVpa3RpSXRWWTBLc3RRWE9DRU02d2VSbWlhaGhQTms?oc=5) (Mon, 09 Feb 2026 21:57:05 GMT)
+- [Payoneer CFO eyes stablecoin, AI innovation - Payments Dive](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjdmLUdGMEp1am1rWkFWdkNiLWlnWjhwTDBwb0RWYnB2eWt1NGpScVdqS2JmOTJ4TjVfTFZESEFFY0hSclU5NUF1Z3FCOXdqSGttSFNtTDN0ZGcxdU1CV01DeE5QalFkR25OYjNRb3VrYUhYczdvNnFmLVpGVThyN2VrdzlZQUc2NUxrZVZDdWwwWTk3UVFiZU00WmNGSWVnZHdIU29FTnUxS0U?oc=5) (Mon, 09 Feb 2026 21:13:53 GMT)
+- [Why Banks Want to Issue Stablecoins - PYMNTS.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxQRTZ0SUtkLWIwVXBvS2JhYlgyaGxnem42anhPT3lVejEyR2pxRGl4M2dNeXhnWlJod3BaN1dCaEFZT1lUUzRPaDBkZjUwbHB3V2JMSDFFNEt5MTg4YTRWeUZnOHZkRk9saGxORVhtWVVJajlNOVdhQjZsMm5RWGlzRTcydw?oc=5) (Mon, 09 Feb 2026 19:53:39 GMT)
+- [Binance—Whose Founder Was Pardoned—Now Holds 87% Of Trump’s Stablecoin - Forbes](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTNnV3N6M3liQzMyRkZibnM0MTlqZnlIdG1sbzdvazFQdFR1RGhBTWdVeXdJNDNxV2pkRG5oeUxVOUotcHphbGZpRUhMR2ItSEVpeUZvT0EwOU44cnNuZzBmOW1JS2VuMVcwclI5WTNNWVQ5QkxjRFZpaHlnSUk1QUs2WC1BOGhXZWVzZll2dllUR2oyYXloTzM2YXhoMC13?oc=5) (Mon, 09 Feb 2026 19:37:06 GMT)
+- [Dan Romero and Varun Srinivasan join Tempo - CoinDesk](https://news.google.com/rss/articles/CBMiywFBVV95cUxQX2RpSk5VT2tpWHZaZEcyNlFJaDBLUWQzZEl4d1ZmeFJPTHZvUnVhVVlmcFFKNzZQNW8tT2FDdC1VRzRTSHBGbUYtR0R2dWR0X3ZJd3hwaTc3UzBWaTJpUmpGdW1iaHFtMUVhZ3VUMDV4Y3kydnZUeXByaV9YX0RCdDUyVHQ4Sk5jWlBIRjFQT3ZMdjVJSzVMQkllU2p2ZE5kNFBQZjg1SU1IWTQwcVJjNUdWYjVmVndHLXNMdlRkeEo5aXpreEVYSEdNWQ?oc=5) (Mon, 09 Feb 2026 19:35:39 GMT)
 
 <!-- END_dashboard -->
 
