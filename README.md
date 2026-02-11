@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-10 01:46:26 (UTC)*
+*Last Updated: 2026-02-11 01:30:01 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$291,750,975,873** | 🟢 +0.08% | 🟢 +0.75% |
+| **$291,903,868,617** | 🟢 +0.05% | 🔴 -74.84% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Figure’s CFO supports treating stablecoin as cash - CFO Dive](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWd4RWxUSGZmYjZONTlNbVlIY2hSQzRwdC1QRWdrSU41UFdxczdIbzk5azlYdjdubU5LMk1ocXFyU0x0TUcyakZlU25jVU15TDBZSHlTLVpINDJMcWI4Xy0tdGVxSzdnU3kxdUtjYTJPMXJpbFpadkVFUzcwUlF1UTVpa3RpSXRWWTBLc3RRWE9DRU02d2VSbWlhaGhQTms?oc=5) (Mon, 09 Feb 2026 21:57:05 GMT)
-- [Payoneer CFO eyes stablecoin, AI innovation - Payments Dive](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjdmLUdGMEp1am1rWkFWdkNiLWlnWjhwTDBwb0RWYnB2eWt1NGpScVdqS2JmOTJ4TjVfTFZESEFFY0hSclU5NUF1Z3FCOXdqSGttSFNtTDN0ZGcxdU1CV01DeE5QalFkR25OYjNRb3VrYUhYczdvNnFmLVpGVThyN2VrdzlZQUc2NUxrZVZDdWwwWTk3UVFiZU00WmNGSWVnZHdIU29FTnUxS0U?oc=5) (Mon, 09 Feb 2026 21:13:53 GMT)
-- [Why Banks Want to Issue Stablecoins - PYMNTS.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxQRTZ0SUtkLWIwVXBvS2JhYlgyaGxnem42anhPT3lVejEyR2pxRGl4M2dNeXhnWlJod3BaN1dCaEFZT1lUUzRPaDBkZjUwbHB3V2JMSDFFNEt5MTg4YTRWeUZnOHZkRk9saGxORVhtWVVJajlNOVdhQjZsMm5RWGlzRTcydw?oc=5) (Mon, 09 Feb 2026 19:53:39 GMT)
-- [Binance—Whose Founder Was Pardoned—Now Holds 87% Of Trump’s Stablecoin - Forbes](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTNnV3N6M3liQzMyRkZibnM0MTlqZnlIdG1sbzdvazFQdFR1RGhBTWdVeXdJNDNxV2pkRG5oeUxVOUotcHphbGZpRUhMR2ItSEVpeUZvT0EwOU44cnNuZzBmOW1JS2VuMVcwclI5WTNNWVQ5QkxjRFZpaHlnSUk1QUs2WC1BOGhXZWVzZll2dllUR2oyYXloTzM2YXhoMC13?oc=5) (Mon, 09 Feb 2026 19:37:06 GMT)
-- [Dan Romero and Varun Srinivasan join Tempo - CoinDesk](https://news.google.com/rss/articles/CBMiywFBVV95cUxQX2RpSk5VT2tpWHZaZEcyNlFJaDBLUWQzZEl4d1ZmeFJPTHZvUnVhVVlmcFFKNzZQNW8tT2FDdC1VRzRTSHBGbUYtR0R2dWR0X3ZJd3hwaTc3UzBWaTJpUmpGdW1iaHFtMUVhZ3VUMDV4Y3kydnZUeXByaV9YX0RCdDUyVHQ4Sk5jWlBIRjFQT3ZMdjVJSzVMQkllU2p2ZE5kNFBQZjg1SU1IWTQwcVJjNUdWYjVmVndHLXNMdlRkeEo5aXpreEVYSEdNWQ?oc=5) (Mon, 09 Feb 2026 19:35:39 GMT)
+- [Better Stablecoin Buy: USD Coin vs. Ripple USD - The Globe and Mail](https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTJPeHNqUWNUX0VKc0VMdG43X0RlM0lvM2Y5dUlVRDBucGlBWklEXzZmLUl5SFZLVF9yb1BEYzN3NEtQMk9fODliZ3pDNloxMWh0aWRlb1JTTHp4cUI0eGJobFo5bVNMVGJqRmJmNldreUFWX0xCVXdIRll6ODRxTjVMaXpOTXRmX1RxOXZMMzBwVFJPaUtmX0gwelhxeTZMNkRyM1ZyX0Voc2VKTEE4Z3ZORU56cHIwZVZfNzRDZHZkUVlHY2c?oc=5) (Tue, 10 Feb 2026 21:28:49 GMT)
+- [Avalanche hosts Fosun Wealth’s yield-bearing RWA stablecoin - thestreet.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUJZUWpCdWcxTEJNRTg1ZnVrMTF4a2RYdWhhajVwZ0ZPSEJVRFl0YWpvY19hSm9OTGxFckNWU2IxVEk5UFFDTHl4dFdEQXl4SmpVOWFrc2E5eGltWnNsa0ZqRjVHZlM1Y2p4YWVyM0lyczhJMjZfTTBweDRRMnRzOE1wQmZQcDFWLWdsTWZtTHI0QmZ3Y3JYbUNrNExpcmI0bDBxag?oc=5) (Tue, 10 Feb 2026 20:53:52 GMT)
+- [Better Stablecoin Buy: USD Coin vs. Ripple USD - The Motley Fool](https://news.google.com/rss/articles/CBMigAFBVV95cUxNQzN6WDRxTlNaRW1hOUNyMkF5cjNLNk9VbUZTdTFJazNYaUdvVUZHUU5xamVKMlpTc2p0V0lCenRjajVneUk5VmZ6aUNocS1SV3EtczB0dXpJekpHbV9ic0h1ZHdlT2VXbW1kQ250eDhyMHlZWVZkaU1pNms0cEZadg?oc=5) (Tue, 10 Feb 2026 20:43:00 GMT)
+- [Protecting Kentucky’s community banks starts with fixing washington’s stablecoin gap - Middlesboro News](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2lwdWltU1JtSFNtZm91bEtTSVRXLWJPSmw2TzVneTJOeUg0Mm43cFUxNWYtbm9id09Ed2k5eWN5Wm50bnZQMDBzSzdqdWtHYk9Lb3lVRmdOazlEQktUdnktLVZCVjJzMUZ2TEt4dmF4YWlFUWJmZGhCZ3l6WWJvZ3ZkQmp6dWY0WWlJdjhqQ1k0TmFPY0lEU1FDSVhmNV80M1RoTFlqU09uMldDZXdYTVFSbEhhenJQdC0xT1l3?oc=5) (Tue, 10 Feb 2026 18:00:40 GMT)
+- [Japan's Nomura, Daiwa team with top banks on stablecoin-based trading - Nikkei Asia](https://news.google.com/rss/articles/CBMirgFBVV95cUxQa0R3ZFJVcmVYQ0x1alNvOUZuQW9BbDlyZmg4dEJGX1VKR3BadjZWNXFRb19RalBOOF81TXp0YmxSUk5vSEphRXZ2VXh0dDZBcnZpc0h0a0JxQS1PUlRURGZqMUNpRlYwNE42bHNOYzY2QmdSajJtOUo0U1Z3V1k4NE03anp5UkU4WG1LMjdKNmY2OWg5WW11Vm5POVR4TE9UZEgzT0c4Z1hlWUFhRXc?oc=5) (Tue, 10 Feb 2026 16:54:00 GMT)
 
 <!-- END_dashboard -->
 
