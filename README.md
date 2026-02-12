@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-11 01:30:01 (UTC)*
+*Last Updated: 2026-02-12 01:22:54 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$291,903,868,617** | 🟢 +0.05% | 🔴 -74.84% |
+| **$291,590,845,614** | 🔴 -0.11% | 🟢 +0.56% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Better Stablecoin Buy: USD Coin vs. Ripple USD - The Globe and Mail](https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTJPeHNqUWNUX0VKc0VMdG43X0RlM0lvM2Y5dUlVRDBucGlBWklEXzZmLUl5SFZLVF9yb1BEYzN3NEtQMk9fODliZ3pDNloxMWh0aWRlb1JTTHp4cUI0eGJobFo5bVNMVGJqRmJmNldreUFWX0xCVXdIRll6ODRxTjVMaXpOTXRmX1RxOXZMMzBwVFJPaUtmX0gwelhxeTZMNkRyM1ZyX0Voc2VKTEE4Z3ZORU56cHIwZVZfNzRDZHZkUVlHY2c?oc=5) (Tue, 10 Feb 2026 21:28:49 GMT)
-- [Avalanche hosts Fosun Wealth’s yield-bearing RWA stablecoin - thestreet.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUJZUWpCdWcxTEJNRTg1ZnVrMTF4a2RYdWhhajVwZ0ZPSEJVRFl0YWpvY19hSm9OTGxFckNWU2IxVEk5UFFDTHl4dFdEQXl4SmpVOWFrc2E5eGltWnNsa0ZqRjVHZlM1Y2p4YWVyM0lyczhJMjZfTTBweDRRMnRzOE1wQmZQcDFWLWdsTWZtTHI0QmZ3Y3JYbUNrNExpcmI0bDBxag?oc=5) (Tue, 10 Feb 2026 20:53:52 GMT)
-- [Better Stablecoin Buy: USD Coin vs. Ripple USD - The Motley Fool](https://news.google.com/rss/articles/CBMigAFBVV95cUxNQzN6WDRxTlNaRW1hOUNyMkF5cjNLNk9VbUZTdTFJazNYaUdvVUZHUU5xamVKMlpTc2p0V0lCenRjajVneUk5VmZ6aUNocS1SV3EtczB0dXpJekpHbV9ic0h1ZHdlT2VXbW1kQ250eDhyMHlZWVZkaU1pNms0cEZadg?oc=5) (Tue, 10 Feb 2026 20:43:00 GMT)
-- [Protecting Kentucky’s community banks starts with fixing washington’s stablecoin gap - Middlesboro News](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2lwdWltU1JtSFNtZm91bEtTSVRXLWJPSmw2TzVneTJOeUg0Mm43cFUxNWYtbm9id09Ed2k5eWN5Wm50bnZQMDBzSzdqdWtHYk9Lb3lVRmdOazlEQktUdnktLVZCVjJzMUZ2TEt4dmF4YWlFUWJmZGhCZ3l6WWJvZ3ZkQmp6dWY0WWlJdjhqQ1k0TmFPY0lEU1FDSVhmNV80M1RoTFlqU09uMldDZXdYTVFSbEhhenJQdC0xT1l3?oc=5) (Tue, 10 Feb 2026 18:00:40 GMT)
-- [Japan's Nomura, Daiwa team with top banks on stablecoin-based trading - Nikkei Asia](https://news.google.com/rss/articles/CBMirgFBVV95cUxQa0R3ZFJVcmVYQ0x1alNvOUZuQW9BbDlyZmg4dEJGX1VKR3BadjZWNXFRb19RalBOOF81TXp0YmxSUk5vSEphRXZ2VXh0dDZBcnZpc0h0a0JxQS1PUlRURGZqMUNpRlYwNE42bHNOYzY2QmdSajJtOUo0U1Z3V1k4NE03anp5UkU4WG1LMjdKNmY2OWg5WW11Vm5POVR4TE9UZEgzT0c4Z1hlWUFhRXc?oc=5) (Tue, 10 Feb 2026 16:54:00 GMT)
+- [Same Stablecoin, Different Bill: Why Africa's Cash-Out Costs Climb to Nearly 20% - Finance Magnates](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOUpRdzE2NEFaUWlEZWFLV2xnczR4QklxVG10Q2VFLXBlQnlGVkxhTUpzeXlkVDVOMUJ6c3NFcWtZZWI2MkpJT3N2dXRoZEJBV1hSbm9Jc25HTnJzamlYTWF0dDQ5ZS1GQjFPQkVfaUNjMk5oREV0Qm9ZLVR0dWthR1NWbW11SXdRT19HS21mX1RnLV9pYmNTTm1SSGx0X1BKTzhQVlVXSzZiY3ZITmoxVEtHS0lXVlM3WHRkX2lSS1NMdw?oc=5) (Wed, 11 Feb 2026 21:26:42 GMT)
+- [Zerohash adds Monad support to expand USDC stablecoin payments - The Block](https://news.google.com/rss/articles/CBMigAFBVV95cUxQNWMtUFBlM09NemNveU40a0tyZ2VFSkJqNjhuS0xhMklaQkhueHEwUUdwOGc4SEhrVndEUkxRaE9oQ1hEdUFUZmNneWR2ajExZWxmdUJqQnp6T3Q5TVhNbFREWGRLR0NDUlBIRVh5eWxOV29wYUpQTk54YnBtaW1FaA?oc=5) (Wed, 11 Feb 2026 21:21:35 GMT)
+- [NCUA Proposes Framework for Credit Union-Backed Stablecoin Issuers - Credit Union Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxNSHZuRDRsWWVZa3hTQk1TZXo4a2U1cS1GOWhSbTNYcXpUMWVMSDlYYmZlNWJSNWVqd2RWOFZpclhSdmNxS0ZMeVdJVnRUNE94cjk1c2NselNMaC1jODVaMzRsYlJXVERXN2F0ck12NUNHZ0lQSWhCUXhKcVRRVzRzVFFfcENmU2c1S3dINGtaYUE4alh1X2d6d19QcXBEU0pnVUhHc9IBqgFBVV95cUxPQi1Tejd6MWZJYnQ4eVZfRFpiS1NLLUE1eFE4X3JSdFJBWF9CM09OM2xYVTdOeEduOFo0WFAzeUQxNHl2bXRxa3VyMmFnelRhSHVPZThSOVFtYk5RUXNacTR0MW16MENIdE1TNlppeW5ibUFoMWh3Q0czYmRLMWNYZEE1aDhvdWxRQlU3OTIzUFc0dFlhVzdNVzIyT191MlRZaVFmbWNBQnVEdw?oc=5) (Wed, 11 Feb 2026 20:16:09 GMT)
+- [Key facts: Citigroup forecasts growth; shares dip after Fed changes; banks propose stablecoin ban - TradingView](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdUJPVmNtZHVjTjNEYWZXQkJHY04yTDFTVGE3MWhOTGFmU3NYOENuNGhOcTVzZy00SmVISVJBbWp5MnJaSE1na0ZmSGw4RlJXbXlxek1yWlgxbUJjSjZlWVcybE1oN05qaUdwVzIxOVZEejMtSTVFVVVBa2I4OHdXOTJDYkhnWFFGQXhRdWJsS21OajM0eW96Vjc4UU10bEJ5ZnI0dmtVWE9tLWZlMVc4NjJxdS1WOVJCdlV6eTdZMWxvV2ZXd2tKWm1pbC0yZXhBOWJLdG13VUtkdzNoSXRtLUhOSXNiSkM5YnExTA?oc=5) (Wed, 11 Feb 2026 20:03:58 GMT)
+- [Tether could become 'top 10 T-bill buyer' this year, USAT CEO Bo Hines says - The Block](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1BLQUJUQVU4X1R3aVdma1NZSlBGYmtuaDh6cUxtU25LWkdoQTI5eGs0OG9xc1Nmd1BCTFdpSDZod3JXUUhnQ1oyTDlocFV3QjhCbm5KSWZLUXJEU3pldVNTQnVVZjhfR2lwbFpmNHo2UUE1ci0wNTBMQXhiMkdhZHo4Rnk?oc=5) (Wed, 11 Feb 2026 19:21:05 GMT)
 
 <!-- END_dashboard -->
 
