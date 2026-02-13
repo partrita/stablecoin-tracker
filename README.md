@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-12 01:22:54 (UTC)*
+*Last Updated: 2026-02-13 01:25:59 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$291,590,845,614** | 🔴 -0.11% | 🟢 +0.56% |
+| **$291,209,767,543** | 🔴 -0.13% | 🟢 +0.54% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Same Stablecoin, Different Bill: Why Africa's Cash-Out Costs Climb to Nearly 20% - Finance Magnates](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOUpRdzE2NEFaUWlEZWFLV2xnczR4QklxVG10Q2VFLXBlQnlGVkxhTUpzeXlkVDVOMUJ6c3NFcWtZZWI2MkpJT3N2dXRoZEJBV1hSbm9Jc25HTnJzamlYTWF0dDQ5ZS1GQjFPQkVfaUNjMk5oREV0Qm9ZLVR0dWthR1NWbW11SXdRT19HS21mX1RnLV9pYmNTTm1SSGx0X1BKTzhQVlVXSzZiY3ZITmoxVEtHS0lXVlM3WHRkX2lSS1NMdw?oc=5) (Wed, 11 Feb 2026 21:26:42 GMT)
-- [Zerohash adds Monad support to expand USDC stablecoin payments - The Block](https://news.google.com/rss/articles/CBMigAFBVV95cUxQNWMtUFBlM09NemNveU40a0tyZ2VFSkJqNjhuS0xhMklaQkhueHEwUUdwOGc4SEhrVndEUkxRaE9oQ1hEdUFUZmNneWR2ajExZWxmdUJqQnp6T3Q5TVhNbFREWGRLR0NDUlBIRVh5eWxOV29wYUpQTk54YnBtaW1FaA?oc=5) (Wed, 11 Feb 2026 21:21:35 GMT)
-- [NCUA Proposes Framework for Credit Union-Backed Stablecoin Issuers - Credit Union Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxNSHZuRDRsWWVZa3hTQk1TZXo4a2U1cS1GOWhSbTNYcXpUMWVMSDlYYmZlNWJSNWVqd2RWOFZpclhSdmNxS0ZMeVdJVnRUNE94cjk1c2NselNMaC1jODVaMzRsYlJXVERXN2F0ck12NUNHZ0lQSWhCUXhKcVRRVzRzVFFfcENmU2c1S3dINGtaYUE4alh1X2d6d19QcXBEU0pnVUhHc9IBqgFBVV95cUxPQi1Tejd6MWZJYnQ4eVZfRFpiS1NLLUE1eFE4X3JSdFJBWF9CM09OM2xYVTdOeEduOFo0WFAzeUQxNHl2bXRxa3VyMmFnelRhSHVPZThSOVFtYk5RUXNacTR0MW16MENIdE1TNlppeW5ibUFoMWh3Q0czYmRLMWNYZEE1aDhvdWxRQlU3OTIzUFc0dFlhVzdNVzIyT191MlRZaVFmbWNBQnVEdw?oc=5) (Wed, 11 Feb 2026 20:16:09 GMT)
-- [Key facts: Citigroup forecasts growth; shares dip after Fed changes; banks propose stablecoin ban - TradingView](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdUJPVmNtZHVjTjNEYWZXQkJHY04yTDFTVGE3MWhOTGFmU3NYOENuNGhOcTVzZy00SmVISVJBbWp5MnJaSE1na0ZmSGw4RlJXbXlxek1yWlgxbUJjSjZlWVcybE1oN05qaUdwVzIxOVZEejMtSTVFVVVBa2I4OHdXOTJDYkhnWFFGQXhRdWJsS21OajM0eW96Vjc4UU10bEJ5ZnI0dmtVWE9tLWZlMVc4NjJxdS1WOVJCdlV6eTdZMWxvV2ZXd2tKWm1pbC0yZXhBOWJLdG13VUtkdzNoSXRtLUhOSXNiSkM5YnExTA?oc=5) (Wed, 11 Feb 2026 20:03:58 GMT)
-- [Tether could become 'top 10 T-bill buyer' this year, USAT CEO Bo Hines says - The Block](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1BLQUJUQVU4X1R3aVdma1NZSlBGYmtuaDh6cUxtU25LWkdoQTI5eGs0OG9xc1Nmd1BCTFdpSDZod3JXUUhnQ1oyTDlocFV3QjhCbm5KSWZLUXJEU3pldVNTQnVVZjhfR2lwbFpmNHo2UUE1ci0wNTBMQXhiMkdhZHo4Rnk?oc=5) (Wed, 11 Feb 2026 19:21:05 GMT)
+- [INTERVIEW: Mitsubishi UFJ Trust to Issue Stablecoin in FY 2026 - nippon.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VcExsNjhsOUdLQmw2RU5QNF9kS1pUQVdDaUdYSTF0M3BITDNYVG1EU1RPeHVtRkcwWTFMZV9YQlltZTMyT1RNbFhaZ0pTX3JkQkk2d2tZVEMxNGdT?oc=5) (Fri, 13 Feb 2026 00:00:00 GMT)
+- [CFOs Eye Stablecoins as Capital Tool, Not a Crypto Bet - PYMNTS.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOOGo1S3B5SGFaTXBfdU94WEJTSEVWaktTU3JUT3A1Z2JzbVR2OG00QVlXNk4yYjRxVU5jQU9ZbEpWc290YTlQVThXcmVsZkwtX21oYXR3SVl2UjBLTjhZMUZrUGVQRnlqMF9zcjRjQ1FNVUhneHMtT19ybmNVcmRLY3ZnMUg2Rk5BYVBsYmdpbWFfR0NtMzJnQ3hWNzY4dw?oc=5) (Thu, 12 Feb 2026 23:21:15 GMT)
+- [Agant registers with U.K. FCA ahead of British pound stablecoin debut - CoinDesk](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVElXR0RpM3VZMS1PeVdBN1hKTE1YeGg2ZnJyVFdvQ2NwSzlpQlp4b1dVSkxBVkNRUEowUmhiTExpYmhGb0l6T09Tc0lBLUNGdVVNMUZqODA3QUxvc1J1WUl4aW9kelEwYURRMDVlWlA3VHkyZ0ZIbFRxMEZaNTI5NEdJXzZGVFRXSmcwRldfME5Ea0VMZEZXNF9QYzlQY2Y0SUF2eHdsbHpqMmlna2JzeA?oc=5) (Thu, 12 Feb 2026 20:56:24 GMT)
+- [FDIC extends comment period on proposed requirements for banks seeking to issue stablecoins under GENIUS Act - JD Supra](https://news.google.com/rss/articles/CBMiigFBVV95cUxNckFVVU84Yl9YR0NCcE9LYUhwQ04xVWwxamlUSDV4WTRiMHE0bFhIRy0zWVJXaGNVQnk2V1NXbFBnMWFabERzUXBtWlZwOXNINmo0QjF4MTVpd3JUTDJmenJvaVp2TWRvVEwxTERnZDFVRjZtdVVsdWZQMWFVbndKZ2gzeWpiNkQzTUE?oc=5) (Thu, 12 Feb 2026 20:45:11 GMT)
+- [US GENIUS Act: NCUA publishes draft rules for stablecoin issuers - FXStreet](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRnBFMkR4bmdqQ1pTd2JKLWFHaFAtN3pQZTRVbDlES0FlWFBYMVBtUnNWS0FhaFktZi00dm5rdG9ZbXc3NXFSbXd5RUU1ZkFWOHhVZ1pHNE4wTkQ2ZnFWaklmZHBoYkd4UU5sRHBNRUZuMkVYLUhBTlVTSVlRVWEwSmNoQUlTbVB4eWJQVnFkWDBXNDZYV3QzRmtBaUdsU01CTmNkc1VKZlNVZjhsdjM1NVk1T2xDaVc5U0JlN2xNTzlpSDNzbzJSQkJMOGdHV3dzOFBNa1hzWmk2M0JwSU5VVjVsUEdYMkNXem00bjVYMGXSAfYBQVVfeXFMTVg0bFhDSzEtN3g4Vm5SY0pieUpJWUZDSU5VNXl1SUNrMmpPX3djN3p1WEZRWW5BWXZCLTdpNHhnUkRoLXVwNlBzZTBkNTdSYWREd0Fwejg1V0JUSnpVMk40YmpUYlZ2NkdUODRjYThyMlNDT2FXRTlDMTZaMkJRQXlORHllY29VaTlqMkVUNGt2R1FlQS1Ka05UX1RNWUQtN0JtWUVuaXRpTEtMLVNwU05kSFl3NzJGdWEwUnBRNEZkdVgtYmoyMXhUQ2kzV19CbE55QkxKS3VHR3A1bEdLa3AwOHNfXzdkMWpMcW9GS0s3SGRfR3dn?oc=5) (Thu, 12 Feb 2026 16:22:39 GMT)
 
 <!-- END_dashboard -->
 
