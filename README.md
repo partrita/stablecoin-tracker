@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-13 01:25:59 (UTC)*
+*Last Updated: 2026-02-14 01:18:16 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$291,209,767,543** | 🔴 -0.13% | 🟢 +0.54% |
+| **$291,536,405,519** | 🟢 +0.11% | 🔴 -0.19% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [INTERVIEW: Mitsubishi UFJ Trust to Issue Stablecoin in FY 2026 - nippon.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VcExsNjhsOUdLQmw2RU5QNF9kS1pUQVdDaUdYSTF0M3BITDNYVG1EU1RPeHVtRkcwWTFMZV9YQlltZTMyT1RNbFhaZ0pTX3JkQkk2d2tZVEMxNGdT?oc=5) (Fri, 13 Feb 2026 00:00:00 GMT)
-- [CFOs Eye Stablecoins as Capital Tool, Not a Crypto Bet - PYMNTS.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOOGo1S3B5SGFaTXBfdU94WEJTSEVWaktTU3JUT3A1Z2JzbVR2OG00QVlXNk4yYjRxVU5jQU9ZbEpWc290YTlQVThXcmVsZkwtX21oYXR3SVl2UjBLTjhZMUZrUGVQRnlqMF9zcjRjQ1FNVUhneHMtT19ybmNVcmRLY3ZnMUg2Rk5BYVBsYmdpbWFfR0NtMzJnQ3hWNzY4dw?oc=5) (Thu, 12 Feb 2026 23:21:15 GMT)
-- [Agant registers with U.K. FCA ahead of British pound stablecoin debut - CoinDesk](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVElXR0RpM3VZMS1PeVdBN1hKTE1YeGg2ZnJyVFdvQ2NwSzlpQlp4b1dVSkxBVkNRUEowUmhiTExpYmhGb0l6T09Tc0lBLUNGdVVNMUZqODA3QUxvc1J1WUl4aW9kelEwYURRMDVlWlA3VHkyZ0ZIbFRxMEZaNTI5NEdJXzZGVFRXSmcwRldfME5Ea0VMZEZXNF9QYzlQY2Y0SUF2eHdsbHpqMmlna2JzeA?oc=5) (Thu, 12 Feb 2026 20:56:24 GMT)
-- [FDIC extends comment period on proposed requirements for banks seeking to issue stablecoins under GENIUS Act - JD Supra](https://news.google.com/rss/articles/CBMiigFBVV95cUxNckFVVU84Yl9YR0NCcE9LYUhwQ04xVWwxamlUSDV4WTRiMHE0bFhIRy0zWVJXaGNVQnk2V1NXbFBnMWFabERzUXBtWlZwOXNINmo0QjF4MTVpd3JUTDJmenJvaVp2TWRvVEwxTERnZDFVRjZtdVVsdWZQMWFVbndKZ2gzeWpiNkQzTUE?oc=5) (Thu, 12 Feb 2026 20:45:11 GMT)
-- [US GENIUS Act: NCUA publishes draft rules for stablecoin issuers - FXStreet](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRnBFMkR4bmdqQ1pTd2JKLWFHaFAtN3pQZTRVbDlES0FlWFBYMVBtUnNWS0FhaFktZi00dm5rdG9ZbXc3NXFSbXd5RUU1ZkFWOHhVZ1pHNE4wTkQ2ZnFWaklmZHBoYkd4UU5sRHBNRUZuMkVYLUhBTlVTSVlRVWEwSmNoQUlTbVB4eWJQVnFkWDBXNDZYV3QzRmtBaUdsU01CTmNkc1VKZlNVZjhsdjM1NVk1T2xDaVc5U0JlN2xNTzlpSDNzbzJSQkJMOGdHV3dzOFBNa1hzWmk2M0JwSU5VVjVsUEdYMkNXem00bjVYMGXSAfYBQVVfeXFMTVg0bFhDSzEtN3g4Vm5SY0pieUpJWUZDSU5VNXl1SUNrMmpPX3djN3p1WEZRWW5BWXZCLTdpNHhnUkRoLXVwNlBzZTBkNTdSYWREd0Fwejg1V0JUSnpVMk40YmpUYlZ2NkdUODRjYThyMlNDT2FXRTlDMTZaMkJRQXlORHllY29VaTlqMkVUNGt2R1FlQS1Ka05UX1RNWUQtN0JtWUVuaXRpTEtMLVNwU05kSFl3NzJGdWEwUnBRNEZkdVgtYmoyMXhUQ2kzV19CbE55QkxKS3VHR3A1bEdLa3AwOHNfXzdkMWpMcW9GS0s3SGRfR3dn?oc=5) (Thu, 12 Feb 2026 16:22:39 GMT)
+- [White House crypto adviser says banks shouldn't fear stablecoin yield - TradingView](https://news.google.com/rss/articles/CBMizgFBVV95cUxNWmlQdFgxZlhxUE1SY0RrTk80eXRNU3lnbG4wc3Z0d09xMjRkTUF5clBiMkkxSXpacXF5NFpaWVBSTXFiUEFkWXZQSVUyaW9jXzlUdGo0MEctSVdSclZsenNUQ3MwNDZkTVlKdGtrZnc1ZmVud1BfWHZtdDd4SGNTaUhpQ1dPN0FjSGdPQXlfXzFNUHllTEJmZ3l6YWNJaHNtSng1YmxxbHRKdHhMVW40V1UtZ0k2a3hzY3VoWVc0VFN2em1tbjRRUjVjTmhrdw?oc=5) (Fri, 13 Feb 2026 21:54:56 GMT)
+- [Stablecoins Explained: Bridging Digital Assets and Traditional Finance - Knowledge at Wharton](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMHJKZENkWmx6Z0w2VVE4ejBBcFFXNEZnMk92eHlXYThCR2p3M2JKUGlvUGItRGVPZGNMNHJmTWFoc25LcWNHVF9aSTZTU2w1U3F0bTN5Q0NTLWx6YkdpeGZ0TEZhTHNwc083TGxNTTZVZlhRWW80LUdkeURYc05MN1V4VVZHOE5RX3B2UFZFd1RvakNCWHB4SGtEQ3RrNEtiSGJoYW1RMUtvVEZJS3JFZVAxXy13RWhjVExybHp2Zmd4WGlrZmVoX3ZJU2hhdEMydVE?oc=5) (Fri, 13 Feb 2026 20:21:54 GMT)
+- [Crypto group counters Wall Street bankers with its own stablecoin principles for bill - CoinDesk](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNDFOV3Zkd3poWHhiVXM2V3dTY3pySGh2RVY4OUJWWkZ6cUZmTk01Qm1oTmVSaXFsN3F4a0FOeTgyZi10NTFjbVVwSEV0TlQ2dGc0d3RUQnVyby1LeGEwdmN2dEFLd0ZmcWxoSlZWODFRWTY2SFpSWlZ4NmZMYnhtTl9RUGFGSlZVdUp3S0s4OXp1VnJzRTJWcUVOTENuYmxhYzcwTmxJMlEySVA5UkNYVzdUeFpMZ1FCc01xNE9PX0o2TzRSOTlV?oc=5) (Fri, 13 Feb 2026 19:26:38 GMT)
+- [This Week in Stablecoins: The Market Starts to Splinter - PYMNTS.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEgyeXM0SmlWbm40Y1VTRzJWaHA4X3Q4bDYwbGVzWVFjWEwtWXJZNEZHdF9qTWxDS3hzTDJ6Y2tWcW0wWUFKVjBhYlN4VzBVNkhNWmg5ZlRWRHJEV1hvNXU0aFU3dXFnVkJ6NjNHQ3V4aGdzZG9mSmF6ci1sOXVaZlV6TGlFLXF1aGlWWlN0R3NaUnlpeWV5bXlR?oc=5) (Fri, 13 Feb 2026 18:51:19 GMT)
+- [Nomura, Daiwa, Japan’s big 3 banks to test stablecoin securities settlement - ledgerinsights.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVzVaMGZicVBMWGg4TFczcjZEbEZVX3I4eGU3VVlEdEdFX1JxNjlMQzhoamp6OW5WU2ZmUDZCMW16TUpCZXFkazdTTlhHekVkdkFOT3ZPZEZ6bncybmkxUVplM3BEVkpyaElPS1Z5QjFOM09ROXp6UWY4Qm9yVmh6eTRSUFl2VVpBNkNZQmVuTkVPdWQtdDZUeFFXQWMwRm84OTlwMVE2bw?oc=5) (Fri, 13 Feb 2026 17:10:37 GMT)
 
 <!-- END_dashboard -->
 
