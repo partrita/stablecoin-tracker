@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-15 01:25:54 (UTC)*
+*Last Updated: 2026-02-16 01:22:05 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$291,617,933,955** | 🟢 +0.03% | 🔴 -0.29% |
+| **$291,650,756,713** | 🟢 +0.01% | 🟢 +0.05% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [OKX Ventures backs RWA stablecoin with Securitize, Hamilton Lane - MSN](https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmxUeEp5TWNsal9jVDJ3U1BoQl9BWmNENllZdVVLd21laExtc0NaV3Q4aGZEYUZTaWJmclVRU3lpM1pqOVBwX3dTUmxGV25ZYXcxTEdEdTktN09SMVRDTkFiVUpST1JYa2FnTVVBYVQ0OGw5ZjE2WW9jV0pETmtidHNzQnozUWhSWTh1MUxlWWZTODVaNDJPNHlxYS1wMUlNaUxNYmxhY3FPVGVCNFFiTlN6NzU5Wi16UEt3ZVlPZ3FkMXd4?oc=5) (Sat, 14 Feb 2026 16:19:36 GMT)
-- [Crypto group counters Wall Street bankers with its own stablecoin principles for bill - CoinDesk](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNDFOV3Zkd3poWHhiVXM2V3dTY3pySGh2RVY4OUJWWkZ6cUZmTk01Qm1oTmVSaXFsN3F4a0FOeTgyZi10NTFjbVVwSEV0TlQ2dGc0d3RUQnVyby1LeGEwdmN2dEFLd0ZmcWxoSlZWODFRWTY2SFpSWlZ4NmZMYnhtTl9RUGFGSlZVdUp3S0s4OXp1VnJzRTJWcUVOTENuYmxhYzcwTmxJMlEySVA5UkNYVzdUeFpMZ1FCc01xNE9PX0o2TzRSOTlV?oc=5) (Sat, 14 Feb 2026 11:21:40 GMT)
-- [Brazil to Propose 3.5% Tax on Stablecoin Purchases and Remittances - Bitcoin.com News](https://news.google.com/rss/articles/CBMilgFBVV95cUxQUGhLeXBDU0hkNUw2Nmw0X202b0xtRVpYSnZCNGppcGFIYWFXemNIa3lBcDkwU0xLX1RNMVZEdl9obm9FeHN3T3VWMTByWEJ3UTlobVJSRXVXcG1qbWdTNlgwbmxDQ2lSS1BUVXRMNTZSWk5zdjFhX1c0UG01aEhUZTM0aU5XMC1JeDVfUlU0OXBTOUpocVE?oc=5) (Sat, 14 Feb 2026 10:39:41 GMT)
-- [Stablecoin Airdrops and 1,000 USDe Jackpot: Bybit Earn Announces Valentine's Day Surprises for New Users - PR Newswire](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRU12V2ZubFM5bGNTQ1VRRHAwUDduMTVfZmZXcm1xcDd6S0NVU3pobG9xWXR2Rzh2ZDJjRmJlcnNwblFtQ1d5SGhxUWVBQ01ZOVdpTFZCbC02bTZMM3JLU0toYmc5T0RVcjhMNkNoWk1mQ0QtQkxQUThaSE9KQUNHMjd4NTBfdFI1V1FtdDZkVUE2TkxrNVZPQks5WDU3eGJsSkRYQXZ0aDBnTkFyb1FqOVBQZjNRVjdhSTBTeDFvWWpya19XWENWUVFpcUxoNEZrczlNejAyTVNLNmxPNi1Yb01mbWI5MldteERyUFNUUQ?oc=5) (Sat, 14 Feb 2026 08:07:00 GMT)
-- [White House crypto adviser says banks shouldn't fear stablecoin yield - TradingView](https://news.google.com/rss/articles/CBMizgFBVV95cUxNWmlQdFgxZlhxUE1SY0RrTk80eXRNU3lnbG4wc3Z0d09xMjRkTUF5clBiMkkxSXpacXF5NFpaWVBSTXFiUEFkWXZQSVUyaW9jXzlUdGo0MEctSVdSclZsenNUQ3MwNDZkTVlKdGtrZnc1ZmVud1BfWHZtdDd4SGNTaUhpQ1dPN0FjSGdPQXlfXzFNUHllTEJmZ3l6YWNJaHNtSng1YmxxbHRKdHhMVW40V1UtZ0k2a3hzY3VoWVc0VFN2em1tbjRRUjVjTmhrdw?oc=5) (Fri, 13 Feb 2026 21:54:56 GMT)
+- [Cardano Sets February Target for USDCx Stablecoin Launch to Boost Liquidity - Yahoo Finance](https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWJvNWk1WHlJdG9kSUlnby1EN1lndjhMbGs2UGk4X0Eyd09PNmdoR2d6dkhDeU1semFtVWdmNnhtUnV5Rld1aFlFMnZ2MXI4OFJmZ3hxdVltT0VVT01JVThFTHQ3ZzhlU0FyM3BDOVg5SDB3ckp2X3RBRU5uRW9vUzVPRzBfdG8?oc=5) (Sun, 15 Feb 2026 18:30:43 GMT)
+- [Coinbase CEO: Stablecoin Rewards Ban Would Be 'More Profitable' for the Exchange - Bitcoin.com News](https://news.google.com/rss/articles/CBMipgFBVV95cUxNME5iaGM4RDNSVGhkVDM2STZWREQzOU1veTgzYXZWY2xOeVVGU0tmY0puUU9yQm9iTXFDWFZUekhSenJDM2RUamxRMFlMM1FzT0VFOV9fWjA4M0lHNHB4QlcxT056bnFJUnJ5VmcyZnBPNUJ6TzM1aWkzUm0wc0xBN2VjUE5EM3pqaTg4di1qdGc0Ql9JZmhpdzlacm5xX2NxSUdMTGNB?oc=5) (Sun, 15 Feb 2026 18:00:33 GMT)
+- [AlloyX-Bahrain FinTech Bay pact targets next-gen regulated stablecoins - Stock Titan](https://news.google.com/rss/articles/CBMivAFBVV95cUxOLW9PX0dnbVFTRkRvNUpIWXJKUGJRaHAyTUJhSTZkSlU3Ql9RSVdkZzh5eExBTnVaemhEM0xVanJZVHdjV3pBSUxLVUkwd2lqUUk0dTlKbDc0V2VDRWplaVZ6eTZabFNnZGxrSHJxcV9Da3AyV1hfM3lEdnVlRkp5cVppRzhPQlFmN1hNNEc5RVQyMmxrUDRoSFFKUGEwNEZlNWRDeGxtYnptYlVWdW9nM3RzcjJUVG5DZk1fMQ?oc=5) (Sun, 15 Feb 2026 12:00:00 GMT)
+- [Stablecoin Market Rebounds Fast—Nearly 90% of Recent Growth Packed Into One Week - Bitcoin.com News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQmFfZlI5dFY4UTcwQWZFU3h1NlBLT1dzUEZrNlh3NGowb1J6MEVCcHluTGgtN1FGdUx0RkRFc0NKbFJjLTZDZnU4YjU3dk1xM2lEeVZaVWJZOFh3QmhaZ3RfMjlSWkpnaENvZ0JLQ2NoUUx0anMzUUxPekVoN1o3Q3p4ZHVaZ0RsekUxaUdfaFBVbUpNemVaYlhneE84cFBsX1IyTTRGUjU?oc=5) (Sun, 15 Feb 2026 02:32:00 GMT)
+- [OKX Ventures backs RWA stablecoin with Securitize, Hamilton Lane - MSN](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNkRtZy1QUmNJbllxTlBtUEpDN2dpZmdpeDY2Vi1fbnNRRHU2RkxwdWxnR042c0s0Q3ZYXzVkQi03NU1XdlYwWDdGUlVRTHk4MzNQVS14OGhEYmdWdUpGUWZqb0NmVC1ocWlrTElYSzBuRUtGRFBxR0lDRFg4ODFWR3YxQjlSd1lVV205SmJhRWJZUF9rY3J3T0FRbktOWlN0RHpyX3FaeEVSZDgyVkt3QmRTSQ?oc=5) (Sun, 15 Feb 2026 00:52:30 GMT)
 
 <!-- END_dashboard -->
 
