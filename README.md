@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-16 01:22:05 (UTC)*
+*Last Updated: 2026-02-17 01:21:44 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$291,650,756,713** | 🟢 +0.01% | 🟢 +0.05% |
+| **$291,768,510,041** | 🟢 +0.04% | 🟢 +0.01% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Cardano Sets February Target for USDCx Stablecoin Launch to Boost Liquidity - Yahoo Finance](https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWJvNWk1WHlJdG9kSUlnby1EN1lndjhMbGs2UGk4X0Eyd09PNmdoR2d6dkhDeU1semFtVWdmNnhtUnV5Rld1aFlFMnZ2MXI4OFJmZ3hxdVltT0VVT01JVThFTHQ3ZzhlU0FyM3BDOVg5SDB3ckp2X3RBRU5uRW9vUzVPRzBfdG8?oc=5) (Sun, 15 Feb 2026 18:30:43 GMT)
-- [Coinbase CEO: Stablecoin Rewards Ban Would Be 'More Profitable' for the Exchange - Bitcoin.com News](https://news.google.com/rss/articles/CBMipgFBVV95cUxNME5iaGM4RDNSVGhkVDM2STZWREQzOU1veTgzYXZWY2xOeVVGU0tmY0puUU9yQm9iTXFDWFZUekhSenJDM2RUamxRMFlMM1FzT0VFOV9fWjA4M0lHNHB4QlcxT056bnFJUnJ5VmcyZnBPNUJ6TzM1aWkzUm0wc0xBN2VjUE5EM3pqaTg4di1qdGc0Ql9JZmhpdzlacm5xX2NxSUdMTGNB?oc=5) (Sun, 15 Feb 2026 18:00:33 GMT)
-- [AlloyX-Bahrain FinTech Bay pact targets next-gen regulated stablecoins - Stock Titan](https://news.google.com/rss/articles/CBMivAFBVV95cUxOLW9PX0dnbVFTRkRvNUpIWXJKUGJRaHAyTUJhSTZkSlU3Ql9RSVdkZzh5eExBTnVaemhEM0xVanJZVHdjV3pBSUxLVUkwd2lqUUk0dTlKbDc0V2VDRWplaVZ6eTZabFNnZGxrSHJxcV9Da3AyV1hfM3lEdnVlRkp5cVppRzhPQlFmN1hNNEc5RVQyMmxrUDRoSFFKUGEwNEZlNWRDeGxtYnptYlVWdW9nM3RzcjJUVG5DZk1fMQ?oc=5) (Sun, 15 Feb 2026 12:00:00 GMT)
-- [Stablecoin Market Rebounds Fast—Nearly 90% of Recent Growth Packed Into One Week - Bitcoin.com News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQmFfZlI5dFY4UTcwQWZFU3h1NlBLT1dzUEZrNlh3NGowb1J6MEVCcHluTGgtN1FGdUx0RkRFc0NKbFJjLTZDZnU4YjU3dk1xM2lEeVZaVWJZOFh3QmhaZ3RfMjlSWkpnaENvZ0JLQ2NoUUx0anMzUUxPekVoN1o3Q3p4ZHVaZ0RsekUxaUdfaFBVbUpNemVaYlhneE84cFBsX1IyTTRGUjU?oc=5) (Sun, 15 Feb 2026 02:32:00 GMT)
-- [OKX Ventures backs RWA stablecoin with Securitize, Hamilton Lane - MSN](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNkRtZy1QUmNJbllxTlBtUEpDN2dpZmdpeDY2Vi1fbnNRRHU2RkxwdWxnR042c0s0Q3ZYXzVkQi03NU1XdlYwWDdGUlVRTHk4MzNQVS14OGhEYmdWdUpGUWZqb0NmVC1ocWlrTElYSzBuRUtGRFBxR0lDRFg4ODFWR3YxQjlSd1lVV205SmJhRWJZUF9rY3J3T0FRbktOWlN0RHpyX3FaeEVSZDgyVkt3QmRTSQ?oc=5) (Sun, 15 Feb 2026 00:52:30 GMT)
+- ['We do not do illegal things': Inside a U.S.-sanctioned stablecoin issuer's race to build a crypto giant - CoinDesk](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUVR1a3pDN0M2bmVIMDBIX0Q3NU5UaUVaaDk1SHhIZHF0MWw4eWZaclZBNF9ncjYzbXZpYmdYOUZLWFA0ZU1oSmYwb01aZmVmYVU0aHVqX2NjRGlLVnFTc1QxbXA3T09TWjVBQzF0TnEtblhLcHZYdmZ6SmhTYlNFYnpHRnZpRng2czVyYjltVnVuYzdmbTZsWEVVYXc5VEZtbnBJVi1vR1ViX05IT1NmLVFBNmJVS2p3S3FPN0plUWE1RkJQdkZKSm5GYXltUllhTjNjRmxjZjZ1M0tJ?oc=5) (Mon, 16 Feb 2026 21:56:40 GMT)
+- [OKX Ventures to invest in STBL to launch RWA-backed stablecoin on X Layer - thestreet.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWE0NjhNaWlPYUlGVXRISFFtMFh6NU5LV1Y4VXl5V3d5UFJyb2txNUVFb0l6Nnp4bVZKbWhoeEI1SmluRl9hNEg0a1pQc19rQzdXRFFMeGdXS0xTWnBLR20xM3o0WTNyY0FsVlMxYWo1S2hURUlENkdZYmFoSVllOUozbDU3VDZmRE9TRktQYWJjWXpzM0cxeU9fQ01FdHpoS3BrX0lCS0RKaDdORlM2WVZJNWw?oc=5) (Mon, 16 Feb 2026 21:02:07 GMT)
+- [NCUA proposes new stablecoin issuer application guidelines under GENIUS Act - JD Supra](https://news.google.com/rss/articles/CBMihAFBVV95cUxOT0ZsZGtVYmN2NVVIOUFrNm13Z1owdXh4T3JoS3o4Y2FxZ0NlSWZjdFA4TUZ4X3RfdkNocWNnV3NnS0huR1NrcTJ4akNaeFc4Q3F6cU53UlNvVW1Cby0zbzZtMmdXMmJOUWdiQXpUTmhVOVpPLTdkV2hNOUNmbGxCMi11bUM?oc=5) (Mon, 16 Feb 2026 19:12:49 GMT)
+- [ECB’s Nagel Touts Euro-Denominated Stablecoins for Payments - Bloomberg](https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVB4ZVNQUXgtTmZDdTVoTWo2WFlHMUFYY3MtN09MZzVELW5UeHQ0WER3MFhDVlpNamIwckhwRzVBZUI3VTdMNkNOMzlkNmhZNGd6Nlc4dnMzS2N5Q1F4SzhTcnVXdWdvWktNcnN6LTljRnhFNFdzcHhkYU04WldmRGJhNVZydEpVQU1fNU5uLUdUem02TktHQnVldnI0TmJocjhIZXdfTl9aaFcxRVNv?oc=5) (Mon, 16 Feb 2026 17:45:00 GMT)
+- [Banks sharpen stance on stablecoin rules during White House clash as key crypto bill remains on ice - AOL.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxOVVNaNk9NSXJVTG1pLThSVzI0NlpUelAzU1lZT2dNR1VlbzhVNFdFM19icUtNMkx6bWR1eWRhVE9jdzRNQzdsWWpQQmxMbnJxaEdwTmdUdHlCQzNfV3NqdkxRaXVYSmIycC13ZHhLOUowRWUwbVYxVC1ScFdXN2pwa0xCejlySzQ?oc=5) (Mon, 16 Feb 2026 17:15:12 GMT)
 
 <!-- END_dashboard -->
 
