@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-17 01:21:44 (UTC)*
+*Last Updated: 2026-02-18 01:23:58 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$291,768,510,041** | 🟢 +0.04% | 🟢 +0.01% |
+| **$291,491,675,397** | 🔴 -0.09% | 🔴 -0.14% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- ['We do not do illegal things': Inside a U.S.-sanctioned stablecoin issuer's race to build a crypto giant - CoinDesk](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUVR1a3pDN0M2bmVIMDBIX0Q3NU5UaUVaaDk1SHhIZHF0MWw4eWZaclZBNF9ncjYzbXZpYmdYOUZLWFA0ZU1oSmYwb01aZmVmYVU0aHVqX2NjRGlLVnFTc1QxbXA3T09TWjVBQzF0TnEtblhLcHZYdmZ6SmhTYlNFYnpHRnZpRng2czVyYjltVnVuYzdmbTZsWEVVYXc5VEZtbnBJVi1vR1ViX05IT1NmLVFBNmJVS2p3S3FPN0plUWE1RkJQdkZKSm5GYXltUllhTjNjRmxjZjZ1M0tJ?oc=5) (Mon, 16 Feb 2026 21:56:40 GMT)
-- [OKX Ventures to invest in STBL to launch RWA-backed stablecoin on X Layer - thestreet.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWE0NjhNaWlPYUlGVXRISFFtMFh6NU5LV1Y4VXl5V3d5UFJyb2txNUVFb0l6Nnp4bVZKbWhoeEI1SmluRl9hNEg0a1pQc19rQzdXRFFMeGdXS0xTWnBLR20xM3o0WTNyY0FsVlMxYWo1S2hURUlENkdZYmFoSVllOUozbDU3VDZmRE9TRktQYWJjWXpzM0cxeU9fQ01FdHpoS3BrX0lCS0RKaDdORlM2WVZJNWw?oc=5) (Mon, 16 Feb 2026 21:02:07 GMT)
-- [NCUA proposes new stablecoin issuer application guidelines under GENIUS Act - JD Supra](https://news.google.com/rss/articles/CBMihAFBVV95cUxOT0ZsZGtVYmN2NVVIOUFrNm13Z1owdXh4T3JoS3o4Y2FxZ0NlSWZjdFA4TUZ4X3RfdkNocWNnV3NnS0huR1NrcTJ4akNaeFc4Q3F6cU53UlNvVW1Cby0zbzZtMmdXMmJOUWdiQXpUTmhVOVpPLTdkV2hNOUNmbGxCMi11bUM?oc=5) (Mon, 16 Feb 2026 19:12:49 GMT)
-- [ECB’s Nagel Touts Euro-Denominated Stablecoins for Payments - Bloomberg](https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVB4ZVNQUXgtTmZDdTVoTWo2WFlHMUFYY3MtN09MZzVELW5UeHQ0WER3MFhDVlpNamIwckhwRzVBZUI3VTdMNkNOMzlkNmhZNGd6Nlc4dnMzS2N5Q1F4SzhTcnVXdWdvWktNcnN6LTljRnhFNFdzcHhkYU04WldmRGJhNVZydEpVQU1fNU5uLUdUem02TktHQnVldnI0TmJocjhIZXdfTl9aaFcxRVNv?oc=5) (Mon, 16 Feb 2026 17:45:00 GMT)
-- [Banks sharpen stance on stablecoin rules during White House clash as key crypto bill remains on ice - AOL.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxOVVNaNk9NSXJVTG1pLThSVzI0NlpUelAzU1lZT2dNR1VlbzhVNFdFM19icUtNMkx6bWR1eWRhVE9jdzRNQzdsWWpQQmxMbnJxaEdwTmdUdHlCQzNfV3NqdkxRaXVYSmIycC13ZHhLOUowRWUwbVYxVC1ScFdXN2pwa0xCejlySzQ?oc=5) (Mon, 16 Feb 2026 17:15:12 GMT)
+- [Credit Unions Gain Path Into Stablecoins — But Not Without Costs, Risks and Strategic Choices - CU Today](https://news.google.com/rss/articles/CBMixgFBVV95cUxOR3lKM0NhWUxMOWtQd0tDbjVheEpSZEJiWV9laHVoMVQteFBRR0JTejRsRll5N3dIdUs2QkhTV3BsWjlzaV90N3dfdzQtVnozb2laSkdFSzloOEYtSXhxX2lYYTNzclZ5NGROQWhrY2h1OVZDbjdxeXhDblJSN0VmVTFSNV9acUE2dXJtVUhwbTJXMHZTNmdHY1JTSEN0dmw4NlhSVE5MSWVjZkRlU2NJQTZsVFpGQlpTU29wZ2p2V2R1WGViZGc?oc=5) (Tue, 17 Feb 2026 23:17:27 GMT)
+- [Stripe-Owned Bridge Gains National Bank Trust Charter to Boost Stablecoin Offerings - Yahoo Finance](https://news.google.com/rss/articles/CBMihwFBVV95cUxQczl0RGNreng0Ym5TZHE0RlludXp4ZzA5WTFrQm01bVlKMTliajNfRTV0NG91RzRmLUVSejMxMThDUTJlTFRFMndna2RxRl9kRkZQb05DRzlWREdHUU91aXVjN1kzblAyYUs4MElib0RNMXc1TG81OEtZV1dYbHNUMjU5aExzTVE?oc=5) (Tue, 17 Feb 2026 22:13:49 GMT)
+- [Stripe-owned stablecoin platform Bridge wins conditional OCC approval for national bank charter - The Block](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEI0d2dVb3RGR0ZOWmxRTDRPQVhVX3BjeGNEd3lvSy1LczIzaXR6ajc1TXV1R3VCSFVqTE12T3Y5aWxXSVJIWlBqc1IyYm5Razh5NUx6LWowajNYT2h3RlVvWEZpUG1BUkNDWFBYd1h4dG5EcDlEdVNCNFNyTTZ5NzVuS0VualJyZVFGa1BpX3N4bXdfby1hc0c4UW5DcHFFQU9mdWF1aUZRRkNVY2xKTjZB?oc=5) (Tue, 17 Feb 2026 21:13:10 GMT)
+- [Stripe's stablecoin firm Bridge wins initial approval of national bank trust charter - CoinDesk](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUXpQWjNMTWxEb0hKUDVKeWRkdGlILXZfSTZySm1Fa2NLNWJHTjJkTU9sYnhBRklDbV9nYzhfc0VFRmdhRjVyYnRxSFNPX1FNZTBhaWY2NUNVQmhRMFJtajlzMGgwd3RJYlNwMDU3OEU1SjNHYnZ6QmNXYWlXeGtwN09Qd29vaE5xNWVLcUlrTEV1WmV3cVRnMEwzU2hnSkVTT251YzdxR0lvUlQzWDlnZTR5VXVJTjN5LTN2MWIzSnJTNXBnRW9LWQ?oc=5) (Tue, 17 Feb 2026 20:12:06 GMT)
+- [Malaysia starts sandbox pilots incl tokenized deposits, Stanchart stablecoin - ledgerinsights.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVHBuZzkwbjF1SUNZV2ZCZXpacUlJbHN1OXhxQm5KbE5GSUxIUHozdEk5U0xkMzczSTJkUWFUUFNzMlRMTzZMXzJ2WlNIZEJ6Q3llWk4zWFVOVTFIV2hBSmxRR0wzUjNGeERuWUoyVDUxSlQyQm1JZm1qekdLbkJrWmZrSmstZHdCekI3cy1nRXBjMGZaYXpKWks4ZVpNMW5LUXNHRlRzdndZQ1U?oc=5) (Tue, 17 Feb 2026 18:04:51 GMT)
 
 <!-- END_dashboard -->
 
