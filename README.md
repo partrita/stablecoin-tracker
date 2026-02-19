@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-18 01:23:58 (UTC)*
+*Last Updated: 2026-02-19 01:22:41 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$291,491,675,397** | 🔴 -0.09% | 🔴 -0.14% |
+| **$291,702,445,706** | 🟢 +0.07% | 🟢 +0.04% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Credit Unions Gain Path Into Stablecoins — But Not Without Costs, Risks and Strategic Choices - CU Today](https://news.google.com/rss/articles/CBMixgFBVV95cUxOR3lKM0NhWUxMOWtQd0tDbjVheEpSZEJiWV9laHVoMVQteFBRR0JTejRsRll5N3dIdUs2QkhTV3BsWjlzaV90N3dfdzQtVnozb2laSkdFSzloOEYtSXhxX2lYYTNzclZ5NGROQWhrY2h1OVZDbjdxeXhDblJSN0VmVTFSNV9acUE2dXJtVUhwbTJXMHZTNmdHY1JTSEN0dmw4NlhSVE5MSWVjZkRlU2NJQTZsVFpGQlpTU29wZ2p2V2R1WGViZGc?oc=5) (Tue, 17 Feb 2026 23:17:27 GMT)
-- [Stripe-Owned Bridge Gains National Bank Trust Charter to Boost Stablecoin Offerings - Yahoo Finance](https://news.google.com/rss/articles/CBMihwFBVV95cUxQczl0RGNreng0Ym5TZHE0RlludXp4ZzA5WTFrQm01bVlKMTliajNfRTV0NG91RzRmLUVSejMxMThDUTJlTFRFMndna2RxRl9kRkZQb05DRzlWREdHUU91aXVjN1kzblAyYUs4MElib0RNMXc1TG81OEtZV1dYbHNUMjU5aExzTVE?oc=5) (Tue, 17 Feb 2026 22:13:49 GMT)
-- [Stripe-owned stablecoin platform Bridge wins conditional OCC approval for national bank charter - The Block](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEI0d2dVb3RGR0ZOWmxRTDRPQVhVX3BjeGNEd3lvSy1LczIzaXR6ajc1TXV1R3VCSFVqTE12T3Y5aWxXSVJIWlBqc1IyYm5Razh5NUx6LWowajNYT2h3RlVvWEZpUG1BUkNDWFBYd1h4dG5EcDlEdVNCNFNyTTZ5NzVuS0VualJyZVFGa1BpX3N4bXdfby1hc0c4UW5DcHFFQU9mdWF1aUZRRkNVY2xKTjZB?oc=5) (Tue, 17 Feb 2026 21:13:10 GMT)
-- [Stripe's stablecoin firm Bridge wins initial approval of national bank trust charter - CoinDesk](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUXpQWjNMTWxEb0hKUDVKeWRkdGlILXZfSTZySm1Fa2NLNWJHTjJkTU9sYnhBRklDbV9nYzhfc0VFRmdhRjVyYnRxSFNPX1FNZTBhaWY2NUNVQmhRMFJtajlzMGgwd3RJYlNwMDU3OEU1SjNHYnZ6QmNXYWlXeGtwN09Qd29vaE5xNWVLcUlrTEV1WmV3cVRnMEwzU2hnSkVTT251YzdxR0lvUlQzWDlnZTR5VXVJTjN5LTN2MWIzSnJTNXBnRW9LWQ?oc=5) (Tue, 17 Feb 2026 20:12:06 GMT)
-- [Malaysia starts sandbox pilots incl tokenized deposits, Stanchart stablecoin - ledgerinsights.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVHBuZzkwbjF1SUNZV2ZCZXpacUlJbHN1OXhxQm5KbE5GSUxIUHozdEk5U0xkMzczSTJkUWFUUFNzMlRMTzZMXzJ2WlNIZEJ6Q3llWk4zWFVOVTFIV2hBSmxRR0wzUjNGeERuWUoyVDUxSlQyQm1JZm1qekdLbkJrWmZrSmstZHdCekI3cy1nRXBjMGZaYXpKWks4ZVpNMW5LUXNHRlRzdndZQ1U?oc=5) (Tue, 17 Feb 2026 18:04:51 GMT)
+- [Japan Experiments with My Number Card for Stablecoin Payments - 조선일보](https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGVRcWpZQXhlU2o0Smlpd1BIUEk2bjhoQVo5SE1OQXo2ZFpPNDZad3pzdk43ck51LWRrR1ZiMlZ2d2R5WVdWb1lHQzUzREFqdnBmTklsRDVfUkhCOVNnX0htb3lWaUpPbzV2N3Z3RDFNT21BWml6RVNndDdLa1dTMENRSnh4OGxuRFhwUG13?oc=5) (Thu, 19 Feb 2026 00:12:47 GMT)
+- [Bitcoin poised for another leg down as stablecoin dominance climbs - KITCO](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZDQ3TVh3Z2lSVTlMbGxkNENWLVQ5MUg1Y0pHaEtVdlk2TWd1NHVvam5mQkNubXZQZFpOSlVPaG5oTGFWd2ItVnVBTEZ5TE0ySUdmOXFfRUh0QktLMmdBb0RrOTB6Qlc2ZDRlME1wcnFicFJDdmVKTzRzNmZURHFHRUNtR01PYVBIU3F0cjJZV3dIak9FV3lBZHozMGI2V3ZJbXc?oc=5) (Wed, 18 Feb 2026 20:44:19 GMT)
+- [US Congress Ramps Up Push for CLARITY Act as Stablecoin Tensions Loom Large : Analysis - Crowdfund Insider](https://news.google.com/rss/articles/CBMizgFBVV95cUxOaW42TFJUSFNlM0Uzbk5aYTNuWVZvdFdjQW9LSEpfaXo1TldjNmduM1F2a0tIZVVSa3hLX0ppb3k1R0VZNGM2aFhVb05vNFgzcWdXaC1KeXVLR2FqbnowR29lTnZNSDRqRW9pTWQyZ1pOVllGTEo2dnloaldrNDVGdTliWENJaVJheGtFTmM4dGtjY3N3YU5ybEJ1NDBPSG1xcnpKZlJvME9FYktmWGdwZjQ3YlBRU2Z0ZkNQX2RJY1c4aWNyTkpWNXlfTVBvZw?oc=5) (Wed, 18 Feb 2026 20:29:55 GMT)
+- [Visa Helps Wirex Provide Stablecoin Payments for BaaS Clients - PYMNTS.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHpTQkloeDR6ODlBbUs5RWVRZEZZb2VKclZjcnZURmEtSkhfQ0VZZGIxZVEtRWFYTGhMZEJaWXk1SG00MEFLQno1X09SNmJKMFNGT0VYTzdaV2ZoemlwamlyTW4zZ2l2MjJGejN2VTNxWnpic3k5UVFuVlgwZEN6YVl6M1RMMVBKNlNvbHpZM2w2MFBLU2U3a2JqSHY4blVuS0NsT3JR?oc=5) (Wed, 18 Feb 2026 18:06:31 GMT)
+- [Loyalty becomes lifestyle: Rain and Uptop on stablecoin rewards - The Block](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2pWdGRNckYxaW5hTF9tT3Rld3E5V1BOTzlvcndWbWtTVWhMZk4wYXRsUG1mYkQ0MUtoOWJwY1ZXakxtNFlzMWV5YVZaNXZWVE9qV25zQkQ1UjlKNTdNSE9BYVRwX2NJV2tKNFV4d29sei1yd2hRR25IVG9aTS1LVjF2ZGZoVTlyYWk1TDFOQTJGWmxSaDhxRkRRNHBOWHM?oc=5) (Wed, 18 Feb 2026 17:31:45 GMT)
 
 <!-- END_dashboard -->
 
