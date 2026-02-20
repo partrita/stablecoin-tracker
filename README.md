@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-19 01:22:41 (UTC)*
+*Last Updated: 2026-02-20 01:18:54 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$291,702,445,706** | 🟢 +0.07% | 🟢 +0.04% |
+| **$291,852,279,441** | 🟢 +0.05% | 🟢 +0.22% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Japan Experiments with My Number Card for Stablecoin Payments - 조선일보](https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGVRcWpZQXhlU2o0Smlpd1BIUEk2bjhoQVo5SE1OQXo2ZFpPNDZad3pzdk43ck51LWRrR1ZiMlZ2d2R5WVdWb1lHQzUzREFqdnBmTklsRDVfUkhCOVNnX0htb3lWaUpPbzV2N3Z3RDFNT21BWml6RVNndDdLa1dTMENRSnh4OGxuRFhwUG13?oc=5) (Thu, 19 Feb 2026 00:12:47 GMT)
-- [Bitcoin poised for another leg down as stablecoin dominance climbs - KITCO](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZDQ3TVh3Z2lSVTlMbGxkNENWLVQ5MUg1Y0pHaEtVdlk2TWd1NHVvam5mQkNubXZQZFpOSlVPaG5oTGFWd2ItVnVBTEZ5TE0ySUdmOXFfRUh0QktLMmdBb0RrOTB6Qlc2ZDRlME1wcnFicFJDdmVKTzRzNmZURHFHRUNtR01PYVBIU3F0cjJZV3dIak9FV3lBZHozMGI2V3ZJbXc?oc=5) (Wed, 18 Feb 2026 20:44:19 GMT)
-- [US Congress Ramps Up Push for CLARITY Act as Stablecoin Tensions Loom Large : Analysis - Crowdfund Insider](https://news.google.com/rss/articles/CBMizgFBVV95cUxOaW42TFJUSFNlM0Uzbk5aYTNuWVZvdFdjQW9LSEpfaXo1TldjNmduM1F2a0tIZVVSa3hLX0ppb3k1R0VZNGM2aFhVb05vNFgzcWdXaC1KeXVLR2FqbnowR29lTnZNSDRqRW9pTWQyZ1pOVllGTEo2dnloaldrNDVGdTliWENJaVJheGtFTmM4dGtjY3N3YU5ybEJ1NDBPSG1xcnpKZlJvME9FYktmWGdwZjQ3YlBRU2Z0ZkNQX2RJY1c4aWNyTkpWNXlfTVBvZw?oc=5) (Wed, 18 Feb 2026 20:29:55 GMT)
-- [Visa Helps Wirex Provide Stablecoin Payments for BaaS Clients - PYMNTS.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHpTQkloeDR6ODlBbUs5RWVRZEZZb2VKclZjcnZURmEtSkhfQ0VZZGIxZVEtRWFYTGhMZEJaWXk1SG00MEFLQno1X09SNmJKMFNGT0VYTzdaV2ZoemlwamlyTW4zZ2l2MjJGejN2VTNxWnpic3k5UVFuVlgwZEN6YVl6M1RMMVBKNlNvbHpZM2w2MFBLU2U3a2JqSHY4blVuS0NsT3JR?oc=5) (Wed, 18 Feb 2026 18:06:31 GMT)
-- [Loyalty becomes lifestyle: Rain and Uptop on stablecoin rewards - The Block](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2pWdGRNckYxaW5hTF9tT3Rld3E5V1BOTzlvcndWbWtTVWhMZk4wYXRsUG1mYkQ0MUtoOWJwY1ZXakxtNFlzMWV5YVZaNXZWVE9qV25zQkQ1UjlKNTdNSE9BYVRwX2NJV2tKNFV4d29sei1yd2hRR25IVG9aTS1LVjF2ZGZoVTlyYWk1TDFOQTJGWmxSaDhxRkRRNHBOWHM?oc=5) (Wed, 18 Feb 2026 17:31:45 GMT)
+- [Latest White House talks on stablecoin yield make 'progress' with banks, no deal yet - CoinDesk](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXZZRVJrbjlqNTRKLWVaeU05SHJuR1FTOVNWajRYTzJlQmJDa1M1ZXpld09vUGdHVDdVYzRMZW5EY05HanU4dzE3aHRfZko3SERWaVlYeE10cWtReU01Tm5oOGJIQ1FuRXVXSEN5MlNTcnFfc2JINGFpS3hLeEFkQXp1bGsweUY4Ri05Q0lLcTdSSVhBSzhrbWhELU5GVFYzZFpqendMdXRGTFlWVWY4ZEdfNlFld3plUS1BNVBzeU54dw?oc=5) (Thu, 19 Feb 2026 23:39:40 GMT)
+- [Stripe-owned Bridge acquires trust charter for stablecoins - American Banker](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2VuUXkxUEZSQ09wRExIaGJsXzBnRUktWXZkT0FRVDVBRGVSYVFoRE5DRjF5aE5RTVF0Q0FkaTNwYUt1OTJ5anZJR2hyZXI1bHl0NnhCa2t0RUhQRk9NOS1LLU5RcFR6amh6ZmFOMTQ3SG1SUGhscU1QUUItSVhLSUFJcUZNSFdscGdvSEdheXVsOUEyU1FoM0x3?oc=5) (Thu, 19 Feb 2026 22:54:00 GMT)
+- [Inside the meeting: White House favors some stablecoin rewards, tells banks it's time to move - CoinDesk](https://news.google.com/rss/articles/CBMizwFBVV95cUxPalFZVUdCSTFnNmlDNFVNMjFRenBnTHUxXzRIRFhGTWJCd1Zreno2ZTFlYmMxemhxaXF6NW1nT3UtQS1PZ29ldFg1WlpnNWxzZGlhRDlxb3ZLYmZGbHVGU2VTY2JZYkY3N1NESUdZbHl0RHpKV3JiOEVSRlpGOTFIM3NPOXc3emxfZHFXNkRqOFplUEVjYm9ZRkVtdzBESDhHakx1RGVTZVBOWDVTazg2SXdqQ2FQd0ZwV2gta0V4Mm1rXzlXRVBaSUlpYmh3QTQ?oc=5) (Thu, 19 Feb 2026 22:39:37 GMT)
+- [Banks and Stablecoin Wallets Battle for Digital Cash’s Front Door - PYMNTS.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUtsUDdCa0M0REhaclVLcGY1TmpSSnZfUE9zdXIwbFZyNTNWZUJpU1l1Y0xyODUxYlh6RlJSLW5mVXpiWFg0elBhX01kSnFLcDh2TW9PdWVUX3RWV1h4WUw1SjZnS3BkeFhFRURlZldlblFpTmFqZmJNQUtCdnBqOHNkU1JXY05CYlBMWmtQbUtLNkttVVNxUEl6X1JlRFdTTDd5SVVhbXEyaDJn?oc=5) (Thu, 19 Feb 2026 21:46:09 GMT)
+- [Hong Kong's stablecoin drive nears quiet climax - Nikkei Asia](https://news.google.com/rss/articles/CBMimAFBVV95cUxPTFlSTDhjakNYRjZ6aDRiRXBHUE50enAyUGFrZDlNOEJiNWVERVVaRm8ySVZUaUM1MUN5TlAxNHFUTlNXZnlmZ1huZmNfaUwzWEdxS1NYSWQ1SWtLVUVqVnpRQkpBaEhZSUZSV2F4cVJlZWdCclBpWktDSy1KeUtyZWl3TzBadk42Mk1pTE1oUXFNSmIzVnpXYw?oc=5) (Thu, 19 Feb 2026 21:00:00 GMT)
 
 <!-- END_dashboard -->
 
