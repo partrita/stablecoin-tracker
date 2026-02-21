@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-20 01:18:54 (UTC)*
+*Last Updated: 2026-02-21 01:16:33 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$291,852,279,441** | 🟢 +0.05% | 🟢 +0.22% |
+| **$292,463,210,102** | 🟢 +0.21% | 🟢 +0.32% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Latest White House talks on stablecoin yield make 'progress' with banks, no deal yet - CoinDesk](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXZZRVJrbjlqNTRKLWVaeU05SHJuR1FTOVNWajRYTzJlQmJDa1M1ZXpld09vUGdHVDdVYzRMZW5EY05HanU4dzE3aHRfZko3SERWaVlYeE10cWtReU01Tm5oOGJIQ1FuRXVXSEN5MlNTcnFfc2JINGFpS3hLeEFkQXp1bGsweUY4Ri05Q0lLcTdSSVhBSzhrbWhELU5GVFYzZFpqendMdXRGTFlWVWY4ZEdfNlFld3plUS1BNVBzeU54dw?oc=5) (Thu, 19 Feb 2026 23:39:40 GMT)
-- [Stripe-owned Bridge acquires trust charter for stablecoins - American Banker](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2VuUXkxUEZSQ09wRExIaGJsXzBnRUktWXZkT0FRVDVBRGVSYVFoRE5DRjF5aE5RTVF0Q0FkaTNwYUt1OTJ5anZJR2hyZXI1bHl0NnhCa2t0RUhQRk9NOS1LLU5RcFR6amh6ZmFOMTQ3SG1SUGhscU1QUUItSVhLSUFJcUZNSFdscGdvSEdheXVsOUEyU1FoM0x3?oc=5) (Thu, 19 Feb 2026 22:54:00 GMT)
-- [Inside the meeting: White House favors some stablecoin rewards, tells banks it's time to move - CoinDesk](https://news.google.com/rss/articles/CBMizwFBVV95cUxPalFZVUdCSTFnNmlDNFVNMjFRenBnTHUxXzRIRFhGTWJCd1Zreno2ZTFlYmMxemhxaXF6NW1nT3UtQS1PZ29ldFg1WlpnNWxzZGlhRDlxb3ZLYmZGbHVGU2VTY2JZYkY3N1NESUdZbHl0RHpKV3JiOEVSRlpGOTFIM3NPOXc3emxfZHFXNkRqOFplUEVjYm9ZRkVtdzBESDhHakx1RGVTZVBOWDVTazg2SXdqQ2FQd0ZwV2gta0V4Mm1rXzlXRVBaSUlpYmh3QTQ?oc=5) (Thu, 19 Feb 2026 22:39:37 GMT)
-- [Banks and Stablecoin Wallets Battle for Digital Cash’s Front Door - PYMNTS.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUtsUDdCa0M0REhaclVLcGY1TmpSSnZfUE9zdXIwbFZyNTNWZUJpU1l1Y0xyODUxYlh6RlJSLW5mVXpiWFg0elBhX01kSnFLcDh2TW9PdWVUX3RWV1h4WUw1SjZnS3BkeFhFRURlZldlblFpTmFqZmJNQUtCdnBqOHNkU1JXY05CYlBMWmtQbUtLNkttVVNxUEl6X1JlRFdTTDd5SVVhbXEyaDJn?oc=5) (Thu, 19 Feb 2026 21:46:09 GMT)
-- [Hong Kong's stablecoin drive nears quiet climax - Nikkei Asia](https://news.google.com/rss/articles/CBMimAFBVV95cUxPTFlSTDhjakNYRjZ6aDRiRXBHUE50enAyUGFrZDlNOEJiNWVERVVaRm8ySVZUaUM1MUN5TlAxNHFUTlNXZnlmZ1huZmNfaUwzWEdxS1NYSWQ1SWtLVUVqVnpRQkpBaEhZSUZSV2F4cVJlZWdCclBpWktDSy1KeUtyZWl3TzBadk42Mk1pTE1oUXFNSmIzVnpXYw?oc=5) (Thu, 19 Feb 2026 21:00:00 GMT)
+- [SEC makes quiet shift to brokers' stablecoin holdings that may pack big results - CoinDesk](https://news.google.com/rss/articles/CBMivgFBVV95cUxNSExJWHhJcS1iX25xRC1sTTBEbFVpUW1kWExGWWY2UWctTkp4bXp4NWVoaUVUaGZnMklnMGNnNG9NWndtVFM1cjFtOGpPRUp0OGM1VlBmbVNYaWs5aG5FZ2NOakdEWUxuS29JamxJaGRDUHJ0VmNvZTFORFZrUUxYb0V3dzRsT0tLdUpuYVZScE5nd0FJRjF2a2xQNkxKaUwxSU41SzZFaXdOZGYydW95YjlyR2RUYnVLLUkwU3dn?oc=5) (Fri, 20 Feb 2026 22:20:15 GMT)
+- [The SEC Just Opened the Door for Stablecoin Adoption - Yahoo Finance](https://news.google.com/rss/articles/CBMigwFBVV95cUxQUWphRUY0elZFMEtyWjZ5eVdZcWRwMkdibFNkNTNZLWlrU2FZTU9jei1OSEt1ZGlBQnJnWEQ3cndpeTlvb3BmSFUzRE9udEl4dWUwajZRTlk4aUVPZFItRnVVazFpMXYzX3hfQnZtVkF6QUJrYVJPalJCalVSUVBmclhsWQ?oc=5) (Fri, 20 Feb 2026 20:27:43 GMT)
+- [Opening the door: SEC issues guidance on brokers’ capital stablecoin requirements - The Block](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRkt2TEJvVFFCZHB3Zm11NmJTXzZpYXZRaXFnM1lGZF9VWVh0ek5UbFpZSVI0QzFyN0NRUWtldjUzOVN1S21jMDFoaUlTa3JXMF9oUzgtd0I5b3hqSVY4Z2N6aUNSLTFkOEJPcDhkbE9XOFpZZnRqTnNRX0RUWmI0SF9tZ0Vkdks5QUljUWJIajVnRkExdl9tSXk0UXp6ZnhTN1hST08yc2VFdEh2Q2VNaXU4SUJpdw?oc=5) (Fri, 20 Feb 2026 19:44:59 GMT)
+- [ProShares' stablecoin-ready ETF generates record $17 billion in day-one trading volume - The Block](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU1ktdGk0a09zd3U5Mks2U0NMQ0wyeDNjR0NxcHRYTUJrRmRXSEp0aHBPc3BLTmp5dzBFcFhSZTNOUTBfM3E0dGVYemc2UFVZQVZWWElid2FTazE5bEZnbEFWMUZqaDYydG1MU3hNXzRPVk5POG45NE9MQ2xubktaMDV5ckVBLUZadTFCcmVvdmlPUEN5WVNOdHFuV2NHMVlWYTc0cm9fR1ROQmRrQ2lhS0dLckJVRUZma1pNQQ?oc=5) (Fri, 20 Feb 2026 19:43:20 GMT)
+- [ICYMI: New Op-Ed Highlights Why Interest-Bearing Stablecoins Would Harm Main Streets Across America - consumerbankers.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR0RaUUQ2elhITnRHRDZpd210ZVVicTZNT3JIUGZRMkgwekQ4S1RHYUJSTUxMcEgwU2p0cjNVUUttUnk4elp2TWNvXzBiY3R5ZHphZFU1STU0QzlKc1ktLWFnYWRpeVVFc2N0bzBFU3pEVXp3Z0gxb1U2TU9mOWxsTXFQWjliQmRTdHVVT0l3ZFotdzZUTjVUZHYxcU80a2w1dVlMWUx4aHBBMVZDQWlFeDJkdEh5VDl0SFZpSWhxaE9kQUlhQ3N1d0E0T3JBQ2pYd1g3TElqRFU?oc=5) (Fri, 20 Feb 2026 19:36:43 GMT)
 
 <!-- END_dashboard -->
 
