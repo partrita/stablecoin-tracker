@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-22 01:22:00 (UTC)*
+*Last Updated: 2026-02-23 01:21:25 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,386,968,915** | 🔴 -0.03% | 🟢 +0.26% |
+| **$292,286,499,110** | 🔴 -0.03% | 🟢 +0.22% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Forget AI Stocks: This Stablecoin Provider Is the Utility Stock of Digital Assets - Nasdaq](https://news.google.com/rss/articles/CBMingFBVV95cUxNLWh4eFc2TEZFdnV2dzJWV1NmdGhsbFNlUlNqbzZEazBRQkZNLTdhVGtPTFVyX0VBd1Njei1QQ01HYTRySEZNMHBzRVRCc09qU2h5OWZrTkJjRHVCdlliMmFjbEdNNGRyVmhJVm9vRGY3S25ZNmdHaXp2bmtVZGM3a0JPdm44cnhfWjFENUY3WmFnb0tvXzhZbk5CTl81QQ?oc=5) (Sat, 21 Feb 2026 15:41:00 GMT)
-- [Forget AI Stocks: This Stablecoin Provider Is the Utility Stock of Digital Assets - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxPX1VrWHlEMzJFZTRzMWRTWEppTV9LQ1g5Z19jYWlNVXlKakV2c0xZcmVjajJVOWp2UE92UExOb25YT1NmdFRaVk9ncldDZWJiX1FMTXdYbHF5Sndmdm1Makc3R2t3Y183a1RPRFNhb3pMNHZva1o3YTB5VFdHNTliT0xVNWFxV3FLaHY4MjkxNEJ4OC0tQjYtZw?oc=5) (Sat, 21 Feb 2026 15:21:00 GMT)
-- [SEC makes quiet shift to brokers' stablecoin holdings that may pack big results - CoinDesk](https://news.google.com/rss/articles/CBMivgFBVV95cUxNSExJWHhJcS1iX25xRC1sTTBEbFVpUW1kWExGWWY2UWctTkp4bXp4NWVoaUVUaGZnMklnMGNnNG9NWndtVFM1cjFtOGpPRUp0OGM1VlBmbVNYaWs5aG5FZ2NOakdEWUxuS29JamxJaGRDUHJ0VmNvZTFORFZrUUxYb0V3dzRsT0tLdUpuYVZScE5nd0FJRjF2a2xQNkxKaUwxSU41SzZFaXdOZGYydW95YjlyR2RUYnVLLUkwU3dn?oc=5) (Fri, 20 Feb 2026 22:22:22 GMT)
-- [CME's 24/7 Trading Launch, and Solana's Meme Coin Surge - Investing News Network](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5) (Fri, 20 Feb 2026 21:05:00 GMT)
-- [The SEC Just Opened the Door for Stablecoin Adoption - Yahoo Finance](https://news.google.com/rss/articles/CBMigwFBVV95cUxQUWphRUY0elZFMEtyWjZ5eVdZcWRwMkdibFNkNTNZLWlrU2FZTU9jei1OSEt1ZGlBQnJnWEQ3cndpeTlvb3BmSFUzRE9udEl4dWUwajZRTlk4aUVPZFItRnVVazFpMXYzX3hfQnZtVkF6QUJrYVJPalJCalVSUVBmclhsWQ?oc=5) (Fri, 20 Feb 2026 20:27:43 GMT)
+- [Assessing Shift4 Payments (FOUR) Valuation After Stablecoin Launch And Mixed Analyst And Institutional Activity - simplywall.st](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUstd2ZEV2IyV0pRVlVZV1NRSmt0R0p3RjBYM0lxMGRxQ0NsT0Y5WU5vNnFxeGFWNkx6cG5rUVpla2tsRnJGUFN0RzBpcjFaOGkxc1pYM0pGMlA0U19GV3l4TkhhUlpWR3Q1bDRnVUI4cm55M0lLZkpNOUdnaENuQWJzOEhVSHB0WEF2VW9lcUhtQV8wVC04cFRRYk03OGFFMUVGYjVJQW1WbDFObTA2bVk1T2NfM0VyRVZZTGRBU21vZXZoc1ZBR25ndFM4SlhCYTQ3N0dmNmY2RkQxNGJ30gHkAUFVX3lxTE9LTVViQ3RuMWEyNnZUSlBUMy05NnVCTU1iTjVfWVpEMTdjRHdwNTBUY2hpSkVLRnpTU2x0SFJWTkdNZXNHWXY0NUstM21XSTFQM1ZacWRzakRCZmNkOHIySlRVeFpqQy1TVjRnVVNuR0RIdGR2R3V3NVltMU9lXzlMdG5ScXJNeFJNWHB6Vm9OVTFjSW5sbU9WUllwZXg3R0plUDN2blV5bEcwRVNxNDlJMFRfMzVKdTJ2cVdBYkJNUlJHcjRvVXZ3Nm5WNTQ1MFR0Nkx1LXp4elQtZE1LVDhYRFBIOQ?oc=5) (Sun, 22 Feb 2026 23:35:30 GMT)
+- [XRP Ledger Sees Société Générale Launch First Euro Stablecoin - Yahoo Finance](https://news.google.com/rss/articles/CBMid0FVX3lxTE1qWEVFelJMbzlUdmJ6Q1pkV1Z2QXM3MkdNTmExMFo1QjI2a1JUTl92VXlTNGZ0M3didlFXNUpEckFRa2Nvb0ZPcW5oRTJlOTdaUzB5R2c5ei01c3ViNl91QUdfVXRZWWN3RTdnTHE1NnluTmd0d2Rn?oc=5) (Sun, 22 Feb 2026 22:30:44 GMT)
+- [Wirex Unveils Stablecoin Push-to-Card - Crowdfund Insider](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdXk5elFlckJMbUNLbk5oRHpDNm14VVdnWWRucXY4Qkt0WHZVZlR4SHdyU3Y4bDNfcjd4SExFYmhxR01lRWZTTGJhTS1nTGVycWUxNkhqdE1RWlNzUVZwUzAtZzFXTDNRdVlhQUNlRWFWNVlBZDRsRHNuYzNFZXdfMkFMbmw2OExEOUhVSy1kQQ?oc=5) (Sun, 22 Feb 2026 19:33:14 GMT)
+- [ProShares' stablecoin-ready ETF sees $17 billion debut, sparking speculation about Circle - CoinDesk](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaFA4c1NNUGM0d0dNQUVqSmh6U3dOeGpoUklVTVQzZUstOUxXNEZBUl9tZWFIenlKYkg4eElqVE81QUFXSVFsTzUzSVdaYUpaQkRPLUpyTmtZTDVoSU1ISGtJZ3piVHV4TWpKNGZBanE3M09OemY1OFZaRTJVLU9hTU5nS05YU21BN0FOQl9Ec1FQcFBXMWlKV0Q2TjR4WG9hZV9YM0pCMEVvT3owTXJvZGxrVUhQRjlpM3ZFTEsxRXVWNmEtM3o0bzNzRVFIdw?oc=5) (Sun, 22 Feb 2026 15:04:22 GMT)
+- [CLARITY Act Showdown: March 1 Red Line on Stablecoin Yield - Disruption Banking](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMzhqNlR2NUs3TWkzV01qa2RwLUhSTFdnb1U4SFRJVFVXNGl0UzhVcmswZHJORUlReXc2ZEltSEFzR2JYaW1pdmkyeFhhLVFKSXk5Tjlsa18xZkI1dFlIdXFHWFUwcWhLaXdhaDlId2U0bkJhSUMzdi15dWxDVGpQMXpDUkxJQkU4c1VtUktSbWZuUmZVTkJNWXNNR2MwWjhvbVlEWEFR?oc=5) (Sat, 21 Feb 2026 16:12:29 GMT)
 
 <!-- END_dashboard -->
 
