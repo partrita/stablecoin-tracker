@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-23 01:21:25 (UTC)*
+*Last Updated: 2026-02-24 01:20:30 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,286,499,110** | 🔴 -0.03% | 🟢 +0.22% |
+| **$292,253,771,511** | 🔴 -0.01% | 🟢 +0.17% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Assessing Shift4 Payments (FOUR) Valuation After Stablecoin Launch And Mixed Analyst And Institutional Activity - simplywall.st](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUstd2ZEV2IyV0pRVlVZV1NRSmt0R0p3RjBYM0lxMGRxQ0NsT0Y5WU5vNnFxeGFWNkx6cG5rUVpla2tsRnJGUFN0RzBpcjFaOGkxc1pYM0pGMlA0U19GV3l4TkhhUlpWR3Q1bDRnVUI4cm55M0lLZkpNOUdnaENuQWJzOEhVSHB0WEF2VW9lcUhtQV8wVC04cFRRYk03OGFFMUVGYjVJQW1WbDFObTA2bVk1T2NfM0VyRVZZTGRBU21vZXZoc1ZBR25ndFM4SlhCYTQ3N0dmNmY2RkQxNGJ30gHkAUFVX3lxTE9LTVViQ3RuMWEyNnZUSlBUMy05NnVCTU1iTjVfWVpEMTdjRHdwNTBUY2hpSkVLRnpTU2x0SFJWTkdNZXNHWXY0NUstM21XSTFQM1ZacWRzakRCZmNkOHIySlRVeFpqQy1TVjRnVVNuR0RIdGR2R3V3NVltMU9lXzlMdG5ScXJNeFJNWHB6Vm9OVTFjSW5sbU9WUllwZXg3R0plUDN2blV5bEcwRVNxNDlJMFRfMzVKdTJ2cVdBYkJNUlJHcjRvVXZ3Nm5WNTQ1MFR0Nkx1LXp4elQtZE1LVDhYRFBIOQ?oc=5) (Sun, 22 Feb 2026 23:35:30 GMT)
-- [XRP Ledger Sees Société Générale Launch First Euro Stablecoin - Yahoo Finance](https://news.google.com/rss/articles/CBMid0FVX3lxTE1qWEVFelJMbzlUdmJ6Q1pkV1Z2QXM3MkdNTmExMFo1QjI2a1JUTl92VXlTNGZ0M3didlFXNUpEckFRa2Nvb0ZPcW5oRTJlOTdaUzB5R2c5ei01c3ViNl91QUdfVXRZWWN3RTdnTHE1NnluTmd0d2Rn?oc=5) (Sun, 22 Feb 2026 22:30:44 GMT)
-- [Wirex Unveils Stablecoin Push-to-Card - Crowdfund Insider](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdXk5elFlckJMbUNLbk5oRHpDNm14VVdnWWRucXY4Qkt0WHZVZlR4SHdyU3Y4bDNfcjd4SExFYmhxR01lRWZTTGJhTS1nTGVycWUxNkhqdE1RWlNzUVZwUzAtZzFXTDNRdVlhQUNlRWFWNVlBZDRsRHNuYzNFZXdfMkFMbmw2OExEOUhVSy1kQQ?oc=5) (Sun, 22 Feb 2026 19:33:14 GMT)
-- [ProShares' stablecoin-ready ETF sees $17 billion debut, sparking speculation about Circle - CoinDesk](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaFA4c1NNUGM0d0dNQUVqSmh6U3dOeGpoUklVTVQzZUstOUxXNEZBUl9tZWFIenlKYkg4eElqVE81QUFXSVFsTzUzSVdaYUpaQkRPLUpyTmtZTDVoSU1ISGtJZ3piVHV4TWpKNGZBanE3M09OemY1OFZaRTJVLU9hTU5nS05YU21BN0FOQl9Ec1FQcFBXMWlKV0Q2TjR4WG9hZV9YM0pCMEVvT3owTXJvZGxrVUhQRjlpM3ZFTEsxRXVWNmEtM3o0bzNzRVFIdw?oc=5) (Sun, 22 Feb 2026 15:04:22 GMT)
-- [CLARITY Act Showdown: March 1 Red Line on Stablecoin Yield - Disruption Banking](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMzhqNlR2NUs3TWkzV01qa2RwLUhSTFdnb1U4SFRJVFVXNGl0UzhVcmswZHJORUlReXc2ZEltSEFzR2JYaW1pdmkyeFhhLVFKSXk5Tjlsa18xZkI1dFlIdXFHWFUwcWhLaXdhaDlId2U0bkJhSUMzdi15dWxDVGpQMXpDUkxJQkU4c1VtUktSbWZuUmZVTkJNWXNNR2MwWjhvbVlEWEFR?oc=5) (Sat, 21 Feb 2026 16:12:29 GMT)
+- [SEC Guidance Eases Capital Rules, Pushing Stablecoins Closer to Cash Status - PYMNTS.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTU1wS2U3TkxFU3RKS3lmby1CWWZTaGVKcE5XNVpHdU5Dd0hMUXlkRmdwNDBGSXJJbHJWRU11cWF6ekVUUEhHcWFZbi1FcjBPc09mTF9YVHZsLV9uS2VnXzJrUDQtMlc4cUxSWUpFS200c3dJYnBtdWNHZG9xWS1rTE56el9qRFI5VDdDT2Jkc3A3WjNzNzdFeEpLWmhNa2d5LXZKRUtpbGg5bjRCZVJVLXEtdkVIdV9RWFE?oc=5) (Tue, 24 Feb 2026 00:35:47 GMT)
+- [NCUA Proposes Licensing Framework for Credit Union Stablecoin Subsidiaries - JD Supra](https://news.google.com/rss/articles/CBMihwFBVV95cUxNYmVxR1JrNE5WNzJlOFcwVzJvZnpiTl9oMEdxa2Q0ZGQyclo4dVJWaVRJcm5NS0ZBR3E4bVdOdzgzN3g4QW9WYUppcno3Y1E4ZGplVU5nLXQxNjNOSnVYVGZTb0FqemhJMi0zRmpDTG5aNWxMRUN5ZmpEOHF5cF9qREt4Z1hDemM?oc=5) (Mon, 23 Feb 2026 23:24:46 GMT)
+- [White House Takes The Wheel On The Stablecoin Bill As Yield Debate Narrows - Yahoo Finance](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSlNmMVN2RG01LVdEcnpfQVhod2U1TG8zTjhqUmlqR2J2VDMzenpSSVh2UjRBcjJ6WXh2VnF4VW9TMS1YNGhTNnh3LWhnWHQydGpVa1dUX3J2dGluME9DQXdpMjdyN1M0SDV4cEJFcWJBUlk3N1pLRW5odHliSkFuM2pKc093ME0?oc=5) (Mon, 23 Feb 2026 23:00:58 GMT)
+- [World Liberty’s stablecoin attacked, Trump-backed crypto group says - Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE5hT0lONVdCaXdOd0dWUkF3WTUwRzM0MExaNlhPNFlJNkxDNmROa1hzUTU2aEFKd1ZkTmhoXzZ2SWVObmtaSzd6NjZ5VVhWLUdIclp2R05VX3prajhnYXN0eDkxZ2x2MV9kQ21uQ3dmSGg?oc=5) (Mon, 23 Feb 2026 22:37:20 GMT)
+- [Trump-Linked Stablecoin Briefly Dipped Below $1 - The Information](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUjVzTFhlODVZcktOWnJTM0V6TmRRNmpHaFU5Z2oydW84TmZpSVIzU3Y1UlYzN3NVbDVIZExvaDNWeFhVQUZmUGxJSUFCcFRoY1pFTlFDN2c5cVA1MWY2SWpzaGEwWUtfSDM5ay1uVmQzblBXWl9hU0JPY2UyNVdkZDFNbWp6QkNR?oc=5) (Mon, 23 Feb 2026 22:36:34 GMT)
 
 <!-- END_dashboard -->
 
