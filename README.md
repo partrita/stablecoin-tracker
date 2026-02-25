@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-24 01:20:30 (UTC)*
+*Last Updated: 2026-02-25 01:24:15 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,253,771,511** | 🔴 -0.01% | 🟢 +0.17% |
+| **$292,483,946,142** | 🟢 +0.08% | 🟢 +0.34% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [SEC Guidance Eases Capital Rules, Pushing Stablecoins Closer to Cash Status - PYMNTS.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTU1wS2U3TkxFU3RKS3lmby1CWWZTaGVKcE5XNVpHdU5Dd0hMUXlkRmdwNDBGSXJJbHJWRU11cWF6ekVUUEhHcWFZbi1FcjBPc09mTF9YVHZsLV9uS2VnXzJrUDQtMlc4cUxSWUpFS200c3dJYnBtdWNHZG9xWS1rTE56el9qRFI5VDdDT2Jkc3A3WjNzNzdFeEpLWmhNa2d5LXZKRUtpbGg5bjRCZVJVLXEtdkVIdV9RWFE?oc=5) (Tue, 24 Feb 2026 00:35:47 GMT)
-- [NCUA Proposes Licensing Framework for Credit Union Stablecoin Subsidiaries - JD Supra](https://news.google.com/rss/articles/CBMihwFBVV95cUxNYmVxR1JrNE5WNzJlOFcwVzJvZnpiTl9oMEdxa2Q0ZGQyclo4dVJWaVRJcm5NS0ZBR3E4bVdOdzgzN3g4QW9WYUppcno3Y1E4ZGplVU5nLXQxNjNOSnVYVGZTb0FqemhJMi0zRmpDTG5aNWxMRUN5ZmpEOHF5cF9qREt4Z1hDemM?oc=5) (Mon, 23 Feb 2026 23:24:46 GMT)
-- [White House Takes The Wheel On The Stablecoin Bill As Yield Debate Narrows - Yahoo Finance](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSlNmMVN2RG01LVdEcnpfQVhod2U1TG8zTjhqUmlqR2J2VDMzenpSSVh2UjRBcjJ6WXh2VnF4VW9TMS1YNGhTNnh3LWhnWHQydGpVa1dUX3J2dGluME9DQXdpMjdyN1M0SDV4cEJFcWJBUlk3N1pLRW5odHliSkFuM2pKc093ME0?oc=5) (Mon, 23 Feb 2026 23:00:58 GMT)
-- [World Liberty’s stablecoin attacked, Trump-backed crypto group says - Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE5hT0lONVdCaXdOd0dWUkF3WTUwRzM0MExaNlhPNFlJNkxDNmROa1hzUTU2aEFKd1ZkTmhoXzZ2SWVObmtaSzd6NjZ5VVhWLUdIclp2R05VX3prajhnYXN0eDkxZ2x2MV9kQ21uQ3dmSGg?oc=5) (Mon, 23 Feb 2026 22:37:20 GMT)
-- [Trump-Linked Stablecoin Briefly Dipped Below $1 - The Information](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUjVzTFhlODVZcktOWnJTM0V6TmRRNmpHaFU5Z2oydW84TmZpSVIzU3Y1UlYzN3NVbDVIZExvaDNWeFhVQUZmUGxJSUFCcFRoY1pFTlFDN2c5cVA1MWY2SWpzaGEwWUtfSDM5ay1uVmQzblBXWl9hU0JPY2UyNVdkZDFNbWp6QkNR?oc=5) (Mon, 23 Feb 2026 22:36:34 GMT)
+- [$154B in Illicit Crypto Flows Raises Stablecoin Questions - PYMNTS.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHBGSFhQSnNkTXNFblIxb284X3lCUlJmQVlaenJNS1ByYThYSVF5N2NMTmJfUTZub21CYXY0WUt6Z0RsV1Y5LWJpY3ktaEw0azluNVRNUUdwQTB2SlYtdW9DTHZCN0FqQ2FpcGVOMGhwX2lCLU1UWnFxallUNVNUd1NYMmJ6azRnUW42YnBjN2k3TG5KZzMtQm45a0Q5SXdFQi1pdkNsYmh4cGVoRHBISkFicXJULWV3b3I0?oc=5) (Tue, 24 Feb 2026 23:12:38 GMT)
+- [Meta Gets Back into Crypto, Plans Stablecoin Integration Later This Year - Gizmodo](https://news.google.com/rss/articles/CBMipAFBVV95cUxORkNOUWoyRVQxNV9qLU9tTGVCOVZvMlZXejBuMWNHdndhWEFsVmNUMmRhSDc5cGNlNERNeVRfb0I2eEgycG92bG9NcWt3WnlYUExfXzFybGN4Qnd3eHpOTW4tMUttbkx6bjlUaHZwbnBOcU1tR2ZmTUtYZk1PRjVwSXI1cE1NblFISU5HalktOUtvQk53ZGxIZ1ljeXNaYXVWSlFCNw?oc=5) (Tue, 24 Feb 2026 22:20:58 GMT)
+- [Stablecoin rules in the UK are being finalized, and are at risk of preventing the UK from being globally competitive in the digital economy. For example, the Bank of England is proposing a cap on stablecoin holdings for individuals and businesses. The UK has - x.com](https://news.google.com/rss/articles/CBMickFVX3lxTFBmejVaY0h2bkpLM01IWUE2TlBuVUVEdEJmV0xxN0dpN3ZNa3EyNTZhblNYVmI3SVJGOTBiZE5ibGI2cUdmWDNYYm1YMnBHU2ptc1ZkanJKbjVKRDI0emFKQ29ZZnRvd1ozWEQzOE1ObnVBZw?oc=5) (Tue, 24 Feb 2026 22:06:34 GMT)
+- ['Stablecoin Summer': Stripe Makes Tender Offer at $159 Billion Valuation - Decrypt](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRkRNYTRjOXF0WkZFNU8wWUVrazVscmdSalFCOU5XTldmYVRtQW1hVjM2TDNZbkdwNTBydVNMOVZDN0pLOUNISEtuYnFzY01ic2syWmp1SkxMbFlERUxHamlrRkdPazhJOVFMQjcySHZoZkJxX081cTBqY2NBSDdkemFuUWJzRzBBaWlYTmp30gGWAUFVX3lxTE1WRUxXeXNmYlZrNnJzWjJoRVJFNmEycnVxSEkwN1Vuc05qTjZZaHdHSXJ0SjZ3VzJfNEZURHFkTzB3aHF2cWhKcWpZOWNJLWliSzlrOGJYTW00ZDBaLWpsWTVCTkpucmpJTjg5cnpkUm13bXZPMlVGQm1jcDBqRUF5OVRadjJPOWFMNXJMZXFRd1J1YWxTUQ?oc=5) (Tue, 24 Feb 2026 21:29:29 GMT)
+- [Meta Testing Stablecoin Payments As Digital Currencies Take Off - Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxNeE55OFN3di1pdWFHSGg3dTNXbkw3YUotRndpd2VNUXc1NE94ZEZZT2dhQnBlY1kxY0Zzdm5XYmpkcWI1YWc5X0FHaVNrT0ZpZjhMTHFFU3YtYU1aX01RR1hOTnhwdVBMa21zR25jeXNxY2ppcmQ1aWdudEVfTmZmZlZ1MjZUTXZwN0hRakc1ZlJfSmVncm8ta0JWMHQ5RmJJY2xzME55T3Zrc0daQ1I0YmVUOVQ?oc=5) (Tue, 24 Feb 2026 21:05:09 GMT)
 
 <!-- END_dashboard -->
 
