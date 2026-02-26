@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-25 01:24:15 (UTC)*
+*Last Updated: 2026-02-26 01:19:34 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,483,946,142** | 🟢 +0.08% | 🟢 +0.34% |
+| **$293,023,348,647** | 🟢 +0.18% | 🟢 +0.45% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [$154B in Illicit Crypto Flows Raises Stablecoin Questions - PYMNTS.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHBGSFhQSnNkTXNFblIxb284X3lCUlJmQVlaenJNS1ByYThYSVF5N2NMTmJfUTZub21CYXY0WUt6Z0RsV1Y5LWJpY3ktaEw0azluNVRNUUdwQTB2SlYtdW9DTHZCN0FqQ2FpcGVOMGhwX2lCLU1UWnFxallUNVNUd1NYMmJ6azRnUW42YnBjN2k3TG5KZzMtQm45a0Q5SXdFQi1pdkNsYmh4cGVoRHBISkFicXJULWV3b3I0?oc=5) (Tue, 24 Feb 2026 23:12:38 GMT)
-- [Meta Gets Back into Crypto, Plans Stablecoin Integration Later This Year - Gizmodo](https://news.google.com/rss/articles/CBMipAFBVV95cUxORkNOUWoyRVQxNV9qLU9tTGVCOVZvMlZXejBuMWNHdndhWEFsVmNUMmRhSDc5cGNlNERNeVRfb0I2eEgycG92bG9NcWt3WnlYUExfXzFybGN4Qnd3eHpOTW4tMUttbkx6bjlUaHZwbnBOcU1tR2ZmTUtYZk1PRjVwSXI1cE1NblFISU5HalktOUtvQk53ZGxIZ1ljeXNaYXVWSlFCNw?oc=5) (Tue, 24 Feb 2026 22:20:58 GMT)
-- [Stablecoin rules in the UK are being finalized, and are at risk of preventing the UK from being globally competitive in the digital economy. For example, the Bank of England is proposing a cap on stablecoin holdings for individuals and businesses. The UK has - x.com](https://news.google.com/rss/articles/CBMickFVX3lxTFBmejVaY0h2bkpLM01IWUE2TlBuVUVEdEJmV0xxN0dpN3ZNa3EyNTZhblNYVmI3SVJGOTBiZE5ibGI2cUdmWDNYYm1YMnBHU2ptc1ZkanJKbjVKRDI0emFKQ29ZZnRvd1ozWEQzOE1ObnVBZw?oc=5) (Tue, 24 Feb 2026 22:06:34 GMT)
-- ['Stablecoin Summer': Stripe Makes Tender Offer at $159 Billion Valuation - Decrypt](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRkRNYTRjOXF0WkZFNU8wWUVrazVscmdSalFCOU5XTldmYVRtQW1hVjM2TDNZbkdwNTBydVNMOVZDN0pLOUNISEtuYnFzY01ic2syWmp1SkxMbFlERUxHamlrRkdPazhJOVFMQjcySHZoZkJxX081cTBqY2NBSDdkemFuUWJzRzBBaWlYTmp30gGWAUFVX3lxTE1WRUxXeXNmYlZrNnJzWjJoRVJFNmEycnVxSEkwN1Vuc05qTjZZaHdHSXJ0SjZ3VzJfNEZURHFkTzB3aHF2cWhKcWpZOWNJLWliSzlrOGJYTW00ZDBaLWpsWTVCTkpucmpJTjg5cnpkUm13bXZPMlVGQm1jcDBqRUF5OVRadjJPOWFMNXJMZXFRd1J1YWxTUQ?oc=5) (Tue, 24 Feb 2026 21:29:29 GMT)
-- [Meta Testing Stablecoin Payments As Digital Currencies Take Off - Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxNeE55OFN3di1pdWFHSGg3dTNXbkw3YUotRndpd2VNUXc1NE94ZEZZT2dhQnBlY1kxY0Zzdm5XYmpkcWI1YWc5X0FHaVNrT0ZpZjhMTHFFU3YtYU1aX01RR1hOTnhwdVBMa21zR25jeXNxY2ppcmQ1aWdudEVfTmZmZlZ1MjZUTXZwN0hRakc1ZlJfSmVncm8ta0JWMHQ5RmJJY2xzME55T3Zrc0daQ1I0YmVUOVQ?oc=5) (Tue, 24 Feb 2026 21:05:09 GMT)
+- [Stablecoins draw attention, but are still a tiny market - American Banker](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeEhUaFpwak9KOEV0Y0E0WUlKaXdNYXBlXzBwaE5nak9KSi1Oa2lNUVhJZ3VxVDI5Y0Z3NW5xdFNMNzhlOENrMGppZlJKWk9XZ18wZXRNeVJiNVhtdzBGOUlsM1hIUDgybnNmMFExZlhRU1lUb21KM2VYMGpqRVFEWTZKVkQ2emZqVkV5dlpkelNvbmpkNTFhVjdrTzh2RnR4?oc=5) (Wed, 25 Feb 2026 22:02:00 GMT)
+- [Circle Internet’s Quarterly Profit Surges on Stablecoin Demand - WSJ](https://news.google.com/rss/articles/CBMiqwNBVV95cUxQWGYtdE1GcHlSbXhXR1JQS1Vxelk0MzEtX2RobHVIZUo0dlFGM0FMZndpOEZFRy04SmV5SFhRYUtZS2I2XzVBcGV5a1Q0eW1sYm9IaEFsWW9JejdXRjQ1X2VaWGlxUnU4OG44Y09kaEEtV21tMnZ6RG5WQVUzT1lOYUpKNDZQLXFPQVdxRV82eGZMd2xadkZOd0dQc1FDYzJ2M0FRU0RJczB6THBxYktoT3lxWjJNZ1NnRmdPT1NSTFdFNE9iVTUxQXlnY1A5UGQ4QTRERDBDWWY0bmJlQkVHTE95OHZTR2dZX3ZGOGlrWnl5bFBtUU9KYVp2SW44cDFPVHA0Q3ZJSGVwWGpRNDh5c19JUGNVT2NvSGdTQ0V4RTB0Q3lzdkdNbFcza1RKUkxPSWdPOGFsaVJkNTJNamYtUHFsNnhsaFcxemtnQkFfRC15YzNOVHFqRjdnSTI3VFkxTmlSVm04RlI2RV9GUG40QU1xaHFHc3NpcEVjTFFmSHdrbE5NdU1hZlNudUdpV1dUUVQ4cVNfN3RtTEZrTk16cm9rOHZZTzhxQ1I0?oc=5) (Wed, 25 Feb 2026 21:42:00 GMT)
+- [The Race To Build The Stablecoin Bank - Seeking Alpha](https://news.google.com/rss/articles/CBMiekFVX3lxTE4yWW5qTENTamxiazZnVkJHeUpHTFlFMWVoVk55d2dLVjJWS2dEM1FDWk5DUDE4ZFJVNWhmRS1qbHU2QzNQTkJwelFuZmRZdGxfMDhQc0tXMU0walJCYmlaOTFJd1NGTzJsXzF1RUMwVWhQeDZ6MDc5aG93?oc=5) (Wed, 25 Feb 2026 20:57:00 GMT)
+- [Circle shares surge after surprise earnings beat shows strong demand for stablecoins - Fortune](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSEpIQk05T0NYRjBpeUZBZVhDZmlBcWVOUEQyd21yQWlLUzdVczdpenRQTldaeUxSR1NWYTNRaFRWUjBDVE8yUGxKaXZnRldGZzM2MDRKQ1BURnlpeHEyNWE4QjQtZnBvMXFXQXgxMVZJLTB5TDJWX1RJWFhEdW95NWVhcGg5b3VOa2Rhc3B0cExaeGxEbjNHdzJ5cFBJSXNKODRrMk1ya25yb2IxeU1RVXVxU1V3LVE?oc=5) (Wed, 25 Feb 2026 19:38:00 GMT)
+- [Meta Seeks Third-Party Firm for Stablecoin and Wallet Ambitions - PaymentsJournal](https://news.google.com/rss/articles/CBMinAFBVV95cUxQb2RTblVzcXJXbjV0M0pDZENFTXFPZWJ5b0dKa3hSa0NZMUk5VmtLOWRXREdwQzRpNVNWRTZvLXEwSklmMkI3MHEyQWx4d2lYN3o4QXF3VVRkaVNwOFlWZmUyUEFOdTAzNVJQbEwxcWo0M290aTdHU2hIYmRERmZxMVd6UjVVc0pmVjcwcVVCbENPamFjVWlWZU1DcGTSAaIBQVVfeXFMTVJpMGNFTldHNXBNNVVUM1ppQ0h0NjZlNzdkamZtZE9JWVdPX01BLWtabHloNFQ2U3FWUWlTRk9JR0p0MkltTU9JYUtkMzBzOW53U255dlhKNl93R1ZZb21pUDBwWU9fd3pzMkV4VTB6U0h5dkJNNXBkcktYWjRQbUZ5YmhoUDhaOGtDcTdPNHRFSG9XSk42aHBpNl9OMFhxTTdB?oc=5) (Wed, 25 Feb 2026 19:30:00 GMT)
 
 <!-- END_dashboard -->
 
