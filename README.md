@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-26 01:19:34 (UTC)*
+*Last Updated: 2026-02-27 01:17:11 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,023,348,647** | 🟢 +0.18% | 🟢 +0.45% |
+| **$293,019,931,878** | 🔴 -0.00% | 🟢 +0.40% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoins draw attention, but are still a tiny market - American Banker](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeEhUaFpwak9KOEV0Y0E0WUlKaXdNYXBlXzBwaE5nak9KSi1Oa2lNUVhJZ3VxVDI5Y0Z3NW5xdFNMNzhlOENrMGppZlJKWk9XZ18wZXRNeVJiNVhtdzBGOUlsM1hIUDgybnNmMFExZlhRU1lUb21KM2VYMGpqRVFEWTZKVkQ2emZqVkV5dlpkelNvbmpkNTFhVjdrTzh2RnR4?oc=5) (Wed, 25 Feb 2026 22:02:00 GMT)
-- [Circle Internet’s Quarterly Profit Surges on Stablecoin Demand - WSJ](https://news.google.com/rss/articles/CBMiqwNBVV95cUxQWGYtdE1GcHlSbXhXR1JQS1Vxelk0MzEtX2RobHVIZUo0dlFGM0FMZndpOEZFRy04SmV5SFhRYUtZS2I2XzVBcGV5a1Q0eW1sYm9IaEFsWW9JejdXRjQ1X2VaWGlxUnU4OG44Y09kaEEtV21tMnZ6RG5WQVUzT1lOYUpKNDZQLXFPQVdxRV82eGZMd2xadkZOd0dQc1FDYzJ2M0FRU0RJczB6THBxYktoT3lxWjJNZ1NnRmdPT1NSTFdFNE9iVTUxQXlnY1A5UGQ4QTRERDBDWWY0bmJlQkVHTE95OHZTR2dZX3ZGOGlrWnl5bFBtUU9KYVp2SW44cDFPVHA0Q3ZJSGVwWGpRNDh5c19JUGNVT2NvSGdTQ0V4RTB0Q3lzdkdNbFcza1RKUkxPSWdPOGFsaVJkNTJNamYtUHFsNnhsaFcxemtnQkFfRC15YzNOVHFqRjdnSTI3VFkxTmlSVm04RlI2RV9GUG40QU1xaHFHc3NpcEVjTFFmSHdrbE5NdU1hZlNudUdpV1dUUVQ4cVNfN3RtTEZrTk16cm9rOHZZTzhxQ1I0?oc=5) (Wed, 25 Feb 2026 21:42:00 GMT)
-- [The Race To Build The Stablecoin Bank - Seeking Alpha](https://news.google.com/rss/articles/CBMiekFVX3lxTE4yWW5qTENTamxiazZnVkJHeUpHTFlFMWVoVk55d2dLVjJWS2dEM1FDWk5DUDE4ZFJVNWhmRS1qbHU2QzNQTkJwelFuZmRZdGxfMDhQc0tXMU0walJCYmlaOTFJd1NGTzJsXzF1RUMwVWhQeDZ6MDc5aG93?oc=5) (Wed, 25 Feb 2026 20:57:00 GMT)
-- [Circle shares surge after surprise earnings beat shows strong demand for stablecoins - Fortune](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSEpIQk05T0NYRjBpeUZBZVhDZmlBcWVOUEQyd21yQWlLUzdVczdpenRQTldaeUxSR1NWYTNRaFRWUjBDVE8yUGxKaXZnRldGZzM2MDRKQ1BURnlpeHEyNWE4QjQtZnBvMXFXQXgxMVZJLTB5TDJWX1RJWFhEdW95NWVhcGg5b3VOa2Rhc3B0cExaeGxEbjNHdzJ5cFBJSXNKODRrMk1ya25yb2IxeU1RVXVxU1V3LVE?oc=5) (Wed, 25 Feb 2026 19:38:00 GMT)
-- [Meta Seeks Third-Party Firm for Stablecoin and Wallet Ambitions - PaymentsJournal](https://news.google.com/rss/articles/CBMinAFBVV95cUxQb2RTblVzcXJXbjV0M0pDZENFTXFPZWJ5b0dKa3hSa0NZMUk5VmtLOWRXREdwQzRpNVNWRTZvLXEwSklmMkI3MHEyQWx4d2lYN3o4QXF3VVRkaVNwOFlWZmUyUEFOdTAzNVJQbEwxcWo0M290aTdHU2hIYmRERmZxMVd6UjVVc0pmVjcwcVVCbENPamFjVWlWZU1DcGTSAaIBQVVfeXFMTVJpMGNFTldHNXBNNVVUM1ppQ0h0NjZlNzdkamZtZE9JWVdPX01BLWtabHloNFQ2U3FWUWlTRk9JR0p0MkltTU9JYUtkMzBzOW53U255dlhKNl93R1ZZb21pUDBwWU9fd3pzMkV4VTB6U0h5dkJNNXBkcktYWjRQbUZ5YmhoUDhaOGtDcTdPNHRFSG9XSk42aHBpNl9OMFhxTTdB?oc=5) (Wed, 25 Feb 2026 19:30:00 GMT)
+- [Federal Bank Regulator Moves to Restrict US Stablecoin Rewards - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0g3UF9HSXdlTjM3SG9MVlk2UXBJc213Y1RhdkJ6ZUg3REpmcG5IRl8ydTdqZ0dxTDhGZkhfUUdyem5aVUlmdC1NTC1oNkhLazRLbHZxYmVkVW5CeTlDX0V1UWVGV29kSnJpbm9HSW9GVmZRS1FQbkFjM1hGT3dBYS1qZXJIaHEtYzltXzNTTkI0UkZPNV9HY2MyaTVKcHVfZmdQWWhyRm56OEtseVZfWllCcw?oc=5) (Thu, 26 Feb 2026 22:46:30 GMT)
+- [U.S. regulator's GENIUS pitch puts dark cloud over crypto sector's stablecoin model - CoinDesk](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSFpXbUpxX0JEc3pId1ZEMFczNmZ3d2I1SWVkSVpqLURiTXlfam5LWGd1Qzc2cm1kU2o3OEVPNXgwWV9mSHRfT3ZlV3g0QXdjSVJUSTdMdGZ3ckM3RzdhTUZDcEJjem0zSEYzZjR1bUF4Z2pOVVBkU3daeGk0NGJkS09Id2xOelA5VEljU3gwblZEeXBGSGFhV1cwbTJWUGU1SEVfczI1cFViY0QtemlGUU5NVXV5eHE1ZTgySW55bURyblE?oc=5) (Thu, 26 Feb 2026 22:03:19 GMT)
+- [OCC Issues Proposed Rules for Stablecoin Activity Under the GENIUS Act - PYMNTS.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEwzOTJ4d0RyS0VBMjNKdU0tSkppUnlsam91OTJqa2F2QkJwakNNZHdMTHdVU2dwOHNxU3h1Nm9NTEd5MVpQZ3d5RTJCcXBCbXIxcGROclNPcnlxSVUxQThBQnhJcDhsVklRNk0wTURHeF9zdWxweHV6WTdOX0szUTNSc1BMN3FqSS1jRXdLZ1l4LURxVUNBV3V5VmFUZmFlZmFPMFpQbw?oc=5) (Thu, 26 Feb 2026 20:44:08 GMT)
+- [US lawmakers revisit stablecoin yields amid deposit flight concerns - The Block](https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnZfZl9tUGowdDhqNmlrN1dUbjJpU0tibUNwaGF4RGR2RGhLMkQwOW9nRklsQ1NELTI5RFJUcHdiNzVTaThHVWZNS281X1RWSENVbTZnbjFZSUV1TGJqQWs1VWUybEFnaS1ZS3Z0WGZjUC1tT2J5a1E0WGIzREV2cXBFNi1zNm1JcENYM0VvbjNKWlRrdmJ0by14cE1OeHc?oc=5) (Thu, 26 Feb 2026 20:18:28 GMT)
+- [OCC proposes comprehensive stablecoin framework - American Banker](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeDRaUmFobGEySkhfSFlCaVVIVzVTNnpKV09sbDRvRzV6YjZUS3k3SXJRZW1WS21ScTdvUXlVTEdMSVFObm9DSE92elZlSFlCUjZoLXhNWUx4bElJZk1PckhKbkJnT1ltMVpsZS1JUi1ad3hMYXdOQVBkcWtPMldEQVlqNzhMZFp0aHRv?oc=5) (Thu, 26 Feb 2026 20:00:00 GMT)
 
 <!-- END_dashboard -->
 
