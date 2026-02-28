@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-27 01:17:11 (UTC)*
+*Last Updated: 2026-02-28 01:11:41 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,019,931,878** | 🔴 -0.00% | 🟢 +0.40% |
+| **$292,927,493,231** | 🔴 -0.03% | 🟢 +0.16% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Federal Bank Regulator Moves to Restrict US Stablecoin Rewards - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0g3UF9HSXdlTjM3SG9MVlk2UXBJc213Y1RhdkJ6ZUg3REpmcG5IRl8ydTdqZ0dxTDhGZkhfUUdyem5aVUlmdC1NTC1oNkhLazRLbHZxYmVkVW5CeTlDX0V1UWVGV29kSnJpbm9HSW9GVmZRS1FQbkFjM1hGT3dBYS1qZXJIaHEtYzltXzNTTkI0UkZPNV9HY2MyaTVKcHVfZmdQWWhyRm56OEtseVZfWllCcw?oc=5) (Thu, 26 Feb 2026 22:46:30 GMT)
-- [U.S. regulator's GENIUS pitch puts dark cloud over crypto sector's stablecoin model - CoinDesk](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSFpXbUpxX0JEc3pId1ZEMFczNmZ3d2I1SWVkSVpqLURiTXlfam5LWGd1Qzc2cm1kU2o3OEVPNXgwWV9mSHRfT3ZlV3g0QXdjSVJUSTdMdGZ3ckM3RzdhTUZDcEJjem0zSEYzZjR1bUF4Z2pOVVBkU3daeGk0NGJkS09Id2xOelA5VEljU3gwblZEeXBGSGFhV1cwbTJWUGU1SEVfczI1cFViY0QtemlGUU5NVXV5eHE1ZTgySW55bURyblE?oc=5) (Thu, 26 Feb 2026 22:03:19 GMT)
-- [OCC Issues Proposed Rules for Stablecoin Activity Under the GENIUS Act - PYMNTS.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEwzOTJ4d0RyS0VBMjNKdU0tSkppUnlsam91OTJqa2F2QkJwakNNZHdMTHdVU2dwOHNxU3h1Nm9NTEd5MVpQZ3d5RTJCcXBCbXIxcGROclNPcnlxSVUxQThBQnhJcDhsVklRNk0wTURHeF9zdWxweHV6WTdOX0szUTNSc1BMN3FqSS1jRXdLZ1l4LURxVUNBV3V5VmFUZmFlZmFPMFpQbw?oc=5) (Thu, 26 Feb 2026 20:44:08 GMT)
-- [US lawmakers revisit stablecoin yields amid deposit flight concerns - The Block](https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnZfZl9tUGowdDhqNmlrN1dUbjJpU0tibUNwaGF4RGR2RGhLMkQwOW9nRklsQ1NELTI5RFJUcHdiNzVTaThHVWZNS281X1RWSENVbTZnbjFZSUV1TGJqQWs1VWUybEFnaS1ZS3Z0WGZjUC1tT2J5a1E0WGIzREV2cXBFNi1zNm1JcENYM0VvbjNKWlRrdmJ0by14cE1OeHc?oc=5) (Thu, 26 Feb 2026 20:18:28 GMT)
-- [OCC proposes comprehensive stablecoin framework - American Banker](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeDRaUmFobGEySkhfSFlCaVVIVzVTNnpKV09sbDRvRzV6YjZUS3k3SXJRZW1WS21ScTdvUXlVTEdMSVFObm9DSE92elZlSFlCUjZoLXhNWUx4bElJZk1PckhKbkJnT1ltMVpsZS1JUi1ad3hMYXdOQVBkcWtPMldEQVlqNzhMZFp0aHRv?oc=5) (Thu, 26 Feb 2026 20:00:00 GMT)
+- [Regulatory Realignment: From Fed Policy to UK Framework Reform, February 2026 - OCC Proposes Implementing Regulations for Payment Stablecoin Issuers Under the GENIUS Act - JD Supra](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaHh1VjF2MVRjUnlUc3ZFRmViWEcyc1ZtNURoc2ItRVpNS3lTU3BkY21fUW1pakp4dFBmNEZzTWhRTkNVTnJQcXNIektMZHhPY0o2Ml92M3FZamZsQXUzMUs0U2haUGdhN0g3bkRQM0dMSXNSWXQ4Q0FyRXc5S3BDSlVKOXN3Y1RU?oc=5) (Fri, 27 Feb 2026 22:44:32 GMT)
+- [Solana debuts payments.org as stablecoin payments move into the mainstream - Yahoo Finance](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeVBOU2YxeFZyV2tYS2FDb2oyUUpXX1FjUEx1bm5FRVA4REVtNUVCMXo2MVIwQ05GekVkaWp6OEVhWE9tV2l0LXFGejZsb0tKd2U5VW1jbllWRUJJSWZNRjVHTWlhSlhXU0NKS3g4OVlNQkR0Zi1udWdmUnlEVXFhYTBnbzlNcEdtMEU4?oc=5) (Fri, 27 Feb 2026 22:08:33 GMT)
+- [JPYC raises $12m Series B as mainstream investors back yen stablecoin - ledgerinsights.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxOeDhldVhBYUZKNTFRdDNNd0pvVVlmUWtIUS1sMDZCTlRVdmVzeERTRWdnQndUMDEzb2dTa0hqWGtnQlZiME1CSFNVT0dCLXl2T0g0WWZSWERJTVBFVzVLY0k4OENqY3Y1N19na1N0TGRvckxsOG1GTmRWZHVmRFdHQlBPRTIxeGl1WG5wVDhvQ3JVcmZrWlp2bEtwUWZURkUtLVE?oc=5) (Fri, 27 Feb 2026 18:42:09 GMT)
+- [OCC Proposes Rules to Implement the GENIUS Act for Payment Stablecoin Issuers - JD Supra](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMXNWUDlSX2VzVDk5dlFmVnA2eG5YalhMeEhjZ3VsbUF0czRFcFRHMVRXU3V5MlJpMlZSVVJzaWZ6cEZlSnowalpfSFZBYldPamJwdHRmcnZGVW81X2ZGSE5KMGZfRUFIVGNraTAyaUZhUW5Od3J4R2pGMjNMektZUmNfX3c?oc=5) (Fri, 27 Feb 2026 18:00:41 GMT)
+- [This Week in Stablecoins: FinTech, Big Tech and Regulation - PYMNTS.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVBGSnpuRzYyMEtfc2FONGRlWW13Sm1FUVRpVDFLX2dQcjRXSDRxTkRvcU03eEpaSkYzdjM0Nnp5V0M4c09rOWhfLXpkN2dFajlsd2trU1ZqeUh4M0ZQdUttM012aWZ0ZGVRMzItT0hLTlNDS3RXNHhGZmMtSDVwZkM4bkxJaGNHYndoQWpHRGxRaFRrSjBLQkVaUVg4NE9Sc2c?oc=5) (Fri, 27 Feb 2026 16:24:49 GMT)
 
 <!-- END_dashboard -->
 
