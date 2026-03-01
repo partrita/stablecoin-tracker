@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-02-28 01:11:41 (UTC)*
+*Last Updated: 2026-03-01 01:27:51 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,927,493,231** | 🔴 -0.03% | 🟢 +0.16% |
+| **$293,101,766,350** | 🟢 +0.06% | 🟢 +0.24% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Regulatory Realignment: From Fed Policy to UK Framework Reform, February 2026 - OCC Proposes Implementing Regulations for Payment Stablecoin Issuers Under the GENIUS Act - JD Supra](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaHh1VjF2MVRjUnlUc3ZFRmViWEcyc1ZtNURoc2ItRVpNS3lTU3BkY21fUW1pakp4dFBmNEZzTWhRTkNVTnJQcXNIektMZHhPY0o2Ml92M3FZamZsQXUzMUs0U2haUGdhN0g3bkRQM0dMSXNSWXQ4Q0FyRXc5S3BDSlVKOXN3Y1RU?oc=5) (Fri, 27 Feb 2026 22:44:32 GMT)
-- [Solana debuts payments.org as stablecoin payments move into the mainstream - Yahoo Finance](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeVBOU2YxeFZyV2tYS2FDb2oyUUpXX1FjUEx1bm5FRVA4REVtNUVCMXo2MVIwQ05GekVkaWp6OEVhWE9tV2l0LXFGejZsb0tKd2U5VW1jbllWRUJJSWZNRjVHTWlhSlhXU0NKS3g4OVlNQkR0Zi1udWdmUnlEVXFhYTBnbzlNcEdtMEU4?oc=5) (Fri, 27 Feb 2026 22:08:33 GMT)
-- [JPYC raises $12m Series B as mainstream investors back yen stablecoin - ledgerinsights.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxOeDhldVhBYUZKNTFRdDNNd0pvVVlmUWtIUS1sMDZCTlRVdmVzeERTRWdnQndUMDEzb2dTa0hqWGtnQlZiME1CSFNVT0dCLXl2T0g0WWZSWERJTVBFVzVLY0k4OENqY3Y1N19na1N0TGRvckxsOG1GTmRWZHVmRFdHQlBPRTIxeGl1WG5wVDhvQ3JVcmZrWlp2bEtwUWZURkUtLVE?oc=5) (Fri, 27 Feb 2026 18:42:09 GMT)
-- [OCC Proposes Rules to Implement the GENIUS Act for Payment Stablecoin Issuers - JD Supra](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMXNWUDlSX2VzVDk5dlFmVnA2eG5YalhMeEhjZ3VsbUF0czRFcFRHMVRXU3V5MlJpMlZSVVJzaWZ6cEZlSnowalpfSFZBYldPamJwdHRmcnZGVW81X2ZGSE5KMGZfRUFIVGNraTAyaUZhUW5Od3J4R2pGMjNMektZUmNfX3c?oc=5) (Fri, 27 Feb 2026 18:00:41 GMT)
-- [This Week in Stablecoins: FinTech, Big Tech and Regulation - PYMNTS.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVBGSnpuRzYyMEtfc2FONGRlWW13Sm1FUVRpVDFLX2dQcjRXSDRxTkRvcU03eEpaSkYzdjM0Nnp5V0M4c09rOWhfLXpkN2dFajlsd2trU1ZqeUh4M0ZQdUttM012aWZ0ZGVRMzItT0hLTlNDS3RXNHhGZmMtSDVwZkM4bkxJaGNHYndoQWpHRGxRaFRrSjBLQkVaUVg4NE9Sc2c?oc=5) (Fri, 27 Feb 2026 16:24:49 GMT)
+- [The 'stablecoin sandwich' is dead: Why the next phase of crypto payments is all about the user relationship - CoinDesk](https://news.google.com/rss/articles/CBMinwFBVV95cUxNczBfMXBsNkp0RXp1a0NSTUlyT3d6OXlZaGx0b2x2Zy14cXE1Qkd6YXZJZWNpTkMySl9BUDl1WnN0QUJvZ3BuNXNXYmE4TlhvWHRRY2JHNFBNTUpxa3EtZ1F6M3J4eWlSdS13WktESkdyN1NaTE9vcW5rUi0xUHA3NFN4UV8tRTRRbTBOV28wLVpXV0JGMjVrMDc2VzBleEU?oc=5) (Sat, 28 Feb 2026 18:03:04 GMT)
+- [Stablecoin Disintermediation - Federal Reserve Bank of New York](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kZC1PZFN4MW9FTzlwa0hkUkNVZzlWS1cxcGhnTUVURWROR1M0VW1Ub1FDeVpPWW1JY0xlWnNYSzZVYmw3WEVwOEFVLWhPTFVackNwb2Z0M2Y3SDNoYU5YTFhoN3BSNlk?oc=5) (Sat, 28 Feb 2026 12:00:42 GMT)
+- [OCC Proposes Stablecoin Issuer Regulation, Finalizes Rule on National Trust Banks Authority - Davis Wright Tremaine](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMHBaRDFfeG5qYzJCdE1WZjVtSmFJU1dyNmVpT0FlQng5aXZCd2o0bWlabDNMdTdxM1ZUM01CUVFIQTBfSkY3S1IwYXVqQlgzSy02U3Bzdl9mYW0tNVZMbWRTdERsMG90Wnl0c3NNWEZtWVo2SkFLUEkyQ0tub2twYUtQSmNhR0F6ai1tM1UxY2tqRVZaMlRvUlhPbHlHVGEzcUNxdmE3cEthdGZnY0RObThn?oc=5) (Sat, 28 Feb 2026 09:44:09 GMT)
+- [Tether says it has frozen $4.2 billion of its stablecoin over crime links - The Mighty 790 KFGO](https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXNTeWc0Unl6NS1SRHpzOExaYkd0WGdmYnBUa3lySGU5dTlGQUNRYXpzaExuUWRpTF85UWNSaDY3VjlBZEFZUEVZVERrbm9Hd0FOVVd5NG43THNsVGhOUnh6QXl3UUQ0YXFnMXp0Ynh4bXFhMWJJRFlhaFJQcWdrTE53MkpuZnZMRC1rNTBHR3Y1Uzl4U1NMSG9jcFNQSXQ5TTA0?oc=5) (Sat, 28 Feb 2026 07:38:39 GMT)
+- [Tether Has Blocked $3.5 Billion in Crime-Linked Stablecoins Since 2023 - PYMNTS.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ3JLaGxlV2Q1ZWxCZVprOEZrZFVfRWQxSndQQ1ZqdExRQ1l6djNUcmxNM1l3WGQ2LWZseUZTdEdpQ0NVbXlraHRha3NCZjd2NlFsRzlIdnhNNld2MWJ1WHJ3MTVtU1BTeTZOdmxqYUpWRzdBekNuUDN3YmM4SnR5Tlo5U2NRank3QjlncWhsem41YlN2alpMeVRBazNIUDJiUXZoUTN3S3NsRFVNY2c?oc=5) (Sat, 28 Feb 2026 00:45:34 GMT)
 
 <!-- END_dashboard -->
 
