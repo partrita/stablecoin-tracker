@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-01 01:27:51 (UTC)*
+*Last Updated: 2026-03-02 01:19:40 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,101,766,350** | 🟢 +0.06% | 🟢 +0.24% |
+| **$293,076,160,613** | 🔴 -0.01% | 🟢 +0.27% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -16,10 +16,10 @@
 
 ### 📰 Latest News
 - [The 'stablecoin sandwich' is dead: Why the next phase of crypto payments is all about the user relationship - CoinDesk](https://news.google.com/rss/articles/CBMinwFBVV95cUxNczBfMXBsNkp0RXp1a0NSTUlyT3d6OXlZaGx0b2x2Zy14cXE1Qkd6YXZJZWNpTkMySl9BUDl1WnN0QUJvZ3BuNXNXYmE4TlhvWHRRY2JHNFBNTUpxa3EtZ1F6M3J4eWlSdS13WktESkdyN1NaTE9vcW5rUi0xUHA3NFN4UV8tRTRRbTBOV28wLVpXV0JGMjVrMDc2VzBleEU?oc=5) (Sat, 28 Feb 2026 18:03:04 GMT)
+- [Visa, Mastercard Aren't The Real Casualties In Citrini's AI-Stablecoin Scenario - Yahoo Finance](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdzI1ZmdZN2lmWFpWVnExSXN3ejdMRG1saGh4SFV6am9xbmhsTTlmNXFvZXNjRjliTVNGYjJ4MjRJQk9mZ1B6Y0dFVXQyYjBjbXNWMC1TNHJxZjZaSmZEaTdqZ21pSnZXXzBaRnlCaFM4Wks4SDFVdDh0TGhYQ0I5d3Nvb0FHRXRwV0E4?oc=5) (Sat, 28 Feb 2026 13:31:13 GMT)
 - [Stablecoin Disintermediation - Federal Reserve Bank of New York](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kZC1PZFN4MW9FTzlwa0hkUkNVZzlWS1cxcGhnTUVURWROR1M0VW1Ub1FDeVpPWW1JY0xlWnNYSzZVYmw3WEVwOEFVLWhPTFVackNwb2Z0M2Y3SDNoYU5YTFhoN3BSNlk?oc=5) (Sat, 28 Feb 2026 12:00:42 GMT)
 - [OCC Proposes Stablecoin Issuer Regulation, Finalizes Rule on National Trust Banks Authority - Davis Wright Tremaine](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMHBaRDFfeG5qYzJCdE1WZjVtSmFJU1dyNmVpT0FlQng5aXZCd2o0bWlabDNMdTdxM1ZUM01CUVFIQTBfSkY3S1IwYXVqQlgzSy02U3Bzdl9mYW0tNVZMbWRTdERsMG90Wnl0c3NNWEZtWVo2SkFLUEkyQ0tub2twYUtQSmNhR0F6ai1tM1UxY2tqRVZaMlRvUlhPbHlHVGEzcUNxdmE3cEthdGZnY0RObThn?oc=5) (Sat, 28 Feb 2026 09:44:09 GMT)
 - [Tether says it has frozen $4.2 billion of its stablecoin over crime links - The Mighty 790 KFGO](https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXNTeWc0Unl6NS1SRHpzOExaYkd0WGdmYnBUa3lySGU5dTlGQUNRYXpzaExuUWRpTF85UWNSaDY3VjlBZEFZUEVZVERrbm9Hd0FOVVd5NG43THNsVGhOUnh6QXl3UUQ0YXFnMXp0Ynh4bXFhMWJJRFlhaFJQcWdrTE53MkpuZnZMRC1rNTBHR3Y1Uzl4U1NMSG9jcFNQSXQ5TTA0?oc=5) (Sat, 28 Feb 2026 07:38:39 GMT)
-- [Tether Has Blocked $3.5 Billion in Crime-Linked Stablecoins Since 2023 - PYMNTS.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ3JLaGxlV2Q1ZWxCZVprOEZrZFVfRWQxSndQQ1ZqdExRQ1l6djNUcmxNM1l3WGQ2LWZseUZTdEdpQ0NVbXlraHRha3NCZjd2NlFsRzlIdnhNNld2MWJ1WHJ3MTVtU1BTeTZOdmxqYUpWRzdBekNuUDN3YmM4SnR5Tlo5U2NRank3QjlncWhsem41YlN2alpMeVRBazNIUDJiUXZoUTN3S3NsRFVNY2c?oc=5) (Sat, 28 Feb 2026 00:45:34 GMT)
 
 <!-- END_dashboard -->
 
