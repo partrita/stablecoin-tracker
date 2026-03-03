@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-02 01:19:40 (UTC)*
+*Last Updated: 2026-03-03 01:22:27 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,076,160,613** | 🔴 -0.01% | 🟢 +0.27% |
+| **$293,885,714,715** | 🟢 +0.28% | 🟢 +0.56% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [The 'stablecoin sandwich' is dead: Why the next phase of crypto payments is all about the user relationship - CoinDesk](https://news.google.com/rss/articles/CBMinwFBVV95cUxNczBfMXBsNkp0RXp1a0NSTUlyT3d6OXlZaGx0b2x2Zy14cXE1Qkd6YXZJZWNpTkMySl9BUDl1WnN0QUJvZ3BuNXNXYmE4TlhvWHRRY2JHNFBNTUpxa3EtZ1F6M3J4eWlSdS13WktESkdyN1NaTE9vcW5rUi0xUHA3NFN4UV8tRTRRbTBOV28wLVpXV0JGMjVrMDc2VzBleEU?oc=5) (Sat, 28 Feb 2026 18:03:04 GMT)
-- [Visa, Mastercard Aren't The Real Casualties In Citrini's AI-Stablecoin Scenario - Yahoo Finance](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdzI1ZmdZN2lmWFpWVnExSXN3ejdMRG1saGh4SFV6am9xbmhsTTlmNXFvZXNjRjliTVNGYjJ4MjRJQk9mZ1B6Y0dFVXQyYjBjbXNWMC1TNHJxZjZaSmZEaTdqZ21pSnZXXzBaRnlCaFM4Wks4SDFVdDh0TGhYQ0I5d3Nvb0FHRXRwV0E4?oc=5) (Sat, 28 Feb 2026 13:31:13 GMT)
-- [Stablecoin Disintermediation - Federal Reserve Bank of New York](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kZC1PZFN4MW9FTzlwa0hkUkNVZzlWS1cxcGhnTUVURWROR1M0VW1Ub1FDeVpPWW1JY0xlWnNYSzZVYmw3WEVwOEFVLWhPTFVackNwb2Z0M2Y3SDNoYU5YTFhoN3BSNlk?oc=5) (Sat, 28 Feb 2026 12:00:42 GMT)
-- [OCC Proposes Stablecoin Issuer Regulation, Finalizes Rule on National Trust Banks Authority - Davis Wright Tremaine](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMHBaRDFfeG5qYzJCdE1WZjVtSmFJU1dyNmVpT0FlQng5aXZCd2o0bWlabDNMdTdxM1ZUM01CUVFIQTBfSkY3S1IwYXVqQlgzSy02U3Bzdl9mYW0tNVZMbWRTdERsMG90Wnl0c3NNWEZtWVo2SkFLUEkyQ0tub2twYUtQSmNhR0F6ai1tM1UxY2tqRVZaMlRvUlhPbHlHVGEzcUNxdmE3cEthdGZnY0RObThn?oc=5) (Sat, 28 Feb 2026 09:44:09 GMT)
-- [Tether says it has frozen $4.2 billion of its stablecoin over crime links - The Mighty 790 KFGO](https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXNTeWc0Unl6NS1SRHpzOExaYkd0WGdmYnBUa3lySGU5dTlGQUNRYXpzaExuUWRpTF85UWNSaDY3VjlBZEFZUEVZVERrbm9Hd0FOVVd5NG43THNsVGhOUnh6QXl3UUQ0YXFnMXp0Ynh4bXFhMWJJRFlhaFJQcWdrTE53MkpuZnZMRC1rNTBHR3Y1Uzl4U1NMSG9jcFNQSXQ5TTA0?oc=5) (Sat, 28 Feb 2026 07:38:39 GMT)
+- [What the OCC’s 2026 Rulemaking Means for Stablecoin Issuers - Finovate](https://news.google.com/rss/articles/CBMihwFBVV95cUxPZkZnRDdVLUpEUXRGVGNFYzVDNV95Wm5lNWVLZXZudWxfQ0kyQ2c4WE1BaFFPa0NmdTQzOFpKXzZ2azh0M0EtQzRWRmVJY0RhRmZGbUJtV1ZkWGdyRXhKcndpbEI4ZmpkQllHWGRXVEVlSWdEYWZ5S28zMWZRTkhhc201TWVWZ2c?oc=5) (Mon, 02 Mar 2026 21:20:13 GMT)
+- [Stablecoin Explainer 2026 - eMarketer](https://news.google.com/rss/articles/CBMia0FVX3lxTFBTQVcxLUw0OTJTQTl3N09jRXJLX1FrUVZrTjhSOG1HOURlQ0EtVlIyLWRzajlyMXlnNmJydE4tcks1Q0tLdGpaeGN0UTdZR1pibzVQa0hZcHd1MXhoMmZ1cm1vQm9sMWdTOGpV?oc=5) (Mon, 02 Mar 2026 18:08:45 GMT)
+- [Institutional Crypto Plans Stall In 2025 Even As Stablecoin Volumes Climb - CU Today](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUUdrZmY0V1l4MGl5R0dNUUtPRFhkY0FTblFRZHJrTEpwci1Va1ZZTTVJYkJpUzlMUEQ0Q2dYSkhrV2ZxNDk4dkJaVWJ6NEJpTk1JdVVWZTdyYnRCOXNQaGYwSmtIcDBiVExGcU5Hc3BwRkhLN2o4MDBVT1hHeVJLLXJOc24ydGxhMDUxRmpXTWd4S19JSFhpSUY2THlWNkNCRnZHbXRIZ0VKaG9UdHpB?oc=5) (Mon, 02 Mar 2026 16:51:12 GMT)
+- [Crypto world faces growing pressure to relent on stablecoin rewards to win bigger prize - CoinDesk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWEwtSWt6ZG80Z2ZmdkNiUkFnaUhLWjFIT0NpTmJ4cDhpaVE1YUxIS3g2SmxhSUVRbGJJQkpwRHZwZlBSLWxVLTBXVHNyNHlfbHJlSkJ6WU5OLWNtU2V2TnJ5M0ctc0VrVkV5UWkwT0NoZWlSVkFKY1Vnc0FEeFlPcGpqOElMUEJfSFRYSWY3bmgtTHQ5Yl9FaC15a0NyZ0dNS1pCN1phMFJ2VWJEQ21vN0ptdlVPbk5oQTcwUG83Qmx0X2NrOFVVb1gtU3ZMMFYwM3Zj?oc=5) (Mon, 02 Mar 2026 16:50:01 GMT)
+- [European bank consortium targets 2026 launch for euro-backed stablecoin: report - The Block](https://news.google.com/rss/articles/CBMitAFBVV95cUxPbTNJWElFdVBNSGd3LXhWZmhBVUljb2FuQWltcGdUcTkwV21TX3ZTdDc3TG1kOGpxLUxNMUpsbUdLRF9jTEpWQ3hkTDAwMnN0QzloTnRfaXAwdmxWRnZhWTdVNWFITDZ1TG91SXVJZjYyVk5DeGhvWkMzUUFXMmlXWlNBT1p3bU9wWS1tQTRSMHQ1QVNFZGd6bktOdVNuUXJ3MnVRY1NTVm1tbkY5eTNwdGFqS3g?oc=5) (Mon, 02 Mar 2026 16:13:46 GMT)
 
 <!-- END_dashboard -->
 
