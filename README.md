@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-03 01:22:27 (UTC)*
+*Last Updated: 2026-03-04 01:17:40 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,885,714,715** | 🟢 +0.28% | 🟢 +0.56% |
+| **$293,992,776,080** | 🟢 +0.04% | 🟢 +0.52% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [What the OCC’s 2026 Rulemaking Means for Stablecoin Issuers - Finovate](https://news.google.com/rss/articles/CBMihwFBVV95cUxPZkZnRDdVLUpEUXRGVGNFYzVDNV95Wm5lNWVLZXZudWxfQ0kyQ2c4WE1BaFFPa0NmdTQzOFpKXzZ2azh0M0EtQzRWRmVJY0RhRmZGbUJtV1ZkWGdyRXhKcndpbEI4ZmpkQllHWGRXVEVlSWdEYWZ5S28zMWZRTkhhc201TWVWZ2c?oc=5) (Mon, 02 Mar 2026 21:20:13 GMT)
-- [Stablecoin Explainer 2026 - eMarketer](https://news.google.com/rss/articles/CBMia0FVX3lxTFBTQVcxLUw0OTJTQTl3N09jRXJLX1FrUVZrTjhSOG1HOURlQ0EtVlIyLWRzajlyMXlnNmJydE4tcks1Q0tLdGpaeGN0UTdZR1pibzVQa0hZcHd1MXhoMmZ1cm1vQm9sMWdTOGpV?oc=5) (Mon, 02 Mar 2026 18:08:45 GMT)
-- [Institutional Crypto Plans Stall In 2025 Even As Stablecoin Volumes Climb - CU Today](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUUdrZmY0V1l4MGl5R0dNUUtPRFhkY0FTblFRZHJrTEpwci1Va1ZZTTVJYkJpUzlMUEQ0Q2dYSkhrV2ZxNDk4dkJaVWJ6NEJpTk1JdVVWZTdyYnRCOXNQaGYwSmtIcDBiVExGcU5Hc3BwRkhLN2o4MDBVT1hHeVJLLXJOc24ydGxhMDUxRmpXTWd4S19JSFhpSUY2THlWNkNCRnZHbXRIZ0VKaG9UdHpB?oc=5) (Mon, 02 Mar 2026 16:51:12 GMT)
-- [Crypto world faces growing pressure to relent on stablecoin rewards to win bigger prize - CoinDesk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWEwtSWt6ZG80Z2ZmdkNiUkFnaUhLWjFIT0NpTmJ4cDhpaVE1YUxIS3g2SmxhSUVRbGJJQkpwRHZwZlBSLWxVLTBXVHNyNHlfbHJlSkJ6WU5OLWNtU2V2TnJ5M0ctc0VrVkV5UWkwT0NoZWlSVkFKY1Vnc0FEeFlPcGpqOElMUEJfSFRYSWY3bmgtTHQ5Yl9FaC15a0NyZ0dNS1pCN1phMFJ2VWJEQ21vN0ptdlVPbk5oQTcwUG83Qmx0X2NrOFVVb1gtU3ZMMFYwM3Zj?oc=5) (Mon, 02 Mar 2026 16:50:01 GMT)
-- [European bank consortium targets 2026 launch for euro-backed stablecoin: report - The Block](https://news.google.com/rss/articles/CBMitAFBVV95cUxPbTNJWElFdVBNSGd3LXhWZmhBVUljb2FuQWltcGdUcTkwV21TX3ZTdDc3TG1kOGpxLUxNMUpsbUdLRF9jTEpWQ3hkTDAwMnN0QzloTnRfaXAwdmxWRnZhWTdVNWFITDZ1TG91SXVJZjYyVk5DeGhvWkMzUUFXMmlXWlNBT1p3bU9wWS1tQTRSMHQ1QVNFZGd6bktOdVNuUXJ3MnVRY1NTVm1tbkY5eTNwdGFqS3g?oc=5) (Mon, 02 Mar 2026 16:13:46 GMT)
+- [Stablecoins Face Tax-Time Reckoning as GENIUS Act Sets Compliance Bar - PYMNTS.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWVpRUlMeTUwemp1VUk4ckNaa0MwakVqWmJPYjltdUlFR3dkLUp2NWtRQzVJRHpSNEMyOWVNQl80WHBjbVBPb2E4Uno0VklnU29uWms1eGZyY2VSb1owYnJSSjNvRkdWSFdnLXhZSUZKT29ndUtJYlY5SmNDWEwwRzZjajI4ZzBZcldWbVljUm5RMlhEUXREdHdSVS1iOThTbzk4MHM0TGFsMF95d2c?oc=5) (Wed, 04 Mar 2026 00:11:59 GMT)
+- [Office of the Comptroller of the Currency Proposes GENIUS Act Implementing Rules for Payment Stablecoins - Pillsbury Winthrop Shaw Pittman](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU09OLXdvRlNsanU1M3Y2M1lCNTEwSk1KVThDa0phemc2ajVaaEJROTBvQXlpWVgtVXJNZGNwOTZCanNKTHdTa0dCR2Rhc0VmUE42cVhzWHpWRWxNNjdnNFd0ZTdtVFg0UHA5cFpINXo4MUNCTzZtYXFpOWVHMFFZZjliS2dkSnR5VW9BSXhfNWx1T05GTXI4Z01fUmdjdWdoWXZ5SmEzZDl4em43dTd6VzZQN1VkWE90VEpJ?oc=5) (Tue, 03 Mar 2026 21:56:55 GMT)
+- [French Hill urges Senate to take up House crypto bill amid stablecoin yield fight - The Block](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaUV3ZHcybEUtOG5IWXlSZ2hTUll3T0trMDFFY1FUbVc0cEZNSlA3YXh4TkEybFljVHhUbWFaOGR5Vm04ZlU5cGthanJObFkwUDhsdDBvQXZ6UDFfOW95WXVEdTlsbU80REthQklIdC1obzJfcGNzM19UcjJTeWp6U1BCWjMwU3dicWFIbGNaVE5rbFRwcTdMRDNoOUNJZWtwQ29TQ1NHWGkxZw?oc=5) (Tue, 03 Mar 2026 21:43:06 GMT)
+- [JP Morgan CEO Jamie Dimon says stablecoin issuers paying interest should be regulated as banks - CoinDesk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYUJvSVVTa09VMng3cDR4TWVVTVl3UlBWcTNibmhSZVZleWdWNUk3Q3JkT1gyamx0REdrc01iUzlLX0RUTXJoY1JYbzkxZkhmTklMUjVGTmVaVmVNSE56QUVSbFpxNllkMWw4NGxzX2cyeHgyNTJXbmNNY1ZHcE92X1ZNQW5OUGpSQ1BFZWdScGZoOFhmVlduOVBCMjBXZHBkWGl0VW1heVNVLXVnQUxfdG9Ha1Y0WU0wMUFWT0pIaXkyZm1xVm56NjlZTVpRRjRmcUNZ?oc=5) (Tue, 03 Mar 2026 21:10:04 GMT)
+- [Mastercard, Visa make deals to jolt stablecoins - American Banker](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNEdVbFN5N0V2aDhtNThfMEdManU4UDNaaFJOYmlYcDBQVEZEWUx4blR0YWx4elJnQmJ4RTNUVG1xSGRMU2VfOHJ0dFpBdVd4Ym1PTktqMkVsaElQVWtTb0ROT2xpaV9rclZjQ0Z0R0gtY3Z1b1FDYlM2ZVE5bWc4QjFucTlmbVh1MlpZWV9CZDZlWFFObmc?oc=5) (Tue, 03 Mar 2026 20:45:00 GMT)
 
 <!-- END_dashboard -->
 
