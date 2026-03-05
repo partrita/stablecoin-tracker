@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-04 01:17:40 (UTC)*
+*Last Updated: 2026-03-05 01:20:00 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,992,776,080** | 🟢 +0.04% | 🟢 +0.52% |
+| **$294,970,316,855** | 🟢 +0.33% | 🟢 +0.66% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoins Face Tax-Time Reckoning as GENIUS Act Sets Compliance Bar - PYMNTS.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWVpRUlMeTUwemp1VUk4ckNaa0MwakVqWmJPYjltdUlFR3dkLUp2NWtRQzVJRHpSNEMyOWVNQl80WHBjbVBPb2E4Uno0VklnU29uWms1eGZyY2VSb1owYnJSSjNvRkdWSFdnLXhZSUZKT29ndUtJYlY5SmNDWEwwRzZjajI4ZzBZcldWbVljUm5RMlhEUXREdHdSVS1iOThTbzk4MHM0TGFsMF95d2c?oc=5) (Wed, 04 Mar 2026 00:11:59 GMT)
-- [Office of the Comptroller of the Currency Proposes GENIUS Act Implementing Rules for Payment Stablecoins - Pillsbury Winthrop Shaw Pittman](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU09OLXdvRlNsanU1M3Y2M1lCNTEwSk1KVThDa0phemc2ajVaaEJROTBvQXlpWVgtVXJNZGNwOTZCanNKTHdTa0dCR2Rhc0VmUE42cVhzWHpWRWxNNjdnNFd0ZTdtVFg0UHA5cFpINXo4MUNCTzZtYXFpOWVHMFFZZjliS2dkSnR5VW9BSXhfNWx1T05GTXI4Z01fUmdjdWdoWXZ5SmEzZDl4em43dTd6VzZQN1VkWE90VEpJ?oc=5) (Tue, 03 Mar 2026 21:56:55 GMT)
-- [French Hill urges Senate to take up House crypto bill amid stablecoin yield fight - The Block](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaUV3ZHcybEUtOG5IWXlSZ2hTUll3T0trMDFFY1FUbVc0cEZNSlA3YXh4TkEybFljVHhUbWFaOGR5Vm04ZlU5cGthanJObFkwUDhsdDBvQXZ6UDFfOW95WXVEdTlsbU80REthQklIdC1obzJfcGNzM19UcjJTeWp6U1BCWjMwU3dicWFIbGNaVE5rbFRwcTdMRDNoOUNJZWtwQ29TQ1NHWGkxZw?oc=5) (Tue, 03 Mar 2026 21:43:06 GMT)
-- [JP Morgan CEO Jamie Dimon says stablecoin issuers paying interest should be regulated as banks - CoinDesk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYUJvSVVTa09VMng3cDR4TWVVTVl3UlBWcTNibmhSZVZleWdWNUk3Q3JkT1gyamx0REdrc01iUzlLX0RUTXJoY1JYbzkxZkhmTklMUjVGTmVaVmVNSE56QUVSbFpxNllkMWw4NGxzX2cyeHgyNTJXbmNNY1ZHcE92X1ZNQW5OUGpSQ1BFZWdScGZoOFhmVlduOVBCMjBXZHBkWGl0VW1heVNVLXVnQUxfdG9Ha1Y0WU0wMUFWT0pIaXkyZm1xVm56NjlZTVpRRjRmcUNZ?oc=5) (Tue, 03 Mar 2026 21:10:04 GMT)
-- [Mastercard, Visa make deals to jolt stablecoins - American Banker](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNEdVbFN5N0V2aDhtNThfMEdManU4UDNaaFJOYmlYcDBQVEZEWUx4blR0YWx4elJnQmJ4RTNUVG1xSGRMU2VfOHJ0dFpBdVd4Ym1PTktqMkVsaElQVWtTb0ROT2xpaV9rclZjQ0Z0R0gtY3Z1b1FDYlM2ZVE5bWc4QjFucTlmbVh1MlpZWV9CZDZlWFFObmc?oc=5) (Tue, 03 Mar 2026 20:45:00 GMT)
+- [Eric Trump, World Liberty co-founder, calls banks 'anti-American' over stablecoin fight - CoinDesk](https://news.google.com/rss/articles/CBMixAFBVV95cUxPcWh2RVg3eWRMLVAwM281TjNTXzJXV2h4OXlPM3NFNzZ2YTJkZzRoek5iOUI2OG5tUWNIMmptZUlqaEhLSk5WVTluWGk0ckt5dkFwemR5UVBOdFlRcW84X09RU1NYLVNwMHBJeVF5RlhYU09DeVNXeV9WVUQ0bnJhOEJWeHBHSnpUbDRXVUxZV1hmc1lKMGNlWWs3WldVRFRqOHM1Sk9UX05wbVFISHp6M3IxRlRKVVF5VklFLXo3bGZNVVBD?oc=5) (Wed, 04 Mar 2026 23:14:05 GMT)
+- [Ripple tweaks its tech for lurking stablecoin wave - American Banker](https://news.google.com/rss/articles/CBMimwFBVV95cUxNYTNmczJDYmMyUEwzbVR4SGNINFlMY1p6M1VZbXZMQjRIUGRBZnBaQWxkQ2dBb0IzQlRnZ3JUSzNJWUIzWFZkTnVFN01jeEFCeV91WXgxR3ZjamFqMDhGSDNvMTVZMnk2TUtyUGd2SW5JZzVpVm94di05RjlDQUtjWnlLWnZ5Q2UtV0FDQXVHYV9VWlotOVNUck9mdw?oc=5) (Wed, 04 Mar 2026 20:22:00 GMT)
+- [Stablecoins in spotlight as Bitcoin rebounds and Trump backs crypto vs. banks - InvestmentNews](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGJRYmtvcXVXZGZ5eExsWWdPOE9PQW53VEFpNFZFdERNWXFZdU9HMDBGS0xITDQtc0ZROGRuaXMxd3pyYUxtaG9xUGJDSEM5dk11bzdpVjBwc1Ywcm9xc1FVSkdJMFRhMDAtQlZNZkpwNlEzTVFoeV9Eek1aSkNsMkRkM1RFc1pqWUg2bFlNXzdfM3BRb2tRTUxCZW40ay1rRGw5R0ZDSFp3SWQ1QWNKeTYwVGRHZkoxd20ySmI2RldQZDJ3U0E?oc=5) (Wed, 04 Mar 2026 19:05:21 GMT)
+- [Sui joins stablecoin race with USDsui mainnet launch - The Block](https://news.google.com/rss/articles/CBMikgFBVV95cUxNMjhWQU80eVg5VHRmb3o5djZtMVNjQ2ZkcnpfWjkzX0pBcDd4Vm9TOWxsVzBwVW5Ca01PUGJCeUdEaktDQnAyazFYbGg2N0ZLNjRZSGtHZE9HdjB2SXVSb1kzd21XTEU2Ymc0dWI1WVNGelRjVXR3dlA2d0lzbVE5NnhGYUhuLTVMa0g2YXJQVDR5QQ?oc=5) (Wed, 04 Mar 2026 17:59:40 GMT)
+- [GENIUS Act Stablecoin Loophole Threatens to Let Crypto Kill the Economy - Better Markets](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLUppNjdFcFA0dkY4ZTVkNE0wbExteWoxTXR1ZE9EZS1xYnlkQWowbUxYUXVBQVQ1WUttS1h1ODVuekhUQnlOYUp0N2tRRmNMbjhmQW4wVVhnV2RqY3M4QXc5V0dhMjBoS1pFRTNCWnBWRGg0N3JPa2c3S2hXNFpIZ3VXQ3RJU2U5cFRSNG1MRmMza1JQdG5KalZSUU4yQ3M5cExjRnotSk51WUU?oc=5) (Wed, 04 Mar 2026 16:52:13 GMT)
 
 <!-- END_dashboard -->
 
