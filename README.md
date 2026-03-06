@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-05 01:20:00 (UTC)*
+*Last Updated: 2026-03-06 01:23:05 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$294,970,316,855** | 🟢 +0.33% | 🟢 +0.66% |
+| **$296,048,244,099** | 🟢 +0.37% | 🟢 +1.03% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Eric Trump, World Liberty co-founder, calls banks 'anti-American' over stablecoin fight - CoinDesk](https://news.google.com/rss/articles/CBMixAFBVV95cUxPcWh2RVg3eWRMLVAwM281TjNTXzJXV2h4OXlPM3NFNzZ2YTJkZzRoek5iOUI2OG5tUWNIMmptZUlqaEhLSk5WVTluWGk0ckt5dkFwemR5UVBOdFlRcW84X09RU1NYLVNwMHBJeVF5RlhYU09DeVNXeV9WVUQ0bnJhOEJWeHBHSnpUbDRXVUxZV1hmc1lKMGNlWWs3WldVRFRqOHM1Sk9UX05wbVFISHp6M3IxRlRKVVF5VklFLXo3bGZNVVBD?oc=5) (Wed, 04 Mar 2026 23:14:05 GMT)
-- [Ripple tweaks its tech for lurking stablecoin wave - American Banker](https://news.google.com/rss/articles/CBMimwFBVV95cUxNYTNmczJDYmMyUEwzbVR4SGNINFlMY1p6M1VZbXZMQjRIUGRBZnBaQWxkQ2dBb0IzQlRnZ3JUSzNJWUIzWFZkTnVFN01jeEFCeV91WXgxR3ZjamFqMDhGSDNvMTVZMnk2TUtyUGd2SW5JZzVpVm94di05RjlDQUtjWnlLWnZ5Q2UtV0FDQXVHYV9VWlotOVNUck9mdw?oc=5) (Wed, 04 Mar 2026 20:22:00 GMT)
-- [Stablecoins in spotlight as Bitcoin rebounds and Trump backs crypto vs. banks - InvestmentNews](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGJRYmtvcXVXZGZ5eExsWWdPOE9PQW53VEFpNFZFdERNWXFZdU9HMDBGS0xITDQtc0ZROGRuaXMxd3pyYUxtaG9xUGJDSEM5dk11bzdpVjBwc1Ywcm9xc1FVSkdJMFRhMDAtQlZNZkpwNlEzTVFoeV9Eek1aSkNsMkRkM1RFc1pqWUg2bFlNXzdfM3BRb2tRTUxCZW40ay1rRGw5R0ZDSFp3SWQ1QWNKeTYwVGRHZkoxd20ySmI2RldQZDJ3U0E?oc=5) (Wed, 04 Mar 2026 19:05:21 GMT)
-- [Sui joins stablecoin race with USDsui mainnet launch - The Block](https://news.google.com/rss/articles/CBMikgFBVV95cUxNMjhWQU80eVg5VHRmb3o5djZtMVNjQ2ZkcnpfWjkzX0pBcDd4Vm9TOWxsVzBwVW5Ca01PUGJCeUdEaktDQnAyazFYbGg2N0ZLNjRZSGtHZE9HdjB2SXVSb1kzd21XTEU2Ymc0dWI1WVNGelRjVXR3dlA2d0lzbVE5NnhGYUhuLTVMa0g2YXJQVDR5QQ?oc=5) (Wed, 04 Mar 2026 17:59:40 GMT)
-- [GENIUS Act Stablecoin Loophole Threatens to Let Crypto Kill the Economy - Better Markets](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLUppNjdFcFA0dkY4ZTVkNE0wbExteWoxTXR1ZE9EZS1xYnlkQWowbUxYUXVBQVQ1WUttS1h1ODVuekhUQnlOYUp0N2tRRmNMbjhmQW4wVVhnV2RqY3M4QXc5V0dhMjBoS1pFRTNCWnBWRGg0N3JPa2c3S2hXNFpIZ3VXQ3RJU2U5cFRSNG1MRmMza1JQdG5KalZSUU4yQ3M5cExjRnotSk51WUU?oc=5) (Wed, 04 Mar 2026 16:52:13 GMT)
+- [Preliminary Insights on the OCC’s Proposed Stablecoin Framework - Forvis Mazars US](https://news.google.com/rss/articles/CBMirAFBVV95cUxON2FWNFRyRGZDSnIwRW9DQ2NuWGhEZ0hoUHVQNllXX3FGRlo0MkdUQWJ5UzJHZXRBcVJIendjWVFkbWpmbFE2WkFjdFlmdTlBTi1leXpnUHIwZ3g1WjlGU1pMQnVIQXQzcXZfVlMtOHVxWTFGaGhVN2pmODNjeFp6ZVNFRGdpaHZwRkdUc3M0alNtalAxSWFBRVpHbFliUm95T2ZwVmJ4MlJWU1Ut?oc=5) (Thu, 05 Mar 2026 17:59:35 GMT)
+- [AI Should Be the First Defense for Stablecoin Payment Fraud - Bank Info Security](https://news.google.com/rss/articles/CBMinAFBVV95cUxPTjJjYjV4eWJMamoxTmlwM1VvdnJOY0tMR2tyMFg1cXRHTjBUUW1mUWVPR3NTS3g1RTAxR3ZaVEdxR3NPdkpaRFRnUlRteFQ0VDNZYVh4cFU5ZDdoYWQ1TE1yM1Fmak5uTlk3RHFEOXZYM0ViclRfZFlzMWJBMmI3TGtyamVUYXctTUNLcnBQVTFGSkx1VEc5aGtWV2Q?oc=5) (Thu, 05 Mar 2026 16:40:52 GMT)
+- [SoFi’s stablecoin joins Mastercard’s network - Payments Dive](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMXRnVjVLbUZESE84a0Z3Z0xKbW00V1F6V2RSOUpwa3diYXpCVXJNd0NFd0RkNFRkY0JKU08tTTFaWVZYdkRkVFhZOGhNM3FSMjlxd21JYzZjNFk0aEVrNkI1VE5wSldwOUR2WHhRaDg2YlV3S3NNNmtNMWlDUDQwRHVWOFZsaWNQUHJnZw?oc=5) (Thu, 05 Mar 2026 16:25:58 GMT)
+- [Armstrong trumps Dimon in stablecoin rewards fight - ledgerinsights.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ193NC1HTndFVGZYci1Wb3d6cDlYVGJpazQ4eGZRQlpkUG5Vc0xTYkpKUVBzSUVIYTNwQm9CZUNFdWNwX1NOX1RCak9ONmZMQmppYnBzZ2d2bEJycE9HUHJqVDBGNFZpa1NLeWt6d0k1S3pEZkN0VE9xb05HaWE3UHAzVVM1V1JwaEE?oc=5) (Thu, 05 Mar 2026 13:03:58 GMT)
+- [Crypto Bill Talks Stall as Banks Reject White House Stablecoin Compromise - PYMNTS.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZmtiZWc5X0UwMThSNU9iMDV0N09HNC12YnhSYnB6UU1jRWVwRDUxX2ktOHUtVHZrQzVYaXIxTDNIcWZXamRuTExwbUEzNC1IU1hlckFrZWFXNWZiTjdwV0k4bkw4RVBrdjlwX0VkRmhKVldHaVhnUk1jSGNiMjRuVlRWOGZlVWpoMnZ6NkhxWS1lTE1aUEpERDlrRUhDcDNMSXlsNjEzQnd1UzQyMWhfeFdiUEc4RFVR?oc=5) (Thu, 05 Mar 2026 11:59:16 GMT)
 
 <!-- END_dashboard -->
 
