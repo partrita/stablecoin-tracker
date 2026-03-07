@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-06 01:23:05 (UTC)*
+*Last Updated: 2026-03-07 01:15:16 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$296,048,244,099** | 🟢 +0.37% | 🟢 +1.03% |
+| **$296,111,746,955** | 🟢 +0.02% | 🟢 +1.09% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Preliminary Insights on the OCC’s Proposed Stablecoin Framework - Forvis Mazars US](https://news.google.com/rss/articles/CBMirAFBVV95cUxON2FWNFRyRGZDSnIwRW9DQ2NuWGhEZ0hoUHVQNllXX3FGRlo0MkdUQWJ5UzJHZXRBcVJIendjWVFkbWpmbFE2WkFjdFlmdTlBTi1leXpnUHIwZ3g1WjlGU1pMQnVIQXQzcXZfVlMtOHVxWTFGaGhVN2pmODNjeFp6ZVNFRGdpaHZwRkdUc3M0alNtalAxSWFBRVpHbFliUm95T2ZwVmJ4MlJWU1Ut?oc=5) (Thu, 05 Mar 2026 17:59:35 GMT)
-- [AI Should Be the First Defense for Stablecoin Payment Fraud - Bank Info Security](https://news.google.com/rss/articles/CBMinAFBVV95cUxPTjJjYjV4eWJMamoxTmlwM1VvdnJOY0tMR2tyMFg1cXRHTjBUUW1mUWVPR3NTS3g1RTAxR3ZaVEdxR3NPdkpaRFRnUlRteFQ0VDNZYVh4cFU5ZDdoYWQ1TE1yM1Fmak5uTlk3RHFEOXZYM0ViclRfZFlzMWJBMmI3TGtyamVUYXctTUNLcnBQVTFGSkx1VEc5aGtWV2Q?oc=5) (Thu, 05 Mar 2026 16:40:52 GMT)
-- [SoFi’s stablecoin joins Mastercard’s network - Payments Dive](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMXRnVjVLbUZESE84a0Z3Z0xKbW00V1F6V2RSOUpwa3diYXpCVXJNd0NFd0RkNFRkY0JKU08tTTFaWVZYdkRkVFhZOGhNM3FSMjlxd21JYzZjNFk0aEVrNkI1VE5wSldwOUR2WHhRaDg2YlV3S3NNNmtNMWlDUDQwRHVWOFZsaWNQUHJnZw?oc=5) (Thu, 05 Mar 2026 16:25:58 GMT)
-- [Armstrong trumps Dimon in stablecoin rewards fight - ledgerinsights.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ193NC1HTndFVGZYci1Wb3d6cDlYVGJpazQ4eGZRQlpkUG5Vc0xTYkpKUVBzSUVIYTNwQm9CZUNFdWNwX1NOX1RCak9ONmZMQmppYnBzZ2d2bEJycE9HUHJqVDBGNFZpa1NLeWt6d0k1S3pEZkN0VE9xb05HaWE3UHAzVVM1V1JwaEE?oc=5) (Thu, 05 Mar 2026 13:03:58 GMT)
-- [Crypto Bill Talks Stall as Banks Reject White House Stablecoin Compromise - PYMNTS.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZmtiZWc5X0UwMThSNU9iMDV0N09HNC12YnhSYnB6UU1jRWVwRDUxX2ktOHUtVHZrQzVYaXIxTDNIcWZXamRuTExwbUEzNC1IU1hlckFrZWFXNWZiTjdwV0k4bkw4RVBrdjlwX0VkRmhKVldHaVhnUk1jSGNiMjRuVlRWOGZlVWpoMnZ6NkhxWS1lTE1aUEpERDlrRUhDcDNMSXlsNjEzQnd1UzQyMWhfeFdiUEc4RFVR?oc=5) (Thu, 05 Mar 2026 11:59:16 GMT)
+- [Mastercard Expands SoFiUSD Stablecoin Use As Shares Trade Below Targets - Yahoo Finance](https://news.google.com/rss/articles/CBMilAFBVV95cUxOeU1DVjZHbzdfUkctSWxjd01CWlFRQVI0cF9MODhva29fMkVVbTVGejdBUlhhdVFtRUY3SFltOTA3SXpmR0lMVE9kR25Lb2hvSVBWSl81Zm5vbjFlM05RSHZYUklTT2YxZ3EtaUlUQzRQNFBfb1pZa1lvaUJlV1VYTmFaSTMybk9ieWdOMmpLRTlLaGlm?oc=5) (Sat, 07 Mar 2026 00:22:00 GMT)
+- [U.S. Office of the Comptroller of the Currency Proposes Comprehensive Supervisory Framework for Payment Stablecoins Under GENIUS Act - Sidley](https://news.google.com/rss/articles/CBMihAJBVV95cUxPNldwRjJUVVdvMXotNmRjOHJKRXRSSDRWZko1M3huSm4wYmxQTjFjZW50MTlkWUo1aGc1amRkemp3M3BwZnFhOHZVZzhSV01oYVlrYjZFcUVUNVFrbmZyMTZ4SXktRldvemF0X0hBdUs4QlNJdHZRNTFsSlNDbjBwUUFoLUNBamJ5N0RVc1NsOW00bzU0X05iTHMydTRlZjZ2dEw0YjNzRVAwX09OMHd4TGZXbC1jUEk3U2FtSDhZY2RtUkY2MG9ZQnd4d0pfdXhuaTJsUXVodVJVY1V4NWV1eTMwWWxoVXV1dFMtSzBxbGd0SEtnV3Rmc1NtSzNGZmYzSmcwYQ?oc=5) (Fri, 06 Mar 2026 21:36:42 GMT)
+- [First US state-level stablecoin bill passes in Florida - The Block](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYWdrM3RKclVKMFpId09naF9mOXRIelU3NnBQc3dXaE1RTktRZlBvb1l2VUZSNHhESEJlWVhqSnVHcGZ4cERGNHFYQlAxYzZYRHQtSGdyeXRtMGs1Vkl6Y01tSThvNjI4WGRiYUtlWUNlT1NVMXRBdXBHUVVRRV85X01DcDhwc09aeG4xY3VwNW00eDZ3?oc=5) (Fri, 06 Mar 2026 19:11:40 GMT)
+- [FinTech and Big Finance Fight to Own the Stablecoin Stack - PYMNTS.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1Q2dXdNbUpXWFdFRU1OZ0JUdzUyNHJFcl85YUM0WTRzTzRCTXRnZWwwZkJaLXhEaW1FM0VpenhpM24welBpaU1iSmZ5WVJyZlVRRFlaanM5dTIxbVQ2OEFZcWRVUkYzRmpWZ19XT0l4dVNBUHlWNWVyc0o4Q2V5Ml9Ta0pvMWlFQnp2QkxhNFJxTEtSYm5SbzhIZERUVFh6a1M4?oc=5) (Fri, 06 Mar 2026 18:37:33 GMT)
+- [Stablecoin is moving into traditional finance in 2026 - Finextra Research](https://news.google.com/rss/articles/CBMingFBVV95cUxPRmN2cS1WWGFZelhyVlY4TkxxRFU1eHg0b3JXeWlGRGlJZUhmdWk2djRYdHpjVURtRW5mQWFnbDY0SFNjeElFLTBtbVE3ZXdvU1pzeTJXVkpNSFhSaXl6LUdGRjZ3Q1JSVlJCVFgwM3JIUFZXOTVtVnlqQWpDYndUbjF5Mk1vYzEwLXpYWTZLc0pnM2x5UUl6WGh0WUN4UQ?oc=5) (Fri, 06 Mar 2026 14:00:00 GMT)
 
 <!-- END_dashboard -->
 
