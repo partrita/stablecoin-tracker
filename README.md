@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-07 01:15:16 (UTC)*
+*Last Updated: 2026-03-08 01:21:04 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$296,111,746,955** | 🟢 +0.02% | 🟢 +1.09% |
+| **$296,192,528,733** | 🟢 +0.03% | 🟢 +1.05% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Mastercard Expands SoFiUSD Stablecoin Use As Shares Trade Below Targets - Yahoo Finance](https://news.google.com/rss/articles/CBMilAFBVV95cUxOeU1DVjZHbzdfUkctSWxjd01CWlFRQVI0cF9MODhva29fMkVVbTVGejdBUlhhdVFtRUY3SFltOTA3SXpmR0lMVE9kR25Lb2hvSVBWSl81Zm5vbjFlM05RSHZYUklTT2YxZ3EtaUlUQzRQNFBfb1pZa1lvaUJlV1VYTmFaSTMybk9ieWdOMmpLRTlLaGlm?oc=5) (Sat, 07 Mar 2026 00:22:00 GMT)
-- [U.S. Office of the Comptroller of the Currency Proposes Comprehensive Supervisory Framework for Payment Stablecoins Under GENIUS Act - Sidley](https://news.google.com/rss/articles/CBMihAJBVV95cUxPNldwRjJUVVdvMXotNmRjOHJKRXRSSDRWZko1M3huSm4wYmxQTjFjZW50MTlkWUo1aGc1amRkemp3M3BwZnFhOHZVZzhSV01oYVlrYjZFcUVUNVFrbmZyMTZ4SXktRldvemF0X0hBdUs4QlNJdHZRNTFsSlNDbjBwUUFoLUNBamJ5N0RVc1NsOW00bzU0X05iTHMydTRlZjZ2dEw0YjNzRVAwX09OMHd4TGZXbC1jUEk3U2FtSDhZY2RtUkY2MG9ZQnd4d0pfdXhuaTJsUXVodVJVY1V4NWV1eTMwWWxoVXV1dFMtSzBxbGd0SEtnV3Rmc1NtSzNGZmYzSmcwYQ?oc=5) (Fri, 06 Mar 2026 21:36:42 GMT)
-- [First US state-level stablecoin bill passes in Florida - The Block](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYWdrM3RKclVKMFpId09naF9mOXRIelU3NnBQc3dXaE1RTktRZlBvb1l2VUZSNHhESEJlWVhqSnVHcGZ4cERGNHFYQlAxYzZYRHQtSGdyeXRtMGs1Vkl6Y01tSThvNjI4WGRiYUtlWUNlT1NVMXRBdXBHUVVRRV85X01DcDhwc09aeG4xY3VwNW00eDZ3?oc=5) (Fri, 06 Mar 2026 19:11:40 GMT)
-- [FinTech and Big Finance Fight to Own the Stablecoin Stack - PYMNTS.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1Q2dXdNbUpXWFdFRU1OZ0JUdzUyNHJFcl85YUM0WTRzTzRCTXRnZWwwZkJaLXhEaW1FM0VpenhpM24welBpaU1iSmZ5WVJyZlVRRFlaanM5dTIxbVQ2OEFZcWRVUkYzRmpWZ19XT0l4dVNBUHlWNWVyc0o4Q2V5Ml9Ta0pvMWlFQnp2QkxhNFJxTEtSYm5SbzhIZERUVFh6a1M4?oc=5) (Fri, 06 Mar 2026 18:37:33 GMT)
-- [Stablecoin is moving into traditional finance in 2026 - Finextra Research](https://news.google.com/rss/articles/CBMingFBVV95cUxPRmN2cS1WWGFZelhyVlY4TkxxRFU1eHg0b3JXeWlGRGlJZUhmdWk2djRYdHpjVURtRW5mQWFnbDY0SFNjeElFLTBtbVE3ZXdvU1pzeTJXVkpNSFhSaXl6LUdGRjZ3Q1JSVlJCVFgwM3JIUFZXOTVtVnlqQWpDYndUbjF5Mk1vYzEwLXpYWTZLc0pnM2x5UUl6WGh0WUN4UQ?oc=5) (Fri, 06 Mar 2026 14:00:00 GMT)
+- [Bitcoin purist Jack Dorsey says that his firm is reluctantly giving in to stablecoin craze - CoinDesk](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZzFUODk5LW90YkJhZG1BZi1jZVJJLUlyZy1GNFZNaVRnbC1JcWp5TnphenlVWExsSlJBeTVhTnlTVkRteVY1YnJZX1FQWXI4UHZKYUtiaGtraVFiUUQxN0VEaHVvUWNLd1k4LUowVjlIZk96OXROYkpGSkJkRVBfRDhHVmdnUmZFc3NmN2ZBTDFQVi1uM1IzMDlaMWZXbTdJSjVBMWxGSEU0d0VWS1QyZU5fVEFsMDJEMHczZGxHY28?oc=5) (Sat, 07 Mar 2026 23:14:55 GMT)
+- [Florida moves ahead with state-level stablecoin regulation - dlnews.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxORXI0X2lqT25hWkRibERlaTJiR3dVOS0tcmpIOG8zYW1NQ3ppcVFSaWVMOS1MY1BNY2FyTVBtTlcyTGdXM25vYTE4TG9kY19tajJnZEFVTFJOV3E3emJSZjhSSmpXQ3dkUTl4c0F3ZmdwZmxaTk5fQTRhQW5WUjh1azVUcW5MQVVmNGJjODlfZEYxbUU?oc=5) (Sat, 07 Mar 2026 18:50:33 GMT)
+- [Visa Expands Stablecoin Cards Testing Blockchain Rails And Valuation Story - Yahoo Finance](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM09OUzRwVG45QXBEa21IZW9LYTlMRnVpREJybTNHMXJpOGI1ZHk1NWktTnVMNVVGSjI2MXZnbEp0aUh6c1ZqQk0tMi1YTk5sMmVjd3NPZTdUc2g2Z2o1TFo0SzhNcjd5Q082Z2Q3aldTTXFob1VLd2FVTTFaWWtFa0R6XzhtdzdYSEhv?oc=5) (Sat, 07 Mar 2026 18:07:29 GMT)
+- [AI Should Be the First Defense for Stablecoin Payment Fraud - GovInfoSecurity](https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXlZS3pRRTRmaWVaZmwyVmd1YWw3ai1Ed1ZrMmNrbE5jd3pleGVaYkk1VUJRN3pSQ1hTdXNCX2w5akc2MUxDekxDTEF4WDU3Ni1fM21HeFNaMmcyQ3lTaTkzZHpRcUNzU1dVWVhOYTRBQU9xNFI5dWFOb09ieFY5cmgzcDJDWndzbGlfVW84M2pia2VRQXE3YmRBOA?oc=5) (Sat, 07 Mar 2026 15:17:23 GMT)
+- [CRCL News: Circle shifts $68 million in internal payments via its own stablecoin to bypass legacy banks - CoinDesk](https://news.google.com/rss/articles/CBMiywFBVV95cUxQWDRKcm5QZFE5Q1dsTXBWejVMdmdjZ25obzRqa1NSOWVISzZ6ckdlcDRuamVkUEtQM2lyQWdwODFvbGZlMWxVOFUyV010NHNTeXczVHlUSEpRNTJOaFVqSmloTFc1V3dpdTRIZUMzam85TEhUV2VuUzM0ZXBHU2U0VHVyWlRXbmdPQ0RUd2ZlV0FHN3RDbzdZUC1uX29mNVNGUVRTQnM0RXBiMUZZb19JRV9kUzFlbVk0dVRSZ25fQmhadXNKZ3dyZ1U5MA?oc=5) (Sat, 07 Mar 2026 15:06:27 GMT)
 
 <!-- END_dashboard -->
 
