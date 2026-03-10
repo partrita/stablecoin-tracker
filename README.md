@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-09 01:21:02 (UTC)*
+*Last Updated: 2026-03-10 01:15:14 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$296,163,868,264** | 🔴 -0.01% | 🟢 +1.05% |
+| **$297,135,228,385** | 🟢 +0.33% | 🟢 +1.11% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Vault: Trump’s stablecoin threat lands with thud - Punchbowl News](https://news.google.com/rss/articles/CBMimgFBVV95cUxNVnpIcElwN1FFdFZzQnVJMk9QeGdmLXhQNFJwS1JRUndxN2FSNmM0UV9LZnRHc2lfNnFycXNmSlZRRjlSWF8xN19UeVhuTkF5am04WmhBRWt2cXlWRzRobjIxSUV6OF9nSFlwNVFfZ3l4RWtSQ0tPaGNBejF4eEZrRVk0M205dFRXT1hSOE8tVFZEcUVfQXBuR3ZB?oc=5) (Sun, 08 Mar 2026 20:36:36 GMT)
-- [Jack Dorsey displeased with stablecoin push - thestreet.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxObjBscHROaFA5U3VubFFVNzgyQVNxU2N5c0x2SWppRHhoemVjd20tNzgtMVBRcFltR3VMQ29zTXRWenpQUmFVZTVHcmVwc0lyQTRRWDFZajBXOVV5UlozREVjX0Z3Ty1VOE1pTUUtOG1hZWtLbTJlSEt3NEJZZmJnNXVBR1diVnktUEdXTw?oc=5) (Sun, 08 Mar 2026 11:23:52 GMT)
-- [A Crypto Coin Is Gobbling Up U.S. Treasuries - The New York Times](https://news.google.com/rss/articles/CBMijAFBVV95cUxPT0JaZjNiR2NMMTRnWlB1eUc0VC1OOGMtcFdRdGhybHhfZFd2M2xpMUZQYVdTX0NwcU94X3ZkaVRIQkxVNzhSMVd2Ri1FZ193LUtsajB2Sk12c3NRSlpiR3RXSFBPLUNHQ21pM0Q3ZllvemxsNnltbzJIMXpCNDhGS2RwWXBVZ05CWndmSw?oc=5) (Sun, 08 Mar 2026 10:00:07 GMT)
-- [Bitcoin purist Jack Dorsey says that his firm is reluctantly giving in to stablecoin craze - CoinDesk](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZzFUODk5LW90YkJhZG1BZi1jZVJJLUlyZy1GNFZNaVRnbC1JcWp5TnphenlVWExsSlJBeTVhTnlTVkRteVY1YnJZX1FQWXI4UHZKYUtiaGtraVFiUUQxN0VEaHVvUWNLd1k4LUowVjlIZk96OXROYkpGSkJkRVBfRDhHVmdnUmZFc3NmN2ZBTDFQVi1uM1IzMDlaMWZXbTdJSjVBMWxGSEU0d0VWS1QyZU5fVEFsMDJEMHczZGxHY28?oc=5) (Sat, 07 Mar 2026 23:14:55 GMT)
-- [Florida moves ahead with state-level stablecoin regulation - dlnews.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxORXI0X2lqT25hWkRibERlaTJiR3dVOS0tcmpIOG8zYW1NQ3ppcVFSaWVMOS1MY1BNY2FyTVBtTlcyTGdXM25vYTE4TG9kY19tajJnZEFVTFJOV3E3emJSZjhSSmpXQ3dkUTl4c0F3ZmdwZmxaTk5fQTRhQW5WUjh1azVUcW5MQVVmNGJjODlfZEYxbUU?oc=5) (Sat, 07 Mar 2026 18:50:33 GMT)
+- [Fireblocks Named Stablecoin Payments Market Leader by FXC - Fireblocks](https://news.google.com/rss/articles/CBMingFBVV95cUxPNUZmaTVLTWx3YWxySXB0VTRpaWQwckdUVE5EbnZ6Y1Y4UnBoYk41UExPSUl6S1c2VWF0RG5obGRoTmlyd3pRQzZvZVdCWTV3QXhFOUEyUXRCRUJ1M1lUNW13eDNFUjJtQVlxQUJKTjdRUHlEQmZhNThPTFUzU1Qyd3lDQ2hoX19DWGVicWpZWW9sMExYQ3NkY2cxbU9QZw?oc=5) (Mon, 09 Mar 2026 20:31:33 GMT)
+- [The FCA Is Building a Sterling Stablecoin Market. The Rules That Kick In When It Succeeds Could Kill It. - FinTech Weekly](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3kyZjhEeVdEZ2FqUzMzN2VxMVMyZVFpOVZNaWs3d3BkQ1BfMlNja3lzSDlHRXBRLXZfSUltNFpCSzRxRnZjNFd2MDhmRndqRkJZYmpDMzRDWDdRV1NiaGhodzZHY1RfQUxod3pOZUdpY1BGNU1Mb1Fwb0xzRDh6cDhkX1dhUVQwM2VkRVlXclVBeDg1Y2dyZmhtUVo5cFZxdmdPdUhFeVBGSmc?oc=5) (Mon, 09 Mar 2026 20:17:00 GMT)
+- [Mastercard Tests Bank Issued Stablecoin Rail With SoFiUSD Integration - Yahoo Finance](https://news.google.com/rss/articles/CBMijgFBVV95cUxPdkI0NnhmSkp3WE9NbTEybVR6OC00UGJXOXFEMlBsNXNmd2YtT0gtQ0lPNHZCbmg1cFI0bUtqWlg5ZGNGbGtCSXdjOElXX2laVHR0VDRUQldLSnJlTXExa2pXYllUc0U2S01ERy0tbXNMVGR5Y3llMG5hd1VmYmJSemp5WmVjNWFkbE9TRVhR?oc=5) (Mon, 09 Mar 2026 18:12:37 GMT)
+- [Aon Announces Stablecoin Insurance Premium Payment Option - Carrier Management](https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UVMtejBtMnJVdzluMHNFZkJ4UDRQR1haaEsySzNsNENITXN6WUpYdVNEeWJXbnJKT1N0MHI5bFhTOC14MWhrMFBFQjdVOHlWclJINjF5X1BZODFrc0VwR2RGaFhIR2hIcnBXdg?oc=5) (Mon, 09 Mar 2026 16:27:25 GMT)
+- [Clarity Act stokes debate on crypto - Payments Dive](https://news.google.com/rss/articles/CBMigwFBVV95cUxQaXU1eG11RHRaS3pDb25GQ2liVVBxUG96TVRBZjBxWUw5UkJQWXNRT2RZbTFXMXRCdFhLZmxsYzdGUmV3UzJBazQwdFByLURyV0R5bkVoai0yQURrRnNWWkMwY3hFWmloeDBXUVdJNTBfa0lqbVZuQ2IxcGtUbXh0dm5jZw?oc=5) (Mon, 09 Mar 2026 15:43:55 GMT)
 
 <!-- END_dashboard -->
 
