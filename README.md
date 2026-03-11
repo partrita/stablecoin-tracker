@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-10 01:15:14 (UTC)*
+*Last Updated: 2026-03-11 01:15:42 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$297,135,228,385** | 🟢 +0.33% | 🟢 +1.11% |
+| **$297,622,124,755** | 🟢 +0.16% | 🟢 +1.23% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Fireblocks Named Stablecoin Payments Market Leader by FXC - Fireblocks](https://news.google.com/rss/articles/CBMingFBVV95cUxPNUZmaTVLTWx3YWxySXB0VTRpaWQwckdUVE5EbnZ6Y1Y4UnBoYk41UExPSUl6S1c2VWF0RG5obGRoTmlyd3pRQzZvZVdCWTV3QXhFOUEyUXRCRUJ1M1lUNW13eDNFUjJtQVlxQUJKTjdRUHlEQmZhNThPTFUzU1Qyd3lDQ2hoX19DWGVicWpZWW9sMExYQ3NkY2cxbU9QZw?oc=5) (Mon, 09 Mar 2026 20:31:33 GMT)
-- [The FCA Is Building a Sterling Stablecoin Market. The Rules That Kick In When It Succeeds Could Kill It. - FinTech Weekly](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3kyZjhEeVdEZ2FqUzMzN2VxMVMyZVFpOVZNaWs3d3BkQ1BfMlNja3lzSDlHRXBRLXZfSUltNFpCSzRxRnZjNFd2MDhmRndqRkJZYmpDMzRDWDdRV1NiaGhodzZHY1RfQUxod3pOZUdpY1BGNU1Mb1Fwb0xzRDh6cDhkX1dhUVQwM2VkRVlXclVBeDg1Y2dyZmhtUVo5cFZxdmdPdUhFeVBGSmc?oc=5) (Mon, 09 Mar 2026 20:17:00 GMT)
-- [Mastercard Tests Bank Issued Stablecoin Rail With SoFiUSD Integration - Yahoo Finance](https://news.google.com/rss/articles/CBMijgFBVV95cUxPdkI0NnhmSkp3WE9NbTEybVR6OC00UGJXOXFEMlBsNXNmd2YtT0gtQ0lPNHZCbmg1cFI0bUtqWlg5ZGNGbGtCSXdjOElXX2laVHR0VDRUQldLSnJlTXExa2pXYllUc0U2S01ERy0tbXNMVGR5Y3llMG5hd1VmYmJSemp5WmVjNWFkbE9TRVhR?oc=5) (Mon, 09 Mar 2026 18:12:37 GMT)
-- [Aon Announces Stablecoin Insurance Premium Payment Option - Carrier Management](https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UVMtejBtMnJVdzluMHNFZkJ4UDRQR1haaEsySzNsNENITXN6WUpYdVNEeWJXbnJKT1N0MHI5bFhTOC14MWhrMFBFQjdVOHlWclJINjF5X1BZODFrc0VwR2RGaFhIR2hIcnBXdg?oc=5) (Mon, 09 Mar 2026 16:27:25 GMT)
-- [Clarity Act stokes debate on crypto - Payments Dive](https://news.google.com/rss/articles/CBMigwFBVV95cUxQaXU1eG11RHRaS3pDb25GQ2liVVBxUG96TVRBZjBxWUw5UkJQWXNRT2RZbTFXMXRCdFhLZmxsYzdGUmV3UzJBazQwdFByLURyV0R5bkVoai0yQURrRnNWWkMwY3hFWmloeDBXUVdJNTBfa0lqbVZuQ2IxcGtUbXh0dm5jZw?oc=5) (Mon, 09 Mar 2026 15:43:55 GMT)
+- [How CFOs Are Tweaking Their Tech for Stablecoin Use - PYMNTS.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjhPb0Foc1JuU1dYQ3c0MUdyNWZFM2RpZmlNLW03SlRxZUo0anY4bXBWd2RYV3lVMXdSOVRoZVRxRGVoWHJpcFo3WVlMWTdyaFlZdGk3Qkp5QVNjcXJ3c0p4eTVYS3BISEZXVml0OHpnSGV2TXpIa3BycW1FeXgtMVZQUWRPbVlLR2xTZ3p3THFiRWc4bTh5V3p5TQ?oc=5) (Tue, 10 Mar 2026 20:59:46 GMT)
+- [The $300 billion digital dollar boom could eat into traditional banks' profits, warn Jefferies analysts - CoinDesk](https://news.google.com/rss/articles/CBMiwwFBVV95cUxObFFVZDhiN2FobmVDamZoSXV1dm9yd3RGdWxFNlBMbHhSZ2ZzSkZZeUZOanp3dS1yVmNQa3pObXVtWFN6eUl4STJUaDBZeEZWTm4tc2M5a3hEczJ1YVhzN3dXQWlFOXZHeW5VcVZzRGpPM0kwVEhLd01qbDYxa2pnU1hMbEdCMHYyUDQ2OHJKOUxfZzJCZDM5bnEtbWd1SHFuOHZBb0pvTVJ4NGxPWk55elZpa0gzNDd1T0MwTXRMYUtRZ2c?oc=5) (Tue, 10 Mar 2026 20:49:50 GMT)
+- [Senators try to unlock stalled crypto Clarity Act with compromise on stablecoin yield - CoinDesk](https://news.google.com/rss/articles/CBMixwFBVV95cUxPTW5LdGllaHJCRVZJY1lDdEI2VFRYSDBjWUs0VmozZFdkeUUxMjR4WENWbEdnV3VFS2xsVlJNZzItNFVlbERESjNxSl9McVNSNWhrTjZlZW1DR1daOHR0U1VnVmhrYm9FajNPOGdMci15eWVNWGR1V2FHNnR2clNwUTN1Ym1fb1ZONEI3Q0dkaUpUR05qcUVabmJJVENFV3FPa1NsV3pzNVBrRUx5NjFiaWY1c2tGTVhjb0dRcm1RSHBFYU5NaWMw?oc=5) (Tue, 10 Mar 2026 19:01:55 GMT)
+- [ABA survey finds consumers support stablecoin yield limits tied to banking risk - The Block](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTmotbEZXRlp4MmJweHAzSWRfUHlnb1hyZUQ2MDdvWmhtSm1DT2o2RXp6aWhWbmQyWkt0TjZVVFNXdVdnakNqY2FtZG1hTUQtM1hTbHV6dGI5bWVHLVRoVUI3clVPUVd1ZVNadDNwODctZVFXQXJITG44b00ydnFyaGJrRUllVmpxZllpSXpLN1JyV0VzN2REU3RqXy15RTgxX3RqSl9ZNTRnclB2NFpaanI1NUdoeXl4VHhneHBnUnJxOHhvSTlrTElmWGlvdjQ?oc=5) (Tue, 10 Mar 2026 18:44:59 GMT)
+- [Circle (CRCL) may rally another 60% driven by stablecoin adoption, AI agentic finance: Bernstein - CoinDesk](https://news.google.com/rss/articles/CBMixgFBVV95cUxNOE9jYzQ5Snl2MThQVXZoUkkyMHJfY1lnOEU3aU8wa3BMbHpEdlJxVzRwemNLcjExYUNXWlBSbVVMSjZPaFRoc3J0dG8tVjFpSFFuX05PR1ZrZGpqZkNuWnFkaWZvMUJoNklBejhzbkhXeTQtWUpIZ3BIR2NnT2lEUW5VSUhCNjJUcGVwUGRDSzAzSjB2ckM3VThoODNLbExjZVVVdXZGRDRpMHNSWEs0NkpEbGF4aVRwSE9KejNNMVlRclpVUmc?oc=5) (Tue, 10 Mar 2026 18:34:47 GMT)
 
 <!-- END_dashboard -->
 
