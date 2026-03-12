@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-11 01:15:42 (UTC)*
+*Last Updated: 2026-03-12 01:15:28 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$297,622,124,755** | 🟢 +0.16% | 🟢 +1.23% |
+| **$297,832,351,310** | 🟢 +0.07% | 🟢 +0.97% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [How CFOs Are Tweaking Their Tech for Stablecoin Use - PYMNTS.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjhPb0Foc1JuU1dYQ3c0MUdyNWZFM2RpZmlNLW03SlRxZUo0anY4bXBWd2RYV3lVMXdSOVRoZVRxRGVoWHJpcFo3WVlMWTdyaFlZdGk3Qkp5QVNjcXJ3c0p4eTVYS3BISEZXVml0OHpnSGV2TXpIa3BycW1FeXgtMVZQUWRPbVlLR2xTZ3p3THFiRWc4bTh5V3p5TQ?oc=5) (Tue, 10 Mar 2026 20:59:46 GMT)
-- [The $300 billion digital dollar boom could eat into traditional banks' profits, warn Jefferies analysts - CoinDesk](https://news.google.com/rss/articles/CBMiwwFBVV95cUxObFFVZDhiN2FobmVDamZoSXV1dm9yd3RGdWxFNlBMbHhSZ2ZzSkZZeUZOanp3dS1yVmNQa3pObXVtWFN6eUl4STJUaDBZeEZWTm4tc2M5a3hEczJ1YVhzN3dXQWlFOXZHeW5VcVZzRGpPM0kwVEhLd01qbDYxa2pnU1hMbEdCMHYyUDQ2OHJKOUxfZzJCZDM5bnEtbWd1SHFuOHZBb0pvTVJ4NGxPWk55elZpa0gzNDd1T0MwTXRMYUtRZ2c?oc=5) (Tue, 10 Mar 2026 20:49:50 GMT)
-- [Senators try to unlock stalled crypto Clarity Act with compromise on stablecoin yield - CoinDesk](https://news.google.com/rss/articles/CBMixwFBVV95cUxPTW5LdGllaHJCRVZJY1lDdEI2VFRYSDBjWUs0VmozZFdkeUUxMjR4WENWbEdnV3VFS2xsVlJNZzItNFVlbERESjNxSl9McVNSNWhrTjZlZW1DR1daOHR0U1VnVmhrYm9FajNPOGdMci15eWVNWGR1V2FHNnR2clNwUTN1Ym1fb1ZONEI3Q0dkaUpUR05qcUVabmJJVENFV3FPa1NsV3pzNVBrRUx5NjFiaWY1c2tGTVhjb0dRcm1RSHBFYU5NaWMw?oc=5) (Tue, 10 Mar 2026 19:01:55 GMT)
-- [ABA survey finds consumers support stablecoin yield limits tied to banking risk - The Block](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTmotbEZXRlp4MmJweHAzSWRfUHlnb1hyZUQ2MDdvWmhtSm1DT2o2RXp6aWhWbmQyWkt0TjZVVFNXdVdnakNqY2FtZG1hTUQtM1hTbHV6dGI5bWVHLVRoVUI3clVPUVd1ZVNadDNwODctZVFXQXJITG44b00ydnFyaGJrRUllVmpxZllpSXpLN1JyV0VzN2REU3RqXy15RTgxX3RqSl9ZNTRnclB2NFpaanI1NUdoeXl4VHhneHBnUnJxOHhvSTlrTElmWGlvdjQ?oc=5) (Tue, 10 Mar 2026 18:44:59 GMT)
-- [Circle (CRCL) may rally another 60% driven by stablecoin adoption, AI agentic finance: Bernstein - CoinDesk](https://news.google.com/rss/articles/CBMixgFBVV95cUxNOE9jYzQ5Snl2MThQVXZoUkkyMHJfY1lnOEU3aU8wa3BMbHpEdlJxVzRwemNLcjExYUNXWlBSbVVMSjZPaFRoc3J0dG8tVjFpSFFuX05PR1ZrZGpqZkNuWnFkaWZvMUJoNklBejhzbkhXeTQtWUpIZ3BIR2NnT2lEUW5VSUhCNjJUcGVwUGRDSzAzSjB2ckM3VThoODNLbExjZVVVdXZGRDRpMHNSWEs0NkpEbGF4aVRwSE9KejNNMVlRclpVUmc?oc=5) (Tue, 10 Mar 2026 18:34:47 GMT)
+- [House approves Nick DiCeglie proposal creating Florida stablecoin payment pilot program - Florida Politics](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTUk2RDhJdDBlQWNENjIweXJBOWlleUltbXN1cDYyVUw4QVZvUnJTTnczVHZtVHpjcGFWNkVQNHhQaE1PbzZ4QmV1SG4tYmZCUERLSmtqcDBfeHRKVW9YclR3aW9uM1dCQkpwRmFCOFhtNXlGZFJmNTVjNFY1cmNCa3pLVFdvM3pRLWU0MlNTbDlSUkg4SmZnNkR3VlNIZW5ieUtRSlZ4aXdWdVZ2NGxmOGU4Y0xzVE8yb19LLXB4TUpoaF9HbElNNjMwanM?oc=5) (Wed, 11 Mar 2026 21:15:30 GMT)
+- [Visa (V) and Stripe’s Bridge Expand Stablecoin Card Program to 100+ Countries - Yahoo Finance](https://news.google.com/rss/articles/CBMifkFVX3lxTE5XY01pNmF1OFJoTXNhdWhYM0ZIVzBTWFJMM0VGMjFyV2pDQTZOMVRLSFM3UXAwdVlEZTJCTnJ0bEl1Qkx2UEMxekl4OTFsQjhiTk1rdHFJekpvTXRLMzZsR1FLUlltSXRkMWZGbE1uTF91OWhleDNYU3dGQTZNUQ?oc=5) (Wed, 11 Mar 2026 20:55:25 GMT)
+- [Clinton alum Eugene Ludwig courts banks for stablecoin alternative - American Banker](https://news.google.com/rss/articles/CBMisAFBVV95cUxNSk50M3FwYzVLY0k1MFAwZHZYSG85TjhVQ1U5b0laTUw2ampKUDlYSkhJYUdfbXY4ZFBVbUwtOUE2VmRPN3c5Y2hKTVNaUklCYjBSNGt5R19KS3NWN1J2ajhZdEhJVW55U3lNUWJoclFwaWdSYzdGYmJOSHVKX1gzTzlzZ2VFSkx4MU5id2xtRWZtVWQxcVdOcnpGdHpKdTlOLVZDdEwyZFpIYnY3dE1NQw?oc=5) (Wed, 11 Mar 2026 20:28:00 GMT)
+- [Opinion: Protecting community banks as stablecoins go mainstream - Corridor Business Journal](https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2JQbUhRNFdwck1BQVl0XzRmZThmX0RqYVk2bUJBT3duck93aW9iQ0w0U3MzZ1pmRmRHbW1iN0NkbUdOTkxad0ZaNWRTdThKdTlKNkRLam5sQ2FTZEVSSl8tS1VUbk5mLVRWaUsyXzR2Nkp6ZExpLW9zR1ZGWFpaTFVzVVVQMVpXRVBickctRlFCa0t2VFhHVA?oc=5) (Wed, 11 Mar 2026 19:07:30 GMT)
+- [OCC Issues Proposal to Implement the GENIUS Act - Latham & Watkins LLP](https://news.google.com/rss/articles/CBMihAFBVV95cUxOUTVjWnVtZmxUYnJqaW1XSkQ2ci1lTVVmT2s2RWRzT3NLUjVFMENpYXVWNEsxY24tY2w4UDNocGFfeE1KNmtGMm5hTVBPMlM4MGcxYTJ1VXozWWIzR1FSSHBkSVNidHRCbEsybmhuVHJadlRIZklmbWNEQUVXR0o2QU9TRUU?oc=5) (Wed, 11 Mar 2026 18:50:14 GMT)
 
 <!-- END_dashboard -->
 
