@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-12 01:15:28 (UTC)*
+*Last Updated: 2026-03-13 01:19:26 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$297,832,351,310** | 🟢 +0.07% | 🟢 +0.97% |
+| **$297,967,987,834** | 🟢 +0.05% | 🟢 +0.65% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [House approves Nick DiCeglie proposal creating Florida stablecoin payment pilot program - Florida Politics](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTUk2RDhJdDBlQWNENjIweXJBOWlleUltbXN1cDYyVUw4QVZvUnJTTnczVHZtVHpjcGFWNkVQNHhQaE1PbzZ4QmV1SG4tYmZCUERLSmtqcDBfeHRKVW9YclR3aW9uM1dCQkpwRmFCOFhtNXlGZFJmNTVjNFY1cmNCa3pLVFdvM3pRLWU0MlNTbDlSUkg4SmZnNkR3VlNIZW5ieUtRSlZ4aXdWdVZ2NGxmOGU4Y0xzVE8yb19LLXB4TUpoaF9HbElNNjMwanM?oc=5) (Wed, 11 Mar 2026 21:15:30 GMT)
-- [Visa (V) and Stripe’s Bridge Expand Stablecoin Card Program to 100+ Countries - Yahoo Finance](https://news.google.com/rss/articles/CBMifkFVX3lxTE5XY01pNmF1OFJoTXNhdWhYM0ZIVzBTWFJMM0VGMjFyV2pDQTZOMVRLSFM3UXAwdVlEZTJCTnJ0bEl1Qkx2UEMxekl4OTFsQjhiTk1rdHFJekpvTXRLMzZsR1FLUlltSXRkMWZGbE1uTF91OWhleDNYU3dGQTZNUQ?oc=5) (Wed, 11 Mar 2026 20:55:25 GMT)
-- [Clinton alum Eugene Ludwig courts banks for stablecoin alternative - American Banker](https://news.google.com/rss/articles/CBMisAFBVV95cUxNSk50M3FwYzVLY0k1MFAwZHZYSG85TjhVQ1U5b0laTUw2ampKUDlYSkhJYUdfbXY4ZFBVbUwtOUE2VmRPN3c5Y2hKTVNaUklCYjBSNGt5R19KS3NWN1J2ajhZdEhJVW55U3lNUWJoclFwaWdSYzdGYmJOSHVKX1gzTzlzZ2VFSkx4MU5id2xtRWZtVWQxcVdOcnpGdHpKdTlOLVZDdEwyZFpIYnY3dE1NQw?oc=5) (Wed, 11 Mar 2026 20:28:00 GMT)
-- [Opinion: Protecting community banks as stablecoins go mainstream - Corridor Business Journal](https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2JQbUhRNFdwck1BQVl0XzRmZThmX0RqYVk2bUJBT3duck93aW9iQ0w0U3MzZ1pmRmRHbW1iN0NkbUdOTkxad0ZaNWRTdThKdTlKNkRLam5sQ2FTZEVSSl8tS1VUbk5mLVRWaUsyXzR2Nkp6ZExpLW9zR1ZGWFpaTFVzVVVQMVpXRVBickctRlFCa0t2VFhHVA?oc=5) (Wed, 11 Mar 2026 19:07:30 GMT)
-- [OCC Issues Proposal to Implement the GENIUS Act - Latham & Watkins LLP](https://news.google.com/rss/articles/CBMihAFBVV95cUxOUTVjWnVtZmxUYnJqaW1XSkQ2ci1lTVVmT2s2RWRzT3NLUjVFMENpYXVWNEsxY24tY2w4UDNocGFfeE1KNmtGMm5hTVBPMlM4MGcxYTJ1VXozWWIzR1FSSHBkSVNidHRCbEsybmhuVHJadlRIZklmbWNEQUVXR0o2QU9TRUU?oc=5) (Wed, 11 Mar 2026 18:50:14 GMT)
+- [TruStage Warns Stablecoins Could Drain CU Deposits Without Industrywide Response - CU Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUENVRmxQWFlhSC1Sc19aYzdzOFpOTTdxRWhMQmlqNnZNdkZ6dEhLSHUzdWFSd2RzS0JnY2ZxUm5BanF5d1dVeUJWZ3l6VFREbUNHMnYwR2VOTTl0VlN2S3BSbE5jYUlvVzdaSkJsZU5KYzZydnNtcDRaTk44Tk1mR0duNDUyQmthTFl5TmVqMHFWc29QUUpxQzhfSTN1cGg1UU9ReTNHLXJna2x5RFd4U3RPUmJheTB4?oc=5) (Fri, 13 Mar 2026 00:42:16 GMT)
+- [Why this sanctioned stablecoin is climbing the ranks on Tron. ‘They’re turning to in droves’ - dlnews.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDZXSkM4Z0wtcjNnOXNFVjBIU3M4TXRtVHFqUm0zY3A5djJIamh3dlVHSXFHRFBEYmJ2RzFyRjhpQXNROHR1Znd4Z2VGQjdaYnR6aWUzaUlfM0YteVhlekZLT2N1QUV2WWMwZzRGWHgtakYxdWFvdDFyRFFZVGxja29iR1ZpemdscGt2Nk1fb3YxZlBkN3ZCMXFINHlfOGc?oc=5) (Thu, 12 Mar 2026 16:31:55 GMT)
+- [Ethereum news (ETH): Lido launches stablecoin yield product to expand beyond ether - CoinDesk](https://news.google.com/rss/articles/CBMipAFBVV95cUxNc2ZRb1dJSW5DZXh2ZS1MMkJCRm53WXlVeFZEWlZhZ0FxcEhYdFdwNVFNN3lpVXdRamplZHFiYkp4Mndna0Y5ZkxuYjYzRk1Oa1NDbjVVWlg1aEZzSzVtM28xN0VBY0pDMWR1ZGdFUkVyYkZ5anVsanc4bUl1NU96bG1IZFRpVm5senU5MUVFQUFiNkRaaUJSaVlfSEhrSF9vaHRhbg?oc=5) (Thu, 12 Mar 2026 15:45:21 GMT)
+- [Visa's Stablecoin Play Intensifies: Can it Future-Proof Its Network? - Yahoo Finance](https://news.google.com/rss/articles/CBMijwFBVV95cUxNLURLRG9CVGY4by0xSl93MFk3SWl4a0dORnpwTFhOOXEyTENnZVVJWVlUbENDSU9CQmtCSXhKRDBzVC1KLTNKa0JzNzE0aHRsOFNZTkFjSGJvVTVWWHRNTmFGZFpoYnJNbVpoT2NwRERPV2I5WVlfMkdIb3hoT1ctME1ocXVoX0FEdUtKM0ZJTQ?oc=5) (Thu, 12 Mar 2026 15:43:00 GMT)
+- [Circle (CRCL) outpaces crypto stocks as stablecoin thesis gains momentum: William Blair - CoinDesk](https://news.google.com/rss/articles/CBMizAFBVV95cUxNa0NpcnBENm5nSG9jb0tTNVRoa3VHYjBwN216MTlodnNUWmtHMnZhOXFwakhqWEhQWk9VUmRsVmVNTTFlOWtRN2FyQ0NCUmloNEZpOEFiZ1FvYWx1THBlaF92UnE5enBFYUFEMjN1VHYtdkwyRHlDQWo5Tm13NE12SkRRbU5fbWFiVnBob0p2SUMzOEVvSnFsbDh1N3V0MlROWHZtRlUySE9lOWQ5ektERXp5Q090dTJObjg5Qjd6cnBYbmh2NTlVTnFMTGE?oc=5) (Thu, 12 Mar 2026 15:02:11 GMT)
 
 <!-- END_dashboard -->
 
