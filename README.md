@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-13 01:19:26 (UTC)*
+*Last Updated: 2026-03-14 01:17:47 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$297,967,987,834** | 🟢 +0.05% | 🟢 +0.65% |
+| **$298,490,854,792** | 🟢 +0.18% | 🟢 +0.80% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [TruStage Warns Stablecoins Could Drain CU Deposits Without Industrywide Response - CU Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUENVRmxQWFlhSC1Sc19aYzdzOFpOTTdxRWhMQmlqNnZNdkZ6dEhLSHUzdWFSd2RzS0JnY2ZxUm5BanF5d1dVeUJWZ3l6VFREbUNHMnYwR2VOTTl0VlN2S3BSbE5jYUlvVzdaSkJsZU5KYzZydnNtcDRaTk44Tk1mR0duNDUyQmthTFl5TmVqMHFWc29QUUpxQzhfSTN1cGg1UU9ReTNHLXJna2x5RFd4U3RPUmJheTB4?oc=5) (Fri, 13 Mar 2026 00:42:16 GMT)
-- [Why this sanctioned stablecoin is climbing the ranks on Tron. ‘They’re turning to in droves’ - dlnews.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDZXSkM4Z0wtcjNnOXNFVjBIU3M4TXRtVHFqUm0zY3A5djJIamh3dlVHSXFHRFBEYmJ2RzFyRjhpQXNROHR1Znd4Z2VGQjdaYnR6aWUzaUlfM0YteVhlekZLT2N1QUV2WWMwZzRGWHgtakYxdWFvdDFyRFFZVGxja29iR1ZpemdscGt2Nk1fb3YxZlBkN3ZCMXFINHlfOGc?oc=5) (Thu, 12 Mar 2026 16:31:55 GMT)
-- [Ethereum news (ETH): Lido launches stablecoin yield product to expand beyond ether - CoinDesk](https://news.google.com/rss/articles/CBMipAFBVV95cUxNc2ZRb1dJSW5DZXh2ZS1MMkJCRm53WXlVeFZEWlZhZ0FxcEhYdFdwNVFNN3lpVXdRamplZHFiYkp4Mndna0Y5ZkxuYjYzRk1Oa1NDbjVVWlg1aEZzSzVtM28xN0VBY0pDMWR1ZGdFUkVyYkZ5anVsanc4bUl1NU96bG1IZFRpVm5senU5MUVFQUFiNkRaaUJSaVlfSEhrSF9vaHRhbg?oc=5) (Thu, 12 Mar 2026 15:45:21 GMT)
-- [Visa's Stablecoin Play Intensifies: Can it Future-Proof Its Network? - Yahoo Finance](https://news.google.com/rss/articles/CBMijwFBVV95cUxNLURLRG9CVGY4by0xSl93MFk3SWl4a0dORnpwTFhOOXEyTENnZVVJWVlUbENDSU9CQmtCSXhKRDBzVC1KLTNKa0JzNzE0aHRsOFNZTkFjSGJvVTVWWHRNTmFGZFpoYnJNbVpoT2NwRERPV2I5WVlfMkdIb3hoT1ctME1ocXVoX0FEdUtKM0ZJTQ?oc=5) (Thu, 12 Mar 2026 15:43:00 GMT)
-- [Circle (CRCL) outpaces crypto stocks as stablecoin thesis gains momentum: William Blair - CoinDesk](https://news.google.com/rss/articles/CBMizAFBVV95cUxNa0NpcnBENm5nSG9jb0tTNVRoa3VHYjBwN216MTlodnNUWmtHMnZhOXFwakhqWEhQWk9VUmRsVmVNTTFlOWtRN2FyQ0NCUmloNEZpOEFiZ1FvYWx1THBlaF92UnE5enBFYUFEMjN1VHYtdkwyRHlDQWo5Tm13NE12SkRRbU5fbWFiVnBob0p2SUMzOEVvSnFsbDh1N3V0MlROWHZtRlUySE9lOWQ5ektERXp5Q090dTJObjg5Qjd6cnBYbmh2NTlVTnFMTGE?oc=5) (Thu, 12 Mar 2026 15:02:11 GMT)
+- [The Practical Implications Of New FDIC Stablecoin Measures - Law360](https://news.google.com/rss/articles/CBMixAFBVV95cUxQVDFlU1RZMlk0LTN5RzZhTW5LWVN3MlBPbnR1bFYyN3Z2S1c1MHZzVzdQSmNZZFRiZ2lHdTc5THhFNUNtUWlVbzFpREdSTTZURmJFZ05MeTN4T1o5V2xhU3Q5bkNZR3dNWndUeE9TLUpMREtEZ3B0YWQ0QjVYNkpMVjJVZS0weF9mbnJsWEJDUUFxb0tzLVpDWW4zajZvTXF1NFJpb2F3VjZwMTVFT1drYzlPeTF2ZVM3MWpwLUZLU0c3ZlZQ0gFWQVVfeXFMTkZyNDZyZUM1TXZ0dy1KWGg3LTcwVjctN1JPRDB3aU9iUWVLYm84MDNkeWdkVUItaHRRcXQ3OVRXOW1DbEFTR3E3Zk5XZnNpVGtNeG9Hb2c?oc=5) (Fri, 13 Mar 2026 20:30:00 GMT)
+- [The Practical Implications Of New FDIC Stablecoin Measures - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GcjQ2cmVDNU12dHctSlhoNy03MFY3LTdST0Qwd2lPYlFlS2JvODAzZHlnZFVCLWh0UXF0NzlUVzltQ2xBU0dxN2ZOV2ZzaVRrTXhvR29n0gFWQVVfeXFMTkZyNDZyZUM1TXZ0dy1KWGg3LTcwVjctN1JPRDB3aU9iUWVLYm84MDNkeWdkVUItaHRRcXQ3OVRXOW1DbEFTR3E3Zk5XZnNpVGtNeG9Hb2c?oc=5) (Fri, 13 Mar 2026 20:30:00 GMT)
+- [Can SoFi (SOFI) Leverage Its Mastercard Stablecoin Tie-Up To Redefine Its Fintech Identity? - Yahoo Finance](https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGhJTmM3NmJCSldndDNUYU40b1QwT05ETW9TSmFyMmpRSldHcDJ5ZXljSmg0VlgyNW9XNG55dGQxTEQtdjVwVnZNM0U2UVZzTEc2ZDhYZmc1bmtWQ0JVY1JVcGdodFJ2WUN2THlSM2s3U25rX1h5WnRrUmNnRDBqd05mWFV1azd6ellYME4xZw?oc=5) (Fri, 13 Mar 2026 19:09:38 GMT)
+- [Sky slashes buybacks 87% to boost stablecoin reserves ahead of ‘massive oil shock’ - dlnews.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmVpTlE5cEdDdWwtS2h3NXQ1WUlsN1NaTW5PaFl4X0ZseDNEN2xRbXlIYjNKZFNxLWpCTFJwZHJsTE5SOFJDaXBjSEw0c3BGc2p0akxaUnA4TGtrcXZFS2JiVE02MUpsYy1pN3JRMTFQQ2JVZUNnZHJYRmFrSUJKbGhnVnRNQV9DMVY1c2tURHY4S1BmalJPTFVncw?oc=5) (Fri, 13 Mar 2026 11:34:23 GMT)
+- [HSBC and StanChart to be first Hong Kong stablecoin issuers; European stocks fall as Middle East war puts oil above $100 - TheBanker.com](https://news.google.com/rss/articles/CBMiekFVX3lxTFBBT3RxLXhuemN3VEU0eTZvRFd6bzlOLUlERTZWMHlMcDZYV3Y1VzQ5Uk15ekxIdkstLTE2V0prZ1BTeE1zdThyaTZBdUxvekNRR1h0RDBpM0R0R3VSU2RWaXdIaXYtTVFEMHg5bHpxRWxaOUROMjhNeWRn?oc=5) (Fri, 13 Mar 2026 11:17:27 GMT)
 
 <!-- END_dashboard -->
 
