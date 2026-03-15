@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-14 01:17:47 (UTC)*
+*Last Updated: 2026-03-15 01:42:47 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$298,490,854,792** | 🟢 +0.18% | 🟢 +0.80% |
+| **$298,502,560,798** | 🟢 +0.00% | 🟢 +0.78% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [The Practical Implications Of New FDIC Stablecoin Measures - Law360](https://news.google.com/rss/articles/CBMixAFBVV95cUxQVDFlU1RZMlk0LTN5RzZhTW5LWVN3MlBPbnR1bFYyN3Z2S1c1MHZzVzdQSmNZZFRiZ2lHdTc5THhFNUNtUWlVbzFpREdSTTZURmJFZ05MeTN4T1o5V2xhU3Q5bkNZR3dNWndUeE9TLUpMREtEZ3B0YWQ0QjVYNkpMVjJVZS0weF9mbnJsWEJDUUFxb0tzLVpDWW4zajZvTXF1NFJpb2F3VjZwMTVFT1drYzlPeTF2ZVM3MWpwLUZLU0c3ZlZQ0gFWQVVfeXFMTkZyNDZyZUM1TXZ0dy1KWGg3LTcwVjctN1JPRDB3aU9iUWVLYm84MDNkeWdkVUItaHRRcXQ3OVRXOW1DbEFTR3E3Zk5XZnNpVGtNeG9Hb2c?oc=5) (Fri, 13 Mar 2026 20:30:00 GMT)
-- [The Practical Implications Of New FDIC Stablecoin Measures - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GcjQ2cmVDNU12dHctSlhoNy03MFY3LTdST0Qwd2lPYlFlS2JvODAzZHlnZFVCLWh0UXF0NzlUVzltQ2xBU0dxN2ZOV2ZzaVRrTXhvR29n0gFWQVVfeXFMTkZyNDZyZUM1TXZ0dy1KWGg3LTcwVjctN1JPRDB3aU9iUWVLYm84MDNkeWdkVUItaHRRcXQ3OVRXOW1DbEFTR3E3Zk5XZnNpVGtNeG9Hb2c?oc=5) (Fri, 13 Mar 2026 20:30:00 GMT)
-- [Can SoFi (SOFI) Leverage Its Mastercard Stablecoin Tie-Up To Redefine Its Fintech Identity? - Yahoo Finance](https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGhJTmM3NmJCSldndDNUYU40b1QwT05ETW9TSmFyMmpRSldHcDJ5ZXljSmg0VlgyNW9XNG55dGQxTEQtdjVwVnZNM0U2UVZzTEc2ZDhYZmc1bmtWQ0JVY1JVcGdodFJ2WUN2THlSM2s3U25rX1h5WnRrUmNnRDBqd05mWFV1azd6ellYME4xZw?oc=5) (Fri, 13 Mar 2026 19:09:38 GMT)
-- [Sky slashes buybacks 87% to boost stablecoin reserves ahead of ‘massive oil shock’ - dlnews.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmVpTlE5cEdDdWwtS2h3NXQ1WUlsN1NaTW5PaFl4X0ZseDNEN2xRbXlIYjNKZFNxLWpCTFJwZHJsTE5SOFJDaXBjSEw0c3BGc2p0akxaUnA4TGtrcXZFS2JiVE02MUpsYy1pN3JRMTFQQ2JVZUNnZHJYRmFrSUJKbGhnVnRNQV9DMVY1c2tURHY4S1BmalJPTFVncw?oc=5) (Fri, 13 Mar 2026 11:34:23 GMT)
-- [HSBC and StanChart to be first Hong Kong stablecoin issuers; European stocks fall as Middle East war puts oil above $100 - TheBanker.com](https://news.google.com/rss/articles/CBMiekFVX3lxTFBBT3RxLXhuemN3VEU0eTZvRFd6bzlOLUlERTZWMHlMcDZYV3Y1VzQ5Uk15ekxIdkstLTE2V0prZ1BTeE1zdThyaTZBdUxvekNRR1h0RDBpM0R0R3VSU2RWaXdIaXYtTVFEMHg5bHpxRWxaOUROMjhNeWRn?oc=5) (Fri, 13 Mar 2026 11:17:27 GMT)
+- [From Penalty to Parity: The SEC Rethinks Stablecoin Risk - The National Law Review](https://news.google.com/rss/articles/CBMiggFBVV95cUxNOWtIczJCTl9laVo3MVgxVWxDWlFaaXEtdkNOS1lUa1Z0SEltOWxKZUZsdDlvdWVuQi1qckxmeTA4dTZVWDlXRnlybC1XOFhqU1YzcGhEc01acTJMZHlmNkFhSWppTXE4QVZYbGdSS1JTSE8wRjZXX1JhMkNwakRRSTNB0gGHAUFVX3lxTFBRNUptR2ZKRWNyRTRWd0ZnclhEaVBOdktWYmVoRVFnSnA0Sm9Oa1UzOGpDMEpYZ0VsUzFJR2JXcVZSeFM4S1h2bV9NLXBDdUJROTd3VWxwTUpkc2IyZGlrVjh5b2JjOHBjLVlJeGxoSHhsR3AzZEM0VFBVWWFOcVNmc1RzMXItbw?oc=5) (Sun, 15 Mar 2026 00:11:26 GMT)
+- [XRP vs. RLUSD: How Ripple's Own Stablecoin Could Hurt XRP's Price - The Motley Fool](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZkRMb3haM2tOazVnVWxGSTY3SnhfSXFMZDlfR0d3QnBrM1QyVHlGZ3hOelg1bjllbURlTTRTZWNoaHRIWUl6OUtTVTF0dDFtZHRFUmJCcFBVaGtoOEFfOGNKWGRtNEFzdktzSXFvQWtXVHlOSm9VdVRJNkdWaUt2R1U5am5rSGpJOWNz?oc=5) (Sat, 14 Mar 2026 15:51:00 GMT)
+- [Brazil industry giants representing 850 companies decry stablecoin tax threat - CoinDesk](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZHNVNFJmUVdLOW9jdWxPaDgzOFMxRlhZbC1sUDhNRjJHVVMyb0dLQjJfMGNyTmFKRFZRaXNPM05HU1pPemhobVBwUzRQTE1za1dwdUdJVWdaLTJvdVJETHlHb2FVbFpIekZBak9RRXJGcXJ1M1lfVWdZd2Y1RHd5Ynk0aFJGMTlhdTh1S3p1NXBVbE1JS1JHSkZsdGY1TnBuRllwNGpEclRUM0VyYVVFVEltampZLU1VVURKUjQ0MA?oc=5) (Sat, 14 Mar 2026 15:02:31 GMT)
+- [How Iran war will boost stablecoin startups’ investment efforts - dlnews.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxQakRjd3cwbXliS0lPY2RwcGRyR2l3M00xUjZ3NmdWMmpGV0l0a1pva0lCVk1FRjRwYjgxX0pvMDVEcFRFNXFtOUhyQ0MyQnhCcEpadGMyRDJrRGhvNUxCS1hfOTJHS2VtMWlobXFsalplcTQtSi1xU2s2RktFMWF2YXhhU1ZLY2tmNVE?oc=5) (Sat, 14 Mar 2026 06:16:14 GMT)
+- [Visa’s Growing Litigation And European Competition Risks Versus Stablecoin Push - Yahoo Finance](https://news.google.com/rss/articles/CBMilAFBVV95cUxNek9manYwSnBIMm83c0xMeXVHb3otWDJ4cU5ER2JmOC1PN0JLZVdMeXRjWUg1WG0xNXJYOWJXQjRDOXRDcHBDX0VHalJ4UHpZX3dTRlg5MWR2bkFBSXdCWUFMSmphaVZQXzEwTlo0TU1YeUtZM0NlTUF1TllGbEozYzlWMDR5alBPQVktMnVtX21JNkxv?oc=5) (Fri, 13 Mar 2026 23:12:53 GMT)
 
 <!-- END_dashboard -->
 
