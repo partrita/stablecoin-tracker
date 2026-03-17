@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-16 01:29:45 (UTC)*
+*Last Updated: 2026-03-17 01:21:25 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$298,454,092,319** | 🔴 -0.02% | 🟢 +0.77% |
+| **$298,568,786,468** | 🟢 +0.04% | 🟢 +0.48% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [From Penalty to Parity: The SEC Rethinks Stablecoin Risk - The National Law Review](https://news.google.com/rss/articles/CBMiggFBVV95cUxNOWtIczJCTl9laVo3MVgxVWxDWlFaaXEtdkNOS1lUa1Z0SEltOWxKZUZsdDlvdWVuQi1qckxmeTA4dTZVWDlXRnlybC1XOFhqU1YzcGhEc01acTJMZHlmNkFhSWppTXE4QVZYbGdSS1JTSE8wRjZXX1JhMkNwakRRSTNB0gGHAUFVX3lxTFBRNUptR2ZKRWNyRTRWd0ZnclhEaVBOdktWYmVoRVFnSnA0Sm9Oa1UzOGpDMEpYZ0VsUzFJR2JXcVZSeFM4S1h2bV9NLXBDdUJROTd3VWxwTUpkc2IyZGlrVjh5b2JjOHBjLVlJeGxoSHhsR3AzZEM0VFBVWWFOcVNmc1RzMXItbw?oc=5) (Sun, 15 Mar 2026 00:11:26 GMT)
-- [XRP vs. RLUSD: How Ripple's Own Stablecoin Could Hurt XRP's Price - The Motley Fool](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZkRMb3haM2tOazVnVWxGSTY3SnhfSXFMZDlfR0d3QnBrM1QyVHlGZ3hOelg1bjllbURlTTRTZWNoaHRIWUl6OUtTVTF0dDFtZHRFUmJCcFBVaGtoOEFfOGNKWGRtNEFzdktzSXFvQWtXVHlOSm9VdVRJNkdWaUt2R1U5am5rSGpJOWNz?oc=5) (Sat, 14 Mar 2026 15:51:00 GMT)
-- [Brazil industry giants representing 850 companies decry stablecoin tax threat - CoinDesk](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZHNVNFJmUVdLOW9jdWxPaDgzOFMxRlhZbC1sUDhNRjJHVVMyb0dLQjJfMGNyTmFKRFZRaXNPM05HU1pPemhobVBwUzRQTE1za1dwdUdJVWdaLTJvdVJETHlHb2FVbFpIekZBak9RRXJGcXJ1M1lfVWdZd2Y1RHd5Ynk0aFJGMTlhdTh1S3p1NXBVbE1JS1JHSkZsdGY1TnBuRllwNGpEclRUM0VyYVVFVEltampZLU1VVURKUjQ0MA?oc=5) (Sat, 14 Mar 2026 15:02:31 GMT)
-- [How Iran war will boost stablecoin startups’ investment efforts - dlnews.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxQakRjd3cwbXliS0lPY2RwcGRyR2l3M00xUjZ3NmdWMmpGV0l0a1pva0lCVk1FRjRwYjgxX0pvMDVEcFRFNXFtOUhyQ0MyQnhCcEpadGMyRDJrRGhvNUxCS1hfOTJHS2VtMWlobXFsalplcTQtSi1xU2s2RktFMWF2YXhhU1ZLY2tmNVE?oc=5) (Sat, 14 Mar 2026 06:16:14 GMT)
-- [Visa’s Growing Litigation And European Competition Risks Versus Stablecoin Push - Yahoo Finance](https://news.google.com/rss/articles/CBMilAFBVV95cUxNek9manYwSnBIMm83c0xMeXVHb3otWDJ4cU5ER2JmOC1PN0JLZVdMeXRjWUg1WG0xNXJYOWJXQjRDOXRDcHBDX0VHalJ4UHpZX3dTRlg5MWR2bkFBSXdCWUFMSmphaVZQXzEwTlo0TU1YeUtZM0NlTUF1TllGbEozYzlWMDR5alBPQVktMnVtX21JNkxv?oc=5) (Fri, 13 Mar 2026 23:12:53 GMT)
+- [How Mastercard’s Stablecoin Settlement Push Could Reshape the Investment Story for MA Investors - Yahoo Finance](https://news.google.com/rss/articles/CBMikwFBVV95cUxONzk1YTg5TldUTlFxS2VZMC1BX21CSy1hMzhoMzIxNUEwaEFWcWJqbEhBOHdEbVFhRXdIVVlNWGItUEZMZUU1T05IQmgwX1REaGtVUUNmdXJzMjJIOWVjTm5TZ1Fnd3p6ZWZvMUk5emVhYkZzRkVhMkNvWjRxb0ZlV2JIQlB6dDc0WWdCR0s4cHk4U2c?oc=5) (Mon, 16 Mar 2026 22:12:52 GMT)
+- [What BVNK’s Report Reveals About How Consumers Are Using Stablecoins - Finovate](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbWpHZ2EwRDdyMmlLaWFZWm9OQU1sc0MwYlBaeGdLRExZNE9OTlBVMl9fTnNPVWFEVlFwUzZLR0VSOTZFLWlkbVBzR2plblluR2NWdTNlanpGTEZVRTREekZCYnVLYnZ1Y1dKclJtTHBHMzc4X2Z1VDBxRE5KY3dxT0tZZURxZW5GenZRMkhaSS1mSkU?oc=5) (Mon, 16 Mar 2026 21:32:46 GMT)
+- [FDIC to make stablecoin move - Payments Dive](https://news.google.com/rss/articles/CBMiekFVX3lxTE9yRjhwWlRKMGRUMlFoeWJWNmp1bEdPbUhnN21fYV9TRXlzS1B6M0V6c0F6OWkzR1FaTm1sbWNPLTdaVXhyTktjcDVuTEpPLWhZY1B2SDRvQkVIODdBNFBwQWdUNnZTc1h2QTRrVTV3V3p6OHQ1Mk5oZFF3?oc=5) (Mon, 16 Mar 2026 21:22:59 GMT)
+- [Circle Internet Group Is Surging. Why the Stablecoin Stock Just Got an Upgrade. - Barron's](https://news.google.com/rss/articles/CBMijwNBVV95cUxPX25iXzRMaGZOcUNueUJxV3FRbHJUY0h3a25NcTNkSGs1aDdzWmhNY1E1MDlMMlhmZUdqTU5PR1QzdTJTdGlISUJWenhUMy13R0NzYW14RWtyT1VGaFNjNGFKdVpQZDBHaGNDVGRPSWRnLWp0MHozanFHemcxSUJ4U090VUNnSVhYRnR4UFRoekpBWWwtU3NHeUZrMUJJcTd6X3IwZGFDQTc5UEdBbFF6VkNMQjlWOHJ6NFJPSTlmRE4zSjh2TnMxZ25jYWFBdlZUX1dXNmhzYS1vMDRWOG1xQ1JZTVB5SGdwdUZvLUhJZHdWejFCM3dILTZJMlE5cnI4clBJUFlOR0hmZnFZdXk3RXItQTJoTlREUjFDc1FpSE9nb09hU2Z3SHdsS2JERDhJWTUxVExadFo0dDZ5azRrTnFINEdUXzF5ajFDUWZGOXFobDFjNlB6VGRSaUNRcTJyT0FMTHFxc004MHRQcDUzNmp6MThOOFdvSEczOTFKWndYWVAzTFRqZ3V2Z2hDN28?oc=5) (Mon, 16 Mar 2026 18:38:00 GMT)
+- [Sorting Through the Issues Surrounding Stablecoin - Federal Reserve Bank of Atlanta](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMm9VbVF3TlFCSVFtMHhDY2dadHlIMmRWNDk0ZmFHMVJzSnpHVEdRZk8zaHlKUmhWNEJQdDh4dkJVZXlEM0hlUWYwUEFnLW5rejlEMmdNWnpkUm5pbUlLeWh5RUhzYmRUa2dCd01md1JrOTM2UVA0T1lQT0Rjd29wczJTTE9jT2VDT19KbW5vUG1Bd1pYaExrVWJNUGVHMFJzVGw1Y0I0NkNaN2hQWncw?oc=5) (Mon, 16 Mar 2026 17:59:45 GMT)
 
 <!-- END_dashboard -->
 
