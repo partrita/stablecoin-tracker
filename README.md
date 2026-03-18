@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-17 01:21:25 (UTC)*
+*Last Updated: 2026-03-18 01:24:46 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$298,568,786,468** | 🟢 +0.04% | 🟢 +0.48% |
+| **$298,882,559,060** | 🟢 +0.11% | 🟢 +0.42% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [How Mastercard’s Stablecoin Settlement Push Could Reshape the Investment Story for MA Investors - Yahoo Finance](https://news.google.com/rss/articles/CBMikwFBVV95cUxONzk1YTg5TldUTlFxS2VZMC1BX21CSy1hMzhoMzIxNUEwaEFWcWJqbEhBOHdEbVFhRXdIVVlNWGItUEZMZUU1T05IQmgwX1REaGtVUUNmdXJzMjJIOWVjTm5TZ1Fnd3p6ZWZvMUk5emVhYkZzRkVhMkNvWjRxb0ZlV2JIQlB6dDc0WWdCR0s4cHk4U2c?oc=5) (Mon, 16 Mar 2026 22:12:52 GMT)
-- [What BVNK’s Report Reveals About How Consumers Are Using Stablecoins - Finovate](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbWpHZ2EwRDdyMmlLaWFZWm9OQU1sc0MwYlBaeGdLRExZNE9OTlBVMl9fTnNPVWFEVlFwUzZLR0VSOTZFLWlkbVBzR2plblluR2NWdTNlanpGTEZVRTREekZCYnVLYnZ1Y1dKclJtTHBHMzc4X2Z1VDBxRE5KY3dxT0tZZURxZW5GenZRMkhaSS1mSkU?oc=5) (Mon, 16 Mar 2026 21:32:46 GMT)
-- [FDIC to make stablecoin move - Payments Dive](https://news.google.com/rss/articles/CBMiekFVX3lxTE9yRjhwWlRKMGRUMlFoeWJWNmp1bEdPbUhnN21fYV9TRXlzS1B6M0V6c0F6OWkzR1FaTm1sbWNPLTdaVXhyTktjcDVuTEpPLWhZY1B2SDRvQkVIODdBNFBwQWdUNnZTc1h2QTRrVTV3V3p6OHQ1Mk5oZFF3?oc=5) (Mon, 16 Mar 2026 21:22:59 GMT)
-- [Circle Internet Group Is Surging. Why the Stablecoin Stock Just Got an Upgrade. - Barron's](https://news.google.com/rss/articles/CBMijwNBVV95cUxPX25iXzRMaGZOcUNueUJxV3FRbHJUY0h3a25NcTNkSGs1aDdzWmhNY1E1MDlMMlhmZUdqTU5PR1QzdTJTdGlISUJWenhUMy13R0NzYW14RWtyT1VGaFNjNGFKdVpQZDBHaGNDVGRPSWRnLWp0MHozanFHemcxSUJ4U090VUNnSVhYRnR4UFRoekpBWWwtU3NHeUZrMUJJcTd6X3IwZGFDQTc5UEdBbFF6VkNMQjlWOHJ6NFJPSTlmRE4zSjh2TnMxZ25jYWFBdlZUX1dXNmhzYS1vMDRWOG1xQ1JZTVB5SGdwdUZvLUhJZHdWejFCM3dILTZJMlE5cnI4clBJUFlOR0hmZnFZdXk3RXItQTJoTlREUjFDc1FpSE9nb09hU2Z3SHdsS2JERDhJWTUxVExadFo0dDZ5azRrTnFINEdUXzF5ajFDUWZGOXFobDFjNlB6VGRSaUNRcTJyT0FMTHFxc004MHRQcDUzNmp6MThOOFdvSEczOTFKWndYWVAzTFRqZ3V2Z2hDN28?oc=5) (Mon, 16 Mar 2026 18:38:00 GMT)
-- [Sorting Through the Issues Surrounding Stablecoin - Federal Reserve Bank of Atlanta](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMm9VbVF3TlFCSVFtMHhDY2dadHlIMmRWNDk0ZmFHMVJzSnpHVEdRZk8zaHlKUmhWNEJQdDh4dkJVZXlEM0hlUWYwUEFnLW5rejlEMmdNWnpkUm5pbUlLeWh5RUhzYmRUa2dCd01md1JrOTM2UVA0T1lQT0Rjd29wczJTTE9jT2VDT19KbW5vUG1Bd1pYaExrVWJNUGVHMFJzVGw1Y0I0NkNaN2hQWncw?oc=5) (Mon, 16 Mar 2026 17:59:45 GMT)
+- [Mastercard to acquire stablecoin firm BVNK in up to $1.8B deal - Anadolu Ajansı](https://news.google.com/rss/articles/CBMiowFBVV95cUxPcHJZSkQ4UnZ4X2tWTmNNbmVpMExQNDR5N1lvR0NHOTRYVFlFc0ZVUndINklrVF9ZSEtzaG9YRS1BTGZXaXBNZWxJOTdGcGc2N3QzaVBmRVIyU052VXdFWDRxNC1DM2NXQjlkZ0NmWWNDR3VSbXpobEVWLXJwaHdkUGliS0RXekNMOUtaa0xRaU1KR0JHcTBwZTBkTldEaVEwdjRv?oc=5) (Tue, 17 Mar 2026 22:32:15 GMT)
+- [Will PayPal’s (PYPL) Global PYUSD Stablecoin Push Recast Its Role in Digital Commerce? - Yahoo Finance](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSDI2QW1vMHZELTRocnZER2pMbnpzeHBnVVRHOG5jQmQ4NW1hRlQ2V0NFZlNHY2pCLW1ycnRiSUdQT3JFYkl4cTU1OU90OC1Nb3d1UWxKcGRuU3BVTjJjVVhXSHRmaVJmZ2lFWlRfY2lOZFVvWDd2ZlFtTkxnLXN0VFc0TDZ4czNn?oc=5) (Tue, 17 Mar 2026 21:11:42 GMT)
+- [How Visa’s Stablecoin and AI Push Could Reshape the Investment Case for Visa (V) Investors - Yahoo Finance](https://news.google.com/rss/articles/CBMigAFBVV95cUxObUNfaWRIYmh3aUgzNmN1Y1JjQVV2YjNORGdaNVJZaVFOa3V1Qy1LS3RfdTRORVVfejZOUGVmVjVGa20zSGhBOTlDUk1uYzM3c1RDaWpMMEdXVTU3RE54eG1DZTdvT1l1d1czVFB3S3JkNVZGaVNVWXl2cm5tTGR4Vw?oc=5) (Tue, 17 Mar 2026 21:09:28 GMT)
+- [Mastercard Acquires Stablecoin Infrastructure BVNK for $1.8 Billion - Finovate](https://news.google.com/rss/articles/CBMikgFBVV95cUxPLU1hODBvSEJ2VU1EcDA3YmswNGFta0RJNmQ4bTBsM2NkUTRMTW8tVFNhWEhVbU9mMkxYSkxGYTF6Q0pkemR6T1BmM3JWWWUydEdUam1jT0NkSFFXSzBFYmg0M2Q0Ym94V2IwVWVKX0lUblBYczZVcVB6OGtiVXNIVzFRUVF6anloNXRPN3RmbU9Edw?oc=5) (Tue, 17 Mar 2026 19:56:43 GMT)
+- [PayPal Scales PYUSD Stablecoin to Reach 70 Countries - PYMNTS.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGctUDg5d2F6YlVIY0d5dkotMl9ZQkZhV2UwY2ZLb1BwWWFwZjVyQk9SMzZ2S0o5Y0k0REZkUmF5Qm9jc3BmR21EdWRqSE1NWG1ER1ByOUo3WlRJVnVSc2hQMlVYVlhLaENWQW0wV3BOTnc5QTZYSjFyRURqUG0ycFdZUkF2VmZCX3BxZUlUOXJ2Tkk2R2NHUlM3MHQ?oc=5) (Tue, 17 Mar 2026 19:32:37 GMT)
 
 <!-- END_dashboard -->
 
