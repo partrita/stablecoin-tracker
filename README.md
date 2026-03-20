@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-19 01:25:09 (UTC)*
+*Last Updated: 2026-03-20 01:20:16 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$298,972,575,273** | 🟢 +0.03% | 🟢 +0.38% |
+| **$298,724,327,206** | 🔴 -0.08% | 🟢 +0.25% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Mastercard to acquire stablecoin firm BVNK in up to $1.8B deal - Anadolu Ajansı](https://news.google.com/rss/articles/CBMiowFBVV95cUxPcHJZSkQ4UnZ4X2tWTmNNbmVpMExQNDR5N1lvR0NHOTRYVFlFc0ZVUndINklrVF9ZSEtzaG9YRS1BTGZXaXBNZWxJOTdGcGc2N3QzaVBmRVIyU052VXdFWDRxNC1DM2NXQjlkZ0NmWWNDR3VSbXpobEVWLXJwaHdkUGliS0RXekNMOUtaa0xRaU1KR0JHcTBwZTBkTldEaVEwdjRv?oc=5) (Tue, 17 Mar 2026 22:32:15 GMT)
-- [Will PayPal’s (PYPL) Global PYUSD Stablecoin Push Recast Its Role in Digital Commerce? - Yahoo Finance](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSDI2QW1vMHZELTRocnZER2pMbnpzeHBnVVRHOG5jQmQ4NW1hRlQ2V0NFZlNHY2pCLW1ycnRiSUdQT3JFYkl4cTU1OU90OC1Nb3d1UWxKcGRuU3BVTjJjVVhXSHRmaVJmZ2lFWlRfY2lOZFVvWDd2ZlFtTkxnLXN0VFc0TDZ4czNn?oc=5) (Tue, 17 Mar 2026 21:11:42 GMT)
-- [How Visa’s Stablecoin and AI Push Could Reshape the Investment Case for Visa (V) Investors - Yahoo Finance](https://news.google.com/rss/articles/CBMigAFBVV95cUxObUNfaWRIYmh3aUgzNmN1Y1JjQVV2YjNORGdaNVJZaVFOa3V1Qy1LS3RfdTRORVVfejZOUGVmVjVGa20zSGhBOTlDUk1uYzM3c1RDaWpMMEdXVTU3RE54eG1DZTdvT1l1d1czVFB3S3JkNVZGaVNVWXl2cm5tTGR4Vw?oc=5) (Tue, 17 Mar 2026 21:09:28 GMT)
-- [Mastercard Acquires Stablecoin Infrastructure BVNK for $1.8 Billion - Finovate](https://news.google.com/rss/articles/CBMikgFBVV95cUxPLU1hODBvSEJ2VU1EcDA3YmswNGFta0RJNmQ4bTBsM2NkUTRMTW8tVFNhWEhVbU9mMkxYSkxGYTF6Q0pkemR6T1BmM3JWWWUydEdUam1jT0NkSFFXSzBFYmg0M2Q0Ym94V2IwVWVKX0lUblBYczZVcVB6OGtiVXNIVzFRUVF6anloNXRPN3RmbU9Edw?oc=5) (Tue, 17 Mar 2026 19:56:43 GMT)
-- [PayPal Scales PYUSD Stablecoin to Reach 70 Countries - PYMNTS.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGctUDg5d2F6YlVIY0d5dkotMl9ZQkZhV2UwY2ZLb1BwWWFwZjVyQk9SMzZ2S0o5Y0k0REZkUmF5Qm9jc3BmR21EdWRqSE1NWG1ER1ByOUo3WlRJVnVSc2hQMlVYVlhLaENWQW0wV3BOTnc5QTZYSjFyRURqUG0ycFdZUkF2VmZCX3BxZUlUOXJ2Tkk2R2NHUlM3MHQ?oc=5) (Tue, 17 Mar 2026 19:32:37 GMT)
+- [CLARITY Act: Stablecoin Yield Is 99% Resolved. A New Political Trade Just Complicated Everything Else. - FinTech Weekly](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUDltNE1TVzQxOGhmMlhfMklDYzR6enp4UXBmTVdMb29sa3o1MnlsZHQtcFZ5YkFSeVpWTjFZN3lDLXBOd1ZnVnQyck9DZTNYd2F3eHdITTNfcWpNOWgzUzRENUpIaktsR0otYmpwRG0yYTExTVBLTGotdEtSeUs0UGRmTlREQm1hVk1FNmp2OGs4T3ljdndrRDFqSTVwQXNWMXNGSmVDS0l3MG4welFuMkhPVWxZdTBYcHc?oc=5) (Thu, 19 Mar 2026 21:20:00 GMT)
+- [Institutional Finance Embraces Stablecoin Infrastructure - Mexico Business News](https://news.google.com/rss/articles/CBMingFBVV95cUxOUWNCV0w0UUg2R1ZGTl96M3VOWTEwUEZSajhwNUlhc1hpRHd5UmI1clhuSG91U0FHQjBkdnpZSkIzaU5tcnVNSWR3cXY2ZHBSdk1TMi1uQjlRMEFVN01BYV9TdXAxSktjdXBadXJSd1lJcEFra3BON2hIN0liU1B6YUpOTUFIbjMteDNrLUtNUVVzc1gxaXdDQU1pOXdrZw?oc=5) (Thu, 19 Mar 2026 17:23:09 GMT)
+- [US-China split on digital money deepens as stablecoin debate stalls Clarity Act - South China Morning Post](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdWhSbkpsYVR1a1pQcWZyYlR4SUxNU0hJaDFmX2RFM3ZWLWw2b3czdnFUVzE0NlR2czg4VUpwSnNacTdJeUVoTkx5Tk9udHRycms1U3BhVklPNC1vMkxkWG81VGVraUZWaU9hLS1sdGkxTklLdU84Q2xvTG5Hemp5NF93cXFOWEg2cG9lZ1NmeW5JSUV3SlJoSlVJRUN0WDZhcTFiTDZaWE9QcUh0SVg3RXZta0NEVlBUT1HSAboBQVVfeXFMUDJnRmVvYlJ2UWVza3JyZ09OSWZPX0xfYUE1NE5TbWZCRXFCem1MS1VDdC1pTHV0Z2N4Q3lfZ0U0OFpSZ1M5cWY2cFZQWnpldnZFNll2TDktMEk2WU9JOFF1cVpwNlJvVjlKcTkxMm9xaWhiLVJIQVc3RUgzam56eTNEU09GeVpNNXptLUhYMm1lZmI1dDBYQ3FwT1laVGVsR1duaUVpOGpuWHJSSjI1c3pNM0wta01xelp3?oc=5) (Thu, 19 Mar 2026 17:22:14 GMT)
+- [Rhino.fi Launches Stablecoin 1:1 to Bring Predictable Settlements Across 25+ Blockchains - TechAfrica News](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0xWZUZOTzJ0aEtQbVFIa3JmWWd2WTNtbUx3OEdwWXhyXy0yejBMdm9PaGxKVzY3N2xpNDZlNTJ0Q1ZSeTBmZWV1N3VqRU5VVlZubl9EZW5jSUFHaHh4LTl5STV2NlRhU2dUZzJ0ZU0xSW40M1VsVk1IaVV6MWQwZnA2cHJXbXJ4blFCdC1zcS1kWGZXRFBoTUduR0JUWXFhdzZXckNjSjZzUWg3WFYxUE5Mc0RLMWk2Vlg5T3dVUDMwMjg?oc=5) (Thu, 19 Mar 2026 14:34:21 GMT)
+- [Bank Of America Stablecoin Plans And What They Mean For BAC Stock - simplywall.st](https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmh4aTVFUTFmS3RjOGRGSUR5UGt2aDRmdWVCaVI1MjcwWlFxV2hVc0FVNDg2enZNTnozbHFrbDFhc1Rhdi1VaFM3OC1meXQ0RGt0UTF0UF9MbWJZdFViZUE2UWk1TW55c0xVdllYSGFpYVFtb2QySndaT084NU9hcDI0WllqNFV3UFFYbVdQYmFrZ1JXUTdTcEU4bEZ0NlVid0hSVEtFQURqUTRRanJFcHJBOXEtN0tDTndLYmFzUGlBRGxXcEHSAcsBQVVfeXFMUFZJeVJBVTJ3emNTRkY2SEQ3azhQOVJ4UzlSaWhHdC1HNzJwdXFwU2l2ODR2MWJsTzVMQ2tZWTJrU25PSzlNUmt1R2xTajdhdW5rODFGTEVzTjNIb0FSc3lRSzRITEJjejZPVUtHejFiU0UyUnJ4WnVwRGNxWjZja2M5QjJfWGQ0enRFX1hYcTFzSl9uVEJ1TzcxSV9SQVlTbElCekk3WmFCcjhaX1QteThGcS1ocDI5aHVJOW1mdWpJRkFzSFF5RGhqUWc?oc=5) (Thu, 19 Mar 2026 14:29:22 GMT)
 
 <!-- END_dashboard -->
 
