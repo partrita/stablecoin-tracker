@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-22 01:24:58 (UTC)*
+*Last Updated: 2026-03-23 01:24:47 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$298,719,957,565** | 🟢 +0.06% | 🟢 +0.07% |
+| **$298,600,275,160** | 🔴 -0.04% | 🟢 +0.05% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [CLARITY Act Unblocked: Stablecoin Yield Compromise Reached - Disruption Banking](https://news.google.com/rss/articles/CBMipgFBVV95cUxORm5VNUE3bWc1VU9JMmliN0VUcDhtcGVjYXU2a3dlNDFjZUlrTm9PODZWZThWR0M5aDFsX0xvaDFfaWdJU0RwNWdzN2tJTV8xNVo3YzhBSHdkckZuXzdkVWsxQnB4dkdtejBQME1YZDZNZlpOaEhteVVIYmtvRVhHTXlJUTFPN1RSekcySEM0YmVpTWNzeUJtU204ZXRod1hHTXdGTk13?oc=5) (Sun, 22 Mar 2026 12:54:29 GMT)
+- [Stablecoin-sceptic BIS exec set to become new South Korean central bank boss - dlnews.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeE40RmFTWVZFdWFkX25HcEE2dXF5cHhvUC1Ja0VjZFpiLUl3UTc3cHdJb0dDWnBwUTE3NTl1Y3BmaUNiaW1tcHFsLWZKaVZ0eWRVZmdhTW5VOV9MenRBYXM1LVV2R1ZRQ0MzMEVtemNsbnZETDhPUUhpeThFVHhoUWdFSUpMTG9jeDVyTXZfNXR1U2laeXVYWkdKNzllb0FnZzhVeDBOX2lIeGw0dzBnVi1YWE9Oa2lRaEJfTA?oc=5) (Sun, 22 Mar 2026 12:43:50 GMT)
+- [Senators, White House Near Clarity Act Stablecoin Deal - Bitbo](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HLXptcThROC1uSnBpZi1ZZjBnMGR5dERxQXZ4RnNWZFdDTkpMVXlial9USXNGajdnblB5TjR2dWlKeEhlN0pDRlFGTnVlUFc4OTZWbXp6bU5mclFOdG5r?oc=5) (Sat, 21 Mar 2026 19:35:00 GMT)
 - [The CLARITY Act's Biggest Obstacle Just Fell. Four Steps Still Remain. - FinTech Weekly](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1BaaUMwSzIxT2VLWGdUc3JCRnNSSUYtY1V5RmVWVUlwV0pXbnByb21VQ2NHVmV4c1NGRHMyb1ZJSG53bllNaVFObGJpWHM4ekFIYng2eTBuZzdBUUhtX3lfSWJrVl8yUmIyeGlwSmhXZW1HSENhejZ4YmdUQ1FRSDVfUzFKVEtMSWk4R0JZNjhBWl82Q2JwYkQzcWhsVVJRR25CdHIyeHNqNHlXeUE?oc=5) (Sat, 21 Mar 2026 19:13:00 GMT)
 - [U.S. senators reached an agreement with the White House on stablecoin yields - incrypted](https://news.google.com/rss/articles/CBMilAFBVV95cUxNRVl1Ukl6UUIwZTdlSmNQNkV4dnVFdG00Vkc3aVQ1bTc2LUl6TzY4NzlGV3lxMkVvM3poaUltTU9FQUJpV1VSVEZubUdtRmV6MXJTMGdKN2RiajlSVng5cGpoM2o4enJlU2ZtUVJyRVQyd1o3ekdJSDVRMnBBS3dHU01Ka0JBUEU2MTZXMjdwZDlmODcw?oc=5) (Sat, 21 Mar 2026 08:24:54 GMT)
-- [Stablecoin yield is testing Asia Pacific regulators - East Asia Forum](https://news.google.com/rss/articles/CBMikwFBVV95cUxObWlzVlFMR2xTSGxYTFpZX3h6ZnhHZW16Wk5WLUZ4NTYzN0I3VHdPbEZJa0FVWGtCUTNrSkRfRzFOaVNteVFFamN4djBJMlZXWFZVQlMxU3NzU1A2a2VyWk5XME1Hcl9hSDFWTU5Ddk9Ka2FwNkc0Y0tQeWZzanVUeHJ1bzlaU0tjY185Q3pjOFcwdkU?oc=5) (Fri, 20 Mar 2026 23:00:00 GMT)
-- [OCC Leaves Itself Flexibility On Stablecoin Yield Question - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TaVZidFpUQUxac3ctczZ6Mk1udTh2LVYzSG5tUWZkdnNaMXVmTjJCQjFrTzdoQzg1OEhpbWZ0VlJYSUo0TVN6bWREYngweXJYcGc5VGhn0gFWQVVfeXFMTlNpVmJ0WlRBTFpzdy1zNnoyTW51OHYtVjNIbm1RZmR2c1oxdWZOMkJCMWtPN2hDODU4SGltZnRWUlhJSjRNU3ptZERieDB5clhwZzlUaGc?oc=5) (Fri, 20 Mar 2026 22:37:00 GMT)
-- [Lawmakers reach breakthrough with 'agreement in principle' over stablecoin yield in sweeping crypto bill - The Block](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQclZTb2R5dC1POE9yNTFDYVJhZVowTy0ya2tqdVZOdjRzc19aM3BFS2pIMlJiREQ2U1EySTVaM05aV1JVdm5seTFXSlZjU1dJU0cyQ2h1QVJINWIyREpRZTByRU1sazZjcTdLTTU5eXpFMGVKYS13VmdIVldSOTZwYV9EZ0xfS1k5Nl9sTXJ4UU13U192b25zbWpwbGo1cDFtYTVaU01nX1E5endyUEotZnlReVJvMTJGVURN?oc=5) (Fri, 20 Mar 2026 20:02:41 GMT)
 
 <!-- END_dashboard -->
 
