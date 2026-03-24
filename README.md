@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-23 01:24:47 (UTC)*
+*Last Updated: 2026-03-24 01:18:44 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$298,600,275,160** | 🔴 -0.04% | 🟢 +0.05% |
+| **$298,140,152,644** | 🔴 -0.15% | 🔴 -0.14% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [CLARITY Act Unblocked: Stablecoin Yield Compromise Reached - Disruption Banking](https://news.google.com/rss/articles/CBMipgFBVV95cUxORm5VNUE3bWc1VU9JMmliN0VUcDhtcGVjYXU2a3dlNDFjZUlrTm9PODZWZThWR0M5aDFsX0xvaDFfaWdJU0RwNWdzN2tJTV8xNVo3YzhBSHdkckZuXzdkVWsxQnB4dkdtejBQME1YZDZNZlpOaEhteVVIYmtvRVhHTXlJUTFPN1RSekcySEM0YmVpTWNzeUJtU204ZXRod1hHTXdGTk13?oc=5) (Sun, 22 Mar 2026 12:54:29 GMT)
-- [Stablecoin-sceptic BIS exec set to become new South Korean central bank boss - dlnews.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeE40RmFTWVZFdWFkX25HcEE2dXF5cHhvUC1Ja0VjZFpiLUl3UTc3cHdJb0dDWnBwUTE3NTl1Y3BmaUNiaW1tcHFsLWZKaVZ0eWRVZmdhTW5VOV9MenRBYXM1LVV2R1ZRQ0MzMEVtemNsbnZETDhPUUhpeThFVHhoUWdFSUpMTG9jeDVyTXZfNXR1U2laeXVYWkdKNzllb0FnZzhVeDBOX2lIeGw0dzBnVi1YWE9Oa2lRaEJfTA?oc=5) (Sun, 22 Mar 2026 12:43:50 GMT)
-- [Senators, White House Near Clarity Act Stablecoin Deal - Bitbo](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HLXptcThROC1uSnBpZi1ZZjBnMGR5dERxQXZ4RnNWZFdDTkpMVXlial9USXNGajdnblB5TjR2dWlKeEhlN0pDRlFGTnVlUFc4OTZWbXp6bU5mclFOdG5r?oc=5) (Sat, 21 Mar 2026 19:35:00 GMT)
-- [The CLARITY Act's Biggest Obstacle Just Fell. Four Steps Still Remain. - FinTech Weekly](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1BaaUMwSzIxT2VLWGdUc3JCRnNSSUYtY1V5RmVWVUlwV0pXbnByb21VQ2NHVmV4c1NGRHMyb1ZJSG53bllNaVFObGJpWHM4ekFIYng2eTBuZzdBUUhtX3lfSWJrVl8yUmIyeGlwSmhXZW1HSENhejZ4YmdUQ1FRSDVfUzFKVEtMSWk4R0JZNjhBWl82Q2JwYkQzcWhsVVJRR25CdHIyeHNqNHlXeUE?oc=5) (Sat, 21 Mar 2026 19:13:00 GMT)
-- [U.S. senators reached an agreement with the White House on stablecoin yields - incrypted](https://news.google.com/rss/articles/CBMilAFBVV95cUxNRVl1Ukl6UUIwZTdlSmNQNkV4dnVFdG00Vkc3aVQ1bTc2LUl6TzY4NzlGV3lxMkVvM3poaUltTU9FQUJpV1VSVEZubUdtRmV6MXJTMGdKN2RiajlSVng5cGpoM2o4enJlU2ZtUVJyRVQyd1o3ekdJSDVRMnBBS3dHU01Ka0JBUEU2MTZXMjdwZDlmODcw?oc=5) (Sat, 21 Mar 2026 08:24:54 GMT)
+- [Stablecoin yield in crypto Clarity Act won't allow rewards on balances, latest text says - CoinDesk](https://news.google.com/rss/articles/CBMiygFBVV95cUxPMG4zNHpFMWc0T0JZWUxNcUp3QlM4SWhBWEdwMTMtbXV3ZmZYN09ud2JsX3FhU2JkbGRqTGRMT3dPV2t5Z2hMVEtlSFZLbEg2SnJfM3ZfX000TWZfRzNmLTQ2MzVZM1h4RW9rQlNXWm5kYzNDUTNiUTJHck1uQW1kdnlkaF9ocUFldDBXalpMa3pRUkxuOFdnM0dwNzFmWjZpMlRONE9acTJuQ1lsN1p3R2tVVlFTMDF6Q3JxWlE3ZkJGLWRhMl80LUtB?oc=5) (Mon, 23 Mar 2026 22:44:36 GMT)
+- [Wall Street-Backed Crypto Exchange Takes Aim at Asia FX Market Using Won Stablecoin - Bloomberg.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdTVQNGFvRU52OU1HMVFTUUFsU0hNVzh1X1k4TU1sZ2lYZDVvZThhbkh2aEpiZkRpT3doQlpXenJvaHhCcWc1QlFHcVlKNTNzV0JMd0ZFM0VsaFQ0S2NwcHY2TWVBYWE4eU1hamYzUjk0M29DNkwtQU01QXdPNzZPcHhVQjgxbHhBbEpYaHVhYjdsT1JQeEtwMUxVYkpXaUNuUkcxdXYxU3hGOHViSlVTZWxjbDhVcGwyXzE1SXRYRUhhVHhEMjNkaA?oc=5) (Mon, 23 Mar 2026 22:00:00 GMT)
+- [Circle urges EU to fast-track DLT reforms, widen stablecoin settlement rules - The Block](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWFmWHlSSlBfWTVxeS1zdVlhLUtMRkpGTEpoLU9RZmNpRXBXTjkzdXZqTW5FbWNBLUlNdUNnN0tsUlR5T2duclNrY0NEdV9GaEc5T1M5U25UZUNIbVJXM29BR1NVVHFnX3FBYzZFZDNfUDlHTlJQdWYxeE9kVmZYMjd1am0wTkdLOFF6cFRyN250SnR1UmhXOUdBQlJiZy1qTV9OZnhNUUw2aTFR?oc=5) (Mon, 23 Mar 2026 20:50:47 GMT)
+- [Analyst has a sharp message for investors in popular crypto stocks - thestreet.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNcmJFMEg4R0F6QWtJQlh0R1RzandQMFJEUk9TZlBaUXk0RGlDUW8yOHY2WjJTSnZ5N3JUS1NjU2hOQ3N2NU42MURRSEl1OWc2Sk9POGZCWXE3d05sOXRINzBDMDhlSGpveHM5eHQzQ3V6eERSV241U1dmMWVrWXBWQkhCa3k3NjN0Q1UzdERPUk1PR0FkeVd2dzNYT1ZyX0l0ckNOLXVn?oc=5) (Mon, 23 Mar 2026 20:15:57 GMT)
+- [Delaware senator seeks to make state first to regulate small stablecoin issuers - Delaware Business Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkFOZzhtb3NGVzlqOUxuVENpLXlPa3I0ZVV2YXYxWkZUdV9UUGJLRkRFVDVFRDdvOThpd25naUlEN1FkdnZha2xoUElrZzJpUTFGR1lKS3JacFFENGFMQ0pqWk1rLWd4MWNlaGE3SXZRSmxKU1VYbk5TSTd1R2o1U0ZYOEVhTUJZZXA2anI4dVlYekVpaEVyejM1TFEtSkRMZjlTM2h3dXVVZ2x1VDVrV19NSk9qZmptdkQw0gHDAUFVX3lxTE9tZHUyY3ZnOTNHeUFzbDB6MXoyZmU5N3RJcUtWYmlPeVVUWk1XdkhpcXhVZzJzakpoWVVTR0t4dlAteWYwS0Q1LThuYVZ6WE44RGo0Vl9OdGlISGRnNXh1T2FZRkZ0YjRpRHlNLU9IWE9scnJfSm03c2lxVW9aeV9PNkwxT2J6YzVVQjF5MlhnOFAyN2V3bzJNZnFzbVVWZktfZ2d1cUh2VmVld294b2pFcllNVGpvME9mU2NaZWpzMlo5bw?oc=5) (Mon, 23 Mar 2026 19:17:30 GMT)
 
 <!-- END_dashboard -->
 
