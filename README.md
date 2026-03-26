@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-25 01:23:27 (UTC)*
+*Last Updated: 2026-03-26 01:28:34 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$298,026,442,675** | 🔴 -0.04% | 🔴 -0.29% |
+| **$298,030,695,165** | 🟢 +0.00% | 🔴 -0.32% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoin yield in crypto Clarity Act won't allow rewards on balances, latest text says - CoinDesk](https://news.google.com/rss/articles/CBMiygFBVV95cUxPMG4zNHpFMWc0T0JZWUxNcUp3QlM4SWhBWEdwMTMtbXV3ZmZYN09ud2JsX3FhU2JkbGRqTGRMT3dPV2t5Z2hMVEtlSFZLbEg2SnJfM3ZfX000TWZfRzNmLTQ2MzVZM1h4RW9rQlNXWm5kYzNDUTNiUTJHck1uQW1kdnlkaF9ocUFldDBXalpMa3pRUkxuOFdnM0dwNzFmWjZpMlRONE9acTJuQ1lsN1p3R2tVVlFTMDF6Q3JxWlE3ZkJGLWRhMl80LUtB?oc=5) (Mon, 23 Mar 2026 22:44:36 GMT)
-- [Wall Street-Backed Crypto Exchange Takes Aim at Asia FX Market Using Won Stablecoin - Bloomberg.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdTVQNGFvRU52OU1HMVFTUUFsU0hNVzh1X1k4TU1sZ2lYZDVvZThhbkh2aEpiZkRpT3doQlpXenJvaHhCcWc1QlFHcVlKNTNzV0JMd0ZFM0VsaFQ0S2NwcHY2TWVBYWE4eU1hamYzUjk0M29DNkwtQU01QXdPNzZPcHhVQjgxbHhBbEpYaHVhYjdsT1JQeEtwMUxVYkpXaUNuUkcxdXYxU3hGOHViSlVTZWxjbDhVcGwyXzE1SXRYRUhhVHhEMjNkaA?oc=5) (Mon, 23 Mar 2026 22:00:00 GMT)
-- [Circle urges EU to fast-track DLT reforms, widen stablecoin settlement rules - The Block](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWFmWHlSSlBfWTVxeS1zdVlhLUtMRkpGTEpoLU9RZmNpRXBXTjkzdXZqTW5FbWNBLUlNdUNnN0tsUlR5T2duclNrY0NEdV9GaEc5T1M5U25UZUNIbVJXM29BR1NVVHFnX3FBYzZFZDNfUDlHTlJQdWYxeE9kVmZYMjd1am0wTkdLOFF6cFRyN250SnR1UmhXOUdBQlJiZy1qTV9OZnhNUUw2aTFR?oc=5) (Mon, 23 Mar 2026 20:50:47 GMT)
-- [Analyst has a sharp message for investors in popular crypto stocks - thestreet.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNcmJFMEg4R0F6QWtJQlh0R1RzandQMFJEUk9TZlBaUXk0RGlDUW8yOHY2WjJTSnZ5N3JUS1NjU2hOQ3N2NU42MURRSEl1OWc2Sk9POGZCWXE3d05sOXRINzBDMDhlSGpveHM5eHQzQ3V6eERSV241U1dmMWVrWXBWQkhCa3k3NjN0Q1UzdERPUk1PR0FkeVd2dzNYT1ZyX0l0ckNOLXVn?oc=5) (Mon, 23 Mar 2026 20:15:57 GMT)
-- [Delaware senator seeks to make state first to regulate small stablecoin issuers - Delaware Business Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkFOZzhtb3NGVzlqOUxuVENpLXlPa3I0ZVV2YXYxWkZUdV9UUGJLRkRFVDVFRDdvOThpd25naUlEN1FkdnZha2xoUElrZzJpUTFGR1lKS3JacFFENGFMQ0pqWk1rLWd4MWNlaGE3SXZRSmxKU1VYbk5TSTd1R2o1U0ZYOEVhTUJZZXA2anI4dVlYekVpaEVyejM1TFEtSkRMZjlTM2h3dXVVZ2x1VDVrV19NSk9qZmptdkQw0gHDAUFVX3lxTE9tZHUyY3ZnOTNHeUFzbDB6MXoyZmU5N3RJcUtWYmlPeVVUWk1XdkhpcXhVZzJzakpoWVVTR0t4dlAteWYwS0Q1LThuYVZ6WE44RGo0Vl9OdGlISGRnNXh1T2FZRkZ0YjRpRHlNLU9IWE9scnJfSm03c2lxVW9aeV9PNkwxT2J6YzVVQjF5MlhnOFAyN2V3bzJNZnFzbVVWZktfZ2d1cUh2VmVld294b2pFcllNVGpvME9mU2NaZWpzMlo5bw?oc=5) (Mon, 23 Mar 2026 19:17:30 GMT)
+- [Stablecoin Regulations Put Wallets at Heart of Digital Cash Adoption - PYMNTS.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZFUzQlJqOUZ0SHJCM1ZMa2MwWGpqRXNYTkFTalg5SmJnYnRnMGlaSmcwbi1zZlhpTV9vWEJ6UGxsNzA2d203YmpYeGdNOTMxOGJsY3RZQkoxVDU2WDhHbWFtb0RIWUx2Q2NLdmtIdnVuQ1JpVWxFdFU3YUNoZ2pwTDVnekh1Vm5BVXF6NDlkNl9wZnBRSHo5M2kyUHN1eXRHMnJrME9janFFVWJp?oc=5) (Wed, 25 Mar 2026 23:31:48 GMT)
+- [State-Level Stablecoin Push: Delaware Seeks New Regulatory Framework - CU Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEc0LWxBVjlBV1gzSTgwZWltcGl5bGVVUUhWTC1pUFN0NmJKNkpnQ1M2U0M3c0VqYk4tS1RsMHhnLUcxNjFLWlRPOWVpQWJXdVZvQ3E0cUZsdjU4XzVoM0tUam1hTDFsNEJRb0lxUnFLWVhGX05QczFTNllBM3A4cmxCVXJnbFVlY0ZWblR5QUtmS2w1SnRVVnB4clVmMW5tY0ZBSDNZaw?oc=5) (Wed, 25 Mar 2026 22:20:02 GMT)
+- [As The Clarity Act Clock Ticks, Cathie Wood Buys Diving Crypto Name - Investor's Business Daily](https://news.google.com/rss/articles/CBMipwFBVV95cUxNYk1hd1BDTkZ0Tk84UWxrNjB5cUQ2U3JFMnJYNG1RZUExSk1JRkF0OTM5aDZCNnZKaVN3alMza1k4eHdpNW12Z0FyekVCakVvRFYyc19tQk9meU0xellMTHRDcGMwZ0NlSnFWbVVMakxGWnJpb29mN3Myb0tONzViblJjTzNLV2FlbHZ4cnJjWjcyYWg0YzZNOFVnQmMxUVMwSFNNZFVuRQ?oc=5) (Wed, 25 Mar 2026 22:06:00 GMT)
+- [Ripple taps Singapore's central bank sandbox to test stablecoin-powered trade finance with RLUSD - CoinDesk](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnFPTGNZbUhaellQczQ4VHd2VXg1SzdTUGxGcWlpV256TnBjUndad0VOUUNIdWQ5Zkg1ckMxc05tWEVfOUJSa0lFR0VGdDN1SXdGcWlQVEZiLWtQV05Va0JVdVZfdUJyVUt3NGhGeHpRQnVZWjduSUswVkFoNmJNSkYtN0xQVDhIVG1ack1nb3lERkVhZ1R5cWxOeW1fTzF3XzlUZnFkWWtUdVVfdFhpT1l3NF95SlN2TDFMQWNYOGlrOHE1ZnBIZlpBSXREVHJsb01SOFMtR1g?oc=5) (Wed, 25 Mar 2026 21:13:07 GMT)
+- [Stablecoin Yield Reform Raises Stakes For Community Banks - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTE84VlZUV2llQ2xod19SRlBWQ2FSV195ZG51UE9TU1lvRG5MeVhXNVRxWjdHUnJWV01zdDFtTkNlUUNtMEtyZVBySlRhT3ZFV0xoOGZXbFNB0gFWQVVfeXFMTzhWVlRXaWVDbGh3X1JGUFZDYVJXX3lkbnVQT1NTWW9Ebkx5WFc1VHFaN0dSclZXTXN0MW1OQ2VRQ20wS3JlUHJKVGFPdkVXTGg4ZldsU0E?oc=5) (Wed, 25 Mar 2026 21:00:00 GMT)
 
 <!-- END_dashboard -->
 
