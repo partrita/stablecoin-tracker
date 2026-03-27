@@ -2,6 +2,8 @@ import pandas as pd
 import os
 import feedparser
 import datetime
+import html
+
 
 def get_growth_symbol(value):
     if value > 0:
@@ -71,7 +73,19 @@ def update_news_archive():
     top_5 = df_combined.head(5)
     news_lines = []
     for _, row in top_5.iterrows():
-        news_lines.append(f"- [{row['title']}]({row['link']}) ({row['published']})")
+        # Security: Sanitize title to prevent Markdown injection and XSS
+        title = str(row['title'])
+        title = html.escape(title).replace('[', '&#91;').replace(']', '&#93;')
+
+        # Security: Validate link to prevent javascript: or other malicious URIs
+        link = str(row['link'])
+        if not link.startswith(('http://', 'https://')):
+            link = '#'
+
+        published = str(row['published'])
+        published = html.escape(published).replace('[', '&#91;').replace(']', '&#93;')
+
+        news_lines.append(f"- [{title}]({link}) ({published})")
     
     return "\n".join(news_lines)
 
