@@ -13,6 +13,13 @@ def get_growth_symbol(value):
     else:
         return f"⚪ {value:.2f}%"
 
+def sanitize_csv_value(val):
+    """Security: Prevent CSV Injection (Formula Injection) in spreadsheet applications"""
+    val_str = str(val)
+    if val_str.startswith(('=', '+', '-', '@', '\t', '\r')):
+        return "'" + val_str
+    return val
+
 def update_news_archive():
     url = "https://news.google.com/rss/search?q=stablecoin+when:7d&hl=en-US&gl=US&ceid=US:en"
     archive_path = 'data/news_archive.csv'
@@ -31,9 +38,9 @@ def update_news_archive():
                 pub_dt = datetime.datetime.now()
             
             new_items.append({
-                'title': entry.title,
-                'link': entry.link,
-                'published': published,
+                'title': sanitize_csv_value(entry.title),
+                'link': sanitize_csv_value(entry.link),
+                'published': sanitize_csv_value(published),
                 'published_dt': pub_dt
             })
     except Exception as e:

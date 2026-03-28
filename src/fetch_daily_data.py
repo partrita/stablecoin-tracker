@@ -27,9 +27,16 @@ SLUG_MAP = {
 
 def normalize_name(slug):
     if slug in SLUG_MAP:
-        return SLUG_MAP[slug]
-    # Fallback: Title Case, replace hyphens
-    return slug.replace("-", " ").title()
+        name = SLUG_MAP[slug]
+    else:
+        # Fallback: Title Case, replace hyphens
+        name = slug.replace("-", " ").title()
+
+    # Security: Prevent CSV Injection (Formula Injection)
+    if name and str(name).startswith(('=', '+', '-', '@', '\t', '\r')):
+        name = "'" + name
+
+    return name
 
 
 def fetch_data():
