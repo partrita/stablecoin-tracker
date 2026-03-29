@@ -38,7 +38,8 @@ def fetch_data():
         browser={"browser": "chrome", "platform": "windows", "desktop": True}
     )
     try:
-        response = scraper.get(URL)
+        # Security: Added timeout to prevent indefinite hangs (Denial of Service risk)
+        response = scraper.get(URL, timeout=15)
         response.raise_for_status()
     except Exception as e:
         print(f"Error fetching URL: {e}")

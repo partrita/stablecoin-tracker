@@ -3,6 +3,7 @@ import os
 import feedparser
 import datetime
 import html
+import urllib.request
 
 
 def get_growth_symbol(value):
@@ -19,7 +20,9 @@ def update_news_archive():
     
     # 1. Fetch new items
     try:
-        feed = feedparser.parse(url)
+        # Security: Added timeout to prevent indefinite hangs (Denial of Service risk)
+        req = urllib.request.urlopen(url, timeout=15)
+        feed = feedparser.parse(req)
         new_items = []
         for entry in feed.entries:
             # Parse published date
