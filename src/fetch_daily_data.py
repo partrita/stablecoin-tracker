@@ -38,7 +38,8 @@ def fetch_data():
         browser={"browser": "chrome", "platform": "windows", "desktop": True}
     )
     try:
-        response = scraper.get(URL)
+        # Security: Add timeout to prevent DoS if the external service hangs
+        response = scraper.get(URL, timeout=15)
         response.raise_for_status()
     except Exception as e:
         print(f"Error fetching URL: {e}")
@@ -73,7 +74,9 @@ def fetch_data():
         try:
             props = json.loads(props_str)
             slug = props.get("coin_name")
-        except:
+        except Exception as e:
+            # Security: Catch specific exceptions rather than swallowing all errors silently
+            print(f"Warning: Failed to parse props for row: {e}")
             continue
 
         coin_name = normalize_name(slug)
