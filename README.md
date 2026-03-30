@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-29 01:45:02 (UTC)*
+*Last Updated: 2026-03-30 01:47:27 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$296,693,969,513** | 🔴 -50.00% | 🔴 -0.68% |
+| **$296,897,479,927** | 🟢 +0.07% | 🔴 -0.57% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [Bitcoin Everlight Opens Phase 3 as Stablecoin Adoption Expands Access to Blockchain Participation - markets.businessinsider.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR1dnek5iMzVRbVk2d2hNcTd3NUYwMU5tUndyLUdtNkMzUWFyalo3VWhHbjNlWXBCRGtpQ0ZWN1AwbF9Vdk5yYTlwQXhFS3djRnh5UUFyeUk0M1Y0YUxwZDFUWW9ZU1FpTnZMUllpY1Z6TkxMekY1X05FSnR3YkV1a1RkUG92bVczVW13TlFORjNsNmdIcFdUeTJtT2lGbXM4V3A0NkRhWDBGT1hfblV5RzZjNGNvRHpkYkh3U3dBcGdESXRkWHpUTXB4T1NFVEk3QWhOcEllazJ3R3FINzJjVUlsX2lubC1WN0ZSYg?oc=5) (Sun, 29 Mar 2026 20:33:03 GMT)
+- [Stablecoin payments go &#x27;invisible&#x27; in Southeast Asia as crypto card business surges - CoinDesk](https://news.google.com/rss/articles/CBMixAFBVV95cUxPWmI0UmJ4bENFWjRROVpGVVlROFlhRFlxM190a0w4aEhMZEh5WTZ4YVRXWmJfbVRHSE1hWnRGV1pOTmVLSXNDYWY5SjNXQ05hX0lMYnIzTlYxcFBVNDcxUk9vaU13VGNNeGs3NXhYZUZsRTdlOWJzQkhxeDRLYlRnRDE3SE1MRFFiVmNqTmZ0MHZkRGw5X3RSdjJIeEUyMUxVdzBwdXdEQmdyT3I5SlBsbjlvLTRmdnNTMzlfX3lhTzZNTnN2?oc=5) (Sun, 29 Mar 2026 19:03:18 GMT)
+- [No one is 100% happy with the stablecoin yield agreement: State of Crypto - CoinDesk](https://news.google.com/rss/articles/CBMitAFBVV95cUxQN2l6aDVkdEpCOEh3ZWxmc0FEeGtNb2VVNG16VEZUNVZseUtaNFowRDNLUnVaYTQ3cWQ2UFMwRUVvUVBWWEZOaWF6QWpTZnRaZzZBVUxzV1ExSV9iQUE2aUc1Rk5RbEE5ejNnOFJ2UHNVMlREYW5TdUlpMnNUelVob25GbG4zdkhRcU0za2paTHpDOENZbkhnS0hBSFZ6ajBfV1BRNlp5d2xfMnRkWlhrQVE0VV8?oc=5) (Sun, 29 Mar 2026 18:03:10 GMT)
 - [Finovate Global Africa: Stablecoins, Digital Payments, and Funding Infrastructure - Finovate](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFVBdGZMcHhiUUQ1RUN3emxBX1dyN3NYa2Z1dnVEZlRsSk42eUQzWHBoMU9TakM0UC1DWHB4Vnd3OE9nQlFTVURJcEZXWGRSenZ2M2FXN3pnc0dFV1kza1JxWDlZa0Y3RDhnNVM1Ul9PSHJDWkFHcjlRYjFGbm9zOTVKcDNzdGw5dGhSaWxsbEdEcHJsaGhoOFpkRWdXTW9aeUE?oc=5) (Fri, 27 Mar 2026 22:54:55 GMT)
 - [&#x27;What the hell?&#x27; — Crypto frustration boils over as stablecoin fight stalls bill - The Block](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWpubC11WVlSQzFtaXJ2RzFIOEdMR293VzNmSUtUbGhHTE9MalhNSEFyekdrQ2tRQWFHVkhpaFF6VkdVTVJRWWh1akIzcHNEdWZtY29Za2F2aUoyckZfUE1EWHRrVnNSOU9pbGs5bnNFaFRrQk5FOF83S0EtUmgwdjZrY25kY2dNd2NSOXluNGpPaDh1TUlJQS1Xd3AxV3c1TzhSejJmNnFTNTBPeDR4Vg?oc=5) (Fri, 27 Mar 2026 21:40:39 GMT)
-- [Smaller Banks Are Talking About Stablecoin Payments for Business. But For Now, It&#x27;s Just Talk - The Financial Brand](https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3hKSllhRlJ0b0hocU1XbVlSLVE1TGg1eDlDeE9lWkFUUmQ1ZDhHQkVyRWt4MFg0U2JmbmxaUGh1eDlzdEEtRmtTS0FYb2tNSm11SlZPSkY4YnJRMEwxOGlEQTM5MzY0LUN1Sy1SY2xRQXZRVjVqQ2trZlkwR0lSeXJOVXRSME1LYVVGNg?oc=5) (Fri, 27 Mar 2026 21:22:47 GMT)
-- [The 2026 CFD broker’s guide to stablecoin integration - FinTech Weekly](https://news.google.com/rss/articles/CBMimAFBVV95cUxOV0JrbVl4WV8zejBFeEd1Y05DU0pmOEdHMi11b2pNQmVpYm81M2xvZ2JqR2VWaWFkNDVZWTRkWDAwbGl0NTBWcnVNcmRMVzZPczJhakgwVS1xUy1kZzRBczBPSk5RV0ZabFZsYWNueDVFQjgtdGJwV19Tc0UtNjI4ZVM0MnVwZl9VRGZrMTNfRl9nZWdNQ090cg?oc=5) (Fri, 27 Mar 2026 20:41:00 GMT)
-- [World’s top stablecoin to undergo a Big Four audit - CFO Brew](https://news.google.com/rss/articles/CBMimAFBVV95cUxNS2J2VTFfRGpyR0ktNGJtaWJQclFjODV5VWU0WVF6V05oZWVIS3F2NWplNmhWRUwwaUszWmtCQVlram5reXVkcWZBeC1ORURPNXV1cXo0X1JoajZ3RDVRM1dNR1Nic3JsRFV4bUJqNzdiMTVmb1Vyb0p5QjdnLXBncXA1cFhqZVlUbXR6ZnZPN09MZzJvMWE5NQ?oc=5) (Fri, 27 Mar 2026 19:25:56 GMT)
 
 <!-- END_dashboard -->
 
