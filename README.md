@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-31 10:34:49 (UTC)*
+*Last Updated: 2026-03-31 14:24:09 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$296,781,836,788** | 🔴 -0.04% | 🔴 -0.46% |
+| **$296,845,987,082** | 🔴 -0.02% | 🔴 -0.43% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Circle Taps Mother Design to Reframe USDC Stablecoin - Little Black Book | LBBOnline](https://news.google.com/rss/articles/CBMihgFBVV95cUxQd2RNd2VJS1hZVzJabTJCcUZ1VzQxZjJqTWlBWFVSeGw5VzZfa3YxUE1zN0RiVG0tV093bHpaeklrR01Xb2ZHOUV6SG5GNWowRkg0ZDRTSVV4aHpxVEoxb0RiZ19BRkhpZkNGUVVRN1ptdGp4cmtoOVNuLU9jU19KOXJrSDRRZw?oc=5) (Tue, 31 Mar 2026 09:02:12 GMT)
-- [US stablecoin compromise making enemies on both sides - CoinGeek](https://news.google.com/rss/articles/CBMigAFBVV95cUxNTVUwN1RYLUJuSmF3c3laZlpha01PV1d2YnhzZzRjZk12eXBaLS0zWGxuTDNzWmlRTWpDQWhFc29VUnJGbWhBemtNdlpQLVVGdDBrc0w1Sm1ETTJQQmNnQ3lVSlRwNzZxdTlVOGxLTDc5WkM5MXhoT3RkQVk0bldibg?oc=5) (Tue, 31 Mar 2026 07:00:37 GMT)
-- [Structuring A Fintech And Stablecoin Infrastructure Platform Around IBEXIAL - ActusNews.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxNdE5Tb2dDM2I3YmZmblQ0TktBT0lPNFVORnY3NjZsQko3ZUZlYTh1TGdRVHNBOU9TM2c0c3FmbU13MkMxUzB1RkF1QmNpMGVfN1dYaXRxUy1EZnptN2FqQlpiUEJULWJraUxZUnBIaW93QUdOTjRLTTFpdFpVTXpMRFhacDRMOXlWRGpuXzVYcmVGTHJtWEVBSWJzYVR5Rmx3Z05YeW9YWV9WbTlGM1phV0hVdW1BUDVnWXB4eE9iREZzVXA4Y2l4TVV1NNIBywFBVV95cUxNdE5Tb2dDM2I3YmZmblQ0TktBT0lPNFVORnY3NjZsQko3ZUZlYTh1TGdRVHNBOU9TM2c0c3FmbU13MkMxUzB1RkF1QmNpMGVfN1dYaXRxUy1EZnptN2FqQlpiUEJULWJraUxZUnBIaW93QUdOTjRLTTFpdFpVTXpMRFhacDRMOXlWRGpuXzVYcmVGTHJtWEVBSWJzYVR5Rmx3Z05YeW9YWV9WbTlGM1phV0hVdW1BUDVnWXB4eE9iREZzVXA4Y2l4TVV1NA?oc=5) (Tue, 31 Mar 2026 05:46:17 GMT)
-- [The CLARITY Act Goes Into Recess Unresolved. Here Is What That Means for April. - FinTech Weekly](https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlNvcWs5TG5mOGVpZG5WU3JERkZ4dko2QkNUZHlmbXBXM3IwMTRfOV9aWHI1NC1ycDl2ckNYZTJFb3Jka1N3UkFmeUlLVnB6aHVYWm9Sc191MzEtSjZXUGhMSWJCN1JXVU5vRXNvbURKYTUyQkNlMms0LWR6WG1rTVFUNmF3cjhVakE?oc=5) (Mon, 30 Mar 2026 19:51:00 GMT)
-- [Nium Rolls Out Platform for Issuing Stablecoin Cards - PYMNTS.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOVllBd3JKSzlYQy15MXNNdndKamtOd3hTREJxRm0tQjdZNGZQbHdELUdITmFfX2lGaUJtRkozbGlJMG9IM0R5M2tNN1ZPY01vTS0tYXFOWEE4YjJPZ0VsRzVhWVBFWUpwaUJKTllvcmZjcVRyOXM2R3BycVZUWF94MkRhNEpCbGtZX2NqUC14bGNCZ1BKc3R5NDBUMWM?oc=5) (Mon, 30 Mar 2026 17:39:42 GMT)
+- [Investing in The Better Money Company - a16z crypto](https://news.google.com/rss/articles/CBMib0FVX3lxTE13SFJNdzZvaC1ITnRVRkZYSm1GbkQwQ3Buby05a2NUdnNBZmNzTHY0Q3k2ZFJ6MEVSNzVzMjFhMVVEYm1KX2JTTlk4ZUI1MGJTa04wdTNaNEt3N2V6UHItTks0LW1fdGdPXzd1Z0o3RQ?oc=5) (Tue, 31 Mar 2026 13:01:26 GMT)
+- [Exclusive: Former a16z crypto investor raises $10 million to launch stablecoin clearinghouse Better Money - Fortune](https://news.google.com/rss/articles/CBMipwFBVV95cUxORmdFSVhxbzIxUFpiRGx6RGJtUTZ1QVpCTDd1RWJ0RExVOE5lYW9HSVREd21sOXE4RzRDcENheDZtVHNQOWZOZkI1MFRDbktVWTgzb1JTS0J3bFpmaGt6NEtQNThmajAydlF2enRWcXhBX19rSERDRDBaQ0ljTW9xR0lQamVtWlp4VW9qbmZXdHVqR3JMVHV6ejNUSlYzb0s0eUF5bDZRbw?oc=5) (Tue, 31 Mar 2026 12:30:00 GMT)
+- [In the world of Stripe: Acquisitions, agentic AI, and stablecoins - Tearsheet](https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0FmUEZtQnY3WDcwQkRRSnRUS1hlbG5fWG9jbi1YYmtjWU8xb2pfS2d1NENzLTcxeVFUVDhnUm1iSXNYOEdsaWNoWUpwRWdPaFNSRDdYZHhrYUdRWjJTVTh0el9BRkFzS0o2enhVYU5kbHlXM2s5WDQwSkt3M0c3YWFIc1ZhNVpIcHBHMUZmQkhncmZxekVGeQ?oc=5) (Tue, 31 Mar 2026 11:47:32 GMT)
+- [Forex startup OpenFX raises $94 million to expand stablecoin-powered cross-border payments - CoinDesk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNDZKMTdPZnZfTnBCcFVFd3lrekRaV0xJZWpUd18yM2VTWjlQZmtsSWpxWlNPZVQxWGwzLXBCU0sxWmVodGhKSnU0LW5GWWJzX2JncWhPSjZuSnAySlU0c3pfUENMbEE2NFdBU0dlY1ZsYW8wa3cwRjlyTVc0d3hvT2w3ZEdkQnRKN2JGaVFtWGh0eVN4WnVycHgzTkZBeVlfc2IzYjdfRTd0SVUtWWN6Q0h3LVlIWWN0LWt3bGpWc19XMVN4bWs5WmNsekE2X19sTjVV?oc=5) (Tue, 31 Mar 2026 11:41:27 GMT)
+- [&#x27;Unstable velocity&#x27;: Standard Chartered says stablecoin usage rising faster than expected as new use cases emerge - The Block](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTkY5dVV2VGRPdDhLUzQxejJ4dWg1XzRpZnRaSGYyMHdTVnRkbGdXNEJzWF9hdzJGLWhkeXAtSVE1ZmRQNEFLWktiNkFqU0VxMWZMTktIOHo4VHJaUlU0MFZTdWZxLU0yd0syVkkwUUpWV1J1c3VzUWxGVDVlOC00WUUyWEtTZ25Hb1o3b21WUGFkTDVWclQwNXBfTC1qcE04N1A0VTVjSnFsSmk1UFJLNHZ2dUV1cFFld2VBUUJIYUw3UnRfWXhBYk9WbnlLTmhCUDJnYjJDYkVkTEk5X2ZB?oc=5) (Tue, 31 Mar 2026 10:14:25 GMT)
 
 <!-- END_dashboard -->
 
