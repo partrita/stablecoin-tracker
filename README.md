@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-30 01:47:27 (UTC)*
+*Last Updated: 2026-03-31 01:44:13 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$296,897,479,927** | 🟢 +0.07% | 🔴 -0.57% |
+| **$296,776,122,934** | 🔴 -0.04% | 🔴 -0.46% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Bitcoin Everlight Opens Phase 3 as Stablecoin Adoption Expands Access to Blockchain Participation - markets.businessinsider.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR1dnek5iMzVRbVk2d2hNcTd3NUYwMU5tUndyLUdtNkMzUWFyalo3VWhHbjNlWXBCRGtpQ0ZWN1AwbF9Vdk5yYTlwQXhFS3djRnh5UUFyeUk0M1Y0YUxwZDFUWW9ZU1FpTnZMUllpY1Z6TkxMekY1X05FSnR3YkV1a1RkUG92bVczVW13TlFORjNsNmdIcFdUeTJtT2lGbXM4V3A0NkRhWDBGT1hfblV5RzZjNGNvRHpkYkh3U3dBcGdESXRkWHpUTXB4T1NFVEk3QWhOcEllazJ3R3FINzJjVUlsX2lubC1WN0ZSYg?oc=5) (Sun, 29 Mar 2026 20:33:03 GMT)
-- [Stablecoin payments go &#x27;invisible&#x27; in Southeast Asia as crypto card business surges - CoinDesk](https://news.google.com/rss/articles/CBMixAFBVV95cUxPWmI0UmJ4bENFWjRROVpGVVlROFlhRFlxM190a0w4aEhMZEh5WTZ4YVRXWmJfbVRHSE1hWnRGV1pOTmVLSXNDYWY5SjNXQ05hX0lMYnIzTlYxcFBVNDcxUk9vaU13VGNNeGs3NXhYZUZsRTdlOWJzQkhxeDRLYlRnRDE3SE1MRFFiVmNqTmZ0MHZkRGw5X3RSdjJIeEUyMUxVdzBwdXdEQmdyT3I5SlBsbjlvLTRmdnNTMzlfX3lhTzZNTnN2?oc=5) (Sun, 29 Mar 2026 19:03:18 GMT)
-- [No one is 100% happy with the stablecoin yield agreement: State of Crypto - CoinDesk](https://news.google.com/rss/articles/CBMitAFBVV95cUxQN2l6aDVkdEpCOEh3ZWxmc0FEeGtNb2VVNG16VEZUNVZseUtaNFowRDNLUnVaYTQ3cWQ2UFMwRUVvUVBWWEZOaWF6QWpTZnRaZzZBVUxzV1ExSV9iQUE2aUc1Rk5RbEE5ejNnOFJ2UHNVMlREYW5TdUlpMnNUelVob25GbG4zdkhRcU0za2paTHpDOENZbkhnS0hBSFZ6ajBfV1BRNlp5d2xfMnRkWlhrQVE0VV8?oc=5) (Sun, 29 Mar 2026 18:03:10 GMT)
-- [Finovate Global Africa: Stablecoins, Digital Payments, and Funding Infrastructure - Finovate](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFVBdGZMcHhiUUQ1RUN3emxBX1dyN3NYa2Z1dnVEZlRsSk42eUQzWHBoMU9TakM0UC1DWHB4Vnd3OE9nQlFTVURJcEZXWGRSenZ2M2FXN3pnc0dFV1kza1JxWDlZa0Y3RDhnNVM1Ul9PSHJDWkFHcjlRYjFGbm9zOTVKcDNzdGw5dGhSaWxsbEdEcHJsaGhoOFpkRWdXTW9aeUE?oc=5) (Fri, 27 Mar 2026 22:54:55 GMT)
-- [&#x27;What the hell?&#x27; — Crypto frustration boils over as stablecoin fight stalls bill - The Block](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWpubC11WVlSQzFtaXJ2RzFIOEdMR293VzNmSUtUbGhHTE9MalhNSEFyekdrQ2tRQWFHVkhpaFF6VkdVTVJRWWh1akIzcHNEdWZtY29Za2F2aUoyckZfUE1EWHRrVnNSOU9pbGs5bnNFaFRrQk5FOF83S0EtUmgwdjZrY25kY2dNd2NSOXluNGpPaDh1TUlJQS1Xd3AxV3c1TzhSejJmNnFTNTBPeDR4Vg?oc=5) (Fri, 27 Mar 2026 21:40:39 GMT)
+- [Nium Rolls Out Platform for Issuing Stablecoin Cards - PYMNTS.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOVllBd3JKSzlYQy15MXNNdndKamtOd3hTREJxRm0tQjdZNGZQbHdELUdITmFfX2lGaUJtRkozbGlJMG9IM0R5M2tNN1ZPY01vTS0tYXFOWEE4YjJPZ0VsRzVhWVBFWUpwaUJKTllvcmZjcVRyOXM2R3BycVZUWF94MkRhNEpCbGtZX2NqUC14bGNCZ1BKc3R5NDBUMWM?oc=5) (Mon, 30 Mar 2026 17:39:42 GMT)
+- [Stablecoins Gain Traction But CFOs Face Challenges - Global Finance Magazine](https://news.google.com/rss/articles/CBMipgFBVV95cUxOamFkVXFIekZNc0hSWHVLdllabk1HZkFXUklnM1dVYTBBa0dpcW5vMGloYl9CRTNNeWU2SGdmank2dWktcjNZNUhPeHZIOEd6OEpEeFFYODhKTTJVZVhSN01qczBWQTFCNkJWaTJyV2g5Ykl5WkdFbTVPc0RmZlhVYklLSEpYSC1OMmpKT3BWWlBJTURwM29YbWtIWU43SURKTDMyZ0ln?oc=5) (Mon, 30 Mar 2026 16:42:29 GMT)
+- [Banks Eye Crypto Specialists - Global Finance Magazine](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Ga1FHLXNTSHRLX0h0czdXMkU3WVdUU3hwd29ZVmlUaDdkdWNneFV0eW5Wa1p2M25oRTFuZFFpN1dEOEZUdHNXYmt0V1hBQ2VqVUtoS2pJb1hIWUgxOGNIYVhTR0hudw?oc=5) (Mon, 30 Mar 2026 16:06:15 GMT)
+- [Visa’s stablecoin ally falls for Mastercard - Payments Dive](https://news.google.com/rss/articles/CBMijAFBVV95cUxPaE5aT2NyZlBNemF2LTN4YUl6eUxkbHduam52WTVVMXNLUExHanJKdkVmRU5iZ085YXlnYXFhQl9XTjFLdTk1akU4emtvdzdqckVaMG5iTk16WWR0ZkI1emdRV3BTUmRfQU40eEZzU1J2akx6b2hxeFlsY1hFcDdlZjEtbFQzRlpXUkZzOA?oc=5) (Mon, 30 Mar 2026 15:46:22 GMT)
+- [The GENIUS Act: Unlocking a $23 Trillion Stablecoin Opportunity - William Blair](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXZyaFlqay05MmlYUUEtNXFxQ1RXZGpBNVEwNm9vRVRwRXVpSG9vTFloZjFSc3U3WFRUM2NrOGFTQTB3cDlOMXJ5WFJ4cWJuLWs2a0ItajREQ0tjSkstellxNXhJa2ctSG44ZzhNdE9VUTF0YXJzZE5oall1Zmw0dEZGQnY0a0tMZ1lFZWFIUzlWek5zQXRvcEowZ0o2OVBw?oc=5) (Mon, 30 Mar 2026 15:25:58 GMT)
 
 <!-- END_dashboard -->
 
