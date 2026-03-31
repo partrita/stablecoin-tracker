@@ -67,9 +67,20 @@ if os.path.exists(archive_path):
         df_news['published_dt'] = pd.to_datetime(df_news['published_dt'])
         df_news = df_news.sort_values(by='published_dt', ascending=False)
         
+        import html
+
         # Create clickable title
-        df_news['Article'] = df_news.apply(lambda x: f"[{x['title']}]({x['link']})", axis=1)
+        # Security: Sanitize title and link to prevent Markdown injection and XSS
+        def create_safe_link(title, link):
+            safe_title = html.escape(str(title)).replace('[', '&#91;').replace(']', '&#93;')
+            safe_link = str(link) if str(link).startswith(('http://', 'https://')) else '#'
+            return f"[{safe_title}]({safe_link})"
+
+        df_news['Article'] = df_news.apply(lambda x: create_safe_link(x['title'], x['link']), axis=1)
         
+        # Security: Sanitize published date as well
+        df_news['published'] = df_news['published'].apply(lambda x: html.escape(str(x)).replace('[', '&#91;').replace(']', '&#93;'))
+
         # Select and Rename columns
         df_table = df_news[['published', 'Article']].copy()
         df_table.columns = ['Published Date', 'Article']
