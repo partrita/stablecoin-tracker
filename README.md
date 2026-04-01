@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-03-31 14:24:09 (UTC)*
+*Last Updated: 2026-04-01 01:51:28 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$296,845,987,082** | 🔴 -0.02% | 🔴 -0.43% |
+| **$296,614,491,960** | 🔴 -66.69% | 🔴 -0.47% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Investing in The Better Money Company - a16z crypto](https://news.google.com/rss/articles/CBMib0FVX3lxTE13SFJNdzZvaC1ITnRVRkZYSm1GbkQwQ3Buby05a2NUdnNBZmNzTHY0Q3k2ZFJ6MEVSNzVzMjFhMVVEYm1KX2JTTlk4ZUI1MGJTa04wdTNaNEt3N2V6UHItTks0LW1fdGdPXzd1Z0o3RQ?oc=5) (Tue, 31 Mar 2026 13:01:26 GMT)
-- [Exclusive: Former a16z crypto investor raises $10 million to launch stablecoin clearinghouse Better Money - Fortune](https://news.google.com/rss/articles/CBMipwFBVV95cUxORmdFSVhxbzIxUFpiRGx6RGJtUTZ1QVpCTDd1RWJ0RExVOE5lYW9HSVREd21sOXE4RzRDcENheDZtVHNQOWZOZkI1MFRDbktVWTgzb1JTS0J3bFpmaGt6NEtQNThmajAydlF2enRWcXhBX19rSERDRDBaQ0ljTW9xR0lQamVtWlp4VW9qbmZXdHVqR3JMVHV6ejNUSlYzb0s0eUF5bDZRbw?oc=5) (Tue, 31 Mar 2026 12:30:00 GMT)
-- [In the world of Stripe: Acquisitions, agentic AI, and stablecoins - Tearsheet](https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0FmUEZtQnY3WDcwQkRRSnRUS1hlbG5fWG9jbi1YYmtjWU8xb2pfS2d1NENzLTcxeVFUVDhnUm1iSXNYOEdsaWNoWUpwRWdPaFNSRDdYZHhrYUdRWjJTVTh0el9BRkFzS0o2enhVYU5kbHlXM2s5WDQwSkt3M0c3YWFIc1ZhNVpIcHBHMUZmQkhncmZxekVGeQ?oc=5) (Tue, 31 Mar 2026 11:47:32 GMT)
-- [Forex startup OpenFX raises $94 million to expand stablecoin-powered cross-border payments - CoinDesk](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNDZKMTdPZnZfTnBCcFVFd3lrekRaV0xJZWpUd18yM2VTWjlQZmtsSWpxWlNPZVQxWGwzLXBCU0sxWmVodGhKSnU0LW5GWWJzX2JncWhPSjZuSnAySlU0c3pfUENMbEE2NFdBU0dlY1ZsYW8wa3cwRjlyTVc0d3hvT2w3ZEdkQnRKN2JGaVFtWGh0eVN4WnVycHgzTkZBeVlfc2IzYjdfRTd0SVUtWWN6Q0h3LVlIWWN0LWt3bGpWc19XMVN4bWs5WmNsekE2X19sTjVV?oc=5) (Tue, 31 Mar 2026 11:41:27 GMT)
-- [&#x27;Unstable velocity&#x27;: Standard Chartered says stablecoin usage rising faster than expected as new use cases emerge - The Block](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTkY5dVV2VGRPdDhLUzQxejJ4dWg1XzRpZnRaSGYyMHdTVnRkbGdXNEJzWF9hdzJGLWhkeXAtSVE1ZmRQNEFLWktiNkFqU0VxMWZMTktIOHo4VHJaUlU0MFZTdWZxLU0yd0syVkkwUUpWV1J1c3VzUWxGVDVlOC00WUUyWEtTZ25Hb1o3b21WUGFkTDVWclQwNXBfTC1qcE04N1A0VTVjSnFsSmk1UFJLNHZ2dUV1cFFld2VBUUJIYUw3UnRfWXhBYk9WbnlLTmhCUDJnYjJDYkVkTEk5X2ZB?oc=5) (Tue, 31 Mar 2026 10:14:25 GMT)
+- [Tether Announces USAT Stablecoin Expansion to Celo Network - Yahoo Finance](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTVk4WVYxWVhUTVp6dE5mal93N05YcGdXRXJxNWRwdUlMODllbEFMVWhHUVYyQzhQU1lNQUJiRDdfTE1SY3prWjk0UV9VWDRVb0lndkludUhLS0wzdXlZa2lmekZxVC1mZjVnQldqMlVDUnV2MGFrSktkTHEwRThnWnJPQ1Fsb2tjeEhNQWpJNDZ5VS1HbWZ2Rm1LMEFUOXBuNjRmYlN3cENadVk?oc=5) (Tue, 31 Mar 2026 23:09:36 GMT)
+- [Fed&#x27;s Barr invokes &#x27;long and painful history&#x27; while encouraging strong stablecoin oversight - The Block](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcnJaR1JqWVRDWWRpSTE5SnVkX2Y0TUJ1VXRkZmdjUW84dUVCNV9zcFRQdGVJVHhmbWhnMmk3Q2ppVDFIOWRUQl9lU2pxTTF1YWVTejJGcHlXck12dFo4ajg5R0kxWS16LTZNSzBkQVprRHpIVGJzRk1obUZBQjB0ZDB4X3FXY05RNE9SdlFLZTJfMFBDbHk0UjhoNGxrLTE1RmpsRU5yX1oxeDliSHZBVE9NZ3Q?oc=5) (Tue, 31 Mar 2026 21:21:37 GMT)
+- [Ripple Backs Convera To Enabled Cross Border Stablecoin Payments - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOUNnX3pTNVJ0RC1XQzlaMlVDZ1Zpc1NlTC0tTlNlbk9OVkFySy03YW9obHNWUlV0RU1mY2hiN2lIQ1BtVnhraXNMNFFFTWJEbFZzVnhBLXdWS1BJNHMwOTJ4dENYU3NEMm80SEt1SFZjc1hvelB5eE1Cd0F2RHUyZlFuSWJ4eFcyT3p6SjgxSG50NklDcklGYVJGcEFqVXhG?oc=5) (Tue, 31 Mar 2026 20:41:00 GMT)
+- [Circle Mints $750 Million Of USDC Stablecoin On Solana Network - Yahoo Finance](https://news.google.com/rss/articles/CBMimgFBVV95cUxPLU9fdDhqdFFCNDV4a1h6dkJSQ0RkcWFrQmR0SkdydlhBNDl1OUFCLUpydDNwOEVwZ3VnRXUwYkllM3RsQmItLWtjbnpubDB6NTY1SWhJMGRLaTZTcF9IOUI2VFk3WFpCREZ6dWN5al9CZ2xZUk53dnJkdkg1X0RCT1hzVWs1VEZURUJScC1GZmRiVVBNd19uZjVB?oc=5) (Tue, 31 Mar 2026 20:39:00 GMT)
+- [Big 4 auditor confirms Ripple&#x27;s stablecoin supply fully backed with reserves - thestreet.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxOakRib1N6anFxaHBPTmk2dGJlU05sSFBBQkxUZUhkR3lQRFBHbDRLdXA1Z01BQTBqbGZQdmpFZGdEZmYyc09MVmR4VXV5X0UtMk5PaFVtaEdvSEJ5TDQtWno2WlJ0VGxrb3pab2pBbWRlSG5tNEFqYWYtMlVXY2ZPSjJTZ3pjZDBDM2c1c1M2bmZCdG9hV0FWZ0hMZUNDNkU5amlFM3VYZjVWT3NRVW9mU2IwQjN1blk?oc=5) (Tue, 31 Mar 2026 20:28:04 GMT)
 
 <!-- END_dashboard -->
 
