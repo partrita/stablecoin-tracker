@@ -3,6 +3,7 @@ import os
 import feedparser
 import datetime
 import html
+import urllib.request
 
 
 def get_growth_symbol(value):
@@ -19,7 +20,12 @@ def update_news_archive():
     
     # 1. Fetch new items
     try:
-        feed = feedparser.parse(url)
+        # Security: Added timeout to avoid DoS if server hangs
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=15) as response:
+            feed_content = response.read()
+        feed = feedparser.parse(feed_content)
+
         new_items = []
         for entry in feed.entries:
             # Parse published date
@@ -27,7 +33,9 @@ def update_news_archive():
             try:
                 # Convert struct_time to datetime
                 pub_dt = datetime.datetime(*entry.published_parsed[:6])
-            except:
+            except Exception as e:
+                # Security: Catch specific exception instead of swallowing
+                print(f"Warning: Could not parse date for {entry.title}: {e}")
                 pub_dt = datetime.datetime.now()
             
             new_items.append({
