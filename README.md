@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-01 01:51:28 (UTC)*
+*Last Updated: 2026-04-01 21:43:07 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$296,614,491,960** | 🔴 -66.69% | 🔴 -0.47% |
+| **$296,779,202,403** | 🔴 -66.67% | 🔴 -0.42% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Tether Announces USAT Stablecoin Expansion to Celo Network - Yahoo Finance](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTVk4WVYxWVhUTVp6dE5mal93N05YcGdXRXJxNWRwdUlMODllbEFMVWhHUVYyQzhQU1lNQUJiRDdfTE1SY3prWjk0UV9VWDRVb0lndkludUhLS0wzdXlZa2lmekZxVC1mZjVnQldqMlVDUnV2MGFrSktkTHEwRThnWnJPQ1Fsb2tjeEhNQWpJNDZ5VS1HbWZ2Rm1LMEFUOXBuNjRmYlN3cENadVk?oc=5) (Tue, 31 Mar 2026 23:09:36 GMT)
-- [Fed&#x27;s Barr invokes &#x27;long and painful history&#x27; while encouraging strong stablecoin oversight - The Block](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcnJaR1JqWVRDWWRpSTE5SnVkX2Y0TUJ1VXRkZmdjUW84dUVCNV9zcFRQdGVJVHhmbWhnMmk3Q2ppVDFIOWRUQl9lU2pxTTF1YWVTejJGcHlXck12dFo4ajg5R0kxWS16LTZNSzBkQVprRHpIVGJzRk1obUZBQjB0ZDB4X3FXY05RNE9SdlFLZTJfMFBDbHk0UjhoNGxrLTE1RmpsRU5yX1oxeDliSHZBVE9NZ3Q?oc=5) (Tue, 31 Mar 2026 21:21:37 GMT)
-- [Ripple Backs Convera To Enabled Cross Border Stablecoin Payments - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOUNnX3pTNVJ0RC1XQzlaMlVDZ1Zpc1NlTC0tTlNlbk9OVkFySy03YW9obHNWUlV0RU1mY2hiN2lIQ1BtVnhraXNMNFFFTWJEbFZzVnhBLXdWS1BJNHMwOTJ4dENYU3NEMm80SEt1SFZjc1hvelB5eE1Cd0F2RHUyZlFuSWJ4eFcyT3p6SjgxSG50NklDcklGYVJGcEFqVXhG?oc=5) (Tue, 31 Mar 2026 20:41:00 GMT)
-- [Circle Mints $750 Million Of USDC Stablecoin On Solana Network - Yahoo Finance](https://news.google.com/rss/articles/CBMimgFBVV95cUxPLU9fdDhqdFFCNDV4a1h6dkJSQ0RkcWFrQmR0SkdydlhBNDl1OUFCLUpydDNwOEVwZ3VnRXUwYkllM3RsQmItLWtjbnpubDB6NTY1SWhJMGRLaTZTcF9IOUI2VFk3WFpCREZ6dWN5al9CZ2xZUk53dnJkdkg1X0RCT1hzVWs1VEZURUJScC1GZmRiVVBNd19uZjVB?oc=5) (Tue, 31 Mar 2026 20:39:00 GMT)
-- [Big 4 auditor confirms Ripple&#x27;s stablecoin supply fully backed with reserves - thestreet.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxOakRib1N6anFxaHBPTmk2dGJlU05sSFBBQkxUZUhkR3lQRFBHbDRLdXA1Z01BQTBqbGZQdmpFZGdEZmYyc09MVmR4VXV5X0UtMk5PaFVtaEdvSEJ5TDQtWno2WlJ0VGxrb3pab2pBbWRlSG5tNEFqYWYtMlVXY2ZPSjJTZ3pjZDBDM2c1c1M2bmZCdG9hV0FWZ0hMZUNDNkU5amlFM3VYZjVWT3NRVW9mU2IwQjN1blk?oc=5) (Tue, 31 Mar 2026 20:28:04 GMT)
+- [If They Pay “Rewards” For Stablecoin Deposits, Then They’re Banks - Yahoo Finance](https://news.google.com/rss/articles/CBMiowFBVV95cUxPOEIxTWZ0S2laVkxFUWdiWVAxM2xpQTFZY3hocGxzVW5GNlotQTRHY1dCQmc1SVhOUjBiTEpHWHo2b0dhZFFoVGlMRTB2OFk0blNtcjNFWGN3eGVEQVNubWd4YS13NkVXMHVoS29nSnlpZ0hsLUV0b01STDRjUGp5cGhENEtyaUtnbGNqekk4WlVOUzhVT0FDS3RvYmRmOU1fYl9Z?oc=5) (Wed, 01 Apr 2026 19:45:45 GMT)
+- [If They Pay “Rewards” For Stablecoin Deposits, Then They’re Banks - Forbes](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0JnZV9rNWFRTkpaaXJjVDh5VkpwS0s3M1ZpVzNGT092N21UVUlNcG1vbWhqUmFjVWhJMzNOWjJKaWNzTTREYUdoV1FvZGVHUFhRRHVLMVQ2VkVBd1YxcXNRZHVfQnNQb3lyYnlEYWoyQ25sMWF5Nk9wdGszeHhLZFlrOXNkUTEyOFUzR3h2ZmFNWERWM3BXa2dLeU5FempzTFV5ODI4YVFBc0RRLVJsNEt3?oc=5) (Wed, 01 Apr 2026 19:45:45 GMT)
+- [Mastercard Incorporated (MA) Considering Real Payment Unit Divestment amid Stablecoin &amp; Blockchain Infrastructure Focus - Yahoo Finance](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmYyZF9taDM1Mk4yTFVrV3dlOUpYc204SmhFazBWanlOZ3djRjlvYTlIWTRMZWxFOXM2WnNyX0Iza3FqZkthV2tyTXA3VXg5MmpXX3pPRk9TMjZ4dkVLOXNvb2puX0xsbkNPX1JIa1RTVkUyZnpHdnh4WTJtQU5meHlDYzdWa21qM0RfS3psWkdfeDBGby14RmtucExmS0VUeVB2Xy1SMlBTQmpv?oc=5) (Wed, 01 Apr 2026 19:42:40 GMT)
+- [Treasury unveils dual rules for stablecoin companies below $10B - thestreet.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0Q5M01kTzZocFpVSnVLVXNpWHRNdk14UDV2N0dfOFdWRVVvbTVTVk9GTGE1X0NMMmhWRjM3cUZYUzA4cTBUQVAwSG1WODc0UFRXOXhBak4yd1BmNDFueWc1ZHBRUUJjTHVaTDZscVpTRUFBdzVYbnNvaGZmRkFETWkzSVE3VlV1NTM1UUV0ODdNYUVLdVJQYXVqOHFBNmludWVnWENn?oc=5) (Wed, 01 Apr 2026 19:10:00 GMT)
+- [Cofounder of Stablecore to Speak on Stablecoins - Banking Exchange](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVFpFamcwZldtUm1NV2JqSXpmamJ0T2h0eThmRlM1Mkx2WXRNVEprLVNNSEZTNWRuZ2NrU2FfZ0lDRnczaW1ZMVktYnpQWXdfOEtiRFhtbGRKR1Q3bC1zOTc2aW9VUzVpLWZadl9Oa1JtVWVSaXlmak9zY0Flb2tRU29rZ21kXzM4TEdpXy05VnRHYzhZZWxRV05YbE9VSDdQekE?oc=5) (Wed, 01 Apr 2026 19:01:11 GMT)
 
 <!-- END_dashboard -->
 
