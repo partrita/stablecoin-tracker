@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-01 21:43:07 (UTC)*
+*Last Updated: 2026-04-02 01:27:06 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$296,779,202,403** | 🔴 -66.67% | 🔴 -0.42% |
+| **$296,689,750,094** | 🔴 -50.00% | 🔴 -0.45% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,9 +15,9 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [If They Pay “Rewards” For Stablecoin Deposits, Then They’re Banks - Yahoo Finance](https://news.google.com/rss/articles/CBMiowFBVV95cUxPOEIxTWZ0S2laVkxFUWdiWVAxM2xpQTFZY3hocGxzVW5GNlotQTRHY1dCQmc1SVhOUjBiTEpHWHo2b0dhZFFoVGlMRTB2OFk0blNtcjNFWGN3eGVEQVNubWd4YS13NkVXMHVoS29nSnlpZ0hsLUV0b01STDRjUGp5cGhENEtyaUtnbGNqekk4WlVOUzhVT0FDS3RvYmRmOU1fYl9Z?oc=5) (Wed, 01 Apr 2026 19:45:45 GMT)
 - [If They Pay “Rewards” For Stablecoin Deposits, Then They’re Banks - Forbes](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0JnZV9rNWFRTkpaaXJjVDh5VkpwS0s3M1ZpVzNGT092N21UVUlNcG1vbWhqUmFjVWhJMzNOWjJKaWNzTTREYUdoV1FvZGVHUFhRRHVLMVQ2VkVBd1YxcXNRZHVfQnNQb3lyYnlEYWoyQ25sMWF5Nk9wdGszeHhLZFlrOXNkUTEyOFUzR3h2ZmFNWERWM3BXa2dLeU5FempzTFV5ODI4YVFBc0RRLVJsNEt3?oc=5) (Wed, 01 Apr 2026 19:45:45 GMT)
-- [Mastercard Incorporated (MA) Considering Real Payment Unit Divestment amid Stablecoin &amp; Blockchain Infrastructure Focus - Yahoo Finance](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmYyZF9taDM1Mk4yTFVrV3dlOUpYc204SmhFazBWanlOZ3djRjlvYTlIWTRMZWxFOXM2WnNyX0Iza3FqZkthV2tyTXA3VXg5MmpXX3pPRk9TMjZ4dkVLOXNvb2puX0xsbkNPX1JIa1RTVkUyZnpHdnh4WTJtQU5meHlDYzdWa21qM0RfS3psWkdfeDBGby14RmtucExmS0VUeVB2Xy1SMlBTQmpv?oc=5) (Wed, 01 Apr 2026 19:42:40 GMT)
+- [If They Pay “Rewards” For Stablecoin Deposits, Then They’re Banks - finance.yahoo.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPOEIxTWZ0S2laVkxFUWdiWVAxM2xpQTFZY3hocGxzVW5GNlotQTRHY1dCQmc1SVhOUjBiTEpHWHo2b0dhZFFoVGlMRTB2OFk0blNtcjNFWGN3eGVEQVNubWd4YS13NkVXMHVoS29nSnlpZ0hsLUV0b01STDRjUGp5cGhENEtyaUtnbGNqekk4WlVOUzhVT0FDS3RvYmRmOU1fYl9Z?oc=5) (Wed, 01 Apr 2026 19:45:45 GMT)
+- [Mastercard Incorporated (MA) Considering Real Payment Unit Divestment amid Stablecoin &amp; Blockchain Infrastructure Focus - finance.yahoo.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmYyZF9taDM1Mk4yTFVrV3dlOUpYc204SmhFazBWanlOZ3djRjlvYTlIWTRMZWxFOXM2WnNyX0Iza3FqZkthV2tyTXA3VXg5MmpXX3pPRk9TMjZ4dkVLOXNvb2puX0xsbkNPX1JIa1RTVkUyZnpHdnh4WTJtQU5meHlDYzdWa21qM0RfS3psWkdfeDBGby14RmtucExmS0VUeVB2Xy1SMlBTQmpv?oc=5) (Wed, 01 Apr 2026 19:42:40 GMT)
 - [Treasury unveils dual rules for stablecoin companies below $10B - thestreet.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0Q5M01kTzZocFpVSnVLVXNpWHRNdk14UDV2N0dfOFdWRVVvbTVTVk9GTGE1X0NMMmhWRjM3cUZYUzA4cTBUQVAwSG1WODc0UFRXOXhBak4yd1BmNDFueWc1ZHBRUUJjTHVaTDZscVpTRUFBdzVYbnNvaGZmRkFETWkzSVE3VlV1NTM1UUV0ODdNYUVLdVJQYXVqOHFBNmludWVnWENn?oc=5) (Wed, 01 Apr 2026 19:10:00 GMT)
 - [Cofounder of Stablecore to Speak on Stablecoins - Banking Exchange](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVFpFamcwZldtUm1NV2JqSXpmamJ0T2h0eThmRlM1Mkx2WXRNVEprLVNNSEZTNWRuZ2NrU2FfZ0lDRnczaW1ZMVktYnpQWXdfOEtiRFhtbGRKR1Q3bC1zOTc2aW9VUzVpLWZadl9Oa1JtVWVSaXlmak9zY0Flb2tRU29rZ21kXzM4TEdpXy05VnRHYzhZZWxRV05YbE9VSDdQekE?oc=5) (Wed, 01 Apr 2026 19:01:11 GMT)
 
