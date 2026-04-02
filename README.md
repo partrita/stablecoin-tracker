@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-02 13:16:56 (UTC)*
+*Last Updated: 2026-04-02 22:31:13 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$296,740,544,942** | 🔴 -49.99% | 🔴 -0.43% |
+| **$296,910,530,253** | 🔴 -49.96% | 🔴 -0.38% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Treasury proposes rules for state stablecoin regulation under GENIUS Act - ledgerinsights.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQcmlGdnFjSFg5M0xOTGxGVFhPYklBUTg3T2tfcWZ0YVhFVmcxaTl0Rm1XUHVWWExlNUFXeWVIRUhlTnB2S0M5bFJSUl9mLXdfS1gyRUVoTnRxZnl4VEVLQlRyc3dlTF9mVVZNWHBHeXVQVERTOVJ5STVZUzJXVjQ3YTRYN1YzeU9FMVBSN0FuMUVzVUhjNEJRR0NfNWoxQmRPT2Qwc0s2MA?oc=5) (Thu, 02 Apr 2026 12:56:02 GMT)
-- [Germany, Italy propose EU ‘kill switch’ to manage stablecoin risks (EUR:USD:) - Seeking Alpha](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNGhJVkFWSEY5dkJxY0Nid0FKczNDbUppQ25VaDNzNjlNTmc5XzNvcFFWTkZ6QmFJYmlPYk1SMklQOTh2d2pQWlY1U3lLWTRDS09CYkFLNTg5dFV6d1FJdklZWWoxczR6T3hVZ3BEaVozTDZiU1lVRk45eVRxVUVyMlN3R25GNXR1R3M4TDlJb1RTZHlPbjZ4aXE3b3VEZWEweDJR?oc=5) (Thu, 02 Apr 2026 07:34:07 GMT)
-- [Germany and Italy propose EU ‘kill switch’ for global stablecoins - Euronews.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxON19JcUR4bWpJUEp1VFYzeDFMelNtQXdSNzFWTWtMMFZrOHFaNENaY29wNjNIV3h6NHBhaTlGd3F3OEZNdzVVaDZueFBNR1dLTmIxRl9IazJUVVhqQXFBNXd2SFk3cXRYSnVncktmM29DSFRpUHB3TnpDVlYxUk0tSEtiMGJ0YW82c3dYQUZtNHNuMDlMMTF3OVBMTEhZcW5kbk13cVFBOENpY1dI?oc=5) (Thu, 02 Apr 2026 05:00:19 GMT)
-- [Coinbase CLO Grewal says Clarity Act &#x27;very close&#x27; to reaching deal on stablecoin yield - The Block](https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2ZVcF9IZlI2aEVyeHlkVC1zaXRkaG9pWGpPUVdaVTVSMVdXQmxCOE05di1JaGxDM3JqNGdtaFROU2ZSLUlMS1lwU0tmOVVRTmJqcU1tV0RqTTV1cGFNTFdSNXNzRVNMTGs1NEVlWkFSeURLX2hMbm1hNm1MRXhIaUN4OHE?oc=5) (Thu, 02 Apr 2026 02:30:00 GMT)
-- [Treasury Opens a State Path for Smaller Stablecoin Issuers - PYMNTS.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOEYtU245OG5ZZTdNNVIycTUzV2NIOGFSNGRQLXJobGttSEhKbmQycG1SSUNvd0VHdVJKMlBfX2dONXdneFlIanBsTTZwVlZVUTBNRk5iN2djeXIwbjBJNF9DdS1mNjRvMnlmZXdoM2hIQTFLdXNaQndPYm40RTBMVWExSV8tOFhfOFJ2bmZZM2xFbTVNdzIwU2FKRHdZdHF3bkpsY3lmUjBYa2M?oc=5) (Wed, 01 Apr 2026 20:58:37 GMT)
+- [Crypto market structure bill release pushed back as industries view revised stablecoin yield compromise this week - CoinDesk](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPM1ZtRlkxVDY4NEx2cC1SMjdlOVNWQlBtWlRjeHVHY1JHYmlad1h4MUhoSHV6am1zQkFVQlhVTG51S3REc245ak5PYkpUbUU2SDVNVERfYjczUWpzb2tYeGhRc09vR1dMRW1rWEZ0OVR3UFUzSXNlTmtoVkdwS2hJZjdqWUszNnl2MzRvQkdzSUVRS25hTkFsRTQ3aFBDbFRMazRtNTAxNWJfNUd6dkFZM0pCNTIwNVJjZTc2SndLamhLbzFIaTVpcnd3UVhITlBIclVCQ0gySk5lRnBBaS1XM0plUUpwRzlCZFN5eg?oc=5) (Thu, 02 Apr 2026 22:14:37 GMT)
+- [USDC Stablecoin Issuer Circle Unveils New Token to Give Bitcoin More Utility - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxObm52dFpvRWF4OWlqNFNkdHM4VE9xOXA2VVVxRVNPSkNIaXMtUEZQVW9aZlBldUFRQXdZVjhieTdEM0lLWXViTjVKR3JmVGd0bWxyV1JFYVU0VGQ5Q25EbWxRbnNXYXRjbDE4MFV6OXBhbTY0MXUteldPbmRYQzFfcVFEVVhPbVkxTWpKdEhNT3g0ek5kUEk0dHJ4U09Od21kNEY2Yw?oc=5) (Thu, 02 Apr 2026 21:04:47 GMT)
+- [Proposed OCC regulations for payment stablecoins under the GENIUS Act - Nixon Peabody](https://news.google.com/rss/articles/CBMiwwFBVV95cUxON3ktSlMzWEJXbUlTNGtadDlUb3NDTGRJZmp4b0RJMmd0X3F4WkxHQlR4RXJ0UTNxb2JKeHZpZ1FUUEhVN0Vvcnl1X3FLZ2gyeEdfSEhIMGZleVBBNGFCaUJ4NVJJcW1kYmNzQk1JeEhOQnEwVVBhNkw3VzJyNXIxYW5mQlEzYlNwTERMMmhNSjI0SFhCdUdlU3B1NVo5S2pDRzdqY2k0d1EtYXVDYWxaeDJzVTlqZUhsekR4V25pNktfZTg?oc=5) (Thu, 02 Apr 2026 20:04:19 GMT)
+- [Coinbase clears key regulatory hurdle in bid to bolster its stablecoin business - CNBC](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMnVqazlGRGtaRlhPakwzRkdSR2RvdjI1Z0UwV0VrSXctVWxfLXIxc2RISmNpRmFVa1BBTUpvYmJPTVpaeTdreUxITXUxdzdXcGZvcHVyOFVqXzYxd0VXT2xYWC1TZDZLSXNRZ0R3bkNFeTQ1a1hleUk5eENQSkJiRGh1ME0wNmctT0UwaHozMnk3V2dTdzFnTUNPZDRxT3V3N0pvSjFMUjVrMHJxY00yckdfb2oyUVnSAbwBQVVfeXFMUGRVTVVkelNSZERQV0QxSUFiTnp4ZU9fUExxWEhESU1mc3V4bWpXNUVBVS12SVd1LUp0Z2lMcGl5YUotUlgyOGFQNFhiem9MYTF4UGpEckZVRVJheDZsSXdfWnhLVkZQWXlIQURMQi0zTnh1NVNZUFY4aUFTd0ZzSWlseW5CX3NhSmNlR0hnc29PS0NUYTJ2cmUyVnQyX3BCbWl3cDJEaVNSaEg0UGJRN1d0WWViZVlIcjlLbGw?oc=5) (Thu, 02 Apr 2026 18:59:09 GMT)
+- [GENIUS And Treasury Preserve Dual Banking System For Stablecoins - Forbes](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaEFJYjBMQWl3czZIOWJ2WG15emd6WFYxV3hfYThmb0s5VzFEbDA3SE9MR1VuVW9UN3FodnpCR0xKcVhGckVaVzIzZ2JMREtvSG56V3paVTIwbTNLWVlJVzdKZE5kcVo4aXE2ZmNfSzJqdUlmNDJ4eWUtSFM1Ulh5SEVZdkJWREo0NnJNR0ZUTVZxOHN3THBHU0pZUEFEaDN3TzVXTnRmcEFPVlhyUlJ1dE9sekQ3a0E?oc=5) (Thu, 02 Apr 2026 18:40:31 GMT)
 
 <!-- END_dashboard -->
 
