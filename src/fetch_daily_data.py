@@ -32,6 +32,17 @@ def normalize_name(slug):
     return slug.replace("-", " ").title()
 
 
+def sanitize_csv_value(value):
+    """
+    Security: Prevent CSV Formula Injection by prepending a single quote
+    to values starting with formula execution characters.
+    """
+    val_str = str(value)
+    if val_str.startswith(('=', '+', '-', '@')):
+        return f"'{val_str}"
+    return val_str
+
+
 def fetch_data():
     print(f"Fetching data from {URL}...")
     scraper = cloudscraper.create_scraper(
@@ -79,7 +90,7 @@ def fetch_data():
             print(f"Warning: Failed to parse props for row: {e}")
             continue
 
-        coin_name = normalize_name(slug)
+        coin_name = sanitize_csv_value(normalize_name(slug))
 
         # Get Market Cap (Index 10)
         cells = row.find_all("td")

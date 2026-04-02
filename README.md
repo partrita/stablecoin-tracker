@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-02 01:27:06 (UTC)*
+*Last Updated: 2026-04-02 13:16:56 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$296,689,750,094** | 🔴 -50.00% | 🔴 -0.45% |
+| **$296,740,544,942** | 🔴 -49.99% | 🔴 -0.43% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [If They Pay “Rewards” For Stablecoin Deposits, Then They’re Banks - Forbes](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0JnZV9rNWFRTkpaaXJjVDh5VkpwS0s3M1ZpVzNGT092N21UVUlNcG1vbWhqUmFjVWhJMzNOWjJKaWNzTTREYUdoV1FvZGVHUFhRRHVLMVQ2VkVBd1YxcXNRZHVfQnNQb3lyYnlEYWoyQ25sMWF5Nk9wdGszeHhLZFlrOXNkUTEyOFUzR3h2ZmFNWERWM3BXa2dLeU5FempzTFV5ODI4YVFBc0RRLVJsNEt3?oc=5) (Wed, 01 Apr 2026 19:45:45 GMT)
-- [If They Pay “Rewards” For Stablecoin Deposits, Then They’re Banks - finance.yahoo.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPOEIxTWZ0S2laVkxFUWdiWVAxM2xpQTFZY3hocGxzVW5GNlotQTRHY1dCQmc1SVhOUjBiTEpHWHo2b0dhZFFoVGlMRTB2OFk0blNtcjNFWGN3eGVEQVNubWd4YS13NkVXMHVoS29nSnlpZ0hsLUV0b01STDRjUGp5cGhENEtyaUtnbGNqekk4WlVOUzhVT0FDS3RvYmRmOU1fYl9Z?oc=5) (Wed, 01 Apr 2026 19:45:45 GMT)
-- [Mastercard Incorporated (MA) Considering Real Payment Unit Divestment amid Stablecoin &amp; Blockchain Infrastructure Focus - finance.yahoo.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmYyZF9taDM1Mk4yTFVrV3dlOUpYc204SmhFazBWanlOZ3djRjlvYTlIWTRMZWxFOXM2WnNyX0Iza3FqZkthV2tyTXA3VXg5MmpXX3pPRk9TMjZ4dkVLOXNvb2puX0xsbkNPX1JIa1RTVkUyZnpHdnh4WTJtQU5meHlDYzdWa21qM0RfS3psWkdfeDBGby14RmtucExmS0VUeVB2Xy1SMlBTQmpv?oc=5) (Wed, 01 Apr 2026 19:42:40 GMT)
-- [Treasury unveils dual rules for stablecoin companies below $10B - thestreet.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0Q5M01kTzZocFpVSnVLVXNpWHRNdk14UDV2N0dfOFdWRVVvbTVTVk9GTGE1X0NMMmhWRjM3cUZYUzA4cTBUQVAwSG1WODc0UFRXOXhBak4yd1BmNDFueWc1ZHBRUUJjTHVaTDZscVpTRUFBdzVYbnNvaGZmRkFETWkzSVE3VlV1NTM1UUV0ODdNYUVLdVJQYXVqOHFBNmludWVnWENn?oc=5) (Wed, 01 Apr 2026 19:10:00 GMT)
-- [Cofounder of Stablecore to Speak on Stablecoins - Banking Exchange](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVFpFamcwZldtUm1NV2JqSXpmamJ0T2h0eThmRlM1Mkx2WXRNVEprLVNNSEZTNWRuZ2NrU2FfZ0lDRnczaW1ZMVktYnpQWXdfOEtiRFhtbGRKR1Q3bC1zOTc2aW9VUzVpLWZadl9Oa1JtVWVSaXlmak9zY0Flb2tRU29rZ21kXzM4TEdpXy05VnRHYzhZZWxRV05YbE9VSDdQekE?oc=5) (Wed, 01 Apr 2026 19:01:11 GMT)
+- [Treasury proposes rules for state stablecoin regulation under GENIUS Act - ledgerinsights.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQcmlGdnFjSFg5M0xOTGxGVFhPYklBUTg3T2tfcWZ0YVhFVmcxaTl0Rm1XUHVWWExlNUFXeWVIRUhlTnB2S0M5bFJSUl9mLXdfS1gyRUVoTnRxZnl4VEVLQlRyc3dlTF9mVVZNWHBHeXVQVERTOVJ5STVZUzJXVjQ3YTRYN1YzeU9FMVBSN0FuMUVzVUhjNEJRR0NfNWoxQmRPT2Qwc0s2MA?oc=5) (Thu, 02 Apr 2026 12:56:02 GMT)
+- [Germany, Italy propose EU ‘kill switch’ to manage stablecoin risks (EUR:USD:) - Seeking Alpha](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNGhJVkFWSEY5dkJxY0Nid0FKczNDbUppQ25VaDNzNjlNTmc5XzNvcFFWTkZ6QmFJYmlPYk1SMklQOTh2d2pQWlY1U3lLWTRDS09CYkFLNTg5dFV6d1FJdklZWWoxczR6T3hVZ3BEaVozTDZiU1lVRk45eVRxVUVyMlN3R25GNXR1R3M4TDlJb1RTZHlPbjZ4aXE3b3VEZWEweDJR?oc=5) (Thu, 02 Apr 2026 07:34:07 GMT)
+- [Germany and Italy propose EU ‘kill switch’ for global stablecoins - Euronews.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxON19JcUR4bWpJUEp1VFYzeDFMelNtQXdSNzFWTWtMMFZrOHFaNENaY29wNjNIV3h6NHBhaTlGd3F3OEZNdzVVaDZueFBNR1dLTmIxRl9IazJUVVhqQXFBNXd2SFk3cXRYSnVncktmM29DSFRpUHB3TnpDVlYxUk0tSEtiMGJ0YW82c3dYQUZtNHNuMDlMMTF3OVBMTEhZcW5kbk13cVFBOENpY1dI?oc=5) (Thu, 02 Apr 2026 05:00:19 GMT)
+- [Coinbase CLO Grewal says Clarity Act &#x27;very close&#x27; to reaching deal on stablecoin yield - The Block](https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2ZVcF9IZlI2aEVyeHlkVC1zaXRkaG9pWGpPUVdaVTVSMVdXQmxCOE05di1JaGxDM3JqNGdtaFROU2ZSLUlMS1lwU0tmOVVRTmJqcU1tV0RqTTV1cGFNTFdSNXNzRVNMTGs1NEVlWkFSeURLX2hMbm1hNm1MRXhIaUN4OHE?oc=5) (Thu, 02 Apr 2026 02:30:00 GMT)
+- [Treasury Opens a State Path for Smaller Stablecoin Issuers - PYMNTS.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOEYtU245OG5ZZTdNNVIycTUzV2NIOGFSNGRQLXJobGttSEhKbmQycG1SSUNvd0VHdVJKMlBfX2dONXdneFlIanBsTTZwVlZVUTBNRk5iN2djeXIwbjBJNF9DdS1mNjRvMnlmZXdoM2hIQTFLdXNaQndPYm40RTBMVWExSV8tOFhfOFJ2bmZZM2xFbTVNdzIwU2FKRHdZdHF3bkpsY3lmUjBYa2M?oc=5) (Wed, 01 Apr 2026 20:58:37 GMT)
 
 <!-- END_dashboard -->
 
