@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-02 13:16:56 (UTC)*
+*Last Updated: 2026-04-03 13:20:38 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$296,740,544,942** | 🔴 -49.99% | 🔴 -0.43% |
+| **$297,029,411,710** | 🔴 -66.64% | 🔴 -0.04% |
 
 ### 📰 Latest News
-- [Treasury proposes rules for state stablecoin regulation under GENIUS Act - ledgerinsights.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQcmlGdnFjSFg5M0xOTGxGVFhPYklBUTg3T2tfcWZ0YVhFVmcxaTl0Rm1XUHVWWExlNUFXeWVIRUhlTnB2S0M5bFJSUl9mLXdfS1gyRUVoTnRxZnl4VEVLQlRyc3dlTF9mVVZNWHBHeXVQVERTOVJ5STVZUzJXVjQ3YTRYN1YzeU9FMVBSN0FuMUVzVUhjNEJRR0NfNWoxQmRPT2Qwc0s2MA?oc=5) (Thu, 02 Apr 2026 12:56:02 GMT)
-- [Germany, Italy propose EU ‘kill switch’ to manage stablecoin risks (EUR:USD:) - Seeking Alpha](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNGhJVkFWSEY5dkJxY0Nid0FKczNDbUppQ25VaDNzNjlNTmc5XzNvcFFWTkZ6QmFJYmlPYk1SMklQOTh2d2pQWlY1U3lLWTRDS09CYkFLNTg5dFV6d1FJdklZWWoxczR6T3hVZ3BEaVozTDZiU1lVRk45eVRxVUVyMlN3R25GNXR1R3M4TDlJb1RTZHlPbjZ4aXE3b3VEZWEweDJR?oc=5) (Thu, 02 Apr 2026 07:34:07 GMT)
-- [Germany and Italy propose EU ‘kill switch’ for global stablecoins - Euronews.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxON19JcUR4bWpJUEp1VFYzeDFMelNtQXdSNzFWTWtMMFZrOHFaNENaY29wNjNIV3h6NHBhaTlGd3F3OEZNdzVVaDZueFBNR1dLTmIxRl9IazJUVVhqQXFBNXd2SFk3cXRYSnVncktmM29DSFRpUHB3TnpDVlYxUk0tSEtiMGJ0YW82c3dYQUZtNHNuMDlMMTF3OVBMTEhZcW5kbk13cVFBOENpY1dI?oc=5) (Thu, 02 Apr 2026 05:00:19 GMT)
-- [Coinbase CLO Grewal says Clarity Act &#x27;very close&#x27; to reaching deal on stablecoin yield - The Block](https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2ZVcF9IZlI2aEVyeHlkVC1zaXRkaG9pWGpPUVdaVTVSMVdXQmxCOE05di1JaGxDM3JqNGdtaFROU2ZSLUlMS1lwU0tmOVVRTmJqcU1tV0RqTTV1cGFNTFdSNXNzRVNMTGs1NEVlWkFSeURLX2hMbm1hNm1MRXhIaUN4OHE?oc=5) (Thu, 02 Apr 2026 02:30:00 GMT)
-- [Treasury Opens a State Path for Smaller Stablecoin Issuers - PYMNTS.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOEYtU245OG5ZZTdNNVIycTUzV2NIOGFSNGRQLXJobGttSEhKbmQycG1SSUNvd0VHdVJKMlBfX2dONXdneFlIanBsTTZwVlZVUTBNRk5iN2djeXIwbjBJNF9DdS1mNjRvMnlmZXdoM2hIQTFLdXNaQndPYm40RTBMVWExSV8tOFhfOFJ2bmZZM2xFbTVNdzIwU2FKRHdZdHF3bkpsY3lmUjBYa2M?oc=5) (Wed, 01 Apr 2026 20:58:37 GMT)
+- [Why Ripple’s RLUSD Could Overtake USDC Following the CLARITY Act’s New Stablecoin Rules - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMGZDZXlqMDBPeUlhMjJkRVctOE91MjlrYnlNQTFDQ3FYM2Y0WmFBV25RWWExbmxvc01SdFN5bEhMcnR1OEt1WmpaVUMyX0M0b0ZvUV9KUDduajZBR09jXzZsRDhZek5VVEM3VkNpNUctbnFnRV9VU214SzJ2RXBXYmVUVU9TWDU1bVZLVkM3ODVXd2hwZFI3dGpkMHg?oc=5) (Fri, 03 Apr 2026 11:45:31 GMT)
+- [Why Ripple&#x27;s RLUSD Could Overtake USDC Following the CLARITY Act&#x27;s New Stablecoin Rules - 247wallst.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZTA1YmZvVVg0Q2hnMWtxd0steEJGTjRCMU5OVlA3bFFrWW0wem1GNDJDWU1pNFQ2SnJ4bTk5Smo4VDNIRnJKbTR6cTRRYmlnOTNaU2h0QXNYSF93MG1ES1AzUEdCVmE3M0stMDdrTl9YVDhJQkMzeHhreWdsLVpuQVhnLTEyRmdYY0tIdGJmaFJpYWhUUkVja0xGeWZUVk9lWklmQW9haFhKWXFHcFRuTHRVLUQwSjllNkNDbTJMc1k0SFNYNkZEUw?oc=5) (Fri, 03 Apr 2026 11:45:31 GMT)
+- [Meta Is Bringing Back Stablecoin Payments—This Time the Conditions Are Different - Investing.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcV9tRVd2Z0h1dXlUNmJtSmY3YUFXbkhsa3lzZkY0dFQ5M1VtdG5MUHRDckcza3A0TWdLLUpkM3ZuTUo0U1NKbWd5cEdXc3pOb0Q2MHRRbGVCZllHOHZqRTJvVHVaeENuYmtIYkFYQlpaNzdhTE9oUU12M05nOEtfNkZ3emNCSlJoYW53Y2JxYzhxSjlHbms5YzBSVDNRdmVJSFhxQTM2V0JORWdLeTJfUjY4amE1V0Rmd0RZZldnVzJ5UQ?oc=5) (Fri, 03 Apr 2026 09:04:29 GMT)
+- [Treasury Proposes State Stablecoin Rules Meet OCC Standard - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aTTRsdU5sUzVWOExsd1lVOC1OVVpOajJzVXZpZll0TTJvVmIwUFdHTGxWTVRsMmFjVjNQVGRZcW9tYThBMFVqX1o3c2hCRk9GX3hyYkd30gFWQVVfeXFMTlpNNGx1TmxTNVY4TGx3WVU4LU5VWk5qMnNVdmlmWXRNMm9WYjBQV0dMbFZNVGwyYWNWM1BUZFlxb21hOEEwVWpfWjdzaEJGT0ZfeHJiR3c?oc=5) (Fri, 03 Apr 2026 01:28:00 GMT)
+- [CLARITY Act: Coinbase&#x27;s Top Lawyer Says a Stablecoin Yield Deal Is Very Close - FinTech Weekly](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSGNSNmQ2eWg3bS1UWUFoYVVieXBjbVZnY3lwOG9BTmJqUW9Jdkd4Mzd3MDhYdUxQRWtCM3o5X1U0NUNIVlJUOEZ1Wi04VE5oRllHNmIwTGtIOXdBRTRLRFRtandBVzY3UV96SkYwR1pXM3ZKb2JTTVN3VEJCV3VVRGZHRGgxR2d4MWhWNXJtWUpsdw?oc=5) (Thu, 02 Apr 2026 22:41:00 GMT)
