@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-02 22:31:13 (UTC)*
+*Last Updated: 2026-04-03 01:28:55 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$296,910,530,253** | 🔴 -49.96% | 🔴 -0.38% |
+| **$296,929,940,140** | 🔴 -66.65% | 🔴 -0.07% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [CLARITY Act: Coinbase&#x27;s Top Lawyer Says a Stablecoin Yield Deal Is Very Close - fintechweekly.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSGNSNmQ2eWg3bS1UWUFoYVVieXBjbVZnY3lwOG9BTmJqUW9Jdkd4Mzd3MDhYdUxQRWtCM3o5X1U0NUNIVlJUOEZ1Wi04VE5oRllHNmIwTGtIOXdBRTRLRFRtandBVzY3UV96SkYwR1pXM3ZKb2JTTVN3VEJCV3VVRGZHRGgxR2d4MWhWNXJtWUpsdw?oc=5) (Thu, 02 Apr 2026 22:41:00 GMT)
+- [Stablecoins Meet Real World Commerce, but KYC Keeps Breaking the Experience - PYMNTS.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZmZfWVIzRzR3MFJPRHBVM2RiWnNsUy1jeVVLUVUyN1F6dTNJVVg0NHBjUEFzWnY5THAtejRzRHFiNzR3bU1JM3N6WXp0QUJuaUZSUFBCV2w0ZThkUThIZEx2VG8xRGpwQnJrRG9MMXBfd0hOblo0ajg4c253T0hxaTV4cVRrN2RnWkJvVkQ0djNlQlNBUEtKZDdmOUNSRXRzR1VtY3VUWjFWUWZyX2dmS3VNMkowbVNTREE?oc=5) (Thu, 02 Apr 2026 22:37:47 GMT)
 - [Crypto market structure bill release pushed back as industries view revised stablecoin yield compromise this week - CoinDesk](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPM1ZtRlkxVDY4NEx2cC1SMjdlOVNWQlBtWlRjeHVHY1JHYmlad1h4MUhoSHV6am1zQkFVQlhVTG51S3REc245ak5PYkpUbUU2SDVNVERfYjczUWpzb2tYeGhRc09vR1dMRW1rWEZ0OVR3UFUzSXNlTmtoVkdwS2hJZjdqWUszNnl2MzRvQkdzSUVRS25hTkFsRTQ3aFBDbFRMazRtNTAxNWJfNUd6dkFZM0pCNTIwNVJjZTc2SndLamhLbzFIaTVpcnd3UVhITlBIclVCQ0gySk5lRnBBaS1XM0plUUpwRzlCZFN5eg?oc=5) (Thu, 02 Apr 2026 22:14:37 GMT)
-- [USDC Stablecoin Issuer Circle Unveils New Token to Give Bitcoin More Utility - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxObm52dFpvRWF4OWlqNFNkdHM4VE9xOXA2VVVxRVNPSkNIaXMtUEZQVW9aZlBldUFRQXdZVjhieTdEM0lLWXViTjVKR3JmVGd0bWxyV1JFYVU0VGQ5Q25EbWxRbnNXYXRjbDE4MFV6OXBhbTY0MXUteldPbmRYQzFfcVFEVVhPbVkxTWpKdEhNT3g0ek5kUEk0dHJ4U09Od21kNEY2Yw?oc=5) (Thu, 02 Apr 2026 21:04:47 GMT)
+- [USDC Stablecoin Issuer Circle Unveils New Token to Give Bitcoin More Utility - finance.yahoo.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxObm52dFpvRWF4OWlqNFNkdHM4VE9xOXA2VVVxRVNPSkNIaXMtUEZQVW9aZlBldUFRQXdZVjhieTdEM0lLWXViTjVKR3JmVGd0bWxyV1JFYVU0VGQ5Q25EbWxRbnNXYXRjbDE4MFV6OXBhbTY0MXUteldPbmRYQzFfcVFEVVhPbVkxTWpKdEhNT3g0ek5kUEk0dHJ4U09Od21kNEY2Yw?oc=5) (Thu, 02 Apr 2026 21:04:47 GMT)
 - [Proposed OCC regulations for payment stablecoins under the GENIUS Act - Nixon Peabody](https://news.google.com/rss/articles/CBMiwwFBVV95cUxON3ktSlMzWEJXbUlTNGtadDlUb3NDTGRJZmp4b0RJMmd0X3F4WkxHQlR4RXJ0UTNxb2JKeHZpZ1FUUEhVN0Vvcnl1X3FLZ2gyeEdfSEhIMGZleVBBNGFCaUJ4NVJJcW1kYmNzQk1JeEhOQnEwVVBhNkw3VzJyNXIxYW5mQlEzYlNwTERMMmhNSjI0SFhCdUdlU3B1NVo5S2pDRzdqY2k0d1EtYXVDYWxaeDJzVTlqZUhsekR4V25pNktfZTg?oc=5) (Thu, 02 Apr 2026 20:04:19 GMT)
-- [Coinbase clears key regulatory hurdle in bid to bolster its stablecoin business - CNBC](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMnVqazlGRGtaRlhPakwzRkdSR2RvdjI1Z0UwV0VrSXctVWxfLXIxc2RISmNpRmFVa1BBTUpvYmJPTVpaeTdreUxITXUxdzdXcGZvcHVyOFVqXzYxd0VXT2xYWC1TZDZLSXNRZ0R3bkNFeTQ1a1hleUk5eENQSkJiRGh1ME0wNmctT0UwaHozMnk3V2dTdzFnTUNPZDRxT3V3N0pvSjFMUjVrMHJxY00yckdfb2oyUVnSAbwBQVVfeXFMUGRVTVVkelNSZERQV0QxSUFiTnp4ZU9fUExxWEhESU1mc3V4bWpXNUVBVS12SVd1LUp0Z2lMcGl5YUotUlgyOGFQNFhiem9MYTF4UGpEckZVRVJheDZsSXdfWnhLVkZQWXlIQURMQi0zTnh1NVNZUFY4aUFTd0ZzSWlseW5CX3NhSmNlR0hnc29PS0NUYTJ2cmUyVnQyX3BCbWl3cDJEaVNSaEg0UGJRN1d0WWViZVlIcjlLbGw?oc=5) (Thu, 02 Apr 2026 18:59:09 GMT)
-- [GENIUS And Treasury Preserve Dual Banking System For Stablecoins - Forbes](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaEFJYjBMQWl3czZIOWJ2WG15emd6WFYxV3hfYThmb0s5VzFEbDA3SE9MR1VuVW9UN3FodnpCR0xKcVhGckVaVzIzZ2JMREtvSG56V3paVTIwbTNLWVlJVzdKZE5kcVo4aXE2ZmNfSzJqdUlmNDJ4eWUtSFM1Ulh5SEVZdkJWREo0NnJNR0ZUTVZxOHN3THBHU0pZUEFEaDN3TzVXTnRmcEFPVlhyUlJ1dE9sekQ3a0E?oc=5) (Thu, 02 Apr 2026 18:40:31 GMT)
 
 <!-- END_dashboard -->
 
