@@ -12,3 +12,8 @@
 **Vulnerability:** CSV Formula Injection via un-sanitized external input written to CSV.
 **Learning:** `src/fetch_daily_data.py` and `src/update_readme.py` were writing scraped/fetched strings (`coin_name`, `title`, etc.) directly into CSV files. If these inputs begin with characters like `=`, `+`, `-`, or `@`, spreadsheet applications like Excel could interpret them as executable formulas upon opening, leading to a command execution vulnerability on the user's machine.
 **Prevention:** Always sanitize data bound for CSV files. Iterate over strings and prepend a single quote (`'`) to any string starting with `=`, `+`, `-`, or `@`.
+
+## 2026-04-04 - [CSV Formula Injection Bypass via Whitespace]
+**Vulnerability:** CSV Formula Injection bypass due to un-stripped leading whitespace.
+**Learning:** The previous fix for CSV Formula Injection only checked if the first character was `=`, `+`, `-`, or `@`. However, spreadsheet applications like Excel ignore leading whitespace. An attacker could prepend spaces to a formula (e.g., `  =cmd|' /C calc'!A0`) to bypass the `startswith` check, and the formula would still be executed.
+**Prevention:** Always strip leading whitespace (`lstrip()`) from strings before checking for formula execution characters to ensure the sanitization cannot be bypassed.

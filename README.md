@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-04 01:23:36 (UTC)*
+*Last Updated: 2026-04-04 13:31:47 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$297,341,871,902** | 🟢 +0.14% | 🔴 -49.90% |
+| **$297,353,050,692** | 🟢 +0.14% | 🔴 -49.89% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [Pidgin Publishes Stablecoin 101 Whitepaper: A Practical Guide for Financial Institutions Navigating Digital Asset Infrastructure - Business Wire](https://news.google.com/rss/articles/CBMikgJBVV95cUxPbUZKRTBlOS0xTkpWTEZySk9Zd3BfdmxLX1hjc1ZMYnJha0o3WnZtcDNwUDROajFSb2ZwWGV4TTRvVVNYcVM2OW96bkJweUpJd1B5TWV4czZmQ1VmV2ZXX1c3QlczdVRMbkE1ZC1NTm5GOEpZd2IwVGhHNXFOUGhndGxlaV9UMHFHSHA0aWw0T1A4Y0FUam9TZjVDc3FkaHB4czQ0bHpRX3hRYkozV0tZOG9UVnhTV3hFTVRXQ2ktblI2Y1VsaWpzM1BDMWxqc1pUSVFaY3g2LTdZczFDS2dwRVc5OHYxN2laREZ3TDRUZVhna1BKaUEtTGo5U3ZMN2RueTZ1OTJMRHJmNXpYc2kxWVJn?oc=5) (Sat, 04 Apr 2026 01:00:39 GMT)
+- [Mercado Pago winds down the Mercado Coin - emarketer.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWlKd2NDVGdMZGgtZ3ZRVF9oTWFEcmpyRm0ydTJYNV9zeF9xYzZuV0dwZU5EQkFUUVBxMTVSZDl1aVNra3V4VzJlZ21URHFJaW84aG5YMGNJQlJIZ0VLZ0w2VEFoZkI4VTFKVl9teUxBQWh0REtPblc3Nm8zT2RMTnRVMXdrNFRrdWF6M3JBUjlJVEJvbEE?oc=5) (Fri, 03 Apr 2026 21:40:09 GMT)
+- [$285 Million DeFi Theft Raises Fresh Questions Over Stablecoin Compliance Controls - CU Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTmF5Mlk3SGEydkw3WkNWNWVnajcteDV6aGk4ZkFMNUdhaDREaGI4NHQzQjd5TGFuQ3dWeE0zaUFxRlNjWXpTMTZzOHpqWnFrRVQwSkRpLTBBYjF3M0JlNVlYU04zNHNJaE9uWHg4Yjh5TjRDbWZmWjVuR2tJMkt3T094TFNZREIyQ0xON3h5eTltN1dmZVR1RnRfcUFiVDYzN0M1bXA3c3FhZmZCRy1USGw4U3Z5SDdWbXc?oc=5) (Fri, 03 Apr 2026 19:37:32 GMT)
 - [Inside the Stablecoin stampede, as mainstream financial giants rush to cash in on the crypto coin - New York Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxQY0w1UFdpQTRVRmJaajk0RVp2VXBBd2JsQUlSWjNXbE8xZVJXU3d5WS0tejVlaUYwTXJrRHZOcGxwZWR3a0h0ejZKUFV1UXFSVzI4NzVNSjB1UlB4a0NaVkU5MGtYbkpqa2liUjZtS1FyOVhFNkR1My1GREVheTQ5WjRFWUJkakNPTmVHeFVmRXRWNW5sLXc5ZDV1dVFqa0E?oc=5) (Fri, 03 Apr 2026 19:12:00 GMT)
-- [Why 2026 Could Be the Year Stablecoins Go Mainstream - FinTech Weekly](https://news.google.com/rss/articles/CBMimwFBVV95cUxOS01sSGYxbGhwb3lDb0tMeW1CX1p2bjBTQndKOXFUejJMT0xjR1pFUTMybGN1YW9yT0VRcFJ2ZnF5SjlSUkhKZEN0b1FheUptY2w5ME9wSndObG15eVV2MGF1YmczbkNvWXo0U294UlZwd283eXhYZHg3Ri1KTzIzUDU3TnE0djFnYkFCd1BYYzF4dEVIOXVWUUxoaw?oc=5) (Fri, 03 Apr 2026 17:46:00 GMT)
-- [Why Ripple&#x27;s RLUSD Could Overtake USDC Following the CLARITY Act&#x27;s New Stablecoin Rules - 24/7 Wall St.](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZTA1YmZvVVg0Q2hnMWtxd0steEJGTjRCMU5OVlA3bFFrWW0wem1GNDJDWU1pNFQ2SnJ4bTk5Smo4VDNIRnJKbTR6cTRRYmlnOTNaU2h0QXNYSF93MG1ES1AzUEdCVmE3M0stMDdrTl9YVDhJQkMzeHhreWdsLVpuQVhnLTEyRmdYY0tIdGJmaFJpYWhUUkVja0xGeWZUVk9lWklmQW9haFhKWXFHcFRuTHRVLUQwSjllNkNDbTJMc1k0SFNYNkZEUw?oc=5) (Fri, 03 Apr 2026 11:45:31 GMT)
-- [Why Ripple’s RLUSD Could Overtake USDC Following the CLARITY Act’s New Stablecoin Rules - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMGZDZXlqMDBPeUlhMjJkRVctOE91MjlrYnlNQTFDQ3FYM2Y0WmFBV25RWWExbmxvc01SdFN5bEhMcnR1OEt1WmpaVUMyX0M0b0ZvUV9KUDduajZBR09jXzZsRDhZek5VVEM3VkNpNUctbnFnRV9VU214SzJ2RXBXYmVUVU9TWDU1bVZLVkM3ODVXd2hwZFI3dGpkMHg?oc=5) (Fri, 03 Apr 2026 11:45:31 GMT)
-- [Meta Is Bringing Back Stablecoin Payments—This Time the Conditions Are Different - Investing.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcV9tRVd2Z0h1dXlUNmJtSmY3YUFXbkhsa3lzZkY0dFQ5M1VtdG5MUHRDckcza3A0TWdLLUpkM3ZuTUo0U1NKbWd5cEdXc3pOb0Q2MHRRbGVCZllHOHZqRTJvVHVaeENuYmtIYkFYQlpaNzdhTE9oUU12M05nOEtfNkZ3emNCSlJoYW53Y2JxYzhxSjlHbms5YzBSVDNRdmVJSFhxQTM2V0JORWdLeTJfUjY4amE1V0Rmd0RZZldnVzJ5UQ?oc=5) (Fri, 03 Apr 2026 09:04:29 GMT)
+- [Why 2026 Could Be the Year Stablecoins Go Mainstream - fintechweekly.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxOS01sSGYxbGhwb3lDb0tMeW1CX1p2bjBTQndKOXFUejJMT0xjR1pFUTMybGN1YW9yT0VRcFJ2ZnF5SjlSUkhKZEN0b1FheUptY2w5ME9wSndObG15eVV2MGF1YmczbkNvWXo0U294UlZwd283eXhYZHg3Ri1KTzIzUDU3TnE0djFnYkFCd1BYYzF4dEVIOXVWUUxoaw?oc=5) (Fri, 03 Apr 2026 17:46:00 GMT)
 
 <!-- END_dashboard -->
 

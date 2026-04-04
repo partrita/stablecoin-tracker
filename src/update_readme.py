@@ -10,9 +10,10 @@ def sanitize_csv_value(value):
     """
     Security: Prevent CSV Formula Injection by prepending a single quote
     to values starting with formula execution characters.
+    Also strips leading whitespace to prevent bypasses.
     """
     val_str = str(value)
-    if val_str.startswith(('=', '+', '-', '@')):
+    if val_str.lstrip().startswith(('=', '+', '-', '@')):
         return f"'{val_str}"
     return val_str
 
