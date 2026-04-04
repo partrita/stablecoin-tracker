@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-03 01:28:55 (UTC)*
+*Last Updated: 2026-04-04 01:23:36 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$296,929,940,140** | 🔴 -66.65% | 🔴 -0.07% |
+| **$297,341,871,902** | 🟢 +0.14% | 🔴 -49.90% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [CLARITY Act: Coinbase&#x27;s Top Lawyer Says a Stablecoin Yield Deal Is Very Close - fintechweekly.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSGNSNmQ2eWg3bS1UWUFoYVVieXBjbVZnY3lwOG9BTmJqUW9Jdkd4Mzd3MDhYdUxQRWtCM3o5X1U0NUNIVlJUOEZ1Wi04VE5oRllHNmIwTGtIOXdBRTRLRFRtandBVzY3UV96SkYwR1pXM3ZKb2JTTVN3VEJCV3VVRGZHRGgxR2d4MWhWNXJtWUpsdw?oc=5) (Thu, 02 Apr 2026 22:41:00 GMT)
-- [Stablecoins Meet Real World Commerce, but KYC Keeps Breaking the Experience - PYMNTS.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZmZfWVIzRzR3MFJPRHBVM2RiWnNsUy1jeVVLUVUyN1F6dTNJVVg0NHBjUEFzWnY5THAtejRzRHFiNzR3bU1JM3N6WXp0QUJuaUZSUFBCV2w0ZThkUThIZEx2VG8xRGpwQnJrRG9MMXBfd0hOblo0ajg4c253T0hxaTV4cVRrN2RnWkJvVkQ0djNlQlNBUEtKZDdmOUNSRXRzR1VtY3VUWjFWUWZyX2dmS3VNMkowbVNTREE?oc=5) (Thu, 02 Apr 2026 22:37:47 GMT)
-- [Crypto market structure bill release pushed back as industries view revised stablecoin yield compromise this week - CoinDesk](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPM1ZtRlkxVDY4NEx2cC1SMjdlOVNWQlBtWlRjeHVHY1JHYmlad1h4MUhoSHV6am1zQkFVQlhVTG51S3REc245ak5PYkpUbUU2SDVNVERfYjczUWpzb2tYeGhRc09vR1dMRW1rWEZ0OVR3UFUzSXNlTmtoVkdwS2hJZjdqWUszNnl2MzRvQkdzSUVRS25hTkFsRTQ3aFBDbFRMazRtNTAxNWJfNUd6dkFZM0pCNTIwNVJjZTc2SndLamhLbzFIaTVpcnd3UVhITlBIclVCQ0gySk5lRnBBaS1XM0plUUpwRzlCZFN5eg?oc=5) (Thu, 02 Apr 2026 22:14:37 GMT)
-- [USDC Stablecoin Issuer Circle Unveils New Token to Give Bitcoin More Utility - finance.yahoo.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxObm52dFpvRWF4OWlqNFNkdHM4VE9xOXA2VVVxRVNPSkNIaXMtUEZQVW9aZlBldUFRQXdZVjhieTdEM0lLWXViTjVKR3JmVGd0bWxyV1JFYVU0VGQ5Q25EbWxRbnNXYXRjbDE4MFV6OXBhbTY0MXUteldPbmRYQzFfcVFEVVhPbVkxTWpKdEhNT3g0ek5kUEk0dHJ4U09Od21kNEY2Yw?oc=5) (Thu, 02 Apr 2026 21:04:47 GMT)
-- [Proposed OCC regulations for payment stablecoins under the GENIUS Act - Nixon Peabody](https://news.google.com/rss/articles/CBMiwwFBVV95cUxON3ktSlMzWEJXbUlTNGtadDlUb3NDTGRJZmp4b0RJMmd0X3F4WkxHQlR4RXJ0UTNxb2JKeHZpZ1FUUEhVN0Vvcnl1X3FLZ2gyeEdfSEhIMGZleVBBNGFCaUJ4NVJJcW1kYmNzQk1JeEhOQnEwVVBhNkw3VzJyNXIxYW5mQlEzYlNwTERMMmhNSjI0SFhCdUdlU3B1NVo5S2pDRzdqY2k0d1EtYXVDYWxaeDJzVTlqZUhsekR4V25pNktfZTg?oc=5) (Thu, 02 Apr 2026 20:04:19 GMT)
+- [Inside the Stablecoin stampede, as mainstream financial giants rush to cash in on the crypto coin - New York Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxQY0w1UFdpQTRVRmJaajk0RVp2VXBBd2JsQUlSWjNXbE8xZVJXU3d5WS0tejVlaUYwTXJrRHZOcGxwZWR3a0h0ejZKUFV1UXFSVzI4NzVNSjB1UlB4a0NaVkU5MGtYbkpqa2liUjZtS1FyOVhFNkR1My1GREVheTQ5WjRFWUJkakNPTmVHeFVmRXRWNW5sLXc5ZDV1dVFqa0E?oc=5) (Fri, 03 Apr 2026 19:12:00 GMT)
+- [Why 2026 Could Be the Year Stablecoins Go Mainstream - FinTech Weekly](https://news.google.com/rss/articles/CBMimwFBVV95cUxOS01sSGYxbGhwb3lDb0tMeW1CX1p2bjBTQndKOXFUejJMT0xjR1pFUTMybGN1YW9yT0VRcFJ2ZnF5SjlSUkhKZEN0b1FheUptY2w5ME9wSndObG15eVV2MGF1YmczbkNvWXo0U294UlZwd283eXhYZHg3Ri1KTzIzUDU3TnE0djFnYkFCd1BYYzF4dEVIOXVWUUxoaw?oc=5) (Fri, 03 Apr 2026 17:46:00 GMT)
+- [Why Ripple&#x27;s RLUSD Could Overtake USDC Following the CLARITY Act&#x27;s New Stablecoin Rules - 24/7 Wall St.](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZTA1YmZvVVg0Q2hnMWtxd0steEJGTjRCMU5OVlA3bFFrWW0wem1GNDJDWU1pNFQ2SnJ4bTk5Smo4VDNIRnJKbTR6cTRRYmlnOTNaU2h0QXNYSF93MG1ES1AzUEdCVmE3M0stMDdrTl9YVDhJQkMzeHhreWdsLVpuQVhnLTEyRmdYY0tIdGJmaFJpYWhUUkVja0xGeWZUVk9lWklmQW9haFhKWXFHcFRuTHRVLUQwSjllNkNDbTJMc1k0SFNYNkZEUw?oc=5) (Fri, 03 Apr 2026 11:45:31 GMT)
+- [Why Ripple’s RLUSD Could Overtake USDC Following the CLARITY Act’s New Stablecoin Rules - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMGZDZXlqMDBPeUlhMjJkRVctOE91MjlrYnlNQTFDQ3FYM2Y0WmFBV25RWWExbmxvc01SdFN5bEhMcnR1OEt1WmpaVUMyX0M0b0ZvUV9KUDduajZBR09jXzZsRDhZek5VVEM3VkNpNUctbnFnRV9VU214SzJ2RXBXYmVUVU9TWDU1bVZLVkM3ODVXd2hwZFI3dGpkMHg?oc=5) (Fri, 03 Apr 2026 11:45:31 GMT)
+- [Meta Is Bringing Back Stablecoin Payments—This Time the Conditions Are Different - Investing.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcV9tRVd2Z0h1dXlUNmJtSmY3YUFXbkhsa3lzZkY0dFQ5M1VtdG5MUHRDckcza3A0TWdLLUpkM3ZuTUo0U1NKbWd5cEdXc3pOb0Q2MHRRbGVCZllHOHZqRTJvVHVaeENuYmtIYkFYQlpaNzdhTE9oUU12M05nOEtfNkZ3emNCSlJoYW53Y2JxYzhxSjlHbms5YzBSVDNRdmVJSFhxQTM2V0JORWdLeTJfUjY4amE1V0Rmd0RZZldnVzJ5UQ?oc=5) (Fri, 03 Apr 2026 09:04:29 GMT)
 
 <!-- END_dashboard -->
 
