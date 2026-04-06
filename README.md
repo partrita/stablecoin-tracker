@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-05 01:46:35 (UTC)*
+*Last Updated: 2026-04-06 01:47:33 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$297,315,897,351** | 🔴 -0.01% | 🟢 +0.21% |
+| **$297,273,732,427** | 🔴 -0.01% | 🟢 +0.13% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Mercado Pago winds down the Mercado Coin - eMarketer](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWlKd2NDVGdMZGgtZ3ZRVF9oTWFEcmpyRm0ydTJYNV9zeF9xYzZuV0dwZU5EQkFUUVBxMTVSZDl1aVNra3V4VzJlZ21URHFJaW84aG5YMGNJQlJIZ0VLZ0w2VEFoZkI4VTFKVl9teUxBQWh0REtPblc3Nm8zT2RMTnRVMXdrNFRrdWF6M3JBUjlJVEJvbEE?oc=5) (Fri, 03 Apr 2026 21:40:09 GMT)
-- [$285 Million DeFi Theft Raises Fresh Questions Over Stablecoin Compliance Controls - cutoday.info](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTmF5Mlk3SGEydkw3WkNWNWVnajcteDV6aGk4ZkFMNUdhaDREaGI4NHQzQjd5TGFuQ3dWeE0zaUFxRlNjWXpTMTZzOHpqWnFrRVQwSkRpLTBBYjF3M0JlNVlYU04zNHNJaE9uWHg4Yjh5TjRDbWZmWjVuR2tJMkt3T094TFNZREIyQ0xON3h5eTltN1dmZVR1RnRfcUFiVDYzN0M1bXA3c3FhZmZCRy1USGw4U3Z5SDdWbXc?oc=5) (Fri, 03 Apr 2026 19:37:32 GMT)
+- [Mercado Pago winds down the Mercado Coin - eMarketer](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWlKd2NDVGdMZGgtZ3ZRVF9oTWFEcmpyRm0ydTJYNV9zeF9xYzZuV0dwZU5EQkFUUVBxMTVSZDl1aVNra3V4VzJlZ21URHFJaW84aG5YMGNJQlJIZ0VLZ0w2VEFoZkI4VTFKVl9teUxBQWh0REtPblc3Nm8zT2RMTnRVMXdrNFRrdWF6M3JBUjlJVEJvbEE?oc=5) (Fri, 03 Apr 2026 21:40:10 GMT)
+- [$285 Million DeFi Theft Raises Fresh Questions Over Stablecoin Compliance Controls - CU Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTmF5Mlk3SGEydkw3WkNWNWVnajcteDV6aGk4ZkFMNUdhaDREaGI4NHQzQjd5TGFuQ3dWeE0zaUFxRlNjWXpTMTZzOHpqWnFrRVQwSkRpLTBBYjF3M0JlNVlYU04zNHNJaE9uWHg4Yjh5TjRDbWZmWjVuR2tJMkt3T094TFNZREIyQ0xON3h5eTltN1dmZVR1RnRfcUFiVDYzN0M1bXA3c3FhZmZCRy1USGw4U3Z5SDdWbXc?oc=5) (Fri, 03 Apr 2026 19:37:32 GMT)
+- [Stablecoin issuers and fintechs race to own payment rails - MSN](https://news.google.com/rss/articles/CBMisAFBVV95cUxQS25Sb1VlWExMM1VPZjRTUVdVWUV5R0pYTXVESnBmdkRNd0FiaWdRSE9ULUNJSkViYW80cFFSYzNJOEZ2dlprWFh6dU92SlZYT05xX0l3SEI0TW5DWTNlWjJHQmNwS0JvOU5sVEJOUHhaRTN6NWlpQzhOQmxNZ1NpM2JHUnZxU3VQckc4TkJMYXUxamxjM2NSUzJoT29lbzFaSXUxN3VrVTR5QmdSb3hXbA?oc=5) (Fri, 03 Apr 2026 19:16:22 GMT)
 - [Inside the Stablecoin stampede, as mainstream financial giants rush to cash in on the crypto coin - New York Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxQY0w1UFdpQTRVRmJaajk0RVp2VXBBd2JsQUlSWjNXbE8xZVJXU3d5WS0tejVlaUYwTXJrRHZOcGxwZWR3a0h0ejZKUFV1UXFSVzI4NzVNSjB1UlB4a0NaVkU5MGtYbkpqa2liUjZtS1FyOVhFNkR1My1GREVheTQ5WjRFWUJkakNPTmVHeFVmRXRWNW5sLXc5ZDV1dVFqa0E?oc=5) (Fri, 03 Apr 2026 19:12:00 GMT)
 - [Why 2026 Could Be the Year Stablecoins Go Mainstream - FinTech Weekly](https://news.google.com/rss/articles/CBMimwFBVV95cUxOS01sSGYxbGhwb3lDb0tMeW1CX1p2bjBTQndKOXFUejJMT0xjR1pFUTMybGN1YW9yT0VRcFJ2ZnF5SjlSUkhKZEN0b1FheUptY2w5ME9wSndObG15eVV2MGF1YmczbkNvWXo0U294UlZwd283eXhYZHg3Ri1KTzIzUDU3TnE0djFnYkFCd1BYYzF4dEVIOXVWUUxoaw?oc=5) (Fri, 03 Apr 2026 17:46:00 GMT)
-- [Why Ripple&#x27;s RLUSD Could Overtake USDC Following the CLARITY Act&#x27;s New Stablecoin Rules - 24/7 Wall St.](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZTA1YmZvVVg0Q2hnMWtxd0steEJGTjRCMU5OVlA3bFFrWW0wem1GNDJDWU1pNFQ2SnJ4bTk5Smo4VDNIRnJKbTR6cTRRYmlnOTNaU2h0QXNYSF93MG1ES1AzUEdCVmE3M0stMDdrTl9YVDhJQkMzeHhreWdsLVpuQVhnLTEyRmdYY0tIdGJmaFJpYWhUUkVja0xGeWZUVk9lWklmQW9haFhKWXFHcFRuTHRVLUQwSjllNkNDbTJMc1k0SFNYNkZEUw?oc=5) (Fri, 03 Apr 2026 11:45:31 GMT)
 
 <!-- END_dashboard -->
 
