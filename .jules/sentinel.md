@@ -1,3 +1,8 @@
+## 2024-06-03 - [Quarto Shortcode Injection]
+**Vulnerability:** Quarto Shortcode Injection via RSS feed data
+**Learning:** `src/update_readme.py` fetches data from Google News RSS using `feedparser` and constructs Markdown content used by Quarto. Although HTML and some Markdown features were escaped, `{` and `}` were left un-sanitized. Quarto parses `{` and `}` for its shortcode syntax (`{{< ... >}}`), which can be exploited to inject dynamic environment variables, like `{{< env AWS_SECRET_ACCESS_KEY >}}`, directly into the generated file resulting in credential exposure.
+**Prevention:** Always sanitize `{` and `}` when rendering untrusted content into Quarto-targeted Markdown files, converting them to their respective HTML entities (`&#123;` and `&#125;`) for text, or URL-encoding them (`%7B` and `%7D`) for links.
+
 ## 2024-05-24 - [RSS Feed Injection]
 **Vulnerability:** Markdown Injection & XSS via RSS feed data
 **Learning:** `src/update_readme.py` fetches data from Google News RSS using `feedparser`. By directly injecting fields like `title`, `link`, and `published` into Markdown (`README.md`, `_dashboard_content.qmd`), the pipeline implicitly trusts external content, making it vulnerable to XSS and Markdown injection.
