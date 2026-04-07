@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-06 05:51:44 (UTC)*
+*Last Updated: 2026-04-07 01:44:46 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$297,308,290,543** | 🔴 -0.00% | 🟢 +0.14% |
+| **$297,162,197,085** | 🔴 -50.02% | 🔴 -66.63% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Guest columnist: Close stablecoin loophole before it hurts Ky. communities - State-Journal](https://news.google.com/rss/articles/CBMirwFBVV95cUxQM1U5ZG54WnhJSHBBMkpSZ3NTNF9Kekl5Sm1STkNyY1JGOHNaMnpwR3JjWng4QTlLQlRNRjRhOXNndEdtS0g3NUNhb094b2phQ2U5YWJqZmc0c0UwRkx1NUVLcWtoVWtreE5DR1lmc2VYUlhvY1ZCdFAzQXhiWkptNU5pTmxLaUpYcnJpZ2pSQmxmLWdtejREWG1ZZ0c2ejRIYTM2NjBwd1F5Q2Z6Umlv?oc=5) (Mon, 06 Apr 2026 05:03:33 GMT)
-- [Mercado Pago winds down the Mercado Coin - eMarketer](https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWlKd2NDVGdMZGgtZ3ZRVF9oTWFEcmpyRm0ydTJYNV9zeF9xYzZuV0dwZU5EQkFUUVBxMTVSZDl1aVNra3V4VzJlZ21URHFJaW84aG5YMGNJQlJIZ0VLZ0w2VEFoZkI4VTFKVl9teUxBQWh0REtPblc3Nm8zT2RMTnRVMXdrNFRrdWF6M3JBUjlJVEJvbEE?oc=5) (Fri, 03 Apr 2026 21:40:10 GMT)
-- [$285 Million DeFi Theft Raises Fresh Questions Over Stablecoin Compliance Controls - CU Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTmF5Mlk3SGEydkw3WkNWNWVnajcteDV6aGk4ZkFMNUdhaDREaGI4NHQzQjd5TGFuQ3dWeE0zaUFxRlNjWXpTMTZzOHpqWnFrRVQwSkRpLTBBYjF3M0JlNVlYU04zNHNJaE9uWHg4Yjh5TjRDbWZmWjVuR2tJMkt3T094TFNZREIyQ0xON3h5eTltN1dmZVR1RnRfcUFiVDYzN0M1bXA3c3FhZmZCRy1USGw4U3Z5SDdWbXc?oc=5) (Fri, 03 Apr 2026 19:37:32 GMT)
-- [Stablecoin issuers and fintechs race to own payment rails - msn.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQS25Sb1VlWExMM1VPZjRTUVdVWUV5R0pYTXVESnBmdkRNd0FiaWdRSE9ULUNJSkViYW80cFFSYzNJOEZ2dlprWFh6dU92SlZYT05xX0l3SEI0TW5DWTNlWjJHQmNwS0JvOU5sVEJOUHhaRTN6NWlpQzhOQmxNZ1NpM2JHUnZxU3VQckc4TkJMYXUxamxjM2NSUzJoT29lbzFaSXUxN3VrVTR5QmdSb3hXbA?oc=5) (Fri, 03 Apr 2026 19:16:22 GMT)
-- [Inside the Stablecoin stampede, as mainstream financial giants rush to cash in on the crypto coin - New York Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxQY0w1UFdpQTRVRmJaajk0RVp2VXBBd2JsQUlSWjNXbE8xZVJXU3d5WS0tejVlaUYwTXJrRHZOcGxwZWR3a0h0ejZKUFV1UXFSVzI4NzVNSjB1UlB4a0NaVkU5MGtYbkpqa2liUjZtS1FyOVhFNkR1My1GREVheTQ5WjRFWUJkakNPTmVHeFVmRXRWNW5sLXc5ZDV1dVFqa0E?oc=5) (Fri, 03 Apr 2026 19:12:00 GMT)
+- [Mapping the Digital Dollar Graveyard of Failed Stablecoin Pilots - PYMNTS.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdENJdmsyYkhIc3djczFNSzFyRm9FWFRRMVBWLUNiQVZ5Yy1JNzlZcE1uejB6cnltWjhmXzJSQnpNalhYWW9lSDhtTGkwLUhZclFld01lN0t1Q3V5WmxVU3N2bjd3eDNsdGNUdlNRNFNvOUxrSFRtRHh6TklrOFhVekVXcGNNVWFmb2JrUnFrWkJXN1g3THc3bTFfWnIzVzV4QjNiMHlHUUM4eWJl?oc=5) (Mon, 06 Apr 2026 21:58:43 GMT)
+- [Polymarket reveals a &#x27;full exchange upgrade&#x27; to take control of its own trading and truth - CoinDesk](https://news.google.com/rss/articles/CBMiywFBVV95cUxNNl9DeEZCNFM4UXZPWTlTS0xlTUlhWFBwLW5tbk9qVkFacmRXR1Mzb3BaYVBqbzFiSjR2SE44NHQxQ2Q3M0hsZnhPVHVBRlBDcVZETVlXcVJTWkg5S3lfSkNuOElYNE1FSVJnV0N2dC1BRGRCekhDcFhlZEJweUZydHdaSGxmeWpVbUxvdVlzWFdES2Q5Y2YzelBBaHRXMGMzTDI0UUhRT2s5aHBkS1RURWJLUXhMT0M3TzBoRmNWNWNlMFJzMGM2eTd4TQ?oc=5) (Mon, 06 Apr 2026 21:01:55 GMT)
+- [Why Stablecoins Are Becoming the Everyday Money of Crypto - Ventura County Star](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORnNhc01sTmpUUWNUTnlWTG1Mb19jQkhNSnI2VlNab3owWVJOMEJ5b1N5Qlc2b1RLMF8xTnZtSTk2WmFQMVloMHo1V1Z1cGZIOTMxWTVWQk5mc3VoQTlLcG5YYmQ5RzFabHVCdVdiWTJoa2xrQllGWVN4eWcxSHd1eXhla2RyYmVnMXFFdml1TW1tMnZndnpIZWhIUHRmeGQ5cS1zVkI3M1NzaWdsSUp4VXFuUzZhYnNFZnhVYXl6c3F3MDV3R1BtNVZYb1ZsUlAxWngyTg?oc=5) (Mon, 06 Apr 2026 19:36:00 GMT)
+- [Polymarket Unveils Exchange Overhaul, Native Stablecoin As U.S. Expansion Looms - Bitcoin Magazine](https://news.google.com/rss/articles/CBMieEFVX3lxTE1faG1DZkdPdnJZRHJJSEJrYkdYUjdXemNZcWYxelI4WHRjUnhSbG12Y0ZKVEZBUV9DblVBTVpTLXJfRzNhSHUzRHVxZE5UTjcwYWhzT1RQY1lsMUozaU1YOF9OaF82S0RDaXdQWU9nM3o4a3gtTlRpZw?oc=5) (Mon, 06 Apr 2026 19:21:53 GMT)
+- [Treasury issues first proposed rule under GENIUS Act on state stablecoin oversight - JD Supra](https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnpfemI5TVdPRk9semVZbGIxOUViY1VqWC0wa1RrQW95RHkzb3VwN1c2dFo2UFIxWXJMcExIeUZxX2hWd01LdUFmcFNRcFA0ckduMzhtS1NZTW5pbk04Z2V5TEZmSjJNM0tNdnh2MEFCQ3Q4TExOUV84aXotRHdheTJsSWI?oc=5) (Mon, 06 Apr 2026 19:09:47 GMT)
 
 <!-- END_dashboard -->
 
