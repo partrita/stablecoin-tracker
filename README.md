@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-07 01:44:46 (UTC)*
+*Last Updated: 2026-04-08 01:44:57 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$297,162,197,085** | 🔴 -50.02% | 🔴 -66.63% |
+| **$297,323,862,134** | 🟢 +0.05% | 🔴 -49.89% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Mapping the Digital Dollar Graveyard of Failed Stablecoin Pilots - PYMNTS.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdENJdmsyYkhIc3djczFNSzFyRm9FWFRRMVBWLUNiQVZ5Yy1JNzlZcE1uejB6cnltWjhmXzJSQnpNalhYWW9lSDhtTGkwLUhZclFld01lN0t1Q3V5WmxVU3N2bjd3eDNsdGNUdlNRNFNvOUxrSFRtRHh6TklrOFhVekVXcGNNVWFmb2JrUnFrWkJXN1g3THc3bTFfWnIzVzV4QjNiMHlHUUM4eWJl?oc=5) (Mon, 06 Apr 2026 21:58:43 GMT)
-- [Polymarket reveals a &#x27;full exchange upgrade&#x27; to take control of its own trading and truth - CoinDesk](https://news.google.com/rss/articles/CBMiywFBVV95cUxNNl9DeEZCNFM4UXZPWTlTS0xlTUlhWFBwLW5tbk9qVkFacmRXR1Mzb3BaYVBqbzFiSjR2SE44NHQxQ2Q3M0hsZnhPVHVBRlBDcVZETVlXcVJTWkg5S3lfSkNuOElYNE1FSVJnV0N2dC1BRGRCekhDcFhlZEJweUZydHdaSGxmeWpVbUxvdVlzWFdES2Q5Y2YzelBBaHRXMGMzTDI0UUhRT2s5aHBkS1RURWJLUXhMT0M3TzBoRmNWNWNlMFJzMGM2eTd4TQ?oc=5) (Mon, 06 Apr 2026 21:01:55 GMT)
-- [Why Stablecoins Are Becoming the Everyday Money of Crypto - Ventura County Star](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORnNhc01sTmpUUWNUTnlWTG1Mb19jQkhNSnI2VlNab3owWVJOMEJ5b1N5Qlc2b1RLMF8xTnZtSTk2WmFQMVloMHo1V1Z1cGZIOTMxWTVWQk5mc3VoQTlLcG5YYmQ5RzFabHVCdVdiWTJoa2xrQllGWVN4eWcxSHd1eXhla2RyYmVnMXFFdml1TW1tMnZndnpIZWhIUHRmeGQ5cS1zVkI3M1NzaWdsSUp4VXFuUzZhYnNFZnhVYXl6c3F3MDV3R1BtNVZYb1ZsUlAxWngyTg?oc=5) (Mon, 06 Apr 2026 19:36:00 GMT)
-- [Polymarket Unveils Exchange Overhaul, Native Stablecoin As U.S. Expansion Looms - Bitcoin Magazine](https://news.google.com/rss/articles/CBMieEFVX3lxTE1faG1DZkdPdnJZRHJJSEJrYkdYUjdXemNZcWYxelI4WHRjUnhSbG12Y0ZKVEZBUV9DblVBTVpTLXJfRzNhSHUzRHVxZE5UTjcwYWhzT1RQY1lsMUozaU1YOF9OaF82S0RDaXdQWU9nM3o4a3gtTlRpZw?oc=5) (Mon, 06 Apr 2026 19:21:53 GMT)
-- [Treasury issues first proposed rule under GENIUS Act on state stablecoin oversight - JD Supra](https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnpfemI5TVdPRk9semVZbGIxOUViY1VqWC0wa1RrQW95RHkzb3VwN1c2dFo2UFIxWXJMcExIeUZxX2hWd01LdUFmcFNRcFA0ckduMzhtS1NZTW5pbk04Z2V5TEZmSjJNM0tNdnh2MEFCQ3Q4TExOUV84aXotRHdheTJsSWI?oc=5) (Mon, 06 Apr 2026 19:09:47 GMT)
+- [FDIC Stablecoin Plan Limits Yield, Pass-Through Insurance - Law360](https://news.google.com/rss/articles/CBMinAFBVV95cUxNMDhQcDczMUtiWE5nOS16RXVIV2NiN3RrNUpHR2s0a1ZRNTZIbkxtQmFZY2d6Zl9lNkZsMzJkZDBCZ3VnaTNodGdrWVpGenc4S002aWs4WU5nMnRZRkRvTHdhV1p0ZlRwWVZDTlpQV1psMWJxUGgwZmFmNlZDTXVrVk1uVjMybVYzTzlSZmFYeUZMZUg1UlJGbU9sTXPSAVZBVV95cUxOTURMQTJ4M1p5VUtjdXllM3JXVnc5bFpoYy1fekdIMHhYY3kxWUFESnJYSjFSUnIwbGNfcHd5bTIzZG53MV9ENEk2RExPQ2JWeUZfM1NfQQ?oc=5) (Wed, 08 Apr 2026 00:47:00 GMT)
+- [FDIC Advances Major Framework For Stablecoins And Tokenized Deposits - Forbes](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVkdtbnJ2RHFJV1EzMkVXalpKQmZlQzhkM3FSSGJMbGZ5dGJYYkszODc3M2pLU1YtTG43emNldHNTRV84d0liRUlRTUhKQUdjcVE2T0ZYaDJMOGtxLXFQSUZZX09PVW5sbE1NSVVpTVFXYVEzZGQ4eUpHYWxuOVg4dWx6REE1d3pJUEwzUENlZ2hBbHUxNUd6UUcteVRTd2VheVpUVDAwM21TeWhTazZaTlF5Wkp0Q01LeWNWcQ?oc=5) (Tue, 07 Apr 2026 21:28:25 GMT)
+- [Vault: FDIC moves to implement stablecoin law - Punchbowl News](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ONEVsb0V0UXExNHRrOGVJVENWTlBDZUlNSkJUWGZGZTBKbmk1bzhScmdRWER6RHVjOW1lbXYwMGdDMHJJcW50a2xxS0RpdE9RRDE0Rm9oYmNjaWJfaUxocUpkZkdBenoz?oc=5) (Tue, 07 Apr 2026 21:02:57 GMT)
+- [FDIC Reveals Proposed Rules for Stablecoin Issuers Under GENIUS Act - Decrypt](https://news.google.com/rss/articles/CBMigAFBVV95cUxPYUFzbGVjNlVYUkJWeEVnaXVuZVVWaXpMejJ4SmlfRTUtN2g4MmEwR0RWQm81bFlOX0xsWkE1OXowMWp6ci1hUkwzcU4wUXNrN0x5ZHpLWS13QmVSeFBZRUNoT1lyZnRpcnRvODhEVHl2SnZ0emhva1hVWFptYzFBYdIBiAFBVV95cUxOa3R3cnJBb0VBWEdvZnZwVXExNGJQdUEzQWUyNHJYc3lWaC0ySERkSVJZZjE0cE9CeFVJZjNRbTdhVGVQalVrRExWTFhlS2RUOFFmUE1xT0JCWk1HbDg2eGhRLURRMEo2UlJtNjExVmNtajNPaGpGVDd6RVljcndFclQzM1psUUFh?oc=5) (Tue, 07 Apr 2026 20:25:03 GMT)
+- [Treasury Proposes GENIUS Act Principles for Acceptable State Stablecoin Regimes - Consumer Financial Services Law Monitor](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYlEzMV9SZHZRbkhxQWZtVGw0MHBkZFV4X3FEYTJoVEFJQTZET1psX3k5eWNhaFVfMTdJUXV0OGN0MlI5dWtNOWtfWl9WLWhMZlhydzM5MW1oTnY2THlMOUNPaGFnQ0xSRzdxdHpTNUJHRVZlZXRVRjZwMlNGSi1IbzIzWGNGbW1FME4wS2lHbWpnZWRPWEhIYXhVUVRta1ZJaUZuVkhQbmNlZTZlNUVmb3RaaWFXdW1KRGluc2Rlb0MzVkNVdjZPRHhyOTVQYzUtVVpHZXdrdw?oc=5) (Tue, 07 Apr 2026 20:22:45 GMT)
 
 <!-- END_dashboard -->
 
