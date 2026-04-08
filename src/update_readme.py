@@ -93,16 +93,20 @@ def update_news_archive():
     news_lines = []
     for _, row in top_5.iterrows():
         # Security: Sanitize title to prevent Markdown injection and XSS
+        # Also sanitize '{' and '}' to prevent Quarto shortcode injection
         title = str(row['title'])
         title = html.escape(title).replace('[', '&#91;').replace(']', '&#93;')
+        title = title.replace('{', '&#123;').replace('}', '&#125;')
 
         # Security: Validate link to prevent javascript: or other malicious URIs
         link = str(row['link'])
         if not link.startswith(('http://', 'https://')):
             link = '#'
+        link = link.replace('{', '%7B').replace('}', '%7D')
 
         published = str(row['published'])
         published = html.escape(published).replace('[', '&#91;').replace(']', '&#93;')
+        published = published.replace('{', '&#123;').replace('}', '&#125;')
 
         news_lines.append(f"- [{title}]({link}) ({published})")
     

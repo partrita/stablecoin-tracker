@@ -12,3 +12,8 @@
 **Vulnerability:** CSV Formula Injection via un-sanitized external input written to CSV.
 **Learning:** `src/fetch_daily_data.py` and `src/update_readme.py` were writing scraped/fetched strings (`coin_name`, `title`, etc.) directly into CSV files. If these inputs begin with characters like `=`, `+`, `-`, or `@`, spreadsheet applications like Excel could interpret them as executable formulas upon opening, leading to a command execution vulnerability on the user's machine.
 **Prevention:** Always sanitize data bound for CSV files. Iterate over strings and prepend a single quote (`'`) to any string starting with `=`, `+`, `-`, or `@`.
+
+## 2024-05-24 - [Quarto Shortcode Injection]
+**Vulnerability:** Remote Code Execution / Data Exfiltration via Quarto Shortcode Injection
+**Learning:** `src/update_readme.py` writes external RSS data directly into `_dashboard_content.qmd`. Because Quarto processes `.qmd` files, an attacker could potentially execute arbitrary code or exfiltrate data by injecting malicious Quarto shortcodes (e.g., using `{{{< ... >}}}`). The previous sanitization only escaped HTML and Markdown characters but missed the curly braces used by Quarto.
+**Prevention:** Sanitize `{` and `}` in any untrusted data rendered by Quarto. Use HTML entities (`&#123;` and `&#125;`) for text fields and URL-encoded equivalents (`%7B` and `%7D`) for links to prevent shortcode execution.
