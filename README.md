@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-08 01:44:57 (UTC)*
+*Last Updated: 2026-04-09 00:20:27 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$297,323,862,134** | 🟢 +0.05% | 🔴 -49.89% |
+| **$297,636,672,605** | 🟢 +0.11% | 🔴 -66.57% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [White House Says Stablecoin Rewards Won’t Impact Community Banks - PYMNTS.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVUt0UHVCcC1TT1ZlQjRIZGlpd3JndXcxVV9fVE05N2VNX3hGT2xwb3hIb1NnVVFMVk1zZ2k5QnBWR2F3MVhOTzJJQ3g0ZS1BYVdTLUhhSDFlal9fMnhYMWFnTDNTblhjdm1jSFV1NjFPdGNsd0dGSjAtVGpGandyZVZkc1lvdjVsNFRtZHhtaC1UR1hnZmxrcjB4U1pjcG5Xb0dqZVhnbGs?oc=5) (Wed, 08 Apr 2026 13:10:50 GMT)
-- [White House Council of Economic Advisers: Stablecoin Yield Doesn’t Threaten Small Banks - Decrypt](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVBSbDJWU3NvcllXbVcxSG5IbW5xNkdybE1VMjRrV3U4ajFQNkFzTnl4VTlSSUU1LTZjS2FyUHEwZ1MwTWUxcDRsbVJfMWZxQ1JQT20yNm5IeVBLakM4RTg0VVprVU5xWWxyd1BEbVlSeVlyRDZEN29rYW03QW11TjZLVzY4RFlRRGd5OFF1VktlNkZXYUI5VmllZXpQVmg3X0FuZWtBNTliVEpmenJqedIBuAFBVV95cUxNX0xKSUZCWTRXQWJlNnJXNUh5UTdweGVzUHB3X3J4bHAxcWVjOXk5NzBPVjk0ZG1IdDhFRzFldDdZVHUwdEdMQ3NPcjZDV1NnVGVZYTB6VTlDMlY2b0F1cDFudG9sdllUMkx6al9MbGJHdlpkdHdBaTlBUFRwdVk5Njdya1lxQk9BRm1kOXEtZWI4VkNnYTVZYy1QT1VPQXZmR2x1Rmx5cjE1bXFlTnpjT3YtUndBc3VH?oc=5) (Wed, 08 Apr 2026 12:54:38 GMT)
-- [White House Council of Economic Advisers: Stablecoin Yield Doesn’t Threaten Small Banks - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWgzM1ZQdUktRjhELS1iY0RFcmRFUUNUMVFwaGlXNC1pYzIyckxqaXptZVhUMlNyOXZVc3lFMzdxcEpFR3VfSnlJdzhiN3QzLUZzOVBFeDd5ZTB2NV9ZNktTRWRHRVdHUXBvWDNReUxsS1lHeWM1X0pzYVlzSFk1b2NXdDN4ZXB6SVlTY3hpdWUxbHM5N05QUUJkS2wzbVpQSEhpdA?oc=5) (Wed, 08 Apr 2026 12:54:38 GMT)
-- [White House study finds limited risk to banks from stablecoin yields amid regulatory debate - The Block](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaFhaZW43bi1ZdVNJNVQxdHp2M3oycERxN1dtdF9NTmY1cU55NnAxUzBubjVqOHlaRExZVkhnMlFVS3FzSmNQRzhuMFhqeVhZdUlUUDVSRzVGMy1sQ2k0OS0za0dIc2UweUhLUzNpWUVGemtKb21GRV9HZFJvay00RGxubEVpLTRaeUJ1b2syS2E3VmtxcmFvNUlsMXcyMGp3dnJNVWZQNkZoM1hiWUdkUWxFaVBEM1NEVTdUYTEyalR4UHRScEpVQVh4OE1sa0RhZlY3MzFIZ20zN2lKbGg0d25EdVQ4LWcxaV9WRk0xZ1FOd1o4?oc=5) (Wed, 08 Apr 2026 12:35:42 GMT)
-- [Swiss banks push CHF stablecoin pilot to bridge blockchain, fiat payments - CoinDesk](https://news.google.com/rss/articles/CBMitwFBVV95cUxOSXBNR25RN1BrV0F4Z2E0WnI4UG1jdVBqbHNmRDg4TUFZR1NVdkxKcTJNcHFLZ251R2Mzbk9RMGEzV3l6Y29BRENyanJrVnQ3cDFiUmt5UzBtQkJhcDdYYkpUZjFiWkxGX3Nrb2xDd3RsbGpxWThHZnRoVXdGWkFkZEkyaUxkQ0dFM01OS3h4cFlCXzFDRkZhUWFyOElRd1cyX3d1SDN1UEZ5Rjd5cHVRZU11d3NKVEk?oc=5) (Wed, 08 Apr 2026 11:06:23 GMT)
+- [FinCEN, OFAC Propose AML Rules For Stablecoin Issuers - Law360](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvcFlnanFjYmI4WEFRSmkwanNmSW13OUQySkhXeHk1RFNqMTJlSi1hb0pBZGxiSXpFc3VpOVFuajR6Wkp1SFRUTW5aT0RIejRf0gFYQVVfeXFMTVo1cEwya2tpZmN1VElNd2VMbVRpcWxuU0xkMGt4dzZXZmVwUHpqMVFlTFBEUFZjTVctcXczazhkTmJNc3duRWFrcWw0akloeHhFV0lWMmo5Tg?oc=5) (Thu, 09 Apr 2026 00:01:00 GMT)
+- [Paysafe’s MoonPay Deal Brings Stablecoin Rails to a Payments Platform That Handled $167B Last Year - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHBDUkZpcGZtdlQzTDF4dlRnZ2NGelhjTGRmUl85dkp4VDlqNXRIeHE5bzVwb0MwRERVWXR3cFN4d0dzeEVMcTlFcjB1bV9OQmNlMDlwRWV1X3hHOUU3RlVnQmtiOHNOMFp2WFNEdnlRbjVVbXNYU2RMeVVLdjYzOWQ1SnI5REk5OUstaEVPNzhIOEl4Zk9xbGllOVFZVFVIb0hyemFn?oc=5) (Wed, 08 Apr 2026 23:27:00 GMT)
+- [Georgia lawmakers pass state-level stablecoin license - State Affairs](https://news.google.com/rss/articles/CBMibEFVX3lxTE5vbndQZXFxTXVRelpEWXFzbUo2RGtCbi04aFNYMG8wTW1BWUdnei1oNkFKT1VaZEFHdXNFZTlINzVVWFgxTXphMmtwbmtxbTZ1ODZLQVdZb3VfcTdYTV9ocXpUNndmdjVJM2hGeQ?oc=5) (Wed, 08 Apr 2026 23:03:45 GMT)
+- [The integration brings TRM’s blockchain intelligence directly into Stablecore’s infrastructure, enabling banks and credit unions to confidently bring digital asset products to their customers - TRM Labs](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVTdPb2RpUlJHeGpGMk9aRWxINGQwUTItUmoxTm04QndCLXZpbDdnLWxDbmpwc3VfZlJ6aUdxS0NvSFFRWlpRbFZxZGIwZlpZbDU4bm1qSFFxaThJUXdHNUJ4ZkhUbW1zUnIzUThUenZVbG0taWx5RTd5UUg0NE1EVUdnblNycGw1aG9malJWOS1zSnh2QTBmcEZZTU9OYm1lNnVMRl9YQmZxQ1RZdnc1YUhDV2FsLWJPNkphRGVVMU51ZGpkQ3ZiVW1DVHQzbk8wNng4Z1lUWDFpbmtyV211N042MA?oc=5) (Wed, 08 Apr 2026 22:54:15 GMT)
+- [Circle Launches Managed Payments for Stablecoin Settlement - PYMNTS.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZy1QbWpBUkhuVVZOZ3dLd0syQkNOQUpOLUZqRjFEaEF5elRZRW1TN3hQdEE5VXpCTnRWOXIteWwxMjc3S1dNdXljQWM3TFdzVUhYbkxzZnFoVkJ3WjJSVmt5Vk0ybVpLYzZGejdsbTdOM2Z5eUZwTzNwQ3Y3TFFObUVfTkdwYVJjUlhkaVFONkFRcHFkMHg0emlES2RVR21wOHpoUA?oc=5) (Wed, 08 Apr 2026 22:29:48 GMT)
 
 <!-- END_dashboard -->
 
