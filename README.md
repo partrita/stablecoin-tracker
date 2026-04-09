@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-09 01:24:37 (UTC)*
+*Last Updated: 2026-04-09 21:44:11 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$297,638,030,884** | 🟢 +0.11% | 🔴 -66.57% |
+| **$297,790,946,043** | 🟢 +0.16% | 🔴 -66.55% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Banks are treading carefully on stablecoins despite market growth, S&amp;P Global says - CoinDesk](https://news.google.com/rss/articles/CBMiygFBVV95cUxQVGctLUoxTGxKZVlETnVwakhXd293OUVhZjJDYWVVTDRZZVBzREpJeENjNEljalotRU90dDVxZDZGeDZLcXI5WmtUNlY0cGtTcnF3QlVqMVBjV2N3SGNraGc0OUltQnNlLWk4YUhXWXBuSnJrY3MycFE2R1p6QWxPUG96WWp3MHVwQ1NYWE9qaVVMcFZvX2pDMVlLMGdrLVpHRG1SZ0d3cmIzWi04cDdqeldYdGJ2YlVwX09ONHIwYjFQNG5McFUtMGhB?oc=5) (Thu, 09 Apr 2026 12:36:54 GMT)
-- [Banks, Credit Unions Face Setback In Push To Block Stablecoin Rewards - CU Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVUNQbEdJTURHMjlobnliYkJCS1BUSG1XNzg5Y2hZWmdXOGRVbmYxN0pyM01XT3Y4dWlXbXVvUk1zbDhqVlhoRmJXdF9IWlAxZm9SNHduMGhRckNWd2xWTnlVYUI3dmxMV05OZ3JkSWprTDhNaC1CVktyLVZzd2FvMnZGTFhHYW5ocFhlVXRiS0E0V3UtWlRZZ2pSRUthaVBUVlFCTHJ0eXk?oc=5) (Thu, 09 Apr 2026 12:14:32 GMT)
-- [US Treasury, FinCEN publish AML, BSA rule proposals for GENIUS Act stablecoins - ledgerinsights.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVpqaV83cW83RHBwT2dNVHVQSHUtRjFPT185QWxrZkVaLXByV2VjbTFudThESFU1R1FGV1dvcUhIaXFUZU54aDNSREFvekFJZ2NiMGllSlV1d2d6N2RpQzVJMUNpcGpnNVFyXzhQNU5zQ3IycjdDT0FCazJQcVlxSHhvSUN3NUF6QXdFRnJKNGJwWUFyNldLbVdySHJ3QWZkSllpb1RzZGFvbEpH?oc=5) (Thu, 09 Apr 2026 11:12:04 GMT)
-- [Reg Wrap: FDIC sets out GENIUS Act stablecoin rule book - TheBanker.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE00TVFITjZIdU5SclFycF8xNFVHbU1fUG9HWUxESzRTbmFnNXg2eS1iQURDSmpfUmVqckpOUmJHQmRab25DZTVuWFRvLVhCMngzaFo3emU3T3NjSzRnRjJvbFlCRF9YV0RwM2pGSmx4QU8yVmhhNFpzV2tR?oc=5) (Thu, 09 Apr 2026 11:06:55 GMT)
-- [Swiss banks launch sandbox for CHF stablecoin - FinTech Futures](https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1g3XzU5LXRRS3hEaFpDeGYwdFhWWlRlM2c2RWY2bW14SDFMRlE4TFhpOEdxc1RYWmlWYjAzRXRhQThZT2tfRGhsekpKTWY2M0lRdzZ2R3liWlhQdlRGc1JfaHg1RG1tV1hkWHRoaW8xX3ljZTlaT29fNVd0d3B6R0VZUE53N05ScDY3OFZ0RnlNZ05OWXdmUVNrN05PaE0?oc=5) (Thu, 09 Apr 2026 11:06:16 GMT)
+- [White House and Crypto Industry Fight Bank Lobby Over Stablecoin Income - The New York Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVk5penlDYURFWUxHOHg5cmVlWFZJX1NEQW9haTQ4THYyZ2xNQk0ydnQtSGplS05ZdHNJVTFXcHgwanhTNXJWdjh5bGVfUk9YNlB1ZWdWNzVranNacXhsM0VNZWFRWncwRHRyb2FWLTVXVHFCS05Ub0Z4c2I4bjVOeElydmgxdkp6UGVheFk3MTF1dw?oc=5) (Thu, 09 Apr 2026 20:18:24 GMT)
+- [Inside FIS&#x27;s plans to meet banks&#x27; interest in digital assets - American Banker](https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGM5RzBJSWpYNndBZ3lVXzJSaDVLUTFQOHZDSEVaRlRXQTNHN3pnQ0twa0xyMjlHak5yeDg1TWhQc2xTSFBiOE1LTW14Rm5zRUgzeUlWSEJzNVRNYnlaUEdHb29QOXkwU2lmOWFYOXRJSXN3bDBxUXpSeGlDd0h6YVdnOWtrSlo4ekFmZ3pNVmRsRWV2c2c?oc=5) (Thu, 09 Apr 2026 19:28:00 GMT)
+- [Stablecoins could reach $1.5 quadrillion by 2035 – Here’s how - AMBCrypto](https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkM2SHVDcktZeGtFMmlRYmtLWEFOZ3FhQmMzVVgyeW1TTjBfeGdob1h0TExPRlpUR2NVZ2dmc0pLVFl0RXJaU2tGTVZYUTFNRDhsaWV5djYydHZGMUxuNi1PUXE2ZU5QczBmSmVDM0xad2VBWGVSQk92Mkp5amdaVVpZdGZ5dTDSAYwBQVVfeXFMT1V5VkVJTUJ2eXBnUjZRTW5NUjZCM0puRlEwelUzUk9Ub3dxZ1dXVVR3TmRhekdaOFlQc1hSM3lpY0c0dEV2VzJjdC0xSHJTN1ZvMzYwUGFvVG5YaFdzZ25mOFFWUkFoQ245QlFUbGMzMFpOeGkwTVRwaVA0RlREbng1d1Z5RXo1NUtGbmU?oc=5) (Thu, 09 Apr 2026 19:00:29 GMT)
+- [Treasury Issues NPRM on State Oversight of Stablecoin Issuers Under the GENIUS Act - JD Supra](https://news.google.com/rss/articles/CBMiigFBVV95cUxNb3Rtdl96bVVid0pPbkhiUlFCMWVlOVAzMlE3ZzlaejlmN1lSVzA1SXdTel96VUNIcmVIRHNoNlNhV2RuR0J4WmFlM1RMOWxJVGI5aDFEWl83Q0RDalFGTlhBQnB4c0lPMGo3ZUdDOHRIQnhPVlN4V3JHY01mZ05naVZ1SzJSNXBkX2c?oc=5) (Thu, 09 Apr 2026 18:55:21 GMT)
+- [Treasury Proposes AML, Sanctions Rules for Stablecoin Issuers - Law.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbU0tX01DYXhvcERUQUtCWmpRR2U3dUQ2NXBNTHhHZThkRktGSHlxOGpSb3hoYzZGaWFOMnI0WC1qWFNVSzUybGE3UTVsbzMwd001NU5mb0g5YzVPTVRsYmtrMlNvTEZ0Wm9wY1VJNEVEOXBHMEVZbUsxbGVKaGRzXzhyN3JaMVduaUJzWXlVaXNwbnZyMThpOThTNm1hdDVvU3dvanl1TGhsd19XQzZEbw?oc=5) (Thu, 09 Apr 2026 18:54:00 GMT)
 
 <!-- END_dashboard -->
 
