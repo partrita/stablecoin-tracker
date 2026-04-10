@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-10 01:48:31 (UTC)*
+*Last Updated: 2026-04-10 23:33:11 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$297,828,539,073** | 🔴 -66.65% | 🟢 +0.30% |
+| **$298,208,450,990** | 🔴 -66.61% | 🟢 +0.43% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stifling Stablecoin Yield Is Bad Financial Policy - Forbes](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVpZMkQySnJWZXB3R2NGdU02b1hZNTB0UnhfdWRUTXJ4UVpoZ05SeVRvTXczMjB2czhPcEt2QjRpTFB0YWU3NG1QQ1E3SGZxa0E1NHo0SW9HLWN2TGp2OXNfTEFPMzhmZ1RHemhiUnpxQ29zWTFaeGRPd28yb1U1Mnhkd2VZclV1a05xS0RYTkhUMGlHd1BydG5RbDk2S1d4RExvY09CMW8?oc=5) (Thu, 09 Apr 2026 23:48:53 GMT)
-- [FINANCIAL TECHNOLOGY—Treasury... - VitalLaw.com](https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmpCYm5wSWxJNUVBU01RTDRLbFF5Q3R6dWgwcVdKeklpNHRNYXZGa3JPbmJYU2d5QVJlMjkyZTh1ZkdZY0h5TXNfeWhPQTY1OXZWS0E4ZTgwWGVMWHp3OFlWcFZnbC1xSDRyNFV3WlJidEdtUDlZWGJlR29saXBLeDNqaVRfRHU0QzhyYXVEdnVrS2w4NE9VRjYyNkNtZnI1dFhuWnFaNnNWbDlLZExSMUZ4ZXBQRXlzWFJFbEtwU2dQeXZndFpDSDB6TkQxeE5EVUg2YnAyY1hpcnU0cmNaSXdsMUp4bXA4eWZXdmJIRHNRa2RTQzN1U3NSUGwyLTRHSGVVbV9JdFdGZnljcllfZHBB?oc=5) (Thu, 09 Apr 2026 23:14:52 GMT)
-- [White House and Crypto Industry Fight Bank Lobby Over Stablecoin Income - The New York Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVk5penlDYURFWUxHOHg5cmVlWFZJX1NEQW9haTQ4THYyZ2xNQk0ydnQtSGplS05ZdHNJVTFXcHgwanhTNXJWdjh5bGVfUk9YNlB1ZWdWNzVranNacXhsM0VNZWFRWncwRHRyb2FWLTVXVHFCS05Ub0Z4c2I4bjVOeElydmgxdkp6UGVheFk3MTF1dw?oc=5) (Thu, 09 Apr 2026 20:54:05 GMT)
-- [Inside FIS&#x27; plans to meet banks&#x27; interest in digital assets - American Banker](https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGM5RzBJSWpYNndBZ3lVXzJSaDVLUTFQOHZDSEVaRlRXQTNHN3pnQ0twa0xyMjlHak5yeDg1TWhQc2xTSFBiOE1LTW14Rm5zRUgzeUlWSEJzNVRNYnlaUEdHb29QOXkwU2lmOWFYOXRJSXN3bDBxUXpSeGlDd0h6YVdnOWtrSlo4ekFmZ3pNVmRsRWV2c2c?oc=5) (Thu, 09 Apr 2026 19:28:00 GMT)
-- [Stablecoins could reach $1.5 quadrillion by 2035 – Here’s how - AMBCrypto](https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkM2SHVDcktZeGtFMmlRYmtLWEFOZ3FhQmMzVVgyeW1TTjBfeGdob1h0TExPRlpUR2NVZ2dmc0pLVFl0RXJaU2tGTVZYUTFNRDhsaWV5djYydHZGMUxuNi1PUXE2ZU5QczBmSmVDM0xad2VBWGVSQk92Mkp5amdaVVpZdGZ5dTDSAYwBQVVfeXFMT1V5VkVJTUJ2eXBnUjZRTW5NUjZCM0puRlEwelUzUk9Ub3dxZ1dXVVR3TmRhekdaOFlQc1hSM3lpY0c0dEV2VzJjdC0xSHJTN1ZvMzYwUGFvVG5YaFdzZ25mOFFWUkFoQ245QlFUbGMzMFpOeGkwTVRwaVA0RlREbng1d1Z5RXo1NUtGbmU?oc=5) (Thu, 09 Apr 2026 19:00:29 GMT)
+- [The US Operationalized Stablecoins This Week, But Who’s Using Them? - PYMNTS.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3A0ZnhHblVidWJ2S3lYVDFmU3ZXYWlEdXJRYmE4RzZ4azJFTjdMcTJtNlQ1UTZZSFN1QjZYWnR6d2pXZ0dLWDN0aUduZ1FaTWpzOTlfdFVISXVjRll1aGpGOGtoYlBPWTFBak9EUmRvTy0wWWlOZEtJNGF1ekd4VVlmLTFPSHZtQ1NjbUhRM2JrMFYxSl93MTA5VXQ0bmpqZVJLSlp3UQ?oc=5) (Fri, 10 Apr 2026 22:45:22 GMT)
+- [The Stack - Grayscale](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQnpRRGZ0LWJxaHp1U2pxRlFaNmtLWlRJR0U2aE5wdzhrZmxsWUdHTWE1Y3QyMDdUcG9sbHp4bFhtLXR2V0pLZGgzR0F0Y3NMdVV3MEtBbjNfRld0aVYzQnFiQUs5NXFQbnF3Sk1aM3kxODlfa3Vua0UzV0F5MndyOW41M1VxOGFnbVpJNA?oc=5) (Fri, 10 Apr 2026 15:09:31 GMT)
+- [Hong Kong grants stablecoin licences to HSBC and Standard Chartered - Electronic Payments International](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR0lpVVNRc2t3a1psQk1rLWttVkhRVE8xMFF0Yi1EbTlRWjNmMWZmYUs5c2lhVVVJQ2M2UHJmWVJPamNXTTNycTI5dThtNDY4SlBoU0NGcGtRX0NwQlJyN3V0MC0zY1l1N19ZcDJPTlVLZElocFpvOGNsUDV2OHJySk5QWThZR09vMnRHX0xnUFBfcWR6b0t6bkU0ZWM0MGM?oc=5) (Fri, 10 Apr 2026 14:04:22 GMT)
+- [Stablecoin Trading Volumes To Reach $719 Trillion By 2035: Report - Yahoo Finance](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT09ud0hGcTIyblNUdU0tZ0paamx0UVdpWmtRd3p4T2c1YVppVkRuQjU1U1NOSHg1UDdQN1pNc045MnVqVzM1RjBlRGl4UU84cDN6R2d5REdPLXdTNUw1Q0pTaTJxT2hHaEE1SUxrMzFkaVNlSkU3TkFCTGhWaDdHV0w4ZW9TY2VJQlBGdUxlQ2Vwc2M1M0NFTWtoa3RQdHJtV0cw?oc=5) (Fri, 10 Apr 2026 13:00:00 GMT)
+- [HSBC Granted First Stablecoin Licence in Hong Kong - Markets Media](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbGhlU0U2MU1OdWJ2dmVlSldRS1dFb3dCTTFkNUh5OXhzcFQyZ3NnckloZXJ1Z0F0c2x1UW15d0tXWEVfbGNmblMzOUtxVXdTazNQSUR4NFhJRHppaWNYaVlkTzItOU5FOWhwUm1VNGZwZEgwV1p4dWFudTVIR2hjWnFTQXBBN2M?oc=5) (Fri, 10 Apr 2026 12:37:22 GMT)
 
 <!-- END_dashboard -->
 
