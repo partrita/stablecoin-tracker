@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-09 21:44:11 (UTC)*
+*Last Updated: 2026-04-10 01:48:31 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$297,790,946,043** | 🟢 +0.16% | 🔴 -66.55% |
+| **$297,828,539,073** | 🔴 -66.65% | 🟢 +0.30% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [White House and Crypto Industry Fight Bank Lobby Over Stablecoin Income - The New York Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVk5penlDYURFWUxHOHg5cmVlWFZJX1NEQW9haTQ4THYyZ2xNQk0ydnQtSGplS05ZdHNJVTFXcHgwanhTNXJWdjh5bGVfUk9YNlB1ZWdWNzVranNacXhsM0VNZWFRWncwRHRyb2FWLTVXVHFCS05Ub0Z4c2I4bjVOeElydmgxdkp6UGVheFk3MTF1dw?oc=5) (Thu, 09 Apr 2026 20:18:24 GMT)
-- [Inside FIS&#x27;s plans to meet banks&#x27; interest in digital assets - American Banker](https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGM5RzBJSWpYNndBZ3lVXzJSaDVLUTFQOHZDSEVaRlRXQTNHN3pnQ0twa0xyMjlHak5yeDg1TWhQc2xTSFBiOE1LTW14Rm5zRUgzeUlWSEJzNVRNYnlaUEdHb29QOXkwU2lmOWFYOXRJSXN3bDBxUXpSeGlDd0h6YVdnOWtrSlo4ekFmZ3pNVmRsRWV2c2c?oc=5) (Thu, 09 Apr 2026 19:28:00 GMT)
+- [Stifling Stablecoin Yield Is Bad Financial Policy - Forbes](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVpZMkQySnJWZXB3R2NGdU02b1hZNTB0UnhfdWRUTXJ4UVpoZ05SeVRvTXczMjB2czhPcEt2QjRpTFB0YWU3NG1QQ1E3SGZxa0E1NHo0SW9HLWN2TGp2OXNfTEFPMzhmZ1RHemhiUnpxQ29zWTFaeGRPd28yb1U1Mnhkd2VZclV1a05xS0RYTkhUMGlHd1BydG5RbDk2S1d4RExvY09CMW8?oc=5) (Thu, 09 Apr 2026 23:48:53 GMT)
+- [FINANCIAL TECHNOLOGY—Treasury... - VitalLaw.com](https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmpCYm5wSWxJNUVBU01RTDRLbFF5Q3R6dWgwcVdKeklpNHRNYXZGa3JPbmJYU2d5QVJlMjkyZTh1ZkdZY0h5TXNfeWhPQTY1OXZWS0E4ZTgwWGVMWHp3OFlWcFZnbC1xSDRyNFV3WlJidEdtUDlZWGJlR29saXBLeDNqaVRfRHU0QzhyYXVEdnVrS2w4NE9VRjYyNkNtZnI1dFhuWnFaNnNWbDlLZExSMUZ4ZXBQRXlzWFJFbEtwU2dQeXZndFpDSDB6TkQxeE5EVUg2YnAyY1hpcnU0cmNaSXdsMUp4bXA4eWZXdmJIRHNRa2RTQzN1U3NSUGwyLTRHSGVVbV9JdFdGZnljcllfZHBB?oc=5) (Thu, 09 Apr 2026 23:14:52 GMT)
+- [White House and Crypto Industry Fight Bank Lobby Over Stablecoin Income - The New York Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVk5penlDYURFWUxHOHg5cmVlWFZJX1NEQW9haTQ4THYyZ2xNQk0ydnQtSGplS05ZdHNJVTFXcHgwanhTNXJWdjh5bGVfUk9YNlB1ZWdWNzVranNacXhsM0VNZWFRWncwRHRyb2FWLTVXVHFCS05Ub0Z4c2I4bjVOeElydmgxdkp6UGVheFk3MTF1dw?oc=5) (Thu, 09 Apr 2026 20:54:05 GMT)
+- [Inside FIS&#x27; plans to meet banks&#x27; interest in digital assets - American Banker](https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGM5RzBJSWpYNndBZ3lVXzJSaDVLUTFQOHZDSEVaRlRXQTNHN3pnQ0twa0xyMjlHak5yeDg1TWhQc2xTSFBiOE1LTW14Rm5zRUgzeUlWSEJzNVRNYnlaUEdHb29QOXkwU2lmOWFYOXRJSXN3bDBxUXpSeGlDd0h6YVdnOWtrSlo4ekFmZ3pNVmRsRWV2c2c?oc=5) (Thu, 09 Apr 2026 19:28:00 GMT)
 - [Stablecoins could reach $1.5 quadrillion by 2035 – Here’s how - AMBCrypto](https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkM2SHVDcktZeGtFMmlRYmtLWEFOZ3FhQmMzVVgyeW1TTjBfeGdob1h0TExPRlpUR2NVZ2dmc0pLVFl0RXJaU2tGTVZYUTFNRDhsaWV5djYydHZGMUxuNi1PUXE2ZU5QczBmSmVDM0xad2VBWGVSQk92Mkp5amdaVVpZdGZ5dTDSAYwBQVVfeXFMT1V5VkVJTUJ2eXBnUjZRTW5NUjZCM0puRlEwelUzUk9Ub3dxZ1dXVVR3TmRhekdaOFlQc1hSM3lpY0c0dEV2VzJjdC0xSHJTN1ZvMzYwUGFvVG5YaFdzZ25mOFFWUkFoQ245QlFUbGMzMFpOeGkwTVRwaVA0RlREbng1d1Z5RXo1NUtGbmU?oc=5) (Thu, 09 Apr 2026 19:00:29 GMT)
-- [Treasury Issues NPRM on State Oversight of Stablecoin Issuers Under the GENIUS Act - JD Supra](https://news.google.com/rss/articles/CBMiigFBVV95cUxNb3Rtdl96bVVid0pPbkhiUlFCMWVlOVAzMlE3ZzlaejlmN1lSVzA1SXdTel96VUNIcmVIRHNoNlNhV2RuR0J4WmFlM1RMOWxJVGI5aDFEWl83Q0RDalFGTlhBQnB4c0lPMGo3ZUdDOHRIQnhPVlN4V3JHY01mZ05naVZ1SzJSNXBkX2c?oc=5) (Thu, 09 Apr 2026 18:55:21 GMT)
-- [Treasury Proposes AML, Sanctions Rules for Stablecoin Issuers - Law.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbU0tX01DYXhvcERUQUtCWmpRR2U3dUQ2NXBNTHhHZThkRktGSHlxOGpSb3hoYzZGaWFOMnI0WC1qWFNVSzUybGE3UTVsbzMwd001NU5mb0g5YzVPTVRsYmtrMlNvTEZ0Wm9wY1VJNEVEOXBHMEVZbUsxbGVKaGRzXzhyN3JaMVduaUJzWXlVaXNwbnZyMThpOThTNm1hdDVvU3dvanl1TGhsd19XQzZEbw?oc=5) (Thu, 09 Apr 2026 18:54:00 GMT)
 
 <!-- END_dashboard -->
 
