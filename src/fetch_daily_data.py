@@ -91,6 +91,10 @@ def fetch_data():
             print(f"Warning: Failed to parse props for row: {e}")
             continue
 
+        if not slug:
+            print(f"Warning: Missing coin_name in row properties")
+            continue
+
         coin_name = sanitize_csv_value(normalize_name(slug))
 
         # Get Market Cap (Index 10)

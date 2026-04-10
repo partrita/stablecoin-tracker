@@ -17,3 +17,8 @@
 **Vulnerability:** Remote Code Execution / Data Exfiltration via Quarto Shortcode Injection
 **Learning:** `src/update_readme.py` writes external RSS data directly into `_dashboard_content.qmd`. Because Quarto processes `.qmd` files, an attacker could potentially execute arbitrary code or exfiltrate data by injecting malicious Quarto shortcodes (e.g., using `{{{< ... >}}}`). The previous sanitization only escaped HTML and Markdown characters but missed the curly braces used by Quarto.
 **Prevention:** Sanitize `{` and `}` in any untrusted data rendered by Quarto. Use HTML entities (`&#123;` and `&#125;`) for text fields and URL-encoded equivalents (`%7B` and `%7D`) for links to prevent shortcode execution.
+
+## 2026-04-10 - [Markdown Link Breakout and XSS]
+**Vulnerability:** Markdown Link Breakout and Cross-Site Scripting (XSS)
+**Learning:** `src/update_readme.py` generated Markdown links from untrusted RSS feeds using `f"- [{title}]({link})"`. While it enforced `http://` or `https://`, it did not encode characters with special meaning in Markdown links, such as parentheses `(`, `)`, spaces, or quotes `"`. An attacker could inject a URL like `https://example.com/) <script>alert(1)</script>`, which prematurely closes the Markdown link and renders the trailing HTML script tag in the dashboard (Markdown Injection/XSS).
+**Prevention:** In addition to validating URL protocols, untrusted inputs injected into Markdown link URIs must have spaces, parentheses, and quote characters properly URL-encoded (e.g., `link.replace(' ', '%20').replace('(', '%28').replace(')', '%29')`).

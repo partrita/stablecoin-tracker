@@ -99,10 +99,12 @@ def update_news_archive():
         title = title.replace('{', '&#123;').replace('}', '&#125;')
 
         # Security: Validate link to prevent javascript: or other malicious URIs
+        # and encode markdown-sensitive characters to prevent link breakout and XSS
         link = str(row['link'])
         if not link.startswith(('http://', 'https://')):
             link = '#'
         link = link.replace('{', '%7B').replace('}', '%7D')
+        link = link.replace(' ', '%20').replace('(', '%28').replace(')', '%29').replace('"', '%22')
 
         published = str(row['published'])
         published = html.escape(published).replace('[', '&#91;').replace(']', '&#93;')
