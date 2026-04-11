@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-11 01:26:35 (UTC)*
+*Last Updated: 2026-04-11 23:08:08 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$298,393,679,889** | 🔴 -49.94% | 🟢 +0.35% |
+| **$298,399,575,376** | 🔴 -49.94% | 🟢 +0.36% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [Iran war oil-price shock revives inflation trade and a new stablecoin play - CoinDesk](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWl9sN1gwc2tmTm1QWG5zRmZJaFFMSFNNWFM3dEtMcTZaOW5GbWVJVHN3eVU2SklsczRPM1RrTXpSdzBLVG9ucUZfSTlTSVl6MGtnRGFiSTZpcnV0R0htQ2JLS3FpelFValh3dUhuVnhMV1VaYkM4aFY1UkRmOGVrSDh3Y24xUXBiUXMtSWFwaW9DamMtemthQ1FWWkhDd09nTlhaLXZUUTBpMGdkRlozSzQyOWNORWNaa0Nn?oc=5) (Sat, 11 Apr 2026 16:01:57 GMT)
+- [Hong Kong grants first stablecoin licences to HSBC, Anchorpoint - MSN](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVzJUUzBDTkZRa1ZyY3RlVm16ZlpUcmxxd3E4QmNHZUlkYVpHcXdHQkZJNnphT2M3S3Yza0VFandQZHNXR0loVWo5RmJvclVubThVa0Z1NFNGWUlSV3B6TVgzUHFXbDh0TncyTVhDMGEyWnNXX3UtMEE2UFNxYUVKS25fcW5wRHI4V3hQNHMzRXMycjdQZUVuSmdXUzZ6d3dlNmlEbEFCQzdYaGljTE40UnZwVS1ESjQ2azVDUW4xSk1RalNGUVl5X3BoUy1IVmZTUGplSm5CNGZWbER4QkN0ckdDaVVLU3ZoZDlxcUtjYWtqclN0d3Fn?oc=5) (Sat, 11 Apr 2026 13:27:59 GMT)
+- [Calls grow for HKMA to go further on stablecoins after conservative first batch - South China Morning Post](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYnVaLUV4Q2pRMzB2ajhodVM1WUg3eHZybXNqenZOX1c4Yk4xUDM5S2VlQWZXVmxOX3JDWDBfam93WUFvVFk4MjBPOXFzNFc4eVFjWGN0WjRaUmREZ2Fuc3VwUy1FQUZKSWIyWGZrUkxoaXg5bFFJNnA3ZXNnbndHRXI4ZHBjelJQaFNHbUtuTnlSOGc3VVVVbGpRTExwY3VFLUpTMElPSGpjS1ljd0N1c3dTa0JwdkU1VjlSbHJaWTBTWlA4SmVRNEpCeFBoeUJl0gHQAUFVX3lxTE1fX0RFbThfZnBLWVNfYXR2U1gyd2VCeTFQNXFpbzB4X0t2enJtVWxyU3pGSWZSRTFnSzVWUnZuMXdWV1daV1Awa3RrSENGOWh3QmtGSTJVcVpsZWVRaWhVSXppU0x4eWsxQ19HZHh2R2dIMTdDb3JPbF8wcHZqdXBHSGxKdUhEUkhhckx4eUNYR201WUcyME4wZUpadFpScnp4aVA1cktSSGU0alBac3pkNlF6NlJ5S3lsTEttS2ZqME9iNWtGeHBTcldZeVB5UzU?oc=5) (Sat, 11 Apr 2026 09:10:21 GMT)
 - [The US Operationalized Stablecoins This Week, But Who’s Using Them? - PYMNTS.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3A0ZnhHblVidWJ2S3lYVDFmU3ZXYWlEdXJRYmE4RzZ4azJFTjdMcTJtNlQ1UTZZSFN1QjZYWnR6d2pXZ0dLWDN0aUduZ1FaTWpzOTlfdFVISXVjRll1aGpGOGtoYlBPWTFBak9EUmRvTy0wWWlOZEtJNGF1ekd4VVlmLTFPSHZtQ1NjbUhRM2JrMFYxSl93MTA5VXQ0bmpqZVJLSlp3UQ?oc=5) (Fri, 10 Apr 2026 22:45:22 GMT)
 - [What Are Stablecoins Used for Today? Estimating the Distribution of Stablecoins - kansascityfed.org](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaHcybkF3VkNrZTkyQ25DbkdtSmlMZjFQdTVjUHBCakJkZjJiSy1WemFlWDVtUTF0U1FfTnpOSG45UmZldFJ0MjhRRkc1YWpwQkZKMzlrdGVLT3ZEMXBjbnJXZERzT3VpWC1rWGJHa0hnX0RsT0ZrOHVBeVd6UHZDRGlwVlF3Y1hpU2lmZ1l0T1lpSEdYTW56MUNHb2JqNnI3V2dBQ19kYjdPTXFTeXpMRjBWamd2bjVxQktIUFFTeGlGamxobGxZX0M1Y2xmbHJORjJITWZWTURPQXRTODV6c3Q3VDlnUXps?oc=5) (Fri, 10 Apr 2026 22:29:13 GMT)
-- [FDIC moves to regulate stablecoin issuers under the GENIUS Act - MSN](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnllYndYTkxfcVFsM2hxV0todWhzZWJGTlg0Y0tKRlhUb01DNGd1QnpDRm1VNUxGWG0xYjRHYzhER0s4WmhvSGdnWjJaOGZLMGVFWUF1dnMtVDRfa3FpMWY3cmNTcUlYRDhkNndjWUZhZ3MwLVU0bnozdVA3eVBKc3pUc2FTSnBKb0x1ZFV4SHktcjJpWXJjUFlrT0t5YTFrVzdkZmc4YmtIZmZDZmpCTW1JTmY?oc=5) (Fri, 10 Apr 2026 19:49:36 GMT)
-- [The Stack - Grayscale](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQnpRRGZ0LWJxaHp1U2pxRlFaNmtLWlRJR0U2aE5wdzhrZmxsWUdHTWE1Y3QyMDdUcG9sbHp4bFhtLXR2V0pLZGgzR0F0Y3NMdVV3MEtBbjNfRld0aVYzQnFiQUs5NXFQbnF3Sk1aM3kxODlfa3Vua0UzV0F5MndyOW41M1VxOGFnbVpJNA?oc=5) (Fri, 10 Apr 2026 15:09:31 GMT)
-- [Can Visa&#x27;s OwlTing Partnership Accelerate Stablecoin Adoption? - Zacks Investment Research](https://news.google.com/rss/articles/CBMiowFBVV95cUxObEtMY3YxeHZpNzdtd24yTV9QVDlTZFI0aEpGSGYyNUFJb0Z3M1NOeVVyS0dFSU1uYkc2QTJKdmNDeUFqb21CQjFtaGZRbWtqd1YtclZla3lDeWlWaXI1dXgwRzZOZC1maG8xVnViOC1QZWg0TU54UTZ5aWNQVTZkVmZMUlljQm54Yzc5bGhkZzJMaTZLZ1RSWU0yMW5TNlBIVk80?oc=5) (Fri, 10 Apr 2026 15:05:21 GMT)
 
 <!-- END_dashboard -->
 
