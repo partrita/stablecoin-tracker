@@ -32,6 +32,7 @@ if os.path.exists(archive_path):
         safe_title = html.escape(str(row['title'])).replace('[', '&#91;').replace(']', '&#93;').replace('{', '&#123;').replace('}', '&#125;')
         safe_link = str(row['link']) if str(row['link']).startswith(('http://', 'https://')) else '#'
         safe_link = safe_link.replace('{', '%7B').replace('}', '%7D')
+        safe_link = safe_link.replace(' ', '%20').replace('(', '%28').replace(')', '%29').replace('"', '%22')
         safe_published = html.escape(str(row['published'])).replace('[', '&#91;').replace(']', '&#93;').replace('{', '&#123;').replace('}', '&#125;')
 
         display(Markdown(f"### [{safe_title}]({safe_link})"))

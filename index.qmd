@@ -76,6 +76,7 @@ if os.path.exists(archive_path):
             safe_title = safe_title.replace('{', '&#123;').replace('}', '&#125;')
             safe_link = str(link) if str(link).startswith(('http://', 'https://')) else '#'
             safe_link = safe_link.replace('{', '%7B').replace('}', '%7D')
+            safe_link = safe_link.replace(' ', '%20').replace('(', '%28').replace(')', '%29').replace('"', '%22')
             return f"[{safe_title}]({safe_link})"
 
         df_news['Article'] = df_news.apply(lambda x: create_safe_link(x['title'], x['link']), axis=1)
