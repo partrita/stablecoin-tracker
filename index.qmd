@@ -74,15 +74,17 @@ if os.path.exists(archive_path):
         def create_safe_link(title, link):
             safe_title = html.escape(str(title)).replace('[', '&#91;').replace(']', '&#93;')
             safe_title = safe_title.replace('{', '&#123;').replace('}', '&#125;')
+            safe_title = safe_title.replace('\n', ' ').replace('\r', '').replace('|', '&#124;')
             safe_link = str(link) if str(link).startswith(('http://', 'https://')) else '#'
             safe_link = safe_link.replace('{', '%7B').replace('}', '%7D')
             safe_link = safe_link.replace(' ', '%20').replace('(', '%28').replace(')', '%29').replace('"', '%22')
+            safe_link = safe_link.replace('\n', ' ').replace('\r', '').replace('|', '%7C')
             return f"[{safe_title}]({safe_link})"
 
         df_news['Article'] = df_news.apply(lambda x: create_safe_link(x['title'], x['link']), axis=1)
         
         # Security: Sanitize published date as well
-        df_news['published'] = df_news['published'].apply(lambda x: html.escape(str(x)).replace('[', '&#91;').replace(']', '&#93;').replace('{', '&#123;').replace('}', '&#125;'))
+        df_news['published'] = df_news['published'].apply(lambda x: html.escape(str(x)).replace('[', '&#91;').replace(']', '&#93;').replace('{', '&#123;').replace('}', '&#125;').replace('\n', ' ').replace('\r', '').replace('|', '&#124;'))
 
         # Select and Rename columns
         df_table = df_news[['published', 'Article']].copy()
