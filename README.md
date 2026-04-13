@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-12 01:51:00 (UTC)*
+*Last Updated: 2026-04-13 01:55:51 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$298,444,650,823** | 🔴 -66.66% | 🟢 +0.38% |
+| **$298,455,047,757** | 🟢 +0.00% | 🔴 -49.80% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [Hong Kong Grants Stablecoin Issuer Licences - Wealth Briefing](https://news.google.com/rss/articles/CBMilwFBVV95cUxNbVRVRjFzMlBQdE51SkZoZTJNRTlCb29LWmZzckJLb3lsMXRZeTBTZ3N1bHdWV1JfazRFa0NPNEVpdG9tLUE3YzNWUi1Hd3ljZGJZYWMxY3FmN2JKaXpUclBfMGV6VmxaSmowRVVmN2pXQXVUSlktbDdfc0lzNFBZVm1pZ0pqT0otZkRoOHo0bHRZTVZCN1NV?oc=5) (Sun, 12 Apr 2026 20:46:08 GMT)
+- [Stablecoin Forecasts Stretch Higher as Bessent Presses for U.S. Crypto Clarity - Yahoo Finance](https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0l5c0g4amhWNndSZ0EtYU5EMHhsQW5XQnRMaGp6U2MxaGFkY25zRi1TbmRBc21CSW9mSllFUTAwaXZ4NmQwcTRFVFZGb21tMm04SW4zR0RJRDczb1VOODRoTVhKZEktN1VReklHVDVqSEY1ZjhuZTViTFM3bnd4QlplN0dHVlBxb0tYenptcEJFMWlETFhad1dlTjhTOWZwRWR0U1NYMXR4ZXFF?oc=5) (Sun, 12 Apr 2026 18:38:00 GMT)
+- [Mastercard (MA) Valuation Check As BVNK Deal Expands Stablecoin And Crypto Payment Reach - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWUtuSGc4Z29vZ01QQXFZbmJmVDVtZ3BSRXpTR2paNmZnU25uLXYxRkFoNEt1bGdCRDl3YjhvbGRmSl94SjV4enRHUjVxelU5WlJRYjlNckxaOTBZd3kxa2h6bk14bnZ4TmNGRGFHQmFmOExCTlJzUFYxbGNkbE0zVUdZTktHZmxheDk5bllZeVczM3RNVzNfVkRjSEt2UXBv?oc=5) (Sun, 12 Apr 2026 04:23:00 GMT)
+- [IMF warns stablecoins are only as stable as their reserves - dlnews.com](https://news.google.com/rss/articles/CBMifkFVX3lxTFBDZ1ZWdmZ5Rk5oQkxvN2xfTmpfOXJGSWt3VTdGeloxa2JjNEU1Z3R3VTZSS0JHRGR1ZU5RMGt3MUlMX1paSEh5U1NuSUVhSGs5UHlSNzFxZ2FUbGowMDBFNHVzMFVCb2ZaTmhSQldFUDd1dzZSNmlTblpUaWFLUQ?oc=5) (Sat, 11 Apr 2026 23:25:54 GMT)
 - [Iran war oil-price shock revives inflation trade and a new stablecoin play - CoinDesk](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWl9sN1gwc2tmTm1QWG5zRmZJaFFMSFNNWFM3dEtMcTZaOW5GbWVJVHN3eVU2SklsczRPM1RrTXpSdzBLVG9ucUZfSTlTSVl6MGtnRGFiSTZpcnV0R0htQ2JLS3FpelFValh3dUhuVnhMV1VaYkM4aFY1UkRmOGVrSDh3Y24xUXBiUXMtSWFwaW9DamMtemthQ1FWWkhDd09nTlhaLXZUUTBpMGdkRlozSzQyOWNORWNaa0Nn?oc=5) (Sat, 11 Apr 2026 16:01:57 GMT)
-- [Hong Kong grants first stablecoin licences to HSBC, Anchorpoint - MSN](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVzJUUzBDTkZRa1ZyY3RlVm16ZlpUcmxxd3E4QmNHZUlkYVpHcXdHQkZJNnphT2M3S3Yza0VFandQZHNXR0loVWo5RmJvclVubThVa0Z1NFNGWUlSV3B6TVgzUHFXbDh0TncyTVhDMGEyWnNXX3UtMEE2UFNxYUVKS25fcW5wRHI4V3hQNHMzRXMycjdQZUVuSmdXUzZ6d3dlNmlEbEFCQzdYaGljTE40UnZwVS1ESjQ2azVDUW4xSk1RalNGUVl5X3BoUy1IVmZTUGplSm5CNGZWbER4QkN0ckdDaVVLU3ZoZDlxcUtjYWtqclN0d3Fn?oc=5) (Sat, 11 Apr 2026 13:27:59 GMT)
-- [Calls grow for HKMA to go further on stablecoins after conservative first batch - South China Morning Post](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYnVaLUV4Q2pRMzB2ajhodVM1WUg3eHZybXNqenZOX1c4Yk4xUDM5S2VlQWZXVmxOX3JDWDBfam93WUFvVFk4MjBPOXFzNFc4eVFjWGN0WjRaUmREZ2Fuc3VwUy1FQUZKSWIyWGZrUkxoaXg5bFFJNnA3ZXNnbndHRXI4ZHBjelJQaFNHbUtuTnlSOGc3VVVVbGpRTExwY3VFLUpTMElPSGpjS1ljd0N1c3dTa0JwdkU1VjlSbHJaWTBTWlA4SmVRNEpCeFBoeUJl0gHQAUFVX3lxTE1fX0RFbThfZnBLWVNfYXR2U1gyd2VCeTFQNXFpbzB4X0t2enJtVWxyU3pGSWZSRTFnSzVWUnZuMXdWV1daV1Awa3RrSENGOWh3QmtGSTJVcVpsZWVRaWhVSXppU0x4eWsxQ19HZHh2R2dIMTdDb3JPbF8wcHZqdXBHSGxKdUhEUkhhckx4eUNYR201WUcyME4wZUpadFpScnp4aVA1cktSSGU0alBac3pkNlF6NlJ5S3lsTEttS2ZqME9iNWtGeHBTcldZeVB5UzU?oc=5) (Sat, 11 Apr 2026 09:10:21 GMT)
-- [The US Operationalized Stablecoins This Week, But Who’s Using Them? - PYMNTS.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3A0ZnhHblVidWJ2S3lYVDFmU3ZXYWlEdXJRYmE4RzZ4azJFTjdMcTJtNlQ1UTZZSFN1QjZYWnR6d2pXZ0dLWDN0aUduZ1FaTWpzOTlfdFVISXVjRll1aGpGOGtoYlBPWTFBak9EUmRvTy0wWWlOZEtJNGF1ekd4VVlmLTFPSHZtQ1NjbUhRM2JrMFYxSl93MTA5VXQ0bmpqZVJLSlp3UQ?oc=5) (Fri, 10 Apr 2026 22:45:22 GMT)
-- [What Are Stablecoins Used for Today? Estimating the Distribution of Stablecoins - kansascityfed.org](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaHcybkF3VkNrZTkyQ25DbkdtSmlMZjFQdTVjUHBCakJkZjJiSy1WemFlWDVtUTF0U1FfTnpOSG45UmZldFJ0MjhRRkc1YWpwQkZKMzlrdGVLT3ZEMXBjbnJXZERzT3VpWC1rWGJHa0hnX0RsT0ZrOHVBeVd6UHZDRGlwVlF3Y1hpU2lmZ1l0T1lpSEdYTW56MUNHb2JqNnI3V2dBQ19kYjdPTXFTeXpMRjBWamd2bjVxQktIUFFTeGlGamxobGxZX0M1Y2xmbHJORjJITWZWTURPQXRTODV6c3Q3VDlnUXps?oc=5) (Fri, 10 Apr 2026 22:29:13 GMT)
 
 <!-- END_dashboard -->
 
