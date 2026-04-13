@@ -105,8 +105,8 @@ def update_news_archive():
         if not link.startswith(('http://', 'https://')):
             link = '#'
         link = link.replace('{', '%7B').replace('}', '%7D')
+        link = link.replace('\n', '%20').replace('\r', '').replace('|', '%7C')
         link = link.replace(' ', '%20').replace('(', '%28').replace(')', '%29').replace('"', '%22')
-        link = link.replace('\n', ' ').replace('\r', '').replace('|', '%7C')
 
         published = str(row['published'])
         published = html.escape(published).replace('[', '&#91;').replace(']', '&#93;')
