@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-09 01:24:37 (UTC)*
+*Last Updated: 2026-04-13 01:55:51 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$297,638,030,884** | 🟢 +0.11% | 🔴 -66.57% |
+| **$298,455,047,757** | 🟢 +0.00% | 🔴 -49.80% |
 
 ### 📰 Latest News
-- [Banks are treading carefully on stablecoins despite market growth, S&amp;P Global says - CoinDesk](https://news.google.com/rss/articles/CBMiygFBVV95cUxQVGctLUoxTGxKZVlETnVwakhXd293OUVhZjJDYWVVTDRZZVBzREpJeENjNEljalotRU90dDVxZDZGeDZLcXI5WmtUNlY0cGtTcnF3QlVqMVBjV2N3SGNraGc0OUltQnNlLWk4YUhXWXBuSnJrY3MycFE2R1p6QWxPUG96WWp3MHVwQ1NYWE9qaVVMcFZvX2pDMVlLMGdrLVpHRG1SZ0d3cmIzWi04cDdqeldYdGJ2YlVwX09ONHIwYjFQNG5McFUtMGhB?oc=5) (Thu, 09 Apr 2026 12:36:54 GMT)
-- [Banks, Credit Unions Face Setback In Push To Block Stablecoin Rewards - CU Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVUNQbEdJTURHMjlobnliYkJCS1BUSG1XNzg5Y2hZWmdXOGRVbmYxN0pyM01XT3Y4dWlXbXVvUk1zbDhqVlhoRmJXdF9IWlAxZm9SNHduMGhRckNWd2xWTnlVYUI3dmxMV05OZ3JkSWprTDhNaC1CVktyLVZzd2FvMnZGTFhHYW5ocFhlVXRiS0E0V3UtWlRZZ2pSRUthaVBUVlFCTHJ0eXk?oc=5) (Thu, 09 Apr 2026 12:14:32 GMT)
-- [US Treasury, FinCEN publish AML, BSA rule proposals for GENIUS Act stablecoins - ledgerinsights.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVpqaV83cW83RHBwT2dNVHVQSHUtRjFPT185QWxrZkVaLXByV2VjbTFudThESFU1R1FGV1dvcUhIaXFUZU54aDNSREFvekFJZ2NiMGllSlV1d2d6N2RpQzVJMUNpcGpnNVFyXzhQNU5zQ3IycjdDT0FCazJQcVlxSHhvSUN3NUF6QXdFRnJKNGJwWUFyNldLbVdySHJ3QWZkSllpb1RzZGFvbEpH?oc=5) (Thu, 09 Apr 2026 11:12:04 GMT)
-- [Reg Wrap: FDIC sets out GENIUS Act stablecoin rule book - TheBanker.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE00TVFITjZIdU5SclFycF8xNFVHbU1fUG9HWUxESzRTbmFnNXg2eS1iQURDSmpfUmVqckpOUmJHQmRab25DZTVuWFRvLVhCMngzaFo3emU3T3NjSzRnRjJvbFlCRF9YV0RwM2pGSmx4QU8yVmhhNFpzV2tR?oc=5) (Thu, 09 Apr 2026 11:06:55 GMT)
-- [Swiss banks launch sandbox for CHF stablecoin - FinTech Futures](https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1g3XzU5LXRRS3hEaFpDeGYwdFhWWlRlM2c2RWY2bW14SDFMRlE4TFhpOEdxc1RYWmlWYjAzRXRhQThZT2tfRGhsekpKTWY2M0lRdzZ2R3liWlhQdlRGc1JfaHg1RG1tV1hkWHRoaW8xX3ljZTlaT29fNVd0d3B6R0VZUE53N05ScDY3OFZ0RnlNZ05OWXdmUVNrN05PaE0?oc=5) (Thu, 09 Apr 2026 11:06:16 GMT)
+- [Tether Hires JPMorgan Executive for U.S. Stablecoin Expansion - The Information](https://news.google.com/rss/articles/CBMingFBVV95cUxPSkdSdHEydk1yb0tsdkxqUXE0bHoteEdKX0FJbC1WemVkSjZrNFlMZFdDbkZaUm5xWmJ6OGxGeUlIV25uLWNwb2VmN0pfT0w4ZFpXRFBPdXl6MnhJS2lhT3ptT1RoNThrM0RlNE45cWVQVExhQWFpZnpuemJPcmdyNVp0Y0NURlJ5M3RwQXNSTV9QSEpQYjJOOXRidy14QQ?oc=5) (Mon, 13 Apr 2026 13:04:00 GMT)
+- [2 Stablecoin-Related Investments That Could Soar in Value in 2026 - The Globe and Mail](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS3Q4R01rRFQxX3htNWROekFPWk5SYUJaZkpXTWxzdmRkNWVfUXFYcHVzeEZ6clQxbUdyelVxWHRBUDJtN2ViTlFOc1d5cy1yYWNvTFNUSnNXMzdvSGxTLVAyLUM5UlRMX1J5TVhLVy1UZTJ4dU1kRElQcHU3Ym5jMjZGaVB5Zm9pMWdUbVluVVNlUkE3eldKREpJRFhxa2xxTjI2R0FxNWVPd3NZc2JEaHZ0cXR2TjhqZkNGT0VrMmgyMmxYVUhLX0dtT01CazF3NHRYd0hNQVV6OS14d1dkdzBpU3E?oc=5) (Mon, 13 Apr 2026 10:21:48 GMT)
+- [2 Stablecoin-Related Investments That Could Soar in Value in 2026 - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWFZQNGg1dUZZVWpVbzVyRnFtd2lhN1B6QTExZThKODgzVk5GNURHcDhvTGVjS2pLa2hQSnBIYzBDVWhWSlZNVTFMRUtZME5FYXd5UGg0MUFSNkowa29nQWZadzdtakVldWZ2ZzNmOERmeGxyS1MxZUFMZEctZ1BYV3pVZG5wSGVoMS1qYUY2RzlXUXRXdDlPUg?oc=5) (Mon, 13 Apr 2026 10:18:34 GMT)
+- [Hong Kong Grants Stablecoin Issuer Licences - Wealth Briefing](https://news.google.com/rss/articles/CBMilwFBVV95cUxNbVRVRjFzMlBQdE51SkZoZTJNRTlCb29LWmZzckJLb3lsMXRZeTBTZ3N1bHdWV1JfazRFa0NPNEVpdG9tLUE3YzNWUi1Hd3ljZGJZYWMxY3FmN2JKaXpUclBfMGV6VmxaSmowRVVmN2pXQXVUSlktbDdfc0lzNFBZVm1pZ0pqT0otZkRoOHo0bHRZTVZCN1NV?oc=5) (Sun, 12 Apr 2026 20:46:08 GMT)
+- [Stablecoin Forecasts Stretch Higher as Bessent Presses for U.S. Crypto Clarity - Yahoo Finance](https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0l5c0g4amhWNndSZ0EtYU5EMHhsQW5XQnRMaGp6U2MxaGFkY25zRi1TbmRBc21CSW9mSllFUTAwaXZ4NmQwcTRFVFZGb21tMm04SW4zR0RJRDczb1VOODRoTVhKZEktN1VReklHVDVqSEY1ZjhuZTViTFM3bnd4QlplN0dHVlBxb0tYenptcEJFMWlETFhad1dlTjhTOWZwRWR0U1NYMXR4ZXFF?oc=5) (Sun, 12 Apr 2026 18:38:00 GMT)

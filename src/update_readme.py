@@ -97,6 +97,7 @@ def update_news_archive():
         title = str(row['title'])
         title = html.escape(title).replace('[', '&#91;').replace(']', '&#93;')
         title = title.replace('{', '&#123;').replace('}', '&#125;')
+        title = title.replace('\n', ' ').replace('\r', '').replace('|', '&#124;')
 
         # Security: Validate link to prevent javascript: or other malicious URIs
         # and encode markdown-sensitive characters to prevent link breakout and XSS
@@ -105,10 +106,12 @@ def update_news_archive():
             link = '#'
         link = link.replace('{', '%7B').replace('}', '%7D')
         link = link.replace(' ', '%20').replace('(', '%28').replace(')', '%29').replace('"', '%22')
+        link = link.replace('\n', '').replace('\r', '').replace('|', '%7C')
 
         published = str(row['published'])
         published = html.escape(published).replace('[', '&#91;').replace(']', '&#93;')
         published = published.replace('{', '&#123;').replace('}', '&#125;')
+        published = published.replace('\n', ' ').replace('\r', '').replace('|', '&#124;')
 
         news_lines.append(f"- [{title}]({link}) ({published})")
     
