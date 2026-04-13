@@ -22,3 +22,8 @@
 **Vulnerability:** Markdown Link Breakout and Cross-Site Scripting (XSS)
 **Learning:** `src/update_readme.py` generated Markdown links from untrusted RSS feeds using `f"- [{title}]({link})"`. While it enforced `http://` or `https://`, it did not encode characters with special meaning in Markdown links, such as parentheses `(`, `)`, spaces, or quotes `"`. An attacker could inject a URL like `https://example.com/) <script>alert(1)</script>`, which prematurely closes the Markdown link and renders the trailing HTML script tag in the dashboard (Markdown Injection/XSS).
 **Prevention:** In addition to validating URL protocols, untrusted inputs injected into Markdown link URIs must have spaces, parentheses, and quote characters properly URL-encoded (e.g., `link.replace(' ', '%20').replace('(', '%28').replace(')', '%29')`).
+
+## 2026-04-13 - [Markdown Table and Block Breakout]
+**Vulnerability:** Markdown Block Breakout and Table Structure Corruption
+**Learning:** `src/update_readme.py` injects untrusted RSS data into Markdown documents (`README.md`, `_dashboard_content.qmd`). Even with HTML escaping and basic character replacement, an attacker could include newline (`\n`, `\r`) or pipe (`|`) characters in the RSS feed. Newlines can cause a single link to span multiple lines, breaking out of lists or blocks and creating new Markdown blocks (like headers or code blocks). Pipe characters can corrupt Markdown tables if the injected text is rendered inside or near a table.
+**Prevention:** Always strip or encode newline characters (`\n`, `\r`) and pipe characters (`|`) when injecting untrusted content into Markdown, especially when the content is expected to stay on a single line or is near table structures.
