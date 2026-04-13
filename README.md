@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-13 01:55:51 (UTC)*
+*Last Updated: 2026-04-13 21:56:32 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$298,455,047,757** | 🟢 +0.00% | 🔴 -49.80% |
+| **$298,406,917,882** | 🔴 -0.01% | 🔴 -49.81% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Tether Hires JPMorgan Executive for U.S. Stablecoin Expansion - The Information](https://news.google.com/rss/articles/CBMingFBVV95cUxPSkdSdHEydk1yb0tsdkxqUXE0bHoteEdKX0FJbC1WemVkSjZrNFlMZFdDbkZaUm5xWmJ6OGxGeUlIV25uLWNwb2VmN0pfT0w4ZFpXRFBPdXl6MnhJS2lhT3ptT1RoNThrM0RlNE45cWVQVExhQWFpZnpuemJPcmdyNVp0Y0NURlJ5M3RwQXNSTV9QSEpQYjJOOXRidy14QQ?oc=5) (Mon, 13 Apr 2026 13:04:00 GMT)
-- [2 Stablecoin-Related Investments That Could Soar in Value in 2026 - The Globe and Mail](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS3Q4R01rRFQxX3htNWROekFPWk5SYUJaZkpXTWxzdmRkNWVfUXFYcHVzeEZ6clQxbUdyelVxWHRBUDJtN2ViTlFOc1d5cy1yYWNvTFNUSnNXMzdvSGxTLVAyLUM5UlRMX1J5TVhLVy1UZTJ4dU1kRElQcHU3Ym5jMjZGaVB5Zm9pMWdUbVluVVNlUkE3eldKREpJRFhxa2xxTjI2R0FxNWVPd3NZc2JEaHZ0cXR2TjhqZkNGT0VrMmgyMmxYVUhLX0dtT01CazF3NHRYd0hNQVV6OS14d1dkdzBpU3E?oc=5) (Mon, 13 Apr 2026 10:21:48 GMT)
-- [2 Stablecoin-Related Investments That Could Soar in Value in 2026 - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWFZQNGg1dUZZVWpVbzVyRnFtd2lhN1B6QTExZThKODgzVk5GNURHcDhvTGVjS2pLa2hQSnBIYzBDVWhWSlZNVTFMRUtZME5FYXd5UGg0MUFSNkowa29nQWZadzdtakVldWZ2ZzNmOERmeGxyS1MxZUFMZEctZ1BYV3pVZG5wSGVoMS1qYUY2RzlXUXRXdDlPUg?oc=5) (Mon, 13 Apr 2026 10:18:34 GMT)
-- [Hong Kong Grants Stablecoin Issuer Licences - Wealth Briefing](https://news.google.com/rss/articles/CBMilwFBVV95cUxNbVRVRjFzMlBQdE51SkZoZTJNRTlCb29LWmZzckJLb3lsMXRZeTBTZ3N1bHdWV1JfazRFa0NPNEVpdG9tLUE3YzNWUi1Hd3ljZGJZYWMxY3FmN2JKaXpUclBfMGV6VmxaSmowRVVmN2pXQXVUSlktbDdfc0lzNFBZVm1pZ0pqT0otZkRoOHo0bHRZTVZCN1NV?oc=5) (Sun, 12 Apr 2026 20:46:08 GMT)
-- [Stablecoin Forecasts Stretch Higher as Bessent Presses for U.S. Crypto Clarity - Yahoo Finance](https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0l5c0g4amhWNndSZ0EtYU5EMHhsQW5XQnRMaGp6U2MxaGFkY25zRi1TbmRBc21CSW9mSllFUTAwaXZ4NmQwcTRFVFZGb21tMm04SW4zR0RJRDczb1VOODRoTVhKZEktN1VReklHVDVqSEY1ZjhuZTViTFM3bnd4QlplN0dHVlBxb0tYenptcEJFMWlETFhad1dlTjhTOWZwRWR0U1NYMXR4ZXFF?oc=5) (Sun, 12 Apr 2026 18:38:00 GMT)
+- [FDIC proposes GENIUS Act rule establishing framework for FDIC-supervised payment stablecoin issuers - JD Supra](https://news.google.com/rss/articles/CBMifEFVX3lxTE54c3FVZmlhUnZkaW9fQTdPXzZZbndBbTN2YWNuaHExaU9BcUtPSFVpSjFpQ2VYeFZSd2xnV3JYNmttRURhcTZnOU9vUnJ0VFhhUm5YM3BTcHU0SGdQRi1xajAtQXhFNnhNcHJXc2cyT3hZRUZXR1otV0NfQ2g?oc=5) (Mon, 13 Apr 2026 18:52:52 GMT)
+- [Circle CEO Defends Company’s Response to Stablecoin Hacks - PYMNTS.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWp0U01laWZiLXZfQjRZYnRDSHphbllnUFI2bnFNNTM0ZFZmcVNrQkNvSEJKUG5nUU5wRlBaZDllaV8xY0pDeGtKTUtWMXBFaE02VGdvdXVCOTZMcG0wX3hGVEk3REpJRFc2cG9GYU9oaEYxNUJqN0JRbnpBalQ3OUs3MzdBT0FoQnlKZTRTaWNQYlk3WmNUelNMRG1HMTBremc?oc=5) (Mon, 13 Apr 2026 18:22:51 GMT)
+- [ABA Warns NCUA Against Finalizing Stablecoin Application Rule Too Soon - CU Today](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2tpT2dVWENQTWJYN3lvYjNQT0FhNWJOdkNqZUdlckhFWW1NZzJRYU4yY3BKcWRmQ3BEaE9NdWtJRlJmdE15djBHSjhDb0hZczdUSThNcXJhS2o5dHhfUFUwa0N6NG5paHZ2R05XTlZPaUlValUzUnJnTDl5MWszYm50ajJPSUtRMDN3OW5fREZ4UkxqTnE5SHVwLXkyNVFpMVdoN0ZBbnRGc2s?oc=5) (Mon, 13 Apr 2026 18:13:27 GMT)
+- [When will I pay for coffee with a stablecoin? - Chris Skinner&#x27;s blog](https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ29ybmdCb09xUTNUTklnaTcxYTdjbHk2eUdVYUY3YV9renZCUmJWbUw1SXhBRWQ5NXBBS1FRMlRrczgxWVFNSjFxbFZaZ1dmUW83S2JHdDJWOHZaXzlQTEV5ZzdyYmtuRXozWGRRcm5WX1BMSkZUMHB4d0dhb2NsOHpuYm0?oc=5) (Mon, 13 Apr 2026 16:52:30 GMT)
+- [Bank Lobby Fires Back at White House, Saying Stablecoin Study Ignores Community Bank Threat - Bitcoin Magazine](https://news.google.com/rss/articles/CBMie0FVX3lxTE9WRmpnNE9SOGdpZG44T0ZES1NiWWc4YVpoVTgtTjBJei1KLV9SbmRmR0hYbjctZlV0RWduamV5Q05KT05iM010SXRQQ1MwbHRSOF91aGcxN2JhbEI1MENBRThkMWpiNWNsT2JMQWkyRFR0dEp5MmdSa3VHZw?oc=5) (Mon, 13 Apr 2026 16:23:18 GMT)
 
 <!-- END_dashboard -->
 
