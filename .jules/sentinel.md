@@ -27,3 +27,8 @@
 **Vulnerability:** Markdown Block Breakout and Table Structure Corruption
 **Learning:** `src/update_readme.py` injects untrusted RSS data into Markdown documents (`README.md`, `_dashboard_content.qmd`). Even with HTML escaping and basic character replacement, an attacker could include newline (`\n`, `\r`) or pipe (`|`) characters in the RSS feed. Newlines can cause a single link to span multiple lines, breaking out of lists or blocks and creating new Markdown blocks (like headers or code blocks). Pipe characters can corrupt Markdown tables if the injected text is rendered inside or near a table.
 **Prevention:** Always strip or encode newline characters (`\n`, `\r`) and pipe characters (`|`) when injecting untrusted content into Markdown, especially when the content is expected to stay on a single line or is near table structures.
+
+## 2024-04-14 - Markdown Breakout Vulnerability in Quarto
+**Vulnerability:** Untrusted inputs (like RSS feed titles and URLs) rendered inside Quarto Markdown tables or links lacked sanitization for newlines (`\n`, `\r`) and pipe characters (`|`).
+**Learning:** Malicious or malformed inputs containing these characters can cause Markdown Block Breakouts, corrupting table structures or injecting unintended formatting and links directly into the rendered document.
+**Prevention:** Always strip or encode newline and pipe characters (e.g., using `.replace('\n', ' ').replace('\r', '').replace('|', '&#124;')`) when injecting untrusted content into Markdown contexts, especially within `.qmd` documents.

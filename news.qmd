@@ -29,11 +29,12 @@ if os.path.exists(archive_path):
     # Generate Markdown table or list
     for _, row in df.iterrows():
         # Security: Sanitize untrusted data to prevent Markdown injection, XSS, and Quarto shortcode injection
-        safe_title = html.escape(str(row['title'])).replace('[', '&#91;').replace(']', '&#93;').replace('{', '&#123;').replace('}', '&#125;')
+        safe_title = html.escape(str(row['title'])).replace('[', '&#91;').replace(']', '&#93;').replace('{', '&#123;').replace('}', '&#125;').replace('\n', ' ').replace('\r', '').replace('|', '&#124;')
         safe_link = str(row['link']) if str(row['link']).startswith(('http://', 'https://')) else '#'
         safe_link = safe_link.replace('{', '%7B').replace('}', '%7D')
         safe_link = safe_link.replace(' ', '%20').replace('(', '%28').replace(')', '%29').replace('"', '%22')
-        safe_published = html.escape(str(row['published'])).replace('[', '&#91;').replace(']', '&#93;').replace('{', '&#123;').replace('}', '&#125;')
+        safe_link = safe_link.replace('\n', '').replace('\r', '').replace('|', '%7C')
+        safe_published = html.escape(str(row['published'])).replace('[', '&#91;').replace(']', '&#93;').replace('{', '&#123;').replace('}', '&#125;').replace('\n', ' ').replace('\r', '').replace('|', '&#124;')
 
         display(Markdown(f"### [{safe_title}]({safe_link})"))
         display(Markdown(f"_{safe_published}_"))
