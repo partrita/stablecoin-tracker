@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-13 21:56:32 (UTC)*
+*Last Updated: 2026-04-14 01:51:01 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$298,406,917,882** | 🔴 -0.01% | 🔴 -49.81% |
+| **$298,591,233,857** | 🔴 -49.97% | 🟢 +0.48% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [White House Study Minimizes Stablecoin Risk, ABA Says - Law360](https://news.google.com/rss/articles/CBMilwFBVV95cUxORVJCMC1VUUpJc18yemJfUVhaV1VzbDVNUkkxc28weHNXV1RoQ1p0blFabGVpSUdzYXZDR3NFczRSYV9US2R6TFdLRFpCVXJfTndJSnhLb1ZGM1NLMGpyZzJ5bTZiQXJ2X3dIVGVUcDE2OTRWUk05STZMRTNCMEVUQS1VSVYwbDZRaGxSbmVLUzRKdWRzMjhz0gFWQVVfeXFMUGlsRkFtZGhWT0lKX0I0TVNGQW84UTlTcTFBeU1kV040WXBDQlhIbnNEeFlvQjh0ZlJMcmVIY2w3V296UlBoUDhHd0pjTENDX2tZR1k3TXc?oc=5) (Tue, 14 Apr 2026 01:07:00 GMT)
 - [FDIC proposes GENIUS Act rule establishing framework for FDIC-supervised payment stablecoin issuers - JD Supra](https://news.google.com/rss/articles/CBMifEFVX3lxTE54c3FVZmlhUnZkaW9fQTdPXzZZbndBbTN2YWNuaHExaU9BcUtPSFVpSjFpQ2VYeFZSd2xnV3JYNmttRURhcTZnOU9vUnJ0VFhhUm5YM3BTcHU0SGdQRi1xajAtQXhFNnhNcHJXc2cyT3hZRUZXR1otV0NfQ2g?oc=5) (Mon, 13 Apr 2026 18:52:52 GMT)
 - [Circle CEO Defends Company’s Response to Stablecoin Hacks - PYMNTS.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWp0U01laWZiLXZfQjRZYnRDSHphbllnUFI2bnFNNTM0ZFZmcVNrQkNvSEJKUG5nUU5wRlBaZDllaV8xY0pDeGtKTUtWMXBFaE02VGdvdXVCOTZMcG0wX3hGVEk3REpJRFc2cG9GYU9oaEYxNUJqN0JRbnpBalQ3OUs3MzdBT0FoQnlKZTRTaWNQYlk3WmNUelNMRG1HMTBremc?oc=5) (Mon, 13 Apr 2026 18:22:51 GMT)
 - [ABA Warns NCUA Against Finalizing Stablecoin Application Rule Too Soon - CU Today](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2tpT2dVWENQTWJYN3lvYjNQT0FhNWJOdkNqZUdlckhFWW1NZzJRYU4yY3BKcWRmQ3BEaE9NdWtJRlJmdE15djBHSjhDb0hZczdUSThNcXJhS2o5dHhfUFUwa0N6NG5paHZ2R05XTlZPaUlValUzUnJnTDl5MWszYm50ajJPSUtRMDN3OW5fREZ4UkxqTnE5SHVwLXkyNVFpMVdoN0ZBbnRGc2s?oc=5) (Mon, 13 Apr 2026 18:13:27 GMT)
-- [When will I pay for coffee with a stablecoin? - Chris Skinner&#x27;s blog](https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ29ybmdCb09xUTNUTklnaTcxYTdjbHk2eUdVYUY3YV9renZCUmJWbUw1SXhBRWQ5NXBBS1FRMlRrczgxWVFNSjFxbFZaZ1dmUW83S2JHdDJWOHZaXzlQTEV5ZzdyYmtuRXozWGRRcm5WX1BMSkZUMHB4d0dhb2NsOHpuYm0?oc=5) (Mon, 13 Apr 2026 16:52:30 GMT)
-- [Bank Lobby Fires Back at White House, Saying Stablecoin Study Ignores Community Bank Threat - Bitcoin Magazine](https://news.google.com/rss/articles/CBMie0FVX3lxTE9WRmpnNE9SOGdpZG44T0ZES1NiWWc4YVpoVTgtTjBJei1KLV9SbmRmR0hYbjctZlV0RWduamV5Q05KT05iM010SXRQQ1MwbHRSOF91aGcxN2JhbEI1MENBRThkMWpiNWNsT2JMQWkyRFR0dEp5MmdSa3VHZw?oc=5) (Mon, 13 Apr 2026 16:23:18 GMT)
+- [The Numbers Are In. The Banks&#x27; Case for a Yield Ban Just Fell Apart. - FinTech Weekly](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWDVvdDRjWERpY0pTTWtfeXBzRlRlVnlBVkpSZVdHT0VKb0wyRm92NFNhcHlncnk1NHRWODBTZV9HVmgzcm5hNmVYekRuVGsyLUhBb25BRDh3eWVGbTNsQm5KQkRqVWpKWEhCc1RMLU5jdWFiV3NHTTY0TkxTZ3p6TGRUdEI2ZWYyR19HMGhZWnRfOEtFaW9VRkhqcEQ5U1dqQl9VRA?oc=5) (Mon, 13 Apr 2026 17:31:00 GMT)
 
 <!-- END_dashboard -->
 
