@@ -32,3 +32,8 @@
 **Vulnerability:** Untrusted inputs (like RSS feed titles and URLs) rendered inside Quarto Markdown tables or links lacked sanitization for newlines (`\n`, `\r`) and pipe characters (`|`).
 **Learning:** Malicious or malformed inputs containing these characters can cause Markdown Block Breakouts, corrupting table structures or injecting unintended formatting and links directly into the rendered document.
 **Prevention:** Always strip or encode newline and pipe characters (e.g., using `.replace('\n', ' ').replace('\r', '').replace('|', '&#124;')`) when injecting untrusted content into Markdown contexts, especially within `.qmd` documents.
+
+## 2026-04-15 - [SSRF / Arbitrary File Read Risk via urllib.request]
+**Vulnerability:** Server-Side Request Forgery (SSRF) and Arbitrary File Read via `urllib.request.urlopen`
+**Learning:** `src/update_readme.py` fetched Google News RSS feeds using `urllib.request.urlopen`. `urllib.request` natively supports resolving `file://` schemes. If the target URL is ever dynamically generated or manipulated to point to a local file, it could lead to arbitrary local file read. Bandit raises a B310 warning for this.
+**Prevention:** Prefer using the `requests` library (e.g., `requests.get()`) instead of `urllib.request.urlopen` for HTTP requests, as it does not resolve `file://` schemas by default.
