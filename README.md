@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-15 01:47:04 (UTC)*
+*Last Updated: 2026-04-15 12:54:03 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$299,458,363,729** | 🟢 +0.29% | 🟢 +0.72% |
+| **$299,417,243,943** | 🟢 +0.28% | 🟢 +0.70% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [Earn on Stablecoin Balances: Fireblocks Launches Native Yield Offerings - Fireblocks](https://news.google.com/rss/articles/CBMia0FVX3lxTE5VN1FnNTN1OTA1dTd6NXozbU5EQU9JSzdfakZNNEdOWFA4OEZNTHJxMVIyTTRtRXlsMjVjM20wYW55WTQ2X1R0NXNGdU5QU2FfUmNsckU4LU54Z1Vad3dRXzBRTUVUR0lzTlUw?oc=5) (Wed, 15 Apr 2026 11:39:56 GMT)
+- [SG-FORGE Expands Global Access to its USD Stablecoin - Markets Media](https://news.google.com/rss/articles/CBMiigFBVV95cUxOaXdlUl8xeENSU212R0RJeDFnNHB4THNxWk1XSFRQRXFzTF9NbnljaXNhU1RKOE5LWkZDNU1YeDJSOHVKak1OZEZXM3hrSno3Z0h6bnBNWDRlVk9QR25NTXlFM2xPdldRbjRRZFdIUVltWGU1T0JaTWx2cW9DMS1IbldNM3JKOFlOOGc?oc=5) (Wed, 15 Apr 2026 10:30:00 GMT)
+- [Societe Generale unit adds MiCA-compliant stablecoin to MetaMask - The Block](https://news.google.com/rss/articles/CBMigwFBVV95cUxQYlp0d3ZSYWc3UXgxbVN0ODB1WVBvLU1aQmVXcHNMS3lCdERrdVRnSGIzM0llOTJ0UXcwS0NkS09lbmV3X2dubm82NHBCYk8yYV85OXhad3NqXzh0SjdGRHV5TXhRZUZuZXNTNHRhZnRveWZQSENpcXhYZ1lVcW9QUmtkTQ?oc=5) (Wed, 15 Apr 2026 08:35:02 GMT)
+- [Why Bank And Crypto Studies Disagree Sharply On Stablecoin Yield Risks - Forbes](https://news.google.com/rss/articles/CBMivwFBVV95cUxNX01wWEkzSTd5QW5La2k0TGNiQmtxZmxUbTRmNWE4Wnp2UWdkRzE0VHhhYjZMS3ZaQTNBLWg1eDg4SHotV1U1VXlyM1QyZFBYakYzb2lUY1FpS2xQRmNQdl9udkJtQnEtOHNYbjhWS1hCSnV0bFRrUEM1cjlZZnh3Q3F5YWhZU2liajN0T05ScmlIX3pEckxGNnJkV3RGT081cnN4OXc1STMtR01sZGp6Um1OU013YkRmUEYxSkhJUQ?oc=5) (Wed, 15 Apr 2026 02:05:27 GMT)
 - [Delaware Eyes Stablecoin Edge With Banking Law Overhaul - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzMEc4a2NudUhqZWZDbEdMck1EN0NwU1pOQkhsTHVxQjJWanpzLWZGNXFwaElLRm8tblRTNWJnckhscWJSdXU4X1E5YVlIa21JaXFEaVhR0gFWQVVfeXFMUDMwRzhrY251SGplZkNsR0xyTUQ3Q3BTWk5CSGxMdXFCMlZqenMtZkY1cXBoSUtGby1uVFM1YmdySGxxYlJ1dThfUTlhWUhrbUlpcURpWFE?oc=5) (Tue, 14 Apr 2026 20:29:00 GMT)
-- [Stablecoins remain little used for payments - Payments Dive](https://news.google.com/rss/articles/CBMijgFBVV95cUxPckJZaG44RkNtWlFBdHRobDhIUFQxdXRyNFJ2TXZvMkt0TnRJN3ptcm5tZlZ0NlZxUlpwR3dJVFNJRWlkWHZfRm8xS0VLVjFZZjB5ZXptSWd4U1hhcDc5QXpUYWdWY3pPV0pkQnR0UndlNnlKRFNxa2JLaVZhMEQwcUtTOWs0OHJFUE5pV1hn?oc=5) (Tue, 14 Apr 2026 16:23:41 GMT)
-- [PPI Responds to CEA Report on Stablecoin Yield and Bank Lending - Progressive Policy Institute](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdEpwbUM5cGdoc284UzBBaTZKdTFrR0RydS1SXzhrNnp6ajJxTElEeDZHQkdEWnFIdC1qQXpKWjR6TzR4WnUyZmNvZU9neV9SbnAyelpBbmJtWlRBQXBuX3BieGVhQkhuU2VpR1VBZ05wNmd6ZjZaRG9OUVRYSnBHS19TUGpFQlo5ZlE2d0N0TEVyRkdEQy1EMll2VF9rZWc?oc=5) (Tue, 14 Apr 2026 15:55:45 GMT)
-- [Crypto regulatory affairs: US Treasury proposes secondary market sanctions compliance for stablecoin issuers - Elliptic](https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWtwbkwzaUpFZHBidmU1aEFMZmg4ZTVFY3dxVVBoZlFKcjU5RWx5RHpuZVJDSWxnaUxKYWJ0Wjg4WWJwYWZkRFRKeXJJMm90M1VRa0VSUXdJRG0xOG90X202S1FwaWRlVTNXbjZOOHZ6NmpkSlk0WkxXOVU5RG5MS21pT3hoNk1PcHYxNF9WYUZGYV9ab3F1RkhFZw?oc=5) (Tue, 14 Apr 2026 15:01:56 GMT)
-- [Treasury Issues NPRM on State Oversight of Stablecoin Issuers Under the GENIUS Act - Consumer Finance Monitor](https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUpDd1ZDWlRLNVloOEQyWHhoWkxiZF9PcGpZbjY0cDdxQ1FQT2FGcDBNRlZYM1NyTEtPbG1aczFXVWxRSGFfb29ReTNVTkw3cW5WNkFQSXJnQWh5c3JBTWVsWVVEUVlwQkJodjBwQTB2bFk5QTF2NkZhbEV3YXBpUm1KcDVwZzBXTExXNFEwQXZCcDNMaEkyQ3U2b3lhX004Q3N0ME9MXzRCRml0b1JwVktvTk5RbHBtYnNMMnkweDJETU83RU1idWRWLUlKQQ?oc=5) (Tue, 14 Apr 2026 14:56:50 GMT)
 
 <!-- END_dashboard -->
 
