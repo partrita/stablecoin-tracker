@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-14 01:51:01 (UTC)*
+*Last Updated: 2026-04-15 01:47:04 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$298,591,233,857** | 🔴 -49.97% | 🟢 +0.48% |
+| **$299,458,363,729** | 🟢 +0.29% | 🟢 +0.72% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [White House Study Minimizes Stablecoin Risk, ABA Says - Law360](https://news.google.com/rss/articles/CBMilwFBVV95cUxORVJCMC1VUUpJc18yemJfUVhaV1VzbDVNUkkxc28weHNXV1RoQ1p0blFabGVpSUdzYXZDR3NFczRSYV9US2R6TFdLRFpCVXJfTndJSnhLb1ZGM1NLMGpyZzJ5bTZiQXJ2X3dIVGVUcDE2OTRWUk05STZMRTNCMEVUQS1VSVYwbDZRaGxSbmVLUzRKdWRzMjhz0gFWQVVfeXFMUGlsRkFtZGhWT0lKX0I0TVNGQW84UTlTcTFBeU1kV040WXBDQlhIbnNEeFlvQjh0ZlJMcmVIY2w3V296UlBoUDhHd0pjTENDX2tZR1k3TXc?oc=5) (Tue, 14 Apr 2026 01:07:00 GMT)
-- [FDIC proposes GENIUS Act rule establishing framework for FDIC-supervised payment stablecoin issuers - JD Supra](https://news.google.com/rss/articles/CBMifEFVX3lxTE54c3FVZmlhUnZkaW9fQTdPXzZZbndBbTN2YWNuaHExaU9BcUtPSFVpSjFpQ2VYeFZSd2xnV3JYNmttRURhcTZnOU9vUnJ0VFhhUm5YM3BTcHU0SGdQRi1xajAtQXhFNnhNcHJXc2cyT3hZRUZXR1otV0NfQ2g?oc=5) (Mon, 13 Apr 2026 18:52:52 GMT)
-- [Circle CEO Defends Company’s Response to Stablecoin Hacks - PYMNTS.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWp0U01laWZiLXZfQjRZYnRDSHphbllnUFI2bnFNNTM0ZFZmcVNrQkNvSEJKUG5nUU5wRlBaZDllaV8xY0pDeGtKTUtWMXBFaE02VGdvdXVCOTZMcG0wX3hGVEk3REpJRFc2cG9GYU9oaEYxNUJqN0JRbnpBalQ3OUs3MzdBT0FoQnlKZTRTaWNQYlk3WmNUelNMRG1HMTBremc?oc=5) (Mon, 13 Apr 2026 18:22:51 GMT)
-- [ABA Warns NCUA Against Finalizing Stablecoin Application Rule Too Soon - CU Today](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2tpT2dVWENQTWJYN3lvYjNQT0FhNWJOdkNqZUdlckhFWW1NZzJRYU4yY3BKcWRmQ3BEaE9NdWtJRlJmdE15djBHSjhDb0hZczdUSThNcXJhS2o5dHhfUFUwa0N6NG5paHZ2R05XTlZPaUlValUzUnJnTDl5MWszYm50ajJPSUtRMDN3OW5fREZ4UkxqTnE5SHVwLXkyNVFpMVdoN0ZBbnRGc2s?oc=5) (Mon, 13 Apr 2026 18:13:27 GMT)
-- [The Numbers Are In. The Banks&#x27; Case for a Yield Ban Just Fell Apart. - FinTech Weekly](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWDVvdDRjWERpY0pTTWtfeXBzRlRlVnlBVkpSZVdHT0VKb0wyRm92NFNhcHlncnk1NHRWODBTZV9HVmgzcm5hNmVYekRuVGsyLUhBb25BRDh3eWVGbTNsQm5KQkRqVWpKWEhCc1RMLU5jdWFiV3NHTTY0TkxTZ3p6TGRUdEI2ZWYyR19HMGhZWnRfOEtFaW9VRkhqcEQ5U1dqQl9VRA?oc=5) (Mon, 13 Apr 2026 17:31:00 GMT)
+- [Delaware Eyes Stablecoin Edge With Banking Law Overhaul - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzMEc4a2NudUhqZWZDbEdMck1EN0NwU1pOQkhsTHVxQjJWanpzLWZGNXFwaElLRm8tblRTNWJnckhscWJSdXU4X1E5YVlIa21JaXFEaVhR0gFWQVVfeXFMUDMwRzhrY251SGplZkNsR0xyTUQ3Q3BTWk5CSGxMdXFCMlZqenMtZkY1cXBoSUtGby1uVFM1YmdySGxxYlJ1dThfUTlhWUhrbUlpcURpWFE?oc=5) (Tue, 14 Apr 2026 20:29:00 GMT)
+- [Stablecoins remain little used for payments - Payments Dive](https://news.google.com/rss/articles/CBMijgFBVV95cUxPckJZaG44RkNtWlFBdHRobDhIUFQxdXRyNFJ2TXZvMkt0TnRJN3ptcm5tZlZ0NlZxUlpwR3dJVFNJRWlkWHZfRm8xS0VLVjFZZjB5ZXptSWd4U1hhcDc5QXpUYWdWY3pPV0pkQnR0UndlNnlKRFNxa2JLaVZhMEQwcUtTOWs0OHJFUE5pV1hn?oc=5) (Tue, 14 Apr 2026 16:23:41 GMT)
+- [PPI Responds to CEA Report on Stablecoin Yield and Bank Lending - Progressive Policy Institute](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdEpwbUM5cGdoc284UzBBaTZKdTFrR0RydS1SXzhrNnp6ajJxTElEeDZHQkdEWnFIdC1qQXpKWjR6TzR4WnUyZmNvZU9neV9SbnAyelpBbmJtWlRBQXBuX3BieGVhQkhuU2VpR1VBZ05wNmd6ZjZaRG9OUVRYSnBHS19TUGpFQlo5ZlE2d0N0TEVyRkdEQy1EMll2VF9rZWc?oc=5) (Tue, 14 Apr 2026 15:55:45 GMT)
+- [Crypto regulatory affairs: US Treasury proposes secondary market sanctions compliance for stablecoin issuers - Elliptic](https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWtwbkwzaUpFZHBidmU1aEFMZmg4ZTVFY3dxVVBoZlFKcjU5RWx5RHpuZVJDSWxnaUxKYWJ0Wjg4WWJwYWZkRFRKeXJJMm90M1VRa0VSUXdJRG0xOG90X202S1FwaWRlVTNXbjZOOHZ6NmpkSlk0WkxXOVU5RG5MS21pT3hoNk1PcHYxNF9WYUZGYV9ab3F1RkhFZw?oc=5) (Tue, 14 Apr 2026 15:01:56 GMT)
+- [Treasury Issues NPRM on State Oversight of Stablecoin Issuers Under the GENIUS Act - Consumer Finance Monitor](https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUpDd1ZDWlRLNVloOEQyWHhoWkxiZF9PcGpZbjY0cDdxQ1FQT2FGcDBNRlZYM1NyTEtPbG1aczFXVWxRSGFfb29ReTNVTkw3cW5WNkFQSXJnQWh5c3JBTWVsWVVEUVlwQkJodjBwQTB2bFk5QTF2NkZhbEV3YXBpUm1KcDVwZzBXTExXNFEwQXZCcDNMaEkyQ3U2b3lhX004Q3N0ME9MXzRCRml0b1JwVktvTk5RbHBtYnNMMnkweDJETU83RU1idWRWLUlKQQ?oc=5) (Tue, 14 Apr 2026 14:56:50 GMT)
 
 <!-- END_dashboard -->
 
