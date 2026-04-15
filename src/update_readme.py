@@ -3,7 +3,7 @@ import os
 import feedparser
 import datetime
 import html
-import urllib.request
+import requests
 
 
 def sanitize_csv_value(value):
@@ -31,10 +31,11 @@ def update_news_archive():
     
     # 1. Fetch new items
     try:
-        # Security: Added timeout to avoid DoS if server hangs
-        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        with urllib.request.urlopen(req, timeout=15) as response:
-            feed_content = response.read()
+        # Security: Added timeout to avoid DoS if server hangs.
+        # Use requests instead of urllib to prevent SSRF / file:// reads
+        response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
+        response.raise_for_status()
+        feed_content = response.content
         feed = feedparser.parse(feed_content)
 
         new_items = []
