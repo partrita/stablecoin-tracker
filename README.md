@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-15 21:47:18 (UTC)*
+*Last Updated: 2026-04-16 01:55:21 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$298,966,552,541** | 🟢 +0.13% | 🟢 +0.55% |
+| **$299,283,018,648** | 🔴 -66.67% | 🔴 -66.49% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Companies Would Need to Disclose Stablecoin Holdings Under FASB Proposal - WSJ](https://news.google.com/rss/articles/CBMiswFBVV95cUxNby1iTEY0R1owLTNQYlY1T3o5UU9nWlVlX3BHeGw1clZLNU1PUmRqa0ZDWGlieVBVbTdlSkQ4Y2pXLXQxeFQtTlBYdXNlYjNpZjVFNzBEdzRlRENtNklkOUxRaEZLeW5GT3VLQjk3akhhTnN1bngzTXo0dnZNdlFsbnVHeWhxQkttOUZRbEFhMUJCdnc3NVcyZDgxUUduQVJnQXVuekt4ZmFIRHhMdEl3QV9SSQ?oc=5) (Wed, 15 Apr 2026 19:30:00 GMT)
-- [HSBC plots Hong Kong stablecoin, Brazil&#x27;s PIX expands with PayPal - American Banker](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZlB0enB6dUx4Q3V0b3U3eVVRQ0dQcWF0ZEZoQzZWeC1ZbDBNOFJJa3U4NC1PdDhYUHh5VngtR0hVTkFNUjFvemlqdjg0XzFqSmQ0VzNadlFrYlVrRnVMb2phZVNaWXI3V05Yd19fYnVpY0t4TU9Rb2FydGNlZkREdGNQWGFDWmRhc3hyVEd6MVE0VjIxM19Na19pWQ?oc=5) (Wed, 15 Apr 2026 18:47:00 GMT)
-- [Fireblocks Intros Stablecoin Lending for Institutional Clients - PYMNTS.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOUTI3Qks5TzVRSUN0UmNnU0FLYWo0Q2k5clhWcFZXZFBEQUdudXlENzc1TnVaaEJSS09Lem5iNVNXTWV3RDVmeVc4aG1KNFI2RkxJNkVNMkxZRUFRVURxdWJFVnB6VnFua1ZDSE43TW5CYThUSmZWSzdOYllTSHZyTFZsQ0dpMzAxU00wVzRvUFZWLXZ3TWE4b0oycXlYY3pSQ0xCTg?oc=5) (Wed, 15 Apr 2026 18:19:40 GMT)
-- [US Board to Propose Stablecoin Accounting Examples for Input - Bloomberg Law News](https://news.google.com/rss/articles/CBMisgFBVV95cUxQcUVvY19HTy1wR1B5UTl5LU5KeUVwZ0dWU05LV0ZlQ2hZTVB2LXkzNFV2b2pYVlJjWjFxT3N1c0w3Nno2YjBydEl1WkRfVVc4OHQ3QWp0MzRKamt6NU0wLTk1QW9pM3NpZ3ZEZlhpaHFkeC1QLU96MFRrR3MwTUVFbGdEc0g1eFdWa3RjVkNybGhDU3I1SjFFNXR1dTYwUHB5NGVUY3BDU1k5RTJXNVFZQ1ZB?oc=5) (Wed, 15 Apr 2026 16:10:00 GMT)
-- [Tether Joins $134 Million SDEV Financing as Stablecoin Infrastructure Expands - Yahoo Finance](https://news.google.com/rss/articles/CBMimgFBVV95cUxNd0FuTzkySmtGRlZHVXZfVEM4enBZeXJlVjFlYTI0Tm1LX3ZoalBPYXpXMWt3N1l3OE9nSzBvNURRNWx1SE0xTHBMYkJlb1FKaUV4NHFUalMxRy10RVF1cW5QR3BOOW9YU0Y1NjY2bEk2SmpYV3VzRTd5emNndFd2MFhyR3NfMkI5eHV0ZnoyNGtTOFhFY3E0bVln?oc=5) (Wed, 15 Apr 2026 16:08:00 GMT)
+- [Visa’s Tempo Validator Move Brings Stablecoin Infrastructure Into Investor Focus - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxPaFZfWkxCTFFpRnJBRTB1N1h3T21KTC11ZDRiQVFXNXl0R1dQWlN3emNCeHZRckhvOHE5dzF4YzdKM2c2TEdkSHVPWTl5U2FvSEJEOHEwWVB5UTZLcUpjamJnRkxnN0JiS3hwZmZSZXhqdFd5YW90Y2ZSM2V2Mmk4eUozSUk4NHVZZlRCSEdONFNwRWFMbEw5N1dnTUNhZw?oc=5) (Thu, 16 Apr 2026 01:08:00 GMT)
+- [Banks Won&#x27;t Like This: White House Analysis Says Banning Stablecoin Yield Barely Boosts Lending - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDJaVklnVGk5emw3VS1xZnhZWERUcENsUUg1LUJPdTFJMjlzU0FCNktxN1hTLVNULWU4U1d2dUw3Mnl2bGNJNGRPQjdTSXMxc042Wm5tNnhyWmFQRXRZVnl5bTRBX1JHZ0traUlDZEJhY0NleGhaTWtIUVpaVzNPckdvWnNDaU1YNWpHSHJPRm5nLVp0c3NIN0pza0g?oc=5) (Wed, 15 Apr 2026 23:01:03 GMT)
+- [Ethereum absorbs $8.4B – But stablecoin activity is moving elsewhere - AMBCrypto](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ZeFBHVFZUdnlUV2xSdVVjZzk1T0V4RGtNY3dYWThlbUpLaENLbDJxRDlWaXNsYy02eWdSZXRaYWNmLWQ2ZnfSAZcBQVVfeXFMTS1tNXgxX1JuY0xpSV9kVEtnZlA5NHdVOFJGSkc3Vm5FNWhMU0dwakZjcmZTcHNQbFMtMlZJRlZhZUxOTDFUNGlpZ0xzbDMtZGJnbnMyZWwwSkRyd0JJaWZUb01nOTV4QXFUUDBUVFlXZkpJQmIzNzdKVC10TnNMX1pzdWg5SmVnMVBTMkRCR3dlQXBFMjJPMA?oc=5) (Wed, 15 Apr 2026 23:00:28 GMT)
+- [Companies Would Need to Disclose Stablecoin Holdings Under FASB Proposal - WSJ](https://news.google.com/rss/articles/CBMiswFBVV95cUxNby1iTEY0R1owLTNQYlY1T3o5UU9nWlVlX3BHeGw1clZLNU1PUmRqa0ZDWGlieVBVbTdlSkQ4Y2pXLXQxeFQtTlBYdXNlYjNpZjVFNzBEdzRlRENtNklkOUxRaEZLeW5GT3VLQjk3akhhTnN1bngzTXo0dnZNdlFsbnVHeWhxQkttOUZRbEFhMUJCdnc3NVcyZDgxUUduQVJnQXVuekt4ZmFIRHhMdEl3QV9SSQ?oc=5) (Wed, 15 Apr 2026 21:08:00 GMT)
+- [Treasury Proposes Framework for State Stablecoin Laws—Should You Issue Under a State Regime? - The National Law Review](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR2MwVml5cDI0Y2RmZUstRDhSVVFrZjBVSU02MDhTWEc0aGswQ0lDdi10WVJrcDFGT0xJcXhkVm01eFVWWUJJZXp6QVZtRmkzN09DeWU5blROeFZzYzI0bm1hZV9qcU40djZFM3p1N3ljdlJoTlp5SDZzQ3dGb05TQ2xLbWl2NjRnSEFNNktBcUlSRmxYVEF0YzZRUktJRDh0RzF1Vm9jYmxoQy1lQ3V0MNIBtgFBVV95cUxQV2pVZWVqNWZEOV9RbkFMRUFBQ0MtbGh5aWNvYWhWd2JBUzZOSk16WnhOYk43TmdCRzdQOXJMb2d5YUtGUUhDN0htN09POW1UbWZPMVNUQWNzU3pKdVEzZVVGbEVlS2EtVFQ1a0RTMVJxOFcycE5UZWhDc2h1SG1FR25nNEdoeDRDYU9wRFdiMV85QV9hOHBvLXIxMV9SQ2Q4WkF5NlRQRzJCZWcyNkpsbi1PZ0xJZw?oc=5) (Wed, 15 Apr 2026 20:30:49 GMT)
 
 <!-- END_dashboard -->
 
