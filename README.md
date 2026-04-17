@@ -3,7 +3,7 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-17 01:51:09 (UTC)*
+*Last Updated: 2026-04-17 01:51:55 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [FINANCIAL TECHNOLOGY—Credit Union trade urges flexible NCUA approach for stablecoin issuers - VitalLaw.com](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWkt3eUVrTTFsSFA1OUxyVzFsTDhSREtrQnM4WGNxVlNGNHpPT2pZazgtcE5RYWpURjB6QklocU9KUlJ3VjZrbTlkYmgxaHJoOTlHWWcxV3RLQWVmUVE1UXJCT0RZNDRLb3hRTDRUTmhJZm04MUJzWlduUl9fU2I2MVpDMHVKLUJmbGJBcHoyaXUtRnRUcGoyZHpSeGlVbE9GYTQzdWtOSjdvUVBmcEF4SWJKTmd2WEtEcFpvTnEzc1Y4ZUppZ2NnR29hTEs5d2JubW42dG9nT0toUjBTYnZ6VEpSenRCQUs0QXkwX3kxZUI?oc=5) (Thu, 16 Apr 2026 23:54:14 GMT)
+- [Institutions Nearing ‘Do or Die’ Stablecoin Moment, Says Bitget Wallet COO - Yahoo Finance](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2RsNVpWa2dtS0Fwckp6U3BNSlZPZTlFbG1jeEVpanNYVVZGNkdjREQtSi1TMy1UaEtuVGRZdEZTTXVmcE9ZNGR5Zk81WFJ5RW9GZVpPVVVLTThiWWxxUkJ2ak1NYk9uN29nMXIxZHR3dEVMd055MEVXMWl2S19yc0lhb25UVTlKVHU1bm1vWHRRMnllLU9CcHNPeEVDSkpfVXNTWkJQLUtuQW8?oc=5) (Thu, 16 Apr 2026 22:18:00 GMT)
 - [Vault: Democrats warn Rubio off Gaza stablecoin project - Punchbowl News](https://news.google.com/rss/articles/CBMickFVX3lxTE8ycURQNnFFM2FIcEYtY0pwUFNDc05hR0FsNU1oblprWTdJSGdacTE2YjR0eVpGM09IRGFuM1M4LVlYMzE4SHJJTjZPbDBaVjdrWWlhTEdCZUlpSTlaMlRla1dBU0V3QWtEM0xxUFVPLTB6dw?oc=5) (Thu, 16 Apr 2026 21:13:48 GMT)
 - [Stablecoin Framework, Digital Asset Banking Recommended by House Committee - State Affairs](https://news.google.com/rss/articles/CBMigAFBVV95cUxPUEF1VXBSY0pOWUcxS1czaWxtWXRPQk8wVU54Vjhldk9UN3NQbmVBSktGUmkyQm1hbkt1TUNWb0dGVktTaTBiSWIta3hNWW9Cc24xNFBLWThoZHNneTg4a0NWMl91QW5hQW9OSU4wSklEVVdUZ25DQXZfS3lwOFRTMg?oc=5) (Thu, 16 Apr 2026 19:07:20 GMT)
-- [Circle Chief Says China Could Issue Stablecoin in 3 to 5 Years - PYMNTS.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZkZHLXNPVk9tVnhRWlh4WHExbUhsMEE2am9xRERyX2M2SVk5YXRkRzdsai1xbWhSbWZsVlBTM1NnRHhQSVIzNDdEcTVQRVZXanRoeHhyTmU3YTJBbUx0Zjg4ZTJPcG53MElXMUVQMUZwSmVwM2tSbTZBLVZ6UXhQbVJ5Q0gxVXFxMmlLalh2WDVhUWx0NmQ1Y3VLbU5JRHl0RXJjWlFGTndYUQ?oc=5) (Thu, 16 Apr 2026 14:13:54 GMT)
-- [China Expected To Launch Yuan Stablecoin Within Five Years - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNFRrWV9VanQzR29TM1AtQl9xUTB4QzUxeDY3SGdKVkdLTkdTNG4zWS1oTGZKVFZYVHRqa0dxamw5b21JSGFBMWNOV0NFMXlTT1dpS0dBMGRZbHU3Zy04NEdweThnejV0Q1haTmMtZHJ1MFh1Rk44bVFXN3Z0WVl3Nnc4cjgtTUplUlNTZkJVRTZXSzdiTVF4c3Z6WWhjVDhhVzJ5NQ?oc=5) (Thu, 16 Apr 2026 14:13:00 GMT)
-- [Institutional Stablecoin Use Tripled In March - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHBiX3pXMjhJTE13M0FuUGVZaEVNcVpzQ2lmRm94bHhjSE4ybGh2eC1jWjM2cGxqVXFtR2RxTVpWdUlsd3JRRmNhQ003S04wV0lDT2paYm1SOTFRdGhTZm13am0zWnV4MG1ZSWNFQzZZdVN6cUVjUWtzTXJnTi1nbUpiblJ0WXdXWXA1cXJ1ajJtaGVTMVQ5RmtibW9CQ0pna182R09n?oc=5) (Thu, 16 Apr 2026 14:02:00 GMT)
+- [Stablecoin payments move deeper into mainstream finance as rules tighten - Stock Titan](https://news.google.com/rss/articles/CBMivgFBVV95cUxORjdfZFVScXg0VFo3ZVVZSVZDdXRjUDBIOXllZkx4YVNrdU9DMWNhellMZ3hUNmNsbmNFdlZpOUMzZkUwblRfY1FyN3B0ZjBNNUZzLWphVk42VVBQWHRpdGNpMG1BM2hiemM1Z25hcFpFbmwyd0R2QjJuVjlXQ1NYN1phWVVlVG5uVUlwcDVLT280SzZSR3E3bmFmejcxNmN3TVQwaFFDZjQ0UWIyT0lQS28wb3FTT3N6eElIdDZn?oc=5) (Thu, 16 Apr 2026 16:00:00 GMT)
 
 <!-- END_dashboard -->
 
