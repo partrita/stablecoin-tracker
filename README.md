@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-16 01:55:21 (UTC)*
+*Last Updated: 2026-04-17 01:51:09 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$299,283,018,648** | 🔴 -66.67% | 🔴 -66.49% |
+| **$299,898,735,286** | 🟢 +0.21% | 🔴 -49.68% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Visa’s Tempo Validator Move Brings Stablecoin Infrastructure Into Investor Focus - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxPaFZfWkxCTFFpRnJBRTB1N1h3T21KTC11ZDRiQVFXNXl0R1dQWlN3emNCeHZRckhvOHE5dzF4YzdKM2c2TEdkSHVPWTl5U2FvSEJEOHEwWVB5UTZLcUpjamJnRkxnN0JiS3hwZmZSZXhqdFd5YW90Y2ZSM2V2Mmk4eUozSUk4NHVZZlRCSEdONFNwRWFMbEw5N1dnTUNhZw?oc=5) (Thu, 16 Apr 2026 01:08:00 GMT)
-- [Banks Won&#x27;t Like This: White House Analysis Says Banning Stablecoin Yield Barely Boosts Lending - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDJaVklnVGk5emw3VS1xZnhZWERUcENsUUg1LUJPdTFJMjlzU0FCNktxN1hTLVNULWU4U1d2dUw3Mnl2bGNJNGRPQjdTSXMxc042Wm5tNnhyWmFQRXRZVnl5bTRBX1JHZ0traUlDZEJhY0NleGhaTWtIUVpaVzNPckdvWnNDaU1YNWpHSHJPRm5nLVp0c3NIN0pza0g?oc=5) (Wed, 15 Apr 2026 23:01:03 GMT)
-- [Ethereum absorbs $8.4B – But stablecoin activity is moving elsewhere - AMBCrypto](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ZeFBHVFZUdnlUV2xSdVVjZzk1T0V4RGtNY3dYWThlbUpLaENLbDJxRDlWaXNsYy02eWdSZXRaYWNmLWQ2ZnfSAZcBQVVfeXFMTS1tNXgxX1JuY0xpSV9kVEtnZlA5NHdVOFJGSkc3Vm5FNWhMU0dwakZjcmZTcHNQbFMtMlZJRlZhZUxOTDFUNGlpZ0xzbDMtZGJnbnMyZWwwSkRyd0JJaWZUb01nOTV4QXFUUDBUVFlXZkpJQmIzNzdKVC10TnNMX1pzdWg5SmVnMVBTMkRCR3dlQXBFMjJPMA?oc=5) (Wed, 15 Apr 2026 23:00:28 GMT)
-- [Companies Would Need to Disclose Stablecoin Holdings Under FASB Proposal - WSJ](https://news.google.com/rss/articles/CBMiswFBVV95cUxNby1iTEY0R1owLTNQYlY1T3o5UU9nWlVlX3BHeGw1clZLNU1PUmRqa0ZDWGlieVBVbTdlSkQ4Y2pXLXQxeFQtTlBYdXNlYjNpZjVFNzBEdzRlRENtNklkOUxRaEZLeW5GT3VLQjk3akhhTnN1bngzTXo0dnZNdlFsbnVHeWhxQkttOUZRbEFhMUJCdnc3NVcyZDgxUUduQVJnQXVuekt4ZmFIRHhMdEl3QV9SSQ?oc=5) (Wed, 15 Apr 2026 21:08:00 GMT)
-- [Treasury Proposes Framework for State Stablecoin Laws—Should You Issue Under a State Regime? - The National Law Review](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR2MwVml5cDI0Y2RmZUstRDhSVVFrZjBVSU02MDhTWEc0aGswQ0lDdi10WVJrcDFGT0xJcXhkVm01eFVWWUJJZXp6QVZtRmkzN09DeWU5blROeFZzYzI0bm1hZV9qcU40djZFM3p1N3ljdlJoTlp5SDZzQ3dGb05TQ2xLbWl2NjRnSEFNNktBcUlSRmxYVEF0YzZRUktJRDh0RzF1Vm9jYmxoQy1lQ3V0MNIBtgFBVV95cUxQV2pVZWVqNWZEOV9RbkFMRUFBQ0MtbGh5aWNvYWhWd2JBUzZOSk16WnhOYk43TmdCRzdQOXJMb2d5YUtGUUhDN0htN09POW1UbWZPMVNUQWNzU3pKdVEzZVVGbEVlS2EtVFQ1a0RTMVJxOFcycE5UZWhDc2h1SG1FR25nNEdoeDRDYU9wRFdiMV85QV9hOHBvLXIxMV9SQ2Q4WkF5NlRQRzJCZWcyNkpsbi1PZ0xJZw?oc=5) (Wed, 15 Apr 2026 20:30:49 GMT)
+- [Vault: Democrats warn Rubio off Gaza stablecoin project - Punchbowl News](https://news.google.com/rss/articles/CBMickFVX3lxTE8ycURQNnFFM2FIcEYtY0pwUFNDc05hR0FsNU1oblprWTdJSGdacTE2YjR0eVpGM09IRGFuM1M4LVlYMzE4SHJJTjZPbDBaVjdrWWlhTEdCZUlpSTlaMlRla1dBU0V3QWtEM0xxUFVPLTB6dw?oc=5) (Thu, 16 Apr 2026 21:13:48 GMT)
+- [Stablecoin Framework, Digital Asset Banking Recommended by House Committee - State Affairs](https://news.google.com/rss/articles/CBMigAFBVV95cUxPUEF1VXBSY0pOWUcxS1czaWxtWXRPQk8wVU54Vjhldk9UN3NQbmVBSktGUmkyQm1hbkt1TUNWb0dGVktTaTBiSWIta3hNWW9Cc24xNFBLWThoZHNneTg4a0NWMl91QW5hQW9OSU4wSklEVVdUZ25DQXZfS3lwOFRTMg?oc=5) (Thu, 16 Apr 2026 19:07:20 GMT)
+- [Circle Chief Says China Could Issue Stablecoin in 3 to 5 Years - PYMNTS.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZkZHLXNPVk9tVnhRWlh4WHExbUhsMEE2am9xRERyX2M2SVk5YXRkRzdsai1xbWhSbWZsVlBTM1NnRHhQSVIzNDdEcTVQRVZXanRoeHhyTmU3YTJBbUx0Zjg4ZTJPcG53MElXMUVQMUZwSmVwM2tSbTZBLVZ6UXhQbVJ5Q0gxVXFxMmlLalh2WDVhUWx0NmQ1Y3VLbU5JRHl0RXJjWlFGTndYUQ?oc=5) (Thu, 16 Apr 2026 14:13:54 GMT)
+- [China Expected To Launch Yuan Stablecoin Within Five Years - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNFRrWV9VanQzR29TM1AtQl9xUTB4QzUxeDY3SGdKVkdLTkdTNG4zWS1oTGZKVFZYVHRqa0dxamw5b21JSGFBMWNOV0NFMXlTT1dpS0dBMGRZbHU3Zy04NEdweThnejV0Q1haTmMtZHJ1MFh1Rk44bVFXN3Z0WVl3Nnc4cjgtTUplUlNTZkJVRTZXSzdiTVF4c3Z6WWhjVDhhVzJ5NQ?oc=5) (Thu, 16 Apr 2026 14:13:00 GMT)
+- [Institutional Stablecoin Use Tripled In March - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHBiX3pXMjhJTE13M0FuUGVZaEVNcVpzQ2lmRm94bHhjSE4ybGh2eC1jWjM2cGxqVXFtR2RxTVpWdUlsd3JRRmNhQ003S04wV0lDT2paYm1SOTFRdGhTZm13am0zWnV4MG1ZSWNFQzZZdVN6cUVjUWtzTXJnTi1nbUpiblJ0WXdXWXA1cXJ1ajJtaGVTMVQ5RmtibW9CQ0pna182R09n?oc=5) (Thu, 16 Apr 2026 14:02:00 GMT)
 
 <!-- END_dashboard -->
 
