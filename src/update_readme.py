@@ -41,18 +41,26 @@ def update_news_archive():
         new_items = []
         for entry in feed.entries:
             # Parse published date
-            published = entry.published
+            # Security: Use safe accessors with default fallbacks to prevent AttributeError and DoS
+            title = entry.get('title', 'Unknown Title')
+            link = entry.get('link', '#')
+            published = entry.get('published', 'No Date')
+
             try:
                 # Convert struct_time to datetime
-                pub_dt = datetime.datetime(*entry.published_parsed[:6])
+                published_parsed = entry.get('published_parsed')
+                if published_parsed:
+                    pub_dt = datetime.datetime(*published_parsed[:6])
+                else:
+                    pub_dt = datetime.datetime.now()
             except Exception as e:
                 # Security: Catch specific exception instead of swallowing
-                print(f"Warning: Could not parse date for {entry.title}: {e}")
+                print(f"Warning: Could not parse date for {title}: {e}")
                 pub_dt = datetime.datetime.now()
             
             new_items.append({
-                'title': sanitize_csv_value(entry.title),
-                'link': sanitize_csv_value(entry.link),
+                'title': sanitize_csv_value(title),
+                'link': sanitize_csv_value(link),
                 'published': sanitize_csv_value(published),
                 'published_dt': pub_dt
             })
