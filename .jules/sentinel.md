@@ -42,3 +42,8 @@
 **Vulnerability:** Application Crash and Denial of Service (DoS) due to Unhandled Exceptions
 **Learning:** `src/update_readme.py` previously accessed `entry.title`, `entry.link`, and `entry.published` from the parsed RSS feed using direct attribute access. If the external RSS feed is malformed or missing these fields, `feedparser` throws an `AttributeError`, causing the script to crash and the automated pipeline to fail. Furthermore, the `except Exception as e:` block itself threw an `AttributeError` by referencing `entry.title`.
 **Prevention:** Never trust external payloads to conform perfectly to expected schemas. Use safe accessor methods with default fallbacks (e.g., `entry.get('title', 'Unknown')`) to handle missing data gracefully and prevent unhandled exceptions. Always ensure exception logging doesn't introduce new exceptions.
+
+## 2026-04-19 - [Missing JSON Payload Type Validation]
+**Vulnerability:** Denial of Service (DoS) due to unhandled exceptions when parsing JSON.
+**Learning:** `src/fetch_daily_data.py` parsed an HTML attribute (`data-analytics-event-properties`) via `json.loads(props_str)` and immediately called `.get("coin_name")` assuming it was a dictionary. If the payload is unexpectedly parsed as a `list` or a `string`, or if the returned `slug` is not a string, the subsequent type-specific methods (like `slug.replace`) or dictionary accesses (`props.get`) cause `AttributeError` or `TypeError` crashes, halting the entire pipeline.
+**Prevention:** Always validate the structure and type of data parsed from untrusted JSON strings before accessing their properties (e.g., `isinstance(props, dict)`). Additionally, use explicit exception handling (like `json.JSONDecodeError`) to avoid masking true implementation flaws.

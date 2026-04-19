@@ -85,14 +85,24 @@ def fetch_data():
 
         try:
             props = json.loads(props_str)
+            if not isinstance(props, dict):
+                print(f"Warning: Expected dict but got {type(props).__name__} for row properties")
+                continue
             slug = props.get("coin_name")
-        except Exception as e:
+        except json.JSONDecodeError as e:
             # Security: Catch specific exceptions rather than swallowing all errors silently
             print(f"Warning: Failed to parse props for row: {e}")
+            continue
+        except Exception as e:
+            print(f"Warning: Unexpected error processing row properties: {e}")
             continue
 
         if not slug:
             print(f"Warning: Missing coin_name in row properties")
+            continue
+
+        if not isinstance(slug, str):
+            print(f"Warning: Expected string for coin_name but got {type(slug).__name__}")
             continue
 
         coin_name = sanitize_csv_value(normalize_name(slug))
