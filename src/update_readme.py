@@ -48,10 +48,11 @@ def update_news_archive():
             # Parse published date
             try:
                 # Convert struct_time to datetime
-                if hasattr(entry, 'published_parsed') and entry.published_parsed:
-                    pub_dt = datetime.datetime(*entry.published_parsed[:6])
+                published_parsed = entry.get('published_parsed')
+                if published_parsed:
+                    pub_dt = datetime.datetime(*published_parsed[:6])
                 else:
-                    pub_dt = datetime.datetime.now()
+                    pub_dt = datetime.datetime.now(datetime.timezone.utc).replace(tzinfo=None)
             except Exception as e:
                 # Security: Catch specific exception instead of swallowing
                 print(f"Warning: Could not parse date for {title}: {e}")
