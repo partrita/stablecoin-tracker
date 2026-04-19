@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-18 01:29:12 (UTC)*
+*Last Updated: 2026-04-19 00:29:42 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,650,380,725** | 🔴 -49.87% | 🔴 -66.42% |
+| **$300,349,473,420** | 🔴 -0.10% | 🟢 +0.64% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [‘Move on beyond greed!’ White House blasts banks over stablecoin yield opposition - AMBCrypto](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5hVzlnUTdJWTUwcG93dm0tT2pOSzdYLWdueXZRQUE3MXJQN2VWR2NzWEdrSUFjNzNveFpmQTc2UFkzUHV0cEHSAagBQVVfeXFMUERDRDkxcHNxeTJwVWNIdllVdWlPeFlrb2hHbE5aTVAzbVFPUmVKbWlCZHk5V1Vva0VvSUtSTFdRdU5JdDRBVHctbGVZNm9DVU12ZnRaV2NHSDU2aFRFSUxIVVZJeGtkVFNaUlo1TjFYNUh0TFA1d0xyX1J2eEszeWM5QmQ0LW5qLUZvZ29lSUNDYjlrZFBmS0xmWmlOY19CXzRlMGNHbFNr?oc=5) (Sat, 18 Apr 2026 18:00:37 GMT)
+- [&#x27;That Is The Wrong Question&#x27;: Bankers Group Reject White House Stablecoin Report - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxPc2QxX29VNTJ4aDB1ZmJmS05tZENXS2hQZUZlaC1XN3JtNk1MUUVvRVVQbWExWXh3WEtBRG1iQ3IzOTRkNEN6d0VsWjVvMEtYRWcwS1QyMGZqaWQ3R19PRlMtYlEwczQ2VlNCb3JRM0lRSEdJVXhyNGhVOEVGVXV6cnJaYmYteThTSHRUX0JITzQ1SDRBRjFxSEU1U1VQQQ?oc=5) (Sat, 18 Apr 2026 13:16:40 GMT)
 - [Merkley, Warren, Van Hollen, Sanders Probe Trump-Backed Board of Peace’s Plan to Rebuild Gaza with Shady Cryptocurrency - Merkley (.gov)](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajhZQk0teGJjalpIOTJ5S0tqVGliMExLeXdwVm8tZEc5a2tOQWFDUmluRlhxVG51dFdHNHkxY0RqeXVNYXBoRTVlMllnaXpfdkxFeUFlN1hseTRaUnhqODNHSG8xcGNWaDdha0VPUEhpWEtqZGljSFFiWEl5Ni1RTXdlVkxFaFNLZ1lSdkhwdzROR3BlRVdQU1hha0VTSldUdUtFeWdEVmktaURfRkgyaHFWUVFYN1MtQUU5YWlORUUtRndIU3FpQ3IzRjZxb21fTUplYk9BZEpqSUQ1YXRDWQ?oc=5) (Fri, 17 Apr 2026 22:19:55 GMT)
 - [FASB cautiously advances new stablecoin guidance - CFO Dive](https://news.google.com/rss/articles/CBMinAFBVV95cUxObFlwUF81NkJFQXF2eE1obXQ3bFJueEY5TjVpTmtoeFNOZ1h1RHFKVzh3WmxjYi1UcEg1bzRHeHZuQXFRYW55dTRha3lfUm95Z2VsbzFieHU4UVJoYkJsSmpzdVRPdGtRTGRxUUMydEZfVGlHa2dxQmsyS2xaOTZncDA2SkllbV9kb1FZZ1RFRThqTHJnN3hnNmNmMmo?oc=5) (Fri, 17 Apr 2026 21:00:26 GMT)
 - [France Urges Euro Stablecoins to Break Dollar Dependency - PYMNTS.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMnVFRjg5enpwakxObXppUm01R3hzZHNwbGlUWlpNWUlRdG95RW9uTG03MVp3YjREcHNsajc1eGdXN1RhUC02VElBanNhSWpWYXFoZmlUOC1ucTh4and0OGhjTVB5Q1Y2b0JhdlFWcVI1Qlo4bkotLUt0a2U5STRMdDZXWm85X1JBRk5Ob3RqSFJoV040S0Zjb3Q1UDEwMDlHV0E?oc=5) (Fri, 17 Apr 2026 19:00:09 GMT)
-- [FASB Tentatively Decides to Expand Digital Asset Guidance, Including Stablecoin Cash-Equivalent Examples - CBIZ](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMDU2eWNRckZvUktqSDg4VWdWR2wzWVMtcVhkZWY5N0lxV0J4QXhwQks5UGVucUNUaERWeDJOVjAyQzBjUlNlbV8tcGtuS2VwTkY5RDlheG12dkVxMndUbmRQcHBndHlrMDZndE94S2M1N1VEV1VxZ3pqYmVabW45dUZnVkdncVJ2NTZaX2lPMnBCV2J4QWNYUGNPa1dGOUpwbDJrV0k4N2hSdTE3WGxpOVBXTWdJY1VxZExubDA4aUFDSTFpdXl6YjNwTXdVcjhJZkJBSFFpcnI?oc=5) (Fri, 17 Apr 2026 18:51:44 GMT)
-- [What CFOs Need to Know About Freezing and Burning Stablecoins - PYMNTS.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnlkUFJtUzVTN0c3aEdYS1JTbXVwb2ROUWpSdmVfMnM1ejdXbWttYlMtZVNZZ29uQjVialdMMy1UMmF6Ui1TaUh1dzBxMVUtTzJZd1ZZX0Z5MmtCWUhFWlpOSFFyRXExNW1KamgzZHJGZ0NLNEIzblRtS2N4eXZFbGZBa1BoejNna0ZVTG1TazRoSDlwQjhBYkYxeXlzT3owOFk4?oc=5) (Fri, 17 Apr 2026 17:15:08 GMT)
 
 <!-- END_dashboard -->
 
