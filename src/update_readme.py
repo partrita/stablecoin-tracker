@@ -52,7 +52,7 @@ def update_news_archive():
                 if published_parsed:
                     pub_dt = datetime.datetime(*published_parsed[:6])
                 else:
-                    pub_dt = datetime.datetime.now()
+                    pub_dt = datetime.datetime.now(datetime.timezone.utc).replace(tzinfo=None)
             except Exception as e:
                 # Security: Catch specific exception instead of swallowing
                 print(f"Warning: Could not parse date for {title}: {e}")
