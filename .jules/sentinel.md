@@ -37,3 +37,8 @@
 **Vulnerability:** Server-Side Request Forgery (SSRF) and Arbitrary File Read via `urllib.request.urlopen`
 **Learning:** `src/update_readme.py` fetched Google News RSS feeds using `urllib.request.urlopen`. `urllib.request` natively supports resolving `file://` schemes. If the target URL is ever dynamically generated or manipulated to point to a local file, it could lead to arbitrary local file read. Bandit raises a B310 warning for this.
 **Prevention:** Prefer using the `requests` library (e.g., `requests.get()`) instead of `urllib.request.urlopen` for HTTP requests, as it does not resolve `file://` schemas by default.
+
+## 2026-04-17 - [Unhandled RSS Exceptions leading to DoS]
+**Vulnerability:** Application Crash and Denial of Service (DoS) due to Unhandled Exceptions
+**Learning:** `src/update_readme.py` previously accessed `entry.title`, `entry.link`, and `entry.published` from the parsed RSS feed using direct attribute access. If the external RSS feed is malformed or missing these fields, `feedparser` throws an `AttributeError`, causing the script to crash and the automated pipeline to fail. Furthermore, the `except Exception as e:` block itself threw an `AttributeError` by referencing `entry.title`.
+**Prevention:** Never trust external payloads to conform perfectly to expected schemas. Use safe accessor methods with default fallbacks (e.g., `entry.get('title', 'Unknown')`) to handle missing data gracefully and prevent unhandled exceptions. Always ensure exception logging doesn't introduce new exceptions.
