@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-20 01:56:27 (UTC)*
+*Last Updated: 2026-04-20 12:35:32 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$299,905,467,904** | 🔴 -50.07% | 🔴 -49.75% |
+| **$299,730,539,215** | 🔴 -50.10% | 🔴 -49.78% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [BoE governor urges quick action on global stablecoin standards - CoinGeek](https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHdNS2dOZUVEZFZlRFJ5Q283NlowcWxINEpQdHVJaURseWhJZ3RsQURjYkNEQW51bEllaU00NUFpTWtQWVZCM2pzdWJNMlBqZWNYRmk4emJZN2JPMHQ3bjVmTUpseHhtS3NzTjV2YVJ2Wmdzb2psR1Zkc0pzZ0ZlUGhHV2gzdUoxODR3ZA?oc=5) (Mon, 20 Apr 2026 11:00:11 GMT)
+- [SQRIL expands into Africa with stablecoin-to-fiat QR payments - Electronic Payments International](https://news.google.com/rss/articles/CBMidEFVX3lxTE9tY1Rtc0NJU1hZUHBzd0lZQ2RESGlZOTAzQ1dUVC1ETG5EcFdfSm8yYWNHLVFpaHlraUt6X25pM2ZoRDBDdVBCcEdkWnMwNFRjTmgxWHEwcTg3MXEwczcwVDUyLXplZkhzeGotb2tJdWJrVW5J?oc=5) (Mon, 20 Apr 2026 09:02:18 GMT)
+- [SGB goes live with stablecoin minting and redemption - IBS Intelligence](https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGF3SS1FSXlfTklQSnJoMzR2UHhBdWVqcFZrYkQtaHNPenZDdmhZUkpVQzlYbU5zYXI0STZRNlRnTDZiMG5NWVBhQ2pNNjg3RmRoNUJMX3dyTFEyZk5mR1dvNEU2SEpQX3hMblNyQW1RbGlRZm9GV21XaDFRZkZwMFdiZG1fOE1rRnZ5WUlROWo2STFWZGc?oc=5) (Mon, 20 Apr 2026 06:05:55 GMT)
+- [US stablecoins pose danger to emerging markets, say central bankers - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOR24wU0x6LVZJY2U1WHp4TWRWazBMamtnRHRqX0NXTTJlcU9HbDNNMF9uREpVRkRKNldRd2xwWEZFNUFpWlFEa2Zfa2poU0QxTndQZzF5aEhQNV9GbGR3c1czclhwTmFSWEx1N3JheEpOQWE3aHg1cG5lWFZ3RktnNDNSWUE?oc=5) (Mon, 20 Apr 2026 05:00:06 GMT)
 - [Vault: Banks test limits of their crypto leverage - Punchbowl News](https://news.google.com/rss/articles/CBMia0FVX3lxTE9PVWd5eGtJQ2FrMkMySUFFZEZmZmdZNmE5MHFUUHBkN0ZKU1RmYUR4X2ZlZEpzT2FINER3amQ4Z3FCYTVVX0U4WENmV1lBTGtzODlSRXFqTzVxdmtLRmRNWjJRUm9jSkt6M1dF?oc=5) (Sun, 19 Apr 2026 20:39:33 GMT)
-- [CFOs Eye Stablecoins As Payments Tool, Not Crypto Bet - CU Today](https://news.google.com/rss/articles/CBMikwFBVV95cUxOa2VNNlFjTmdET2FkSkdjTVNJbzlMUm53R19kR2ZBRnJua0NScGVSVzhhTEdFQWFENDFSb0FZU3VHYjBuN1pwVlh1d3VSSXlkMXM0TThzel9iMVRISTJORXN1cnM4eGFVVm91ZEV1ekNsZDZBZV9DSDZoU3p5NTNfVEU4SWsxeUE2akIzUzgxY3NUVkU?oc=5) (Sun, 19 Apr 2026 14:33:54 GMT)
-- [‘Move on beyond greed!’ White House blasts banks over stablecoin yield opposition - AMBCrypto](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5hVzlnUTdJWTUwcG93dm0tT2pOSzdYLWdueXZRQUE3MXJQN2VWR2NzWEdrSUFjNzNveFpmQTc2UFkzUHV0cEHSAagBQVVfeXFMUERDRDkxcHNxeTJwVWNIdllVdWlPeFlrb2hHbE5aTVAzbVFPUmVKbWlCZHk5V1Vva0VvSUtSTFdRdU5JdDRBVHctbGVZNm9DVU12ZnRaV2NHSDU2aFRFSUxIVVZJeGtkVFNaUlo1TjFYNUh0TFA1d0xyX1J2eEszeWM5QmQ0LW5qLUZvZ29lSUNDYjlrZFBmS0xmWmlOY19CXzRlMGNHbFNr?oc=5) (Sat, 18 Apr 2026 18:00:37 GMT)
-- [&#x27;That Is The Wrong Question&#x27;: Bankers Group Reject White House Stablecoin Report - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxPc2QxX29VNTJ4aDB1ZmJmS05tZENXS2hQZUZlaC1XN3JtNk1MUUVvRVVQbWExWXh3WEtBRG1iQ3IzOTRkNEN6d0VsWjVvMEtYRWcwS1QyMGZqaWQ3R19PRlMtYlEwczQ2VlNCb3JRM0lRSEdJVXhyNGhVOEVGVXV6cnJaYmYteThTSHRUX0JITzQ1SDRBRjFxSEU1U1VQQQ?oc=5) (Sat, 18 Apr 2026 13:16:40 GMT)
-- [Banks Broaden Lobbying Against Stablecoin Yield in CLARITY Act Talks - Yahoo Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmpWZUE2eV9UalQzZ0ZaRXozM2lvbHlCamNsWkRTSERNVm1vLVM4WTBmUTJGYVFFWFR3VEZZNXBkVE1sUnFNZzVCV0k3VlFDX2pUejJVTEs5d3VqS1ZqQzJ5X3cwV2kxWGRnekxpNWtITmpPZDJIdE1LWlVFc3NEVXY4dmpDeWZPcUJfMFZDMVVCeHNHWjRPRVJvRndEN0Z4RWNkZWpMSFItdw?oc=5) (Sat, 18 Apr 2026 10:43:14 GMT)
 
 <!-- END_dashboard -->
 
