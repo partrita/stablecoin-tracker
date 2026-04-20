@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-19 01:54:47 (UTC)*
+*Last Updated: 2026-04-20 01:56:27 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,304,375,858** | 🔴 -0.12% | 🟢 +0.62% |
+| **$299,905,467,904** | 🔴 -50.07% | 🔴 -49.75% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [Vault: Banks test limits of their crypto leverage - Punchbowl News](https://news.google.com/rss/articles/CBMia0FVX3lxTE9PVWd5eGtJQ2FrMkMySUFFZEZmZmdZNmE5MHFUUHBkN0ZKU1RmYUR4X2ZlZEpzT2FINER3amQ4Z3FCYTVVX0U4WENmV1lBTGtzODlSRXFqTzVxdmtLRmRNWjJRUm9jSkt6M1dF?oc=5) (Sun, 19 Apr 2026 20:39:33 GMT)
+- [CFOs Eye Stablecoins As Payments Tool, Not Crypto Bet - CU Today](https://news.google.com/rss/articles/CBMikwFBVV95cUxOa2VNNlFjTmdET2FkSkdjTVNJbzlMUm53R19kR2ZBRnJua0NScGVSVzhhTEdFQWFENDFSb0FZU3VHYjBuN1pwVlh1d3VSSXlkMXM0TThzel9iMVRISTJORXN1cnM4eGFVVm91ZEV1ekNsZDZBZV9DSDZoU3p5NTNfVEU4SWsxeUE2akIzUzgxY3NUVkU?oc=5) (Sun, 19 Apr 2026 14:33:54 GMT)
 - [‘Move on beyond greed!’ White House blasts banks over stablecoin yield opposition - AMBCrypto](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5hVzlnUTdJWTUwcG93dm0tT2pOSzdYLWdueXZRQUE3MXJQN2VWR2NzWEdrSUFjNzNveFpmQTc2UFkzUHV0cEHSAagBQVVfeXFMUERDRDkxcHNxeTJwVWNIdllVdWlPeFlrb2hHbE5aTVAzbVFPUmVKbWlCZHk5V1Vva0VvSUtSTFdRdU5JdDRBVHctbGVZNm9DVU12ZnRaV2NHSDU2aFRFSUxIVVZJeGtkVFNaUlo1TjFYNUh0TFA1d0xyX1J2eEszeWM5QmQ0LW5qLUZvZ29lSUNDYjlrZFBmS0xmWmlOY19CXzRlMGNHbFNr?oc=5) (Sat, 18 Apr 2026 18:00:37 GMT)
 - [&#x27;That Is The Wrong Question&#x27;: Bankers Group Reject White House Stablecoin Report - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxPc2QxX29VNTJ4aDB1ZmJmS05tZENXS2hQZUZlaC1XN3JtNk1MUUVvRVVQbWExWXh3WEtBRG1iQ3IzOTRkNEN6d0VsWjVvMEtYRWcwS1QyMGZqaWQ3R19PRlMtYlEwczQ2VlNCb3JRM0lRSEdJVXhyNGhVOEVGVXV6cnJaYmYteThTSHRUX0JITzQ1SDRBRjFxSEU1U1VQQQ?oc=5) (Sat, 18 Apr 2026 13:16:40 GMT)
-- [Merkley, Warren, Van Hollen, Sanders Probe Trump-Backed Board of Peace’s Plan to Rebuild Gaza with Shady Cryptocurrency - Merkley (.gov)](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajhZQk0teGJjalpIOTJ5S0tqVGliMExLeXdwVm8tZEc5a2tOQWFDUmluRlhxVG51dFdHNHkxY0RqeXVNYXBoRTVlMllnaXpfdkxFeUFlN1hseTRaUnhqODNHSG8xcGNWaDdha0VPUEhpWEtqZGljSFFiWEl5Ni1RTXdlVkxFaFNLZ1lSdkhwdzROR3BlRVdQU1hha0VTSldUdUtFeWdEVmktaURfRkgyaHFWUVFYN1MtQUU5YWlORUUtRndIU3FpQ3IzRjZxb21fTUplYk9BZEpqSUQ1YXRDWQ?oc=5) (Fri, 17 Apr 2026 22:19:55 GMT)
-- [FASB cautiously advances new stablecoin guidance - CFO Dive](https://news.google.com/rss/articles/CBMinAFBVV95cUxObFlwUF81NkJFQXF2eE1obXQ3bFJueEY5TjVpTmtoeFNOZ1h1RHFKVzh3WmxjYi1UcEg1bzRHeHZuQXFRYW55dTRha3lfUm95Z2VsbzFieHU4UVJoYkJsSmpzdVRPdGtRTGRxUUMydEZfVGlHa2dxQmsyS2xaOTZncDA2SkllbV9kb1FZZ1RFRThqTHJnN3hnNmNmMmo?oc=5) (Fri, 17 Apr 2026 21:00:26 GMT)
-- [France Urges Euro Stablecoins to Break Dollar Dependency - PYMNTS.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMnVFRjg5enpwakxObXppUm01R3hzZHNwbGlUWlpNWUlRdG95RW9uTG03MVp3YjREcHNsajc1eGdXN1RhUC02VElBanNhSWpWYXFoZmlUOC1ucTh4and0OGhjTVB5Q1Y2b0JhdlFWcVI1Qlo4bkotLUt0a2U5STRMdDZXWm85X1JBRk5Ob3RqSFJoV040S0Zjb3Q1UDEwMDlHV0E?oc=5) (Fri, 17 Apr 2026 19:00:09 GMT)
+- [Banks Broaden Lobbying Against Stablecoin Yield in CLARITY Act Talks - Yahoo Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmpWZUE2eV9UalQzZ0ZaRXozM2lvbHlCamNsWkRTSERNVm1vLVM4WTBmUTJGYVFFWFR3VEZZNXBkVE1sUnFNZzVCV0k3VlFDX2pUejJVTEs5d3VqS1ZqQzJ5X3cwV2kxWGRnekxpNWtITmpPZDJIdE1LWlVFc3NEVXY4dmpDeWZPcUJfMFZDMVVCeHNHWjRPRVJvRndEN0Z4RWNkZWpMSFItdw?oc=5) (Sat, 18 Apr 2026 10:43:14 GMT)
 
 <!-- END_dashboard -->
 
