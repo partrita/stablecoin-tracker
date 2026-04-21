@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-20 12:35:32 (UTC)*
+*Last Updated: 2026-04-21 01:51:48 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$299,730,539,215** | 🔴 -50.10% | 🔴 -49.78% |
+| **$300,147,038,541** | 🔴 -49.95% | 🟢 +0.52% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [BoE governor urges quick action on global stablecoin standards - CoinGeek](https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHdNS2dOZUVEZFZlRFJ5Q283NlowcWxINEpQdHVJaURseWhJZ3RsQURjYkNEQW51bEllaU00NUFpTWtQWVZCM2pzdWJNMlBqZWNYRmk4emJZN2JPMHQ3bjVmTUpseHhtS3NzTjV2YVJ2Wmdzb2psR1Zkc0pzZ0ZlUGhHV2gzdUoxODR3ZA?oc=5) (Mon, 20 Apr 2026 11:00:11 GMT)
-- [SQRIL expands into Africa with stablecoin-to-fiat QR payments - Electronic Payments International](https://news.google.com/rss/articles/CBMidEFVX3lxTE9tY1Rtc0NJU1hZUHBzd0lZQ2RESGlZOTAzQ1dUVC1ETG5EcFdfSm8yYWNHLVFpaHlraUt6X25pM2ZoRDBDdVBCcEdkWnMwNFRjTmgxWHEwcTg3MXEwczcwVDUyLXplZkhzeGotb2tJdWJrVW5J?oc=5) (Mon, 20 Apr 2026 09:02:18 GMT)
-- [SGB goes live with stablecoin minting and redemption - IBS Intelligence](https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGF3SS1FSXlfTklQSnJoMzR2UHhBdWVqcFZrYkQtaHNPenZDdmhZUkpVQzlYbU5zYXI0STZRNlRnTDZiMG5NWVBhQ2pNNjg3RmRoNUJMX3dyTFEyZk5mR1dvNEU2SEpQX3hMblNyQW1RbGlRZm9GV21XaDFRZkZwMFdiZG1fOE1rRnZ5WUlROWo2STFWZGc?oc=5) (Mon, 20 Apr 2026 06:05:55 GMT)
-- [US stablecoins pose danger to emerging markets, say central bankers - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOR24wU0x6LVZJY2U1WHp4TWRWazBMamtnRHRqX0NXTTJlcU9HbDNNMF9uREpVRkRKNldRd2xwWEZFNUFpWlFEa2Zfa2poU0QxTndQZzF5aEhQNV9GbGR3c1czclhwTmFSWEx1N3JheEpOQWE3aHg1cG5lWFZ3RktnNDNSWUE?oc=5) (Mon, 20 Apr 2026 05:00:06 GMT)
-- [Vault: Banks test limits of their crypto leverage - Punchbowl News](https://news.google.com/rss/articles/CBMia0FVX3lxTE9PVWd5eGtJQ2FrMkMySUFFZEZmZmdZNmE5MHFUUHBkN0ZKU1RmYUR4X2ZlZEpzT2FINER3amQ4Z3FCYTVVX0U4WENmV1lBTGtzODlSRXFqTzVxdmtLRmRNWjJRUm9jSkt6M1dF?oc=5) (Sun, 19 Apr 2026 20:39:33 GMT)
+- [The Banks Would Like To Dye Your Stablecoins Pink - Forbes](https://news.google.com/rss/articles/CBMirAFBVV95cUxNMjhpZTZTTnhObTA2MHdOb2tTZzBxR1ZDZ2NiWlRjaGFWb2lGcFl0Zm1HMG9NQl9rMUFsdzNlaEtob1M4cHo4eXNBT2ZUcTF2Sk05QlVteEk4Y2piOWN0MFVTSnl3aW9ZX0xhSDZ1NGtDbjRVTUJQeUhsQ09taHloaFc1a0FoekFtOUJDdmxiX3ViU3VQdkZqUFZsZV9wNVZiTzdYRUtONlp3MFZB?oc=5) (Mon, 20 Apr 2026 23:35:03 GMT)
+- [Treasury Announces Proposed Rule to Implement the GENIUS Act’s Requirements to Counter Illicit Finance - WilmerHale](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaE0wOWtZQ1p5M1lOb0wxcXFnN2RWNDc2YVVNTDNXQ1Jlc0djOE1PRmFxUi1OdnE1UFBVUzkzaTR2RHppNU81SEswdHZuOG5Yd2hjVU5jYkQ4ajVEOEtMOWM0ZjYwbzJUNm5LSk16REVJTnpZQ1dGUUFoMWFOTmcyWDdoalQxRmhfZ3BPQzBXaVZ6UEtWdV8yNU5YdzR5b01BSEg4ZGZmeG1oc1VUblZGUVV6WnBRS3RSWl85LU9lMUVVOXlMSGFlenh0NlA5ME1oQWh3eDRoRUpuaHZHV1l5a1lWaUNBMTFPby02cHZVdnZST0xQZ1E?oc=5) (Mon, 20 Apr 2026 19:54:07 GMT)
+- [White House report asserts stablecoin yield ban would have minimal impact on bank lending - JD Supra](https://news.google.com/rss/articles/CBMihwFBVV95cUxNSkloMldUWi1iOC1FYlhHNXduMHRvRy1nWUh5c1ZLYm5HYjJOUWltRmkwUUducGxDVHkwQkhKMnRZSFZJby11QXV2MFZuR0JwcW0waXpNb0lvSjBHSkphYmluclFVMENLb1prVzl5VnpiaHNlaHA4bkdva0E0bEh3b1YxRnJFOTA?oc=5) (Mon, 20 Apr 2026 17:37:31 GMT)
+- [Positioning Delaware as a Digital Asset Hub: A Look at Senate Bills 16 and 19 - Consumer Financial Services Law Monitor](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZFUxYnpuclBBdXNqVDNIaEF4ckxaSmZnRExsMkhyeEVtcFk0WUFCbElSYmNHaGhvc0RPQTBiMFEyd1R1OFN5dmhmMGhMNUNXSFh2OGhlakVRS1ItQk9MTnJ6NW1FQXpwamo3b0YwUkx0MEVSZU1ib1dhOXBGVmpQOFdlb0Y0MTJVLVJDVHJKSDBBNjhDWExfZWlwNTBxRVJVMDlOZWRhcVZKSXpndFhzQUxMcVlmcWRZNTVXU0swLUZmYTNvZGU3aUhrTkJsUVg4MExj?oc=5) (Mon, 20 Apr 2026 17:15:27 GMT)
+- [Stablecoins and the Future of FX: A New Era of Liquidity - Thunes](https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzlxWFhzZ3dMcVVmTzFrT0ktOVRIVXMxd2dYSkZkREFsMGhIRklCQm1wNE0xdVpWSThmdDdRNTZ4VXpvcENZcjYyYXF2UDRnZ2ZHMDI4U2laZ2E0NVhJUjkxSnBiRTlvWmpNamJPNWtJNlQ3LVFNbFpkRm5tMTIxUmgtNzhlZlJZZXpNT1c3clNSblM3a2pMLTVjdw?oc=5) (Mon, 20 Apr 2026 17:07:41 GMT)
 
 <!-- END_dashboard -->
 
