@@ -52,3 +52,8 @@
 **Vulnerability:** Denial of Service (DoS) due to unhandled exceptions when parsing JSON payload.
 **Learning:** `src/get_coingekodata.py` parsed JSON payload and directly checked for `"stats" in data` assuming `data` is a dictionary, and then blindly casted `data["stats"]` into a Pandas DataFrame. If the payload is unexpectedly parsed as a string, it causes a `TypeError`, disrupting operations. Additionally, the bare `except Exception as e:` block swallowed specific parsing errors making debugging difficult.
 **Prevention:** Always validate the structure and type of data parsed from untrusted JSON strings before accessing their properties (e.g., `isinstance(data, dict)`). Validate lists before passing to DataFrames. Enforce explicit numeric conversions where numeric data is expected. Catch specific errors like `ValueError` rather than just catching `Exception` to avoid masking parsing bugs.
+
+## 2026-04-22 - [Memory Exhaustion DoS via Unbound Response Payloads]
+**Vulnerability:** Memory Exhaustion DoS
+**Learning:** `src/update_readme.py` downloaded the Google News RSS feed using `response.content`, which buffers the entire response payload into memory at once. If the external server (either maliciously or erroneously) returns an infinitely large payload, it would exhaust the container's memory, causing the application to crash and leading to a Denial of Service.
+**Prevention:** When fetching data from external or untrusted sources, always use streaming (`stream=True` in `requests.get`) and enforce a hard limit on the downloaded payload size by iterating over chunks (e.g., `response.iter_content`).

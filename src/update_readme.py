@@ -33,9 +33,20 @@ def update_news_archive():
     try:
         # Security: Added timeout to avoid DoS if server hangs.
         # Use requests instead of urllib to prevent SSRF / file:// reads
-        response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
+        # Security: Stream response and enforce size limit to prevent Memory Exhaustion DoS
+        response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15, stream=True)
         response.raise_for_status()
-        feed_content = response.content
+
+        MAX_SIZE = 5 * 1024 * 1024  # 5 MB
+        downloaded_size = 0
+        chunks = []
+        for chunk in response.iter_content(chunk_size=8192):
+            downloaded_size += len(chunk)
+            if downloaded_size > MAX_SIZE:
+                raise ValueError("Response exceeds maximum allowed size of 5MB")
+            chunks.append(chunk)
+
+        feed_content = b"".join(chunks)
         feed = feedparser.parse(feed_content)
 
         new_items = []
