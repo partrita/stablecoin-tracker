@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-21 01:51:48 (UTC)*
+*Last Updated: 2026-04-22 01:50:58 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,147,038,541** | 🔴 -49.95% | 🟢 +0.52% |
+| **$299,813,813,086** | 🔴 -0.11% | 🔴 -66.61% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [The Banks Would Like To Dye Your Stablecoins Pink - Forbes](https://news.google.com/rss/articles/CBMirAFBVV95cUxNMjhpZTZTTnhObTA2MHdOb2tTZzBxR1ZDZ2NiWlRjaGFWb2lGcFl0Zm1HMG9NQl9rMUFsdzNlaEtob1M4cHo4eXNBT2ZUcTF2Sk05QlVteEk4Y2piOWN0MFVTSnl3aW9ZX0xhSDZ1NGtDbjRVTUJQeUhsQ09taHloaFc1a0FoekFtOUJDdmxiX3ViU3VQdkZqUFZsZV9wNVZiTzdYRUtONlp3MFZB?oc=5) (Mon, 20 Apr 2026 23:35:03 GMT)
-- [Treasury Announces Proposed Rule to Implement the GENIUS Act’s Requirements to Counter Illicit Finance - WilmerHale](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaE0wOWtZQ1p5M1lOb0wxcXFnN2RWNDc2YVVNTDNXQ1Jlc0djOE1PRmFxUi1OdnE1UFBVUzkzaTR2RHppNU81SEswdHZuOG5Yd2hjVU5jYkQ4ajVEOEtMOWM0ZjYwbzJUNm5LSk16REVJTnpZQ1dGUUFoMWFOTmcyWDdoalQxRmhfZ3BPQzBXaVZ6UEtWdV8yNU5YdzR5b01BSEg4ZGZmeG1oc1VUblZGUVV6WnBRS3RSWl85LU9lMUVVOXlMSGFlenh0NlA5ME1oQWh3eDRoRUpuaHZHV1l5a1lWaUNBMTFPby02cHZVdnZST0xQZ1E?oc=5) (Mon, 20 Apr 2026 19:54:07 GMT)
-- [White House report asserts stablecoin yield ban would have minimal impact on bank lending - JD Supra](https://news.google.com/rss/articles/CBMihwFBVV95cUxNSkloMldUWi1iOC1FYlhHNXduMHRvRy1nWUh5c1ZLYm5HYjJOUWltRmkwUUducGxDVHkwQkhKMnRZSFZJby11QXV2MFZuR0JwcW0waXpNb0lvSjBHSkphYmluclFVMENLb1prVzl5VnpiaHNlaHA4bkdva0E0bEh3b1YxRnJFOTA?oc=5) (Mon, 20 Apr 2026 17:37:31 GMT)
-- [Positioning Delaware as a Digital Asset Hub: A Look at Senate Bills 16 and 19 - Consumer Financial Services Law Monitor](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZFUxYnpuclBBdXNqVDNIaEF4ckxaSmZnRExsMkhyeEVtcFk0WUFCbElSYmNHaGhvc0RPQTBiMFEyd1R1OFN5dmhmMGhMNUNXSFh2OGhlakVRS1ItQk9MTnJ6NW1FQXpwamo3b0YwUkx0MEVSZU1ib1dhOXBGVmpQOFdlb0Y0MTJVLVJDVHJKSDBBNjhDWExfZWlwNTBxRVJVMDlOZWRhcVZKSXpndFhzQUxMcVlmcWRZNTVXU0swLUZmYTNvZGU3aUhrTkJsUVg4MExj?oc=5) (Mon, 20 Apr 2026 17:15:27 GMT)
-- [Stablecoins and the Future of FX: A New Era of Liquidity - Thunes](https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzlxWFhzZ3dMcVVmTzFrT0ktOVRIVXMxd2dYSkZkREFsMGhIRklCQm1wNE0xdVpWSThmdDdRNTZ4VXpvcENZcjYyYXF2UDRnZ2ZHMDI4U2laZ2E0NVhJUjkxSnBiRTlvWmpNamJPNWtJNlQ3LVFNbFpkRm5tMTIxUmgtNzhlZlJZZXpNT1c3clNSblM3a2pMLTVjdw?oc=5) (Mon, 20 Apr 2026 17:07:41 GMT)
+- [Non-USD Stablecoins: A Guide for Enterprise Payment Teams - Polygon Labs](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXg3YW9IUE5OclJjUDdmTGpBM211bTN5RTJPa2NGN0NCS3cyMnlGVUVGNUhHRzVpZUxCTjIzV1FEQTNmMXpWY2V1RndPQWZpT1ZyLWVESVVKX3psT0poeXRIcE45NW1LdDc0eGk3dFN0dmhySlg1ZjV6eDVuU0xQNUl5ZEpHa2V4X2JDbkY4bmhSTkxsblY3djdQWHpWalJYSjFPTlFsbGs3d0RodVZNWDNPZHdtWWRaNklySVJuM2Fzdlk?oc=5) (Tue, 21 Apr 2026 22:27:27 GMT)
+- [Trump family crypto venture lobbied for Stablecoin bill, hosted Idaho legislators at Mar-a-Lago - East Idaho News](https://news.google.com/rss/articles/CBMizgFBVV95cUxPeVhFdjJBdXQxRlVySXdNSHVnb2xYTHI5ZTNxNS1BSHI0SEZmdkJIU0RPamFBZ0JJZVJnajczZmhfaUFiX3dvOF9sWDRLY1RMeV9iWFNubTdjbng0VWg2YW5ueGZhZ1E0WGFMVkROYm1RaE44QjdLc1ppS1VMSmdiNTlDeG9ORFlTUHpjbmR1a3ZoR1BxaUJRZW9pNjlHdElkcTNwS1dRaXdsOUdmY2hNb2QtU3h3bDBSQU5OZFl5MkMwTHFVT3p0ZGhKNmxYQQ?oc=5) (Tue, 21 Apr 2026 21:30:00 GMT)
+- [Nium partners with Coinbase to enable USDC stablecoin payments across its platform - FX News Group](https://news.google.com/rss/articles/CBMizgFBVV95cUxNYWNhcDRubnNJRWtEay0tZG5zYXhabl9LWTlTemlXN2NBa01XcHgzVXB1aVNvZUNGMUEtUUctNDNoNzdDdV9VVUxFR1hrZExuTEstbnJQdnJybXRhSkdzbmNBX19yUjQwMDgwLW04QjQtbXdiZThPWE92alNQVUgwV2IxdjItZ0xOQjZpZldrVXpReDFtVXRXc0x4QUF5WUlnQ0VlVTB3VVlEYnN5WlptMWYtUlN2MTdPazlIS1pkTVRaQjdzUExHY3VFMWh2Zw?oc=5) (Tue, 21 Apr 2026 19:11:54 GMT)
+- [The stablecoin market has got too stable - The Economist](https://news.google.com/rss/articles/CBMioAFBVV95cUxOSVNYNjRLYzViQWgtT1dkYW45MGFUU3lOSWxsTWZRcFRnV1EzeEpNM3I1RUdZaXlrMjF0SW9ac3k0cHVsaDRHQjc3SF83NVdMMVRMZ0Noc0xKUTZPaWdQbTVjUlplT1JWTEpPckpHMXZibzY5bURhWnd0TGZpMVUtSURYbjlCWmUxckxQdzJOeGxhSmtKaGFfeTFWSVJQR0t5?oc=5) (Tue, 21 Apr 2026 19:10:20 GMT)
+- [Stablecoin Yield Saga Continues: OCC, Congress, and the White House Weigh In - JD Supra](https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2RsWDJpeEdyMklEdUhNWC1wS0NTaVJyYVVrM1BsZlpUdVFqSjZWZEdsQVNiUm9RSGlRbm5wSmM1TnFwcjZzOWFiRDdxU1o2bWNzcDdyMEdQeDJlT3VycmtMeF9HM05QYm15S2pNRE41OVlPbFFLMk5zdDZLX0xsQlNyNHo?oc=5) (Tue, 21 Apr 2026 18:55:41 GMT)
 
 <!-- END_dashboard -->
 
