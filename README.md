@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-22 01:50:58 (UTC)*
+*Last Updated: 2026-04-22 06:38:58 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$299,813,813,086** | 🔴 -0.11% | 🔴 -66.61% |
+| **$299,709,811,006** | 🔴 -0.15% | 🔴 -66.62% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [Nium partners with Coinbase for stablecoin payments and settlement - Fund Selector Asia](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYVdfcG1GT0NFTlZCdUhxWS02NWpVZ3BoMm43Z0JJZnJ0b05Db0ZsbjhZWjhDZ0dLY095OFRzWW85VlVrSzdpQUl1UzREUlhDU2hEYjJoYmVzbkxvQWRGYlZabHg0ZTZ4dmxaaG1EZWh5QnBWajVYd25FWTNZVGwyTE9xMlFTYXpDZEpYQlF6aDRNOXVvdk83di1na0Q?oc=5) (Wed, 22 Apr 2026 00:20:00 GMT)
+- [How a community bank is handling uncertainty and a new crypto age - marketplace.org](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMUpfNmhNSEZWT3JJMEZTUk1jMk5fS2FBT0VVUzdldmVEWWxqeWRqU2RvczdkUzZtLUpBZUVJb3dlU0RiSGkxdWdUSWFEVkgyd2NMSDNGQXUyMWJ6X25WMElyUG5BdURoZHU4dmZzaXRldEZKNXBvdy1fMnFlS1FtMlBLMzV0U09keVB0WEVkaUFneHlBemNDaHU4c0NTNXRNSElvWTZnTDhlbzBRN3VJ?oc=5) (Tue, 21 Apr 2026 22:30:00 GMT)
 - [Non-USD Stablecoins: A Guide for Enterprise Payment Teams - Polygon Labs](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXg3YW9IUE5OclJjUDdmTGpBM211bTN5RTJPa2NGN0NCS3cyMnlGVUVGNUhHRzVpZUxCTjIzV1FEQTNmMXpWY2V1RndPQWZpT1ZyLWVESVVKX3psT0poeXRIcE45NW1LdDc0eGk3dFN0dmhySlg1ZjV6eDVuU0xQNUl5ZEpHa2V4X2JDbkY4bmhSTkxsblY3djdQWHpWalJYSjFPTlFsbGs3d0RodVZNWDNPZHdtWWRaNklySVJuM2Fzdlk?oc=5) (Tue, 21 Apr 2026 22:27:27 GMT)
 - [Trump family crypto venture lobbied for Stablecoin bill, hosted Idaho legislators at Mar-a-Lago - East Idaho News](https://news.google.com/rss/articles/CBMizgFBVV95cUxPeVhFdjJBdXQxRlVySXdNSHVnb2xYTHI5ZTNxNS1BSHI0SEZmdkJIU0RPamFBZ0JJZVJnajczZmhfaUFiX3dvOF9sWDRLY1RMeV9iWFNubTdjbng0VWg2YW5ueGZhZ1E0WGFMVkROYm1RaE44QjdLc1ppS1VMSmdiNTlDeG9ORFlTUHpjbmR1a3ZoR1BxaUJRZW9pNjlHdElkcTNwS1dRaXdsOUdmY2hNb2QtU3h3bDBSQU5OZFl5MkMwTHFVT3p0ZGhKNmxYQQ?oc=5) (Tue, 21 Apr 2026 21:30:00 GMT)
 - [Nium partners with Coinbase to enable USDC stablecoin payments across its platform - FX News Group](https://news.google.com/rss/articles/CBMizgFBVV95cUxNYWNhcDRubnNJRWtEay0tZG5zYXhabl9LWTlTemlXN2NBa01XcHgzVXB1aVNvZUNGMUEtUUctNDNoNzdDdV9VVUxFR1hrZExuTEstbnJQdnJybXRhSkdzbmNBX19yUjQwMDgwLW04QjQtbXdiZThPWE92alNQVUgwV2IxdjItZ0xOQjZpZldrVXpReDFtVXRXc0x4QUF5WUlnQ0VlVTB3VVlEYnN5WlptMWYtUlN2MTdPazlIS1pkTVRaQjdzUExHY3VFMWh2Zw?oc=5) (Tue, 21 Apr 2026 19:11:54 GMT)
-- [The stablecoin market has got too stable - The Economist](https://news.google.com/rss/articles/CBMioAFBVV95cUxOSVNYNjRLYzViQWgtT1dkYW45MGFUU3lOSWxsTWZRcFRnV1EzeEpNM3I1RUdZaXlrMjF0SW9ac3k0cHVsaDRHQjc3SF83NVdMMVRMZ0Noc0xKUTZPaWdQbTVjUlplT1JWTEpPckpHMXZibzY5bURhWnd0TGZpMVUtSURYbjlCWmUxckxQdzJOeGxhSmtKaGFfeTFWSVJQR0t5?oc=5) (Tue, 21 Apr 2026 19:10:20 GMT)
-- [Stablecoin Yield Saga Continues: OCC, Congress, and the White House Weigh In - JD Supra](https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2RsWDJpeEdyMklEdUhNWC1wS0NTaVJyYVVrM1BsZlpUdVFqSjZWZEdsQVNiUm9RSGlRbm5wSmM1TnFwcjZzOWFiRDdxU1o2bWNzcDdyMEdQeDJlT3VycmtMeF9HM05QYm15S2pNRE41OVlPbFFLMk5zdDZLX0xsQlNyNHo?oc=5) (Tue, 21 Apr 2026 18:55:41 GMT)
 
 <!-- END_dashboard -->
 
