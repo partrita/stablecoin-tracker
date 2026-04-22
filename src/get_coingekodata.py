@@ -58,20 +58,30 @@ def save_coin_data(output):
                 data = response.json()
 
                 # JSON 데이터 프레임 변환 ('stats' 키 사용)
-                if "stats" in data:
-                    df = pd.DataFrame(
-                        data["stats"], columns=["timestamp", "market_cap"]
-                    )
-                    df["date"] = pd.to_datetime(df["timestamp"], unit="ms")
-                    df["coin_name"] = name
+                # Security: Validate JSON payload type to prevent TypeError
+                if isinstance(data, dict) and "stats" in data:
+                    stats_data = data["stats"]
+                    # Security: Validate that stats is a list
+                    if isinstance(stats_data, list):
+                        df = pd.DataFrame(
+                            stats_data, columns=["timestamp", "market_cap"]
+                        )
+                        df["date"] = pd.to_datetime(df["timestamp"], unit="ms")
+                        df["coin_name"] = name
+                        # Security: Enforce numeric conversion to prevent formula injection
+                        df["market_cap"] = pd.to_numeric(df["market_cap"], errors="coerce")
 
-                    all_dfs.append(df[["date", "coin_name", "market_cap"]])
+                        all_dfs.append(df[["date", "coin_name", "market_cap"]])
 
+            except ValueError as e:
+                # Security: Catch specific exceptions like JSON decoding errors
+                click.echo(f"\n[오류] {name} 데이터 파싱 실패: {e}", err=True)
+            except Exception as e:
+                # Catching general Exception only as a fallback
+                click.echo(f"\n[오류] {name} 수집 실패: {e}", err=True)
+            finally:
                 # 중요: 코인게코의 IP 차단을 피하기 위해 요청 간 간격을 둡니다.
                 time.sleep(5)
-
-            except Exception as e:
-                click.echo(f"\n[오류] {name} 수집 실패: {e}", err=True)
 
     # 데이터 통합 및 저장
     if all_dfs:
