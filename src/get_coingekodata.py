@@ -73,15 +73,15 @@ def save_coin_data(output):
 
                         all_dfs.append(df[["date", "coin_name", "market_cap"]])
 
-                # 중요: 코인게코의 IP 차단을 피하기 위해 요청 간 간격을 둡니다.
-                time.sleep(5)
-
             except ValueError as e:
                 # Security: Catch specific exceptions like JSON decoding errors
                 click.echo(f"\n[오류] {name} 데이터 파싱 실패: {e}", err=True)
             except Exception as e:
                 # Catching general Exception only as a fallback
                 click.echo(f"\n[오류] {name} 수집 실패: {e}", err=True)
+            finally:
+                # 중요: 코인게코의 IP 차단을 피하기 위해 요청 간 간격을 둡니다.
+                time.sleep(5)
 
     # 데이터 통합 및 저장
     if all_dfs:
