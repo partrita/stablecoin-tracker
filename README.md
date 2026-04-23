@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-22 06:38:58 (UTC)*
+*Last Updated: 2026-04-23 01:54:36 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$299,709,811,006** | 🔴 -0.15% | 🔴 -66.62% |
+| **$300,169,085,062** | 🔴 -49.93% | 🟢 +0.30% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Nium partners with Coinbase for stablecoin payments and settlement - Fund Selector Asia](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYVdfcG1GT0NFTlZCdUhxWS02NWpVZ3BoMm43Z0JJZnJ0b05Db0ZsbjhZWjhDZ0dLY095OFRzWW85VlVrSzdpQUl1UzREUlhDU2hEYjJoYmVzbkxvQWRGYlZabHg0ZTZ4dmxaaG1EZWh5QnBWajVYd25FWTNZVGwyTE9xMlFTYXpDZEpYQlF6aDRNOXVvdk83di1na0Q?oc=5) (Wed, 22 Apr 2026 00:20:00 GMT)
-- [How a community bank is handling uncertainty and a new crypto age - marketplace.org](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMUpfNmhNSEZWT3JJMEZTUk1jMk5fS2FBT0VVUzdldmVEWWxqeWRqU2RvczdkUzZtLUpBZUVJb3dlU0RiSGkxdWdUSWFEVkgyd2NMSDNGQXUyMWJ6X25WMElyUG5BdURoZHU4dmZzaXRldEZKNXBvdy1fMnFlS1FtMlBLMzV0U09keVB0WEVkaUFneHlBemNDaHU4c0NTNXRNSElvWTZnTDhlbzBRN3VJ?oc=5) (Tue, 21 Apr 2026 22:30:00 GMT)
-- [Non-USD Stablecoins: A Guide for Enterprise Payment Teams - Polygon Labs](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXg3YW9IUE5OclJjUDdmTGpBM211bTN5RTJPa2NGN0NCS3cyMnlGVUVGNUhHRzVpZUxCTjIzV1FEQTNmMXpWY2V1RndPQWZpT1ZyLWVESVVKX3psT0poeXRIcE45NW1LdDc0eGk3dFN0dmhySlg1ZjV6eDVuU0xQNUl5ZEpHa2V4X2JDbkY4bmhSTkxsblY3djdQWHpWalJYSjFPTlFsbGs3d0RodVZNWDNPZHdtWWRaNklySVJuM2Fzdlk?oc=5) (Tue, 21 Apr 2026 22:27:27 GMT)
-- [Trump family crypto venture lobbied for Stablecoin bill, hosted Idaho legislators at Mar-a-Lago - East Idaho News](https://news.google.com/rss/articles/CBMizgFBVV95cUxPeVhFdjJBdXQxRlVySXdNSHVnb2xYTHI5ZTNxNS1BSHI0SEZmdkJIU0RPamFBZ0JJZVJnajczZmhfaUFiX3dvOF9sWDRLY1RMeV9iWFNubTdjbng0VWg2YW5ueGZhZ1E0WGFMVkROYm1RaE44QjdLc1ppS1VMSmdiNTlDeG9ORFlTUHpjbmR1a3ZoR1BxaUJRZW9pNjlHdElkcTNwS1dRaXdsOUdmY2hNb2QtU3h3bDBSQU5OZFl5MkMwTHFVT3p0ZGhKNmxYQQ?oc=5) (Tue, 21 Apr 2026 21:30:00 GMT)
-- [Nium partners with Coinbase to enable USDC stablecoin payments across its platform - FX News Group](https://news.google.com/rss/articles/CBMizgFBVV95cUxNYWNhcDRubnNJRWtEay0tZG5zYXhabl9LWTlTemlXN2NBa01XcHgzVXB1aVNvZUNGMUEtUUctNDNoNzdDdV9VVUxFR1hrZExuTEstbnJQdnJybXRhSkdzbmNBX19yUjQwMDgwLW04QjQtbXdiZThPWE92alNQVUgwV2IxdjItZ0xOQjZpZldrVXpReDFtVXRXc0x4QUF5WUlnQ0VlVTB3VVlEYnN5WlptMWYtUlN2MTdPazlIS1pkTVRaQjdzUExHY3VFMWh2Zw?oc=5) (Tue, 21 Apr 2026 19:11:54 GMT)
+- [CME Seeks License to Become Stablecoin Issuer - Markets Media](https://news.google.com/rss/articles/CBMigAFBVV95cUxPVENjTlQyMXNfSmVYYWhINHFRNlpFV3NrbXBHem5MMmtXUlNpMUNmN1lndUpvaUtiR0J0a0hmZzR2S25zd0J6Vkxvd000YUZWcTJheUxyb21DOWpBTlNXMWE5ZGFiby1XVElhcVhLQ2xUNXI2SjFRdnRjX0F3QXR3Qg?oc=5) (Wed, 22 Apr 2026 21:39:22 GMT)
+- [Tether, Rain, MoneyGram expand stablecoin game - American Banker](https://news.google.com/rss/articles/CBMilAFBVV95cUxNRVNFYnpYZ0xiMFNjM0ZFc0FHRC1KQTV5d2ViS1FIRG84WlJoWXhHRDRPYng1Zm9sWkk5eElDbDdfWXAzcnI4MlpVN2VUM0I4Y21TTmVjbTF1UmxKbGVycU8zTl9zQmRHZnNuVHVJMGhIdElYRlJZSjFaMnFqOTBQQ3dMdmQ1T0hiT3MzZjhaTDYzdGpU?oc=5) (Wed, 22 Apr 2026 19:06:00 GMT)
+- [DoorDash to Offer Gig Workers Stablecoin Payouts - PaymentsJournal](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkRIeXo1YXUySDh1dVg0V1lVT1lsbWxxSTZKcDRFelhZNGF3MDlwR19ia3V3dW40ZF9manQ5NU52TTdOZkJsQmM0bE1aYWQtaUNZbV9kNWtSZkJoRTdlSG5HbjFiSDYyZnoydGdaQVJ5NTBmRUtNOERucmxnWVNSdUtqd1Q1Zzd10gGOAUFVX3lxTE9qWllxMzNhdFRHS3lvd0kzTVVPQUdFNFdJT3B6MHFBRFpzV3Y3QThfMk0tblU4R2N3bzhDTGs3VHZKMHI5T2szNEhRcDZ4VnNBeUIwbjNVSHRlcWVZb250TW1XcHl0aGJhVHF6ZXMtVlh3cjlZS1lST0dkN1BfSGF0Q2xmVjl4SUxqUWk3b1E?oc=5) (Wed, 22 Apr 2026 19:00:00 GMT)
+- [Covering Crypto: Are stablecoins changing crypto? - Fidelity](https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3NHZUppVmVzdm5IVmhNS2ZYbkJfS0JNQmFfalJiSzJRWUZKN215YlVDV0NvdmFoU2w3a1BURFBOQmswN2NJMWgyamFtdkpyX1htNHpqeE05UmVQX01IaDhiTGhLNmpveTZLczh2WTZra2tMQlpETXZyN0RnYVpNV0lfMUwyX0VJdTk4SUFGNW9FWHdJUHUxNk5uNG00d3hvVGh3?oc=5) (Wed, 22 Apr 2026 18:38:36 GMT)
+- [Coinbase Lists First GBP Stablecoin as UK Push Accelerates - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxONUtlZEhKU3NQZW5aSkdTbXJvWTN5cVhGRzlIcWx6U28tNjhDOUlpNzMxVURyeGkyeWxwMnpyb3poR3p5am9yV1NVYzlOdjVwWFdYTFhTaU5scmh4ZlBSSnhpc1RBRW9ud3pUSUxTakRoN3ZIVUs3OGVFalFUS0N1X3VVWWZxWUtpMVhWeEhxZUFsRWh4c3Ffck5VWGxnRWhBb1E?oc=5) (Wed, 22 Apr 2026 18:15:15 GMT)
 
 <!-- END_dashboard -->
 
