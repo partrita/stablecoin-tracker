@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-23 01:54:36 (UTC)*
+*Last Updated: 2026-04-23 06:16:44 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,169,085,062** | 🔴 -49.93% | 🟢 +0.30% |
+| **$300,186,770,994** | 🔴 -49.93% | 🟢 +0.30% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [Nium, Coinbase team up for global stablecoin payments and settlement - TNGlobal](https://news.google.com/rss/articles/CBMipgFBVV95cUxOb3A4MzNDdnFaT0FnckRHVFd6eWJIY2UwaFBHakpiTFJVb09tZGZ5ckFWRktqNzk1RzJMQ3dLODRjblNoU2pXTWV2c1Bka3gwb0FaZkFpVUI1OG9LbC1iT3MxRTg3dWVIY1duVmpjY2dxUExhVmF0anlGVEI2N0t1T0pmX1NRS0gtYnNtYVZWNDk3SE5QeUxlTGdwaFowYmprS25rSU9R?oc=5) (Thu, 23 Apr 2026 01:51:22 GMT)
+- [MoonPay Invests in Korean Fintech Pioneer Finger, Laying Groundwork for a Korean Won Stablecoin Ecosystem - PR Newswire](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTXU1bG1FN3FxZUhPOEJrbVpGVXVkUWh5NS13aDN5VVM1RHhETEJ3ZF93NHpDRmtPNUFQcWFSZlo5eW9qT0RBd0JFZ2JSZXl5eXVsd3NLT1liMk9HaHI5NHY3U3UtbXJpOEN5dmhacGt5a01FVG9heTBJaXBpdFdXMVRyRHQ2YmFPNFRDZ21rSE5yVFJtUHA0d2FNT0FacUNnR0psVkZZUS1ReTI5OUpHajlOeEh2Z2F2QVI5czh1UkdNVnNCYXRSNk8tZ2JuQndQcHphQ2F3dXVSb3JDUHpFRmt6Z0FBVWQyS0MzYXhKWGlxZw?oc=5) (Thu, 23 Apr 2026 00:00:00 GMT)
+- [Coinbase Expands Into AI Stablecoin Payments With New App Store - simplywall.st](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLUxZOFJ4M0Q1VkZENEFCSF96M3U0dXg3OGEta0FDbnY2LVpPcFNDcVh4YWppcjJTQnotSmFzNGdSY1NWdTVDS3dDMV8tRUpoWTZKdW9jaDZsZzZRYW5iZjFNZXlMQ0NMS3B0dE5ya0tqN1VPOV9SR0VfVzdwM3M1bUhQSTIzVU1yNl9PeHByckJxV0V4NzlpWG1TeWRpNTJWaDRPcHlaY0hfZ0FmUlBneWR6YlYtU1dkUDdWelNGQUpWWXZpa2lYY3liUGJZNXh2OFNTMFRmeGQ0aGMxVUhpa3ZR0gHnAUFVX3lxTE05bm5YNi1rMkluOV9sWGdzR3E3eW5PWldqU2h4VTE2WU1LM1ZaR0tKY1JsMDZKcTRCREltVTgzTDNOUkROVEtvNE1fUmtGQzNuUVV6eXNwZWNfSWJqclg4RDZWNnFqVFlOVTN3TU5NblI0Yy13UkozWkZsU3R4NjNfUXRRNUZGYzZNYXZjSDZaTHdWZmlZZlVVTHd2akxCdS1LdjB6cWhhWDJTa2lmcVVKWEdVUmV1TDhxa1hhQ20xeXhhbENJQWdEa3FqMGlUNDVNNHc0TUJEVy1OZF9DalozVTlXMFlWNA?oc=5) (Wed, 22 Apr 2026 22:26:00 GMT)
 - [CME Seeks License to Become Stablecoin Issuer - Markets Media](https://news.google.com/rss/articles/CBMigAFBVV95cUxPVENjTlQyMXNfSmVYYWhINHFRNlpFV3NrbXBHem5MMmtXUlNpMUNmN1lndUpvaUtiR0J0a0hmZzR2S25zd0J6Vkxvd000YUZWcTJheUxyb21DOWpBTlNXMWE5ZGFiby1XVElhcVhLQ2xUNXI2SjFRdnRjX0F3QXR3Qg?oc=5) (Wed, 22 Apr 2026 21:39:22 GMT)
-- [Tether, Rain, MoneyGram expand stablecoin game - American Banker](https://news.google.com/rss/articles/CBMilAFBVV95cUxNRVNFYnpYZ0xiMFNjM0ZFc0FHRC1KQTV5d2ViS1FIRG84WlJoWXhHRDRPYng1Zm9sWkk5eElDbDdfWXAzcnI4MlpVN2VUM0I4Y21TTmVjbTF1UmxKbGVycU8zTl9zQmRHZnNuVHVJMGhIdElYRlJZSjFaMnFqOTBQQ3dMdmQ1T0hiT3MzZjhaTDYzdGpU?oc=5) (Wed, 22 Apr 2026 19:06:00 GMT)
-- [DoorDash to Offer Gig Workers Stablecoin Payouts - PaymentsJournal](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkRIeXo1YXUySDh1dVg0V1lVT1lsbWxxSTZKcDRFelhZNGF3MDlwR19ia3V3dW40ZF9manQ5NU52TTdOZkJsQmM0bE1aYWQtaUNZbV9kNWtSZkJoRTdlSG5HbjFiSDYyZnoydGdaQVJ5NTBmRUtNOERucmxnWVNSdUtqd1Q1Zzd10gGOAUFVX3lxTE9qWllxMzNhdFRHS3lvd0kzTVVPQUdFNFdJT3B6MHFBRFpzV3Y3QThfMk0tblU4R2N3bzhDTGs3VHZKMHI5T2szNEhRcDZ4VnNBeUIwbjNVSHRlcWVZb250TW1XcHl0aGJhVHF6ZXMtVlh3cjlZS1lST0dkN1BfSGF0Q2xmVjl4SUxqUWk3b1E?oc=5) (Wed, 22 Apr 2026 19:00:00 GMT)
-- [Covering Crypto: Are stablecoins changing crypto? - Fidelity](https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3NHZUppVmVzdm5IVmhNS2ZYbkJfS0JNQmFfalJiSzJRWUZKN215YlVDV0NvdmFoU2w3a1BURFBOQmswN2NJMWgyamFtdkpyX1htNHpqeE05UmVQX01IaDhiTGhLNmpveTZLczh2WTZra2tMQlpETXZyN0RnYVpNV0lfMUwyX0VJdTk4SUFGNW9FWHdJUHUxNk5uNG00d3hvVGh3?oc=5) (Wed, 22 Apr 2026 18:38:36 GMT)
-- [Coinbase Lists First GBP Stablecoin as UK Push Accelerates - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxONUtlZEhKU3NQZW5aSkdTbXJvWTN5cVhGRzlIcWx6U28tNjhDOUlpNzMxVURyeGkyeWxwMnpyb3poR3p5am9yV1NVYzlOdjVwWFdYTFhTaU5scmh4ZlBSSnhpc1RBRW9ud3pUSUxTakRoN3ZIVUs3OGVFalFUS0N1X3VVWWZxWUtpMVhWeEhxZUFsRWh4c3Ffck5VWGxnRWhBb1E?oc=5) (Wed, 22 Apr 2026 18:15:15 GMT)
+- [Visa Inc. (V) Tempo Blockchain Integration Asserts Stablecoin Opportunities Push - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMiggFBVV95cUxQSHJqbThFU182elpuRGF3dFNNUENXdTVlVTdYTnA5ME1BRFdIcTVkajFjaUhCdW5hTG9Ba1d2VU81YTJETGtNUE1odFdtYzdQaXpkYTJubmllYnJFQmxjVHpxWTkzTHJodVRRVE10bEx1cXZ4WjBYMEt4ZWRKM3BRaXlB?oc=5) (Wed, 22 Apr 2026 21:25:26 GMT)
 
 <!-- END_dashboard -->
 
