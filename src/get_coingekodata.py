@@ -3,6 +3,7 @@ import cloudscraper
 import pandas as pd
 import time
 import os
+import json
 
 # 수집 대상 리스트 (코인 이름, API 엔드포인트)
 COIN_DATA_URLS = [
@@ -45,7 +46,8 @@ def save_coin_data(output):
         for name, url in bar:
             try:
                 # 데이터 요청
-                response = scraper.get(url, timeout=15)
+                # Security: Stream response and enforce size limit to prevent Memory Exhaustion DoS
+                response = scraper.get(url, timeout=15, stream=True)
 
                 # 403 에러가 여전히 발생할 경우를 대비한 처리
                 if response.status_code == 403:
@@ -55,7 +57,18 @@ def save_coin_data(output):
                     continue
 
                 response.raise_for_status()
-                data = response.json()
+
+                MAX_SIZE = 10 * 1024 * 1024  # 10 MB limit for JSON (as historical data can be slightly larger)
+                downloaded_size = 0
+                chunks = []
+                for chunk in response.iter_content(chunk_size=8192):
+                    downloaded_size += len(chunk)
+                    if downloaded_size > MAX_SIZE:
+                        raise ValueError("Response exceeds maximum allowed size of 10MB")
+                    chunks.append(chunk)
+
+                json_content = b"".join(chunks).decode(response.encoding or 'utf-8', errors='replace')
+                data = json.loads(json_content)
 
                 # JSON 데이터 프레임 변환 ('stats' 키 사용)
                 # Security: Validate JSON payload type to prevent TypeError

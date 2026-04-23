@@ -51,13 +51,25 @@ def fetch_data():
     )
     try:
         # Security: Add timeout to prevent DoS if the external service hangs
-        response = scraper.get(URL, timeout=15)
+        # Security: Stream response and enforce size limit to prevent Memory Exhaustion DoS
+        response = scraper.get(URL, timeout=15, stream=True)
         response.raise_for_status()
+
+        MAX_SIZE = 5 * 1024 * 1024  # 5 MB
+        downloaded_size = 0
+        chunks = []
+        for chunk in response.iter_content(chunk_size=8192):
+            downloaded_size += len(chunk)
+            if downloaded_size > MAX_SIZE:
+                raise ValueError("Response exceeds maximum allowed size of 5MB")
+            chunks.append(chunk)
+
+        html_content = b"".join(chunks).decode(response.encoding or 'utf-8', errors='replace')
     except Exception as e:
         print(f"Error fetching URL: {e}")
         sys.exit(1)
 
-    soup = BeautifulSoup(response.text, "html.parser")
+    soup = BeautifulSoup(html_content, "html.parser")
     tbody = soup.find("tbody")
     if not tbody:
         print("Error: Could not find table body")
