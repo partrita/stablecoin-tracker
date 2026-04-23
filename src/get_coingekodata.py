@@ -67,8 +67,7 @@ def save_coin_data(output):
                         raise ValueError("Response exceeds maximum allowed size of 10MB")
                     chunks.append(chunk)
 
-                json_content = b"".join(chunks).decode(response.encoding or 'utf-8', errors='replace')
-                data = json.loads(json_content)
+                data = json.loads(b"".join(chunks))
 
                 # JSON 데이터 프레임 변환 ('stats' 키 사용)
                 # Security: Validate JSON payload type to prevent TypeError
