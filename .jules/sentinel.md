@@ -57,3 +57,8 @@
 **Vulnerability:** Memory Exhaustion DoS
 **Learning:** `src/update_readme.py` downloaded the Google News RSS feed using `response.content`, which buffers the entire response payload into memory at once. If the external server (either maliciously or erroneously) returns an infinitely large payload, it would exhaust the container's memory, causing the application to crash and leading to a Denial of Service.
 **Prevention:** When fetching data from external or untrusted sources, always use streaming (`stream=True` in `requests.get`) and enforce a hard limit on the downloaded payload size by iterating over chunks (e.g., `response.iter_content`).
+
+## 2026-04-24 - [Unsafe Pandas DateTime Conversion]
+**Vulnerability:** Denial of Service (DoS) due to unhandled exceptions during pandas `to_datetime` conversion.
+**Learning:** Various scripts (`generate_plot.py`, `update_readme.py`, etc.) and Quarto documents converted CSV data to datetime using `pd.to_datetime` without the `errors='coerce'` flag. If an attacker or a malformed API response injects an invalid date string into the CSV, `pd.to_datetime` throws a `DateParseError` or `ValueError`, crashing the data processing pipeline.
+**Prevention:** Always enforce explicit error handling for datetime conversions from untrusted or external data sources by using `errors='coerce'` (or similar mechanisms) to safely convert invalid parsing results to `NaT` instead of crashing.

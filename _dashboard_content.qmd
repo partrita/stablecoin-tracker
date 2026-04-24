@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-13 01:55:51 (UTC)*
+*Last Updated: 2026-04-24 13:54:06 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$298,455,047,757** | 🟢 +0.00% | 🔴 -49.80% |
+| **$300,303,013,539** | 🔴 -49.98% | 🔴 -49.93% |
 
 ### 📰 Latest News
-- [Tether Hires JPMorgan Executive for U.S. Stablecoin Expansion - The Information](https://news.google.com/rss/articles/CBMingFBVV95cUxPSkdSdHEydk1yb0tsdkxqUXE0bHoteEdKX0FJbC1WemVkSjZrNFlMZFdDbkZaUm5xWmJ6OGxGeUlIV25uLWNwb2VmN0pfT0w4ZFpXRFBPdXl6MnhJS2lhT3ptT1RoNThrM0RlNE45cWVQVExhQWFpZnpuemJPcmdyNVp0Y0NURlJ5M3RwQXNSTV9QSEpQYjJOOXRidy14QQ?oc=5) (Mon, 13 Apr 2026 13:04:00 GMT)
-- [2 Stablecoin-Related Investments That Could Soar in Value in 2026 - The Globe and Mail](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS3Q4R01rRFQxX3htNWROekFPWk5SYUJaZkpXTWxzdmRkNWVfUXFYcHVzeEZ6clQxbUdyelVxWHRBUDJtN2ViTlFOc1d5cy1yYWNvTFNUSnNXMzdvSGxTLVAyLUM5UlRMX1J5TVhLVy1UZTJ4dU1kRElQcHU3Ym5jMjZGaVB5Zm9pMWdUbVluVVNlUkE3eldKREpJRFhxa2xxTjI2R0FxNWVPd3NZc2JEaHZ0cXR2TjhqZkNGT0VrMmgyMmxYVUhLX0dtT01CazF3NHRYd0hNQVV6OS14d1dkdzBpU3E?oc=5) (Mon, 13 Apr 2026 10:21:48 GMT)
-- [2 Stablecoin-Related Investments That Could Soar in Value in 2026 - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWFZQNGg1dUZZVWpVbzVyRnFtd2lhN1B6QTExZThKODgzVk5GNURHcDhvTGVjS2pLa2hQSnBIYzBDVWhWSlZNVTFMRUtZME5FYXd5UGg0MUFSNkowa29nQWZadzdtakVldWZ2ZzNmOERmeGxyS1MxZUFMZEctZ1BYV3pVZG5wSGVoMS1qYUY2RzlXUXRXdDlPUg?oc=5) (Mon, 13 Apr 2026 10:18:34 GMT)
-- [Hong Kong Grants Stablecoin Issuer Licences - Wealth Briefing](https://news.google.com/rss/articles/CBMilwFBVV95cUxNbVRVRjFzMlBQdE51SkZoZTJNRTlCb29LWmZzckJLb3lsMXRZeTBTZ3N1bHdWV1JfazRFa0NPNEVpdG9tLUE3YzNWUi1Hd3ljZGJZYWMxY3FmN2JKaXpUclBfMGV6VmxaSmowRVVmN2pXQXVUSlktbDdfc0lzNFBZVm1pZ0pqT0otZkRoOHo0bHRZTVZCN1NV?oc=5) (Sun, 12 Apr 2026 20:46:08 GMT)
-- [Stablecoin Forecasts Stretch Higher as Bessent Presses for U.S. Crypto Clarity - Yahoo Finance](https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0l5c0g4amhWNndSZ0EtYU5EMHhsQW5XQnRMaGp6U2MxaGFkY25zRi1TbmRBc21CSW9mSllFUTAwaXZ4NmQwcTRFVFZGb21tMm04SW4zR0RJRDczb1VOODRoTVhKZEktN1VReklHVDVqSEY1ZjhuZTViTFM3bnd4QlplN0dHVlBxb0tYenptcEJFMWlETFhad1dlTjhTOWZwRWR0U1NYMXR4ZXFF?oc=5) (Sun, 12 Apr 2026 18:38:00 GMT)
+- [9 charts on what stablecoins are becoming - a16z crypto](https://news.google.com/rss/articles/CBMia0FVX3lxTFA0Q2VlYnRiYUdlVEM0cVBBczNXeExKWlJ4Rmp1TWRFMlFueDlzUjM1eS10SFNmbG9DczUzOFRsOWQyM0szOXFLMi1DMXUwMExaUUFLd3JVcFhieHJYNWhRemctMGhFb3BVYUpj?oc=5) (Fri, 24 Apr 2026 13:29:26 GMT)
+- [Morgan Stanley Becomes Stablecoin Reserve Manager - Yahoo Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdy1ibktKbjRENEhXR0RrNTBGY2tyTU5mQ3RUMUVpeF9XTzZGTVVtYndRLUx6VExRTlNBOWR4NzFhMHY1OFFueEpFRnZhN0Q2MUhUekZHSUZMRllpanI5eS1ZV01rMWR2a25LZ1lJVGJWTzIxUzBLbHpaRDU0ekxwZnVBRVUwdUQ4SEN5b19rNDlHbzA3VXhDN0pLZ3JrRHNHLUVoLTZyZ2c4QQ?oc=5) (Fri, 24 Apr 2026 13:07:00 GMT)
+- [Morgan Stanley is latest to launch MMF targeting stablecoin issuers - ledgerinsights.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmtOWFB6SHZnT2JYWkRKVFZpSnRndjhaOFFzOUthTG5Xc05VQU9vcEpaRFVONkpUS2JHcXdQSVQ5cnhiVzNidVZqbjNZaHBGZFRLaThoNnZhT1dQc2p1TjJ0a3dCZHQ0aHFyb2xpSXFnbFB5Q3k0Z1NiOHlrRDB3Z2g4YWtHT3o5dE5Ma2tLNkNGVVh1eXlMTEhlZFdNb0gt?oc=5) (Fri, 24 Apr 2026 12:32:37 GMT)
+- [Morgan Stanley launches stablecoin reserves fund aligned with GENIUS Act requirements - The Block](https://news.google.com/rss/articles/CBMivgFBVV95cUxPdnQweHRGZWE2S3BpS1JpZWtIeVFzbW85ekVXQlQxSGh3Y3ItSWt5X1B6MWlKbHZlNUZhcnRxUXlFZ0pfUGdmNWVfZ3V2TE5kejFhNGZJUExLM0FuNkk2MnUySHZ2SjNKZFpXQ3hyeU5LZ1ZOYnRGUlJIX29GZ1E3QzFOTHdjT2JSeUtXQXRxWXh2QjNyTU1FXzZELXZKS0NRWG9ZOER3TjdweTBkcDhobUZaOVdxWjlxeGdoLVBR?oc=5) (Fri, 24 Apr 2026 12:24:54 GMT)
+- [Morgan Stanley launches Stablecoin Reserves Portfolio. Here&#x27;s what it means - CoinDesk](https://news.google.com/rss/articles/CBMiywFBVV95cUxNbl80SU0xLWFaR2RmaTNrdVRWRElLYmlFcE4xU3A0ZWZyWnZyZ1V1QjJHM3diczRDbDRCTk5CM21UWFF6ZnVLY2V1b1lrNERRMVRuYTlzRnp3Q1g4NHZTODQwdVZBNTY3ZHZtT3NMZV81dnlRbHh2WWlrMWZHVkdLTlJrMHlaRk9kLXVCeC1oVnpjc21ieVVpblNTREh6UmMwd21rTWtNZG5wUHhCeHV1NjFxdFpEQndnWkxnMlVLWmktSnUyT1RWRnN3SQ?oc=5) (Fri, 24 Apr 2026 06:42:02 GMT)

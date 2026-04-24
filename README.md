@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-24 01:55:01 (UTC)*
+*Last Updated: 2026-04-24 13:54:06 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,585,049,791** | 🔴 -49.93% | 🔴 -49.89% |
+| **$300,303,013,539** | 🔴 -49.98% | 🔴 -49.93% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [FASB Wants Companies to Reveal Stablecoin Holdings - PYMNTS.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeEVfTHR5SVZFTUVGaV9nSkt5cjJsTXAxSWdrUEZmQmZhTk9qWmhSM2Uwa2M1T3BmZ3pZeTFnRDgyZXNZUXhIbXh4aXZJVXNOeHF2VFUtRDNTeHdQa0YwSDZiMC1zcVBKQVhpcmZrb1Z5bUJHakRsX1NIeUhFdzRKcWxReDQwQ2RvVjNPSkpMWFU0c3NWNUpMX0Zn?oc=5) (Thu, 23 Apr 2026 20:47:34 GMT)
-- [DoorDash Tests Stablecoin Payouts To Reshape Gig Worker Economics - Yahoo Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXVsaHQ0d3QweW9jbDFrdDJLeXY3M0FvTF9vM2dLQW1KeHp6YXRtUXNWdVh4MmpiMUhFeS0xRnZKY3Fsb2tSRXpOZFlCdmNrYUg3Yi1OYXZPSmpQWDV4U1NWRlJCSHlhYnFwcGRwal9GOHc3TGNUR296YVMxRG9qN1pXNGdJalhhMDkyZkdJTHZUYzh0cHB3MFFpWnpqZ3QyQ2Q4NDA3eGdIUQ?oc=5) (Thu, 23 Apr 2026 19:03:43 GMT)
-- [BaaS provider Coastal Bank partners Tempo for cross border stablecoin payments - ledgerinsights.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3JmMjM4anZxVVJQV2g3eEVKa2t4ZTc0b1lGaV9YVHByTFNjNzBNSXMzNnMyb1otS3QzUXNncWpLVnZJTzFNTjNfbEZXc2FEVE9vRDZGbWdEZnhnR1Z2Nkdjbl9oZUhnV25qQ2IxRVZaTFJsZ2Q4TDVnNFQ5UU9CdUZUM1gwNUZDektrdVYwNTZ3RVI1N1lPeXp2aEZpVG1sU1piWTkwVV84SlMySGpZ?oc=5) (Thu, 23 Apr 2026 17:43:13 GMT)
-- [Scott Melker dives into the stablecoin takeover - Yahoo Finance](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOUc3dWxDcEQyZzk2SHZBQV9uR0VGNGd2UzlqUVZ4NVF6Vk9xMTVONm0wSkxOSU9KSngzMzdQWGVhWDZ1QWhjdnA1TGNmRlEyWDVub1lvU3VsZlpHVVU4UDFfQTEtX1g4UE1UMmdrcHdrZ2xMYXZPeERVTENTNWxNbnppRVcwU1VQckZQU1p4Q1oyem1QYjZlMWNB?oc=5) (Thu, 23 Apr 2026 17:39:21 GMT)
-- [Session 2 SAFE CEPR EFA RPN Webinar Series: Stablecoin Regulation - CEPR](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQTNrUFlSbmFadlNxbGxEYWJQV2ZZLXc0Zjh0em1BcnExNV83WWRNeHJfMFVwRUZrcjI3ZFB5cWp3c3QxemZtWXJUMk1UR25TZTZZeG11LUI0WEQ1cTA5akVnN2lXU1ZqWWljclBxZ2cwZ1JqNkVoTFZRWWhjUkduZ0pWcW9KWEpZekNncW5uYVQ3dw?oc=5) (Thu, 23 Apr 2026 17:17:27 GMT)
+- [9 charts on what stablecoins are becoming - a16z crypto](https://news.google.com/rss/articles/CBMia0FVX3lxTFA0Q2VlYnRiYUdlVEM0cVBBczNXeExKWlJ4Rmp1TWRFMlFueDlzUjM1eS10SFNmbG9DczUzOFRsOWQyM0szOXFLMi1DMXUwMExaUUFLd3JVcFhieHJYNWhRemctMGhFb3BVYUpj?oc=5) (Fri, 24 Apr 2026 13:29:26 GMT)
+- [Morgan Stanley Becomes Stablecoin Reserve Manager - Yahoo Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdy1ibktKbjRENEhXR0RrNTBGY2tyTU5mQ3RUMUVpeF9XTzZGTVVtYndRLUx6VExRTlNBOWR4NzFhMHY1OFFueEpFRnZhN0Q2MUhUekZHSUZMRllpanI5eS1ZV01rMWR2a25LZ1lJVGJWTzIxUzBLbHpaRDU0ekxwZnVBRVUwdUQ4SEN5b19rNDlHbzA3VXhDN0pLZ3JrRHNHLUVoLTZyZ2c4QQ?oc=5) (Fri, 24 Apr 2026 13:07:00 GMT)
+- [Morgan Stanley is latest to launch MMF targeting stablecoin issuers - ledgerinsights.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmtOWFB6SHZnT2JYWkRKVFZpSnRndjhaOFFzOUthTG5Xc05VQU9vcEpaRFVONkpUS2JHcXdQSVQ5cnhiVzNidVZqbjNZaHBGZFRLaThoNnZhT1dQc2p1TjJ0a3dCZHQ0aHFyb2xpSXFnbFB5Q3k0Z1NiOHlrRDB3Z2g4YWtHT3o5dE5Ma2tLNkNGVVh1eXlMTEhlZFdNb0gt?oc=5) (Fri, 24 Apr 2026 12:32:37 GMT)
+- [Morgan Stanley launches stablecoin reserves fund aligned with GENIUS Act requirements - The Block](https://news.google.com/rss/articles/CBMivgFBVV95cUxPdnQweHRGZWE2S3BpS1JpZWtIeVFzbW85ekVXQlQxSGh3Y3ItSWt5X1B6MWlKbHZlNUZhcnRxUXlFZ0pfUGdmNWVfZ3V2TE5kejFhNGZJUExLM0FuNkk2MnUySHZ2SjNKZFpXQ3hyeU5LZ1ZOYnRGUlJIX29GZ1E3QzFOTHdjT2JSeUtXQXRxWXh2QjNyTU1FXzZELXZKS0NRWG9ZOER3TjdweTBkcDhobUZaOVdxWjlxeGdoLVBR?oc=5) (Fri, 24 Apr 2026 12:24:54 GMT)
+- [Morgan Stanley launches Stablecoin Reserves Portfolio. Here&#x27;s what it means - CoinDesk](https://news.google.com/rss/articles/CBMiywFBVV95cUxNbl80SU0xLWFaR2RmaTNrdVRWRElLYmlFcE4xU3A0ZWZyWnZyZ1V1QjJHM3diczRDbDRCTk5CM21UWFF6ZnVLY2V1b1lrNERRMVRuYTlzRnp3Q1g4NHZTODQwdVZBNTY3ZHZtT3NMZV81dnlRbHh2WWlrMWZHVkdLTlJrMHlaRk9kLXVCeC1oVnpjc21ieVVpblNTREh6UmMwd21rTWtNZG5wUHhCeHV1NjFxdFpEQndnWkxnMlVLWmktSnUyT1RWRnN3SQ?oc=5) (Fri, 24 Apr 2026 06:42:02 GMT)
 
 <!-- END_dashboard -->
 

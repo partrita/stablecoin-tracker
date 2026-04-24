@@ -78,7 +78,7 @@ def save_coin_data(output):
                         df = pd.DataFrame(
                             stats_data, columns=["timestamp", "market_cap"]
                         )
-                        df["date"] = pd.to_datetime(df["timestamp"], unit="ms")
+                        df["date"] = pd.to_datetime(df["timestamp"], unit="ms", errors="coerce")
                         df["coin_name"] = name
                         # Security: Enforce numeric conversion to prevent formula injection
                         df["market_cap"] = pd.to_numeric(df["market_cap"], errors="coerce")
