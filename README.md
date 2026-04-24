@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-24 00:00:22 (UTC)*
+*Last Updated: 2026-04-24 01:55:01 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,317,556,471** | 🔴 -49.98% | 🔴 -49.93% |
+| **$300,585,049,791** | 🔴 -49.93% | 🔴 -49.89% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -19,7 +19,7 @@
 - [DoorDash Tests Stablecoin Payouts To Reshape Gig Worker Economics - Yahoo Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXVsaHQ0d3QweW9jbDFrdDJLeXY3M0FvTF9vM2dLQW1KeHp6YXRtUXNWdVh4MmpiMUhFeS0xRnZKY3Fsb2tSRXpOZFlCdmNrYUg3Yi1OYXZPSmpQWDV4U1NWRlJCSHlhYnFwcGRwal9GOHc3TGNUR296YVMxRG9qN1pXNGdJalhhMDkyZkdJTHZUYzh0cHB3MFFpWnpqZ3QyQ2Q4NDA3eGdIUQ?oc=5) (Thu, 23 Apr 2026 19:03:43 GMT)
 - [BaaS provider Coastal Bank partners Tempo for cross border stablecoin payments - ledgerinsights.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3JmMjM4anZxVVJQV2g3eEVKa2t4ZTc0b1lGaV9YVHByTFNjNzBNSXMzNnMyb1otS3QzUXNncWpLVnZJTzFNTjNfbEZXc2FEVE9vRDZGbWdEZnhnR1Z2Nkdjbl9oZUhnV25qQ2IxRVZaTFJsZ2Q4TDVnNFQ5UU9CdUZUM1gwNUZDektrdVYwNTZ3RVI1N1lPeXp2aEZpVG1sU1piWTkwVV84SlMySGpZ?oc=5) (Thu, 23 Apr 2026 17:43:13 GMT)
 - [Scott Melker dives into the stablecoin takeover - Yahoo Finance](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOUc3dWxDcEQyZzk2SHZBQV9uR0VGNGd2UzlqUVZ4NVF6Vk9xMTVONm0wSkxOSU9KSngzMzdQWGVhWDZ1QWhjdnA1TGNmRlEyWDVub1lvU3VsZlpHVVU4UDFfQTEtX1g4UE1UMmdrcHdrZ2xMYXZPeERVTENTNWxNbnppRVcwU1VQckZQU1p4Q1oyem1QYjZlMWNB?oc=5) (Thu, 23 Apr 2026 17:39:21 GMT)
-- [Stablecoin takeover: Why banks are fighting the GENIUS Act - Yahoo Finance](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNnhIRmhET1N1Vzh5V3JyTmxKX0YtaG9KZ1liNE1hMDNvNU9taHQtWDVTVmg1TF9pVlNxNHNkeEtmcHB3M3J3NWtraG5yUTNfYm9HTFZtUVh4alU2U20xV2gwT0UwZThwMkgxbFJZNE9GM0ZRNl9jNVk2VnRhVWQ1OVRtNEtid2tKUDNKZ2NJcERORC1JaVJnMDJnWThsRzJTa3FxNWtXcw?oc=5) (Thu, 23 Apr 2026 16:44:57 GMT)
+- [Session 2 SAFE CEPR EFA RPN Webinar Series: Stablecoin Regulation - CEPR](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQTNrUFlSbmFadlNxbGxEYWJQV2ZZLXc0Zjh0em1BcnExNV83WWRNeHJfMFVwRUZrcjI3ZFB5cWp3c3QxemZtWXJUMk1UR25TZTZZeG11LUI0WEQ1cTA5akVnN2lXU1ZqWWljclBxZ2cwZ1JqNkVoTFZRWWhjUkduZ0pWcW9KWEpZekNncW5uYVQ3dw?oc=5) (Thu, 23 Apr 2026 17:17:27 GMT)
 
 <!-- END_dashboard -->
 
