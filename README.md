@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-23 06:16:44 (UTC)*
+*Last Updated: 2026-04-24 00:00:22 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,186,770,994** | 🔴 -49.93% | 🟢 +0.30% |
+| **$300,317,556,471** | 🔴 -49.98% | 🔴 -49.93% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Nium, Coinbase team up for global stablecoin payments and settlement - TNGlobal](https://news.google.com/rss/articles/CBMipgFBVV95cUxOb3A4MzNDdnFaT0FnckRHVFd6eWJIY2UwaFBHakpiTFJVb09tZGZ5ckFWRktqNzk1RzJMQ3dLODRjblNoU2pXTWV2c1Bka3gwb0FaZkFpVUI1OG9LbC1iT3MxRTg3dWVIY1duVmpjY2dxUExhVmF0anlGVEI2N0t1T0pmX1NRS0gtYnNtYVZWNDk3SE5QeUxlTGdwaFowYmprS25rSU9R?oc=5) (Thu, 23 Apr 2026 01:51:22 GMT)
-- [MoonPay Invests in Korean Fintech Pioneer Finger, Laying Groundwork for a Korean Won Stablecoin Ecosystem - PR Newswire](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTXU1bG1FN3FxZUhPOEJrbVpGVXVkUWh5NS13aDN5VVM1RHhETEJ3ZF93NHpDRmtPNUFQcWFSZlo5eW9qT0RBd0JFZ2JSZXl5eXVsd3NLT1liMk9HaHI5NHY3U3UtbXJpOEN5dmhacGt5a01FVG9heTBJaXBpdFdXMVRyRHQ2YmFPNFRDZ21rSE5yVFJtUHA0d2FNT0FacUNnR0psVkZZUS1ReTI5OUpHajlOeEh2Z2F2QVI5czh1UkdNVnNCYXRSNk8tZ2JuQndQcHphQ2F3dXVSb3JDUHpFRmt6Z0FBVWQyS0MzYXhKWGlxZw?oc=5) (Thu, 23 Apr 2026 00:00:00 GMT)
-- [Coinbase Expands Into AI Stablecoin Payments With New App Store - simplywall.st](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLUxZOFJ4M0Q1VkZENEFCSF96M3U0dXg3OGEta0FDbnY2LVpPcFNDcVh4YWppcjJTQnotSmFzNGdSY1NWdTVDS3dDMV8tRUpoWTZKdW9jaDZsZzZRYW5iZjFNZXlMQ0NMS3B0dE5ya0tqN1VPOV9SR0VfVzdwM3M1bUhQSTIzVU1yNl9PeHByckJxV0V4NzlpWG1TeWRpNTJWaDRPcHlaY0hfZ0FmUlBneWR6YlYtU1dkUDdWelNGQUpWWXZpa2lYY3liUGJZNXh2OFNTMFRmeGQ0aGMxVUhpa3ZR0gHnAUFVX3lxTE05bm5YNi1rMkluOV9sWGdzR3E3eW5PWldqU2h4VTE2WU1LM1ZaR0tKY1JsMDZKcTRCREltVTgzTDNOUkROVEtvNE1fUmtGQzNuUVV6eXNwZWNfSWJqclg4RDZWNnFqVFlOVTN3TU5NblI0Yy13UkozWkZsU3R4NjNfUXRRNUZGYzZNYXZjSDZaTHdWZmlZZlVVTHd2akxCdS1LdjB6cWhhWDJTa2lmcVVKWEdVUmV1TDhxa1hhQ20xeXhhbENJQWdEa3FqMGlUNDVNNHc0TUJEVy1OZF9DalozVTlXMFlWNA?oc=5) (Wed, 22 Apr 2026 22:26:00 GMT)
-- [CME Seeks License to Become Stablecoin Issuer - Markets Media](https://news.google.com/rss/articles/CBMigAFBVV95cUxPVENjTlQyMXNfSmVYYWhINHFRNlpFV3NrbXBHem5MMmtXUlNpMUNmN1lndUpvaUtiR0J0a0hmZzR2S25zd0J6Vkxvd000YUZWcTJheUxyb21DOWpBTlNXMWE5ZGFiby1XVElhcVhLQ2xUNXI2SjFRdnRjX0F3QXR3Qg?oc=5) (Wed, 22 Apr 2026 21:39:22 GMT)
-- [Visa Inc. (V) Tempo Blockchain Integration Asserts Stablecoin Opportunities Push - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMiggFBVV95cUxQSHJqbThFU182elpuRGF3dFNNUENXdTVlVTdYTnA5ME1BRFdIcTVkajFjaUhCdW5hTG9Ba1d2VU81YTJETGtNUE1odFdtYzdQaXpkYTJubmllYnJFQmxjVHpxWTkzTHJodVRRVE10bEx1cXZ4WjBYMEt4ZWRKM3BRaXlB?oc=5) (Wed, 22 Apr 2026 21:25:26 GMT)
+- [FASB Wants Companies to Reveal Stablecoin Holdings - PYMNTS.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeEVfTHR5SVZFTUVGaV9nSkt5cjJsTXAxSWdrUEZmQmZhTk9qWmhSM2Uwa2M1T3BmZ3pZeTFnRDgyZXNZUXhIbXh4aXZJVXNOeHF2VFUtRDNTeHdQa0YwSDZiMC1zcVBKQVhpcmZrb1Z5bUJHakRsX1NIeUhFdzRKcWxReDQwQ2RvVjNPSkpMWFU0c3NWNUpMX0Zn?oc=5) (Thu, 23 Apr 2026 20:47:34 GMT)
+- [DoorDash Tests Stablecoin Payouts To Reshape Gig Worker Economics - Yahoo Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXVsaHQ0d3QweW9jbDFrdDJLeXY3M0FvTF9vM2dLQW1KeHp6YXRtUXNWdVh4MmpiMUhFeS0xRnZKY3Fsb2tSRXpOZFlCdmNrYUg3Yi1OYXZPSmpQWDV4U1NWRlJCSHlhYnFwcGRwal9GOHc3TGNUR296YVMxRG9qN1pXNGdJalhhMDkyZkdJTHZUYzh0cHB3MFFpWnpqZ3QyQ2Q4NDA3eGdIUQ?oc=5) (Thu, 23 Apr 2026 19:03:43 GMT)
+- [BaaS provider Coastal Bank partners Tempo for cross border stablecoin payments - ledgerinsights.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3JmMjM4anZxVVJQV2g3eEVKa2t4ZTc0b1lGaV9YVHByTFNjNzBNSXMzNnMyb1otS3QzUXNncWpLVnZJTzFNTjNfbEZXc2FEVE9vRDZGbWdEZnhnR1Z2Nkdjbl9oZUhnV25qQ2IxRVZaTFJsZ2Q4TDVnNFQ5UU9CdUZUM1gwNUZDektrdVYwNTZ3RVI1N1lPeXp2aEZpVG1sU1piWTkwVV84SlMySGpZ?oc=5) (Thu, 23 Apr 2026 17:43:13 GMT)
+- [Scott Melker dives into the stablecoin takeover - Yahoo Finance](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOUc3dWxDcEQyZzk2SHZBQV9uR0VGNGd2UzlqUVZ4NVF6Vk9xMTVONm0wSkxOSU9KSngzMzdQWGVhWDZ1QWhjdnA1TGNmRlEyWDVub1lvU3VsZlpHVVU4UDFfQTEtX1g4UE1UMmdrcHdrZ2xMYXZPeERVTENTNWxNbnppRVcwU1VQckZQU1p4Q1oyem1QYjZlMWNB?oc=5) (Thu, 23 Apr 2026 17:39:21 GMT)
+- [Stablecoin takeover: Why banks are fighting the GENIUS Act - Yahoo Finance](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNnhIRmhET1N1Vzh5V3JyTmxKX0YtaG9KZ1liNE1hMDNvNU9taHQtWDVTVmg1TF9pVlNxNHNkeEtmcHB3M3J3NWtraG5yUTNfYm9HTFZtUVh4alU2U20xV2gwT0UwZThwMkgxbFJZNE9GM0ZRNl9jNVk2VnRhVWQ1OVRtNEtid2tKUDNKZ2NJcERORC1JaVJnMDJnWThsRzJTa3FxNWtXcw?oc=5) (Thu, 23 Apr 2026 16:44:57 GMT)
 
 <!-- END_dashboard -->
 
