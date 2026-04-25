@@ -84,7 +84,9 @@ def update_news_archive():
         try:
             df_archive = pd.read_csv(archive_path)
             # Ensure published_dt is datetime
-            df_archive['published_dt'] = pd.to_datetime(df_archive['published_dt'])
+            # Security: Use explicit error handling to prevent unhandled DateParseError exceptions
+            df_archive['published_dt'] = pd.to_datetime(df_archive['published_dt'], errors='coerce')
+            df_archive = df_archive.dropna(subset=['published_dt'])
         except Exception as e:
             print(f"Error reading archive: {e}")
             df_archive = pd.DataFrame(columns=['title', 'link', 'published', 'published_dt'])
@@ -147,7 +149,9 @@ def update_readme():
 
     # Read Data
     df = pd.read_csv(csv_path)
-    df['date'] = pd.to_datetime(df['date'])
+    # Security: Use explicit error handling to prevent unhandled DateParseError exceptions
+    df['date'] = pd.to_datetime(df['date'], errors='coerce')
+    df = df.dropna(subset=['date'])
 
     # Get unique dates sorted
     dates = sorted(df['date'].unique())

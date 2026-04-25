@@ -18,7 +18,10 @@ def generate_plot():
     df = pd.read_csv(csv_path)
 
     # Convert date to datetime
-    df['date'] = pd.to_datetime(df['date'])
+    # Security: Use explicit error handling (errors='coerce') to prevent unhandled DateParseError exceptions
+    # that can cause Denial of Service (DoS) risks when processing untrusted date strings.
+    df['date'] = pd.to_datetime(df['date'], errors='coerce')
+    df = df.dropna(subset=['date'])
 
     # Set style
     sns.set_theme(style="darkgrid")

@@ -57,3 +57,8 @@
 **Vulnerability:** Memory Exhaustion DoS
 **Learning:** `src/update_readme.py` downloaded the Google News RSS feed using `response.content`, which buffers the entire response payload into memory at once. If the external server (either maliciously or erroneously) returns an infinitely large payload, it would exhaust the container's memory, causing the application to crash and leading to a Denial of Service.
 **Prevention:** When fetching data from external or untrusted sources, always use streaming (`stream=True` in `requests.get`) and enforce a hard limit on the downloaded payload size by iterating over chunks (e.g., `response.iter_content`).
+
+## 2026-04-25 - [Date Parse Unhandled Exception DoS]
+**Vulnerability:** Denial of Service (DoS) due to unhandled exceptions when parsing date strings in Pandas.
+**Learning:** `src/generate_plot.py`, `src/update_readme.py`, and `src/get_coingekodata.py` converted untrusted timestamp strings to dates using `pd.to_datetime(df['date'])` without explicit error handling. If a malicious or malformed input (like an invalid date format or a non-date string) was passed into the data files, pandas would throw a `DateParseError` or `ValueError`, which would crash the entire data processing pipeline and cause a Denial of Service.
+**Prevention:** Always explicitly set `errors='coerce'` when converting untrusted or external data strings to datetime objects using pandas (e.g. `pd.to_datetime(df['date'], errors='coerce')`). This safely converts invalid strings to `NaT` (Not a Time), which can then be safely filtered out or handled without crashing the application.
