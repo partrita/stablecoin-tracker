@@ -22,6 +22,9 @@ def generate_plot():
     # that can cause Denial of Service (DoS) risks when processing untrusted date strings.
     df['date'] = pd.to_datetime(df['date'], errors='coerce')
     df = df.dropna(subset=['date'])
+    if df.empty:
+        print(f"Error: No valid data found in {csv_path} after parsing dates.")
+        return
 
     # Set style
     sns.set_theme(style="darkgrid")
