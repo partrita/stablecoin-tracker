@@ -21,7 +21,9 @@ archive_path = 'data/news_archive.csv'
 if os.path.exists(archive_path):
     df = pd.read_csv(archive_path)
     # Ensure datetime
-    df['published_dt'] = pd.to_datetime(df['published_dt'])
+    # Security: Date parsing uses errors="coerce" to prevent Denial of Service (DoS) from unhandled DateParseError/ValueError if the CSV contains malformed data.
+    df['published_dt'] = pd.to_datetime(df['published_dt'], errors='coerce')
+    df = df.dropna(subset=['published_dt'])
     
     # Sort just in case
     df = df.sort_values(by='published_dt', ascending=False)

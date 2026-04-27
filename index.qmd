@@ -23,7 +23,9 @@ import plotly.express as px
 df = pd.read_csv("data/stablecoin_marketcap.csv")
 
 # Ensure date is datetime
-df["date"] = pd.to_datetime(df["date"])
+# Security: Date parsing uses errors="coerce" to prevent Denial of Service (DoS) from unhandled DateParseError/ValueError if the CSV contains malformed data.
+df["date"] = pd.to_datetime(df["date"], errors="coerce")
+df = df.dropna(subset=["date"])
 
 # Line Plot
 fig = px.line(df, x="date", y="market_cap", color="coin_name", title="Stablecoin Market Cap Over Time")
@@ -64,7 +66,9 @@ if os.path.exists(archive_path):
     # Process if data exists
     if not df_news.empty:
          # Ensure datetime
-        df_news['published_dt'] = pd.to_datetime(df_news['published_dt'])
+         # Security: Date parsing uses errors="coerce" to prevent Denial of Service (DoS) from unhandled DateParseError/ValueError if the CSV contains malformed data.
+        df_news['published_dt'] = pd.to_datetime(df_news['published_dt'], errors="coerce")
+        df_news = df_news.dropna(subset=['published_dt'])
         df_news = df_news.sort_values(by='published_dt', ascending=False)
         
         import html
