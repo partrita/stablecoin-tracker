@@ -18,7 +18,12 @@ def generate_plot():
     df = pd.read_csv(csv_path)
 
     # Convert date to datetime
-    df['date'] = pd.to_datetime(df['date'])
+    df['date'] = pd.to_datetime(df['date'], errors='coerce')
+    df = df.dropna(subset=['date'])
+
+    if df.empty:
+        print("Error: No valid date data found in CSV.")
+        return
 
     # Set style
     sns.set_theme(style="darkgrid")
