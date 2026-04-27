@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-27 02:01:01 (UTC)*
+*Last Updated: 2026-04-27 05:20:22 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,404,379,158** | 🟢 +0.01% | 🔴 -49.90% |
+| **$300,401,445,715** | 🟢 +0.01% | 🔴 -49.90% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [Western Union to launch stablecoin next month, with &#x27;Stable Card&#x27; planned for global consumers - The Block](https://news.google.com/rss/articles/CBMie0FVX3lxTE9lcWtlWmZzY1p6RXZMd2dVU240YkR0TmdNTUZhY0MxU0thdDN2Ql9idDJsaUFEcFM4Nm9MUkl4eUFoT29hbVpOVWNTdnpORFplcVdTekFReXdwdUkwem1uVl8weDFLUkZIVm1pSWdaQTB6UzlxY2FDdEtQdw?oc=5) (Mon, 27 Apr 2026 03:29:58 GMT)
+- [Morgan Stanley Investment Management: Stablecoin Reserves Portfolio Launch Expands Institutional Digital Asset Infrastructure - Pulse 2.0](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeTRmS2diUF83MVUtd1h3WFlDSk0wa2szVXl0NjVuN2tsc0JvMHpqVWZDam5Bai0xWGpRNWN2WjhaMkctbzJkV2RQeGZCUW5kZFpXclZPcG9nWnpSSzkyUGpRaGNkU19yOV9OdEUwWFFIOGc3QVRyS1BmSHhfYTNuUHQ1VmNrZFJjQlZhUEpmWjk1TkhUUkZkMjZaZFNWa09DSld2VGdPQnVJZUV0RVF2Rml3M2dQWWlMUTg1UnJYSGdWdGJBQjBsaGZZSk9wTmFmODFHaEZtQjJMWHNs0gHiAUFVX3lxTE1aSHJLRXFVajRDS0dsc004TUlRbXA4TXI1QU1LcXpGWVNLZS1XVDZqOFBOU2MzdF92MllyeTNESlVEQ2tVTU9nRUhQQkp5UkoweUNrMzhZZW40M2JwM28zN3Y4WkdZM0RfSnZBMjE4ak9wOUtiSktjTHVGWC1YWUhFZ3NHRkk5dFNJUXNpSFBYSUxjblhoRzJmdF9aRXZpZkpwRXBFQlpMNVVzWk9WemhaSFFQa0dkcGpvRThSVWx6cEVmT1l1QUs2RXF6RWFXWWJ6QURHeUVZbE1jVHdpampGY1E?oc=5) (Mon, 27 Apr 2026 03:02:14 GMT)
 - [Visa Validator Role On Tempo Reframes Stablecoin And Card Payment Future - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjVmcjVzalBPWEZzNUlQaXltandqalE2eW1NSENUS1c1YnZGcWdYclpTT2ZvZTRERXJfd212VHBmN1pneWlpOS14QWlVbXR4Yk1kOEI0ZFBFVzN6RkxxWVJEc1J6TXJ2NzdEUGlBcXdEbkktZ2hoRlhwQWRnbUNXeTA5RTdRVVppQ2l4TjFFVGx1VUhDdEFCcURwWmNnQnBT?oc=5) (Sat, 25 Apr 2026 23:04:18 GMT)
 - [Western Union Bets on Stablecoins and M&amp;A for Growth - PYMNTS.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxPVzRxSS14UDREMi1fUl9jQnFkdFRNRkhYTTZaV0pTenVGemJTRHRoTGxuUXZHSlNXTm92UFJaSzdqeWU3QVNabWZ6b2g2WTZMRS1VNEVBTDQ5bmgwM01mcDNPQW53X3Jqb0ZaWkg5bDZPdnotdmp6VVFHU0V2MWtZUlZSMUppR2Y1R1NUQTZZdFgtUWc?oc=5) (Fri, 24 Apr 2026 23:56:50 GMT)
 - [Stablecoin Growth in the U.S. - Purdue Global Law School](https://news.google.com/rss/articles/CBMic0FVX3lxTE9uWjZ3RTVSTGM4a1VJejZyQ2tFdUNjUmxsOHpMcW9nZlE3b05EQWNaT3dOTUZtai02SDNma04zb3RRQkhSS2JaUDUzTWVJS21IaHhsQjZlclh4S19NVGRPWFdfX3BMYnVHYWJpQUpWZjRyMDA?oc=5) (Fri, 24 Apr 2026 20:57:47 GMT)
-- [OCC’s GENIUS Act Proposal: What Prospective Issuers Need to Know - Morgan Lewis](https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGFFNG5LTUJ1aVNHX1ZWSzBPNzJxVWtVNldreWtPQnE4SThTMEpOVFZQS3dQbkNjSGJlR0JtVjZ1TndNd3IyVnBYcjdSdlpUVWJrNWx1TVZrYi1EUk5jNHcxZFlEdGhpV1FoWGNqdnlvOFhVWHVlTlhRdXM3QlRiUXhfRGpkZFB4Mk92OVBqNUpJbTE4RThQWVE5WjNNTzdZYzVabXdB?oc=5) (Fri, 24 Apr 2026 19:43:17 GMT)
-- [Morgan Stanley Supports Stablecoin Issuers With New Fund for Reserves - PYMNTS.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUS0zb3lXV1drTzc1TVhBN2ZsTWY2ZE80RnRnZDVIRjN4bW1jRjR5X0RZQTl1NDY0cWNkM2luRFVENXc0NjJmMThOVmFQNXRISVYwS2pXcWEyRFJGSXZHMW1zSFc4OU0xM2ljWl9nVnBybEt4NlRhYUNicVl2LV9kajlOYnNMQXFfQlU5aXJ4R1l6UV9VWWpZYmRROE1oQW4xVjQ5bjczZ0tKN25wZHc?oc=5) (Fri, 24 Apr 2026 18:37:44 GMT)
 
 <!-- END_dashboard -->
 
