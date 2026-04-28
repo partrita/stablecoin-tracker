@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-28 02:07:31 (UTC)*
+*Last Updated: 2026-04-28 09:27:23 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,188,014,079** | 🔴 -50.04% | 🟢 +0.01% |
+| **$300,168,226,706** | 🔴 -50.04% | 🟢 +0.01% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -17,9 +17,9 @@
 ### 📰 Latest News
 - [Western Union says stablecoin strategy is moving from testing to rollout - AMBCrypto](https://news.google.com/rss/articles/CBMimwFBVV95cUxPOEl3R1lOcTdMRll6QXJ3VHdqcjM4YkE2cjhEYlJLczBXYTRUMnBBNENvVnhQX0I5RGFERExiODlic0g3S1duMUFLVnZzQmVSdTd0VHotV2cxWUpRQnVYc2hxX1JQUlFyRndhcno1WEo4UGVYbDBNM2dXNVg0WklKREdQY2pMck90a2xhMGotbC1Gc1gxUFcydVlXNNIBoAFBVV95cUxONm9pS3lzTTRYSmpiWUluUmdOYTVXWDNxLWxkbTE0M2RYRl9qTlhDUzNxaDFTTW5Gal9tZnZkRlNoWXNZQVg2UktqUDExVm50eFRhOXgybFJtRWQ4VmJLbTFzNV9vSnBSVzUtTTdsNzNhWkViNjRPS0NXbXNNcnc0NjRRaWlDRUJxVUc4MTJ6ck82M1lrTHpVUUluT3BtUWtm?oc=5) (Mon, 27 Apr 2026 21:57:31 GMT)
 - [Why stablecoins are making many banks nervous - marketplace.org](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXBVcFFDVGgyQW94WnlVVnJXOWxwSUNKTlBvN0pEZG9qbzFYaVhRMWUwWWh4OUtJTGJzQTdoZ3IzNFFTV1A1aVpPVW1Tc0VUbXhyQjRYc3dzd3pHQUVIRTl0STNYWDlVNHFmQjUyVXktcmUwbnR1NVN6ZFZnWnhyMjdYQWZDVkdqZ0UtT0c3ZlNhYVVQ?oc=5) (Mon, 27 Apr 2026 21:20:00 GMT)
+- [Paystand Launches USDb: The First Bitcoin-Aligned Stablecoin Purpose-Built for the $100 Trillion B2B Economy - Business Wire](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTVpkV3BjZTBJZ1FwVU53N290RGtBTDcxRmQ5WGM0ZFlsaEtMeWtwR05LNThlcWlsTTlsaTRHdkY2aFpIc1EtZHdScDh4bzluN3dIeXJRem8xUkwtLThUUU14ajZBbFJneFFVQzFwZHZKX2RQTGZoMjFJWGJRcUM2eEI0SkE4allSNkc3WUhFVUNnYVpiUGdVOENoVTd1SHQ0Yk5MSjEtNXZxbzRtWFdsdDdGazF0Z2FYYjZjVEp2M0NDSnctMDlLSC1fVXlVamNZaFlXd3ZXSGlUNTFrSG5BNTV0Z2h3RUdZZTJubTNVVF9HNUptT3BjWkJn?oc=5) (Mon, 27 Apr 2026 21:00:00 GMT)
 - [Western Union eyeing stablecoin launch to settle global transactions without SWIFT, CEO says - CoinDesk](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT01uR2FiYXFsUW9NLU1CM0psbjhYZnZ2amcxcTlOc2trNW1uX2JETmZXNXVjcld2V0RCb3VBSDM5amhwYUFDak9yVHNPVTJQanY3NXlkdE1GcUZXeFZLVzk0UktGbVB5SVo4MzVtWXN1M05sRlh0Q0F2QU1kbzFFeVJQVUJqLWYway14dEM2YnBaOG5pYkpFZi1JMW9yeEZxM0txY1BkRmwweUFIYkJoT3Ntel9maGJScnlOS1MxVVQzaFVXTXpFRWxYa2lNQUticUE?oc=5) (Mon, 27 Apr 2026 20:40:10 GMT)
 - [BLOG: JPMorgan, BNY Mellon roll out deposit tokens, lobby to restrict non-bank stablecoins - thebusinessjournal.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxPSEtlSkpFT2htQmxQMzF5WnFlQkpTLTFybHNZZHJ6RXVNbU9fTHN0dFFQenktR1JJMS1EQ2RBazc5a3V5R1NBbzRueUxMcTNzSkNVXzA3bEFuRm5jOHlBUFluRVVoalJjQ3RlZFUySXNWNlVLU3FFRlMyeTVhVUkwZw?oc=5) (Mon, 27 Apr 2026 20:39:01 GMT)
-- [Western Union Launching Stablecoin and Global Spend Card - Yahoo Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSXRXWHhqaWRNUGhTb0hrZElnU0NfVkpHU01qazAwaGRYS21WdmllQWxUM0taaFpSeHdyVXk4c05UbWxNd0VEb3pMaWdEQ21Dck04NXQyc19sWWREaVlzeWFpekNhV2lHdDVVb2Zwek9JT20wblc2eERQb0d4czFPbVctUTl0ZE1JWDBFVkhmc1JXQk9oRlEwSF9ucExhS241SGlUbXhuSVZvQQ?oc=5) (Mon, 27 Apr 2026 19:47:52 GMT)
 
 <!-- END_dashboard -->
 
