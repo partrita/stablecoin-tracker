@@ -19,7 +19,11 @@ def generate_plot():
 
     # Convert date to datetime
     df['date'] = pd.to_datetime(df['date'], errors='coerce')
-    df = df.dropna(subset=['date'])
+
+    # Security: Enforce explicit numeric conversion for market_cap to prevent ValueError during plot generation
+    df['market_cap'] = pd.to_numeric(df['market_cap'], errors='coerce')
+
+    df = df.dropna(subset=['date', 'market_cap'])
 
     if df.empty:
         print("Error: No valid date data found in CSV.")

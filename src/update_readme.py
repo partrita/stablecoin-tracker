@@ -149,7 +149,11 @@ def update_readme():
     # Read Data
     df = pd.read_csv(csv_path)
     df['date'] = pd.to_datetime(df['date'], errors='coerce')
-    df = df.dropna(subset=['date'])
+
+    # Security: Enforce explicit numeric conversion for market_cap to prevent DoS via unhandled exceptions (e.g. ValueError during sum or string formatting)
+    df['market_cap'] = pd.to_numeric(df['market_cap'], errors='coerce')
+
+    df = df.dropna(subset=['date', 'market_cap'])
 
     # Get unique dates sorted
     dates = sorted(df['date'].unique())

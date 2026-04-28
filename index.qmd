@@ -25,7 +25,11 @@ df = pd.read_csv("data/stablecoin_marketcap.csv")
 # Ensure date is datetime
 # Security: Date parsing uses errors="coerce" to prevent Denial of Service (DoS) from unhandled DateParseError/ValueError if the CSV contains malformed data.
 df["date"] = pd.to_datetime(df["date"], errors="coerce")
-df = df.dropna(subset=["date"])
+
+# Security: Enforce explicit numeric conversion for market_cap to prevent unhandled exceptions (DoS) when plotting
+df["market_cap"] = pd.to_numeric(df["market_cap"], errors="coerce")
+
+df = df.dropna(subset=["date", "market_cap"])
 
 # Line Plot
 fig = px.line(df, x="date", y="market_cap", color="coin_name", title="Stablecoin Market Cap Over Time")
