@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-29 07:18:05 (UTC)*
+*Last Updated: 2026-04-29 14:13:54 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,144,156,052** | 🔴 -50.01% | 🔴 -49.94% |
+| **$299,623,920,230** | 🔴 -50.09% | 🔴 -50.02% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoin supply to soar 1,100% by 2030, says Bain - TheBanker.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE14aExvTmdsMWxxRTVQc19NdmNvc3pHWDhYRjQ5X1VvZ24zd0E3YUFrNDhkVUhHRUU4T2hTUk1IeHBQdlA4WWVuRzBGdDNzbF8zbThtdHJxbFU2akJOd2dnSng3NEVybGhuUmpHOHJRQ3FVeVk4ell0eFZn?oc=5) (Wed, 29 Apr 2026 05:18:37 GMT)
-- [The stablecoin stumbling block - Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE80cGpsZjQ3c1p6clNyclR3eVEtanR4S1NockxqWEZzNzZINWFyWjNNamUxR0dydEIwRjlaanNIanExNjEydUt6dlpHazFqU2ZMeVRTeVliZmxKWkQ1TjNNd1FNRWg5NGxoaXdYeXpLaTk?oc=5) (Wed, 29 Apr 2026 04:03:07 GMT)
-- [Financial trade group creates stablecoin certificate for treasury - CFO.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNeFdaQm1CaTZXX19YeDUyRk5TaXozMk8tQkEyd1BjN1U4dDdETk8yUkxNYmFTQ1EzRVB2NjdzV3M0bkl6TUwtWUpJcXA1MHNmSmp0bnVRaFpXcjBLazl5WWN0RUpIM3JjVnFNYkRPVU5QazgtOHp4LTY4Y3loWm9OSkFUZmJVczBSc2FZaE5WcERabHFPeFlRUURSQ2NpRGFaZGxCQ3Vn?oc=5) (Tue, 28 Apr 2026 20:07:01 GMT)
-- [US regulatory clarity brings stablecoins into the payments mainstream - Finextra Research](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTU1JMXA1SE1iMHo3WUptRlM3RkZTTVVHeC14S1BIZ08tNi01WFYtVUZNelR1NHJmY2QtbUdqY2JkenpNbnhsc3BHN0NoMnRvOExiTDRQeFhhX3dGenFtckx2d1VDSTluZXlyOEJ1dHVYS2c4OGoyMWFiOTZGRXoybFpEOGxtUjBZeXpFaW9JNm5fMkFRZlVGZEF5WWozVWdxQ3JMZFFhSGRRVGFVMzBQR293?oc=5) (Tue, 28 Apr 2026 19:21:31 GMT)
-- [Western Union Stablecoin Launch Tests Valuation Gap And Earnings Outlook - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkJRNVU5M1NmQjVDMDVGQ1dlUEJOS3dRUWVSU3JXYXhrRVNSOHcwV0ZLYU5TWlRJZ0RBb0ZlZzhQeEFQUklNWDBlZVlqUUZ2dUxmN3ExaUlXU19WVWRGX3FtaFBvYnZ2d2pURmItTTFGZHVZYlI2X28tVmZoLTZNMEwwMktsY1pyUUxCZ210RW82WGszWlRoN08zRmkzTEcwM094OQ?oc=5) (Tue, 28 Apr 2026 19:03:05 GMT)
+- [Solana Ventures leads $18 million round in Squads to scale its stablecoin platform Altitude - The Block](https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFFKTlk0bkxiZ2F6RkhLcDM1Ykx0VUpRNzNLZE91UlhOWXo4SU1taWU3a0NhNm9GUFRCV3FucC1kYnlnZTNTT2Q5emhfVjlmcXV6dl9LR1c4RVhweW1RQWZZMnlKU2JkaXZCYm9PdUFEM3RsUlphajZadUJyWlhCZ25VOG5LZk85VVVrNzVwSQ?oc=5) (Wed, 29 Apr 2026 13:55:02 GMT)
+- [Ripple (XRP) News: OKX’s RLUSD Listing Just Made the Stablecoin Institutional Collateral - Yahoo Finance](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVG5Sd2c0TGxabGx2VnQtZnpiMnl3NWhoZ1R3ZkNzWHRiUnhXalBqd2NkRTR1YzNnczBGcUk4bGxNU2NGMGdBWmhrVzNrQU51eldkTHU3U3daRFRVTkVWdHJ5OVcwQ19QR0VfbHp3UklYNDhOUUZtUTRwd2Q4S2xPX2ZjLTJEM3BGS21DVHZEWnI2bFJO?oc=5) (Wed, 29 Apr 2026 13:48:59 GMT)
+- [WeFi collaborates with Visa on stablecoin payment use cases - Yahoo Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSkdXY0RiaGdMZlFJSENYVlNMMHN3WWJVXzZYUUpLcndoaHlndWdiNHROQkJhNm1xQkFCRlI0WWtuTVlTX3VLZzk1c2JTdDdDQV9EQUdsdWZXenFEX05wX0J1U1p6MVM5Nzhfem9kQ0dUX1plbHU3SnU3MXNkQ0JuR0dMVFFSY3lqZmNnbHE2WG9uSnNGLW5RSmt6MVkwQ3FJTjl1WWVpQXZOUQ?oc=5) (Wed, 29 Apr 2026 12:04:08 GMT)
+- [WeFi collaborates with Visa on stablecoin payment use cases - Electronic Payments International](https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ1RTN3ZXaTlXN3N0c1VXdjdobXh2dTQ2clNyYS1Lb2ZBdURwbWxDdHNJR2VuUGlRbC1uamxSUWZHNEtGUEJ3SUczY2lvdVh1Ui0xYVhmemR3UnhEcXFqdjVZcW9lQzl6eTlOcmZlRkRfcWpDU2h2a0dLdHQteldWSkptN1VJNDIwTFM0TEp4ZkU5Y1BwSHdEWkJ3SFBIakll?oc=5) (Wed, 29 Apr 2026 11:18:33 GMT)
+- [Tether leads Belo&#x27;s $14 million raise to expand stablecoin payments across Latin America - CoinDesk](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazE5c2RJQzZyZXRSUzVaWjNYbExkRi0wc2VZMWg5YUllRHkzSldqbmZJV2xpRTlvSEk5WGh1QmhueHBSLWIyUVAtZjJuTU5mSnI4ejVPUnJ0YTM2T3MyS0MwQW8xQ2VKUG5PVHdpa3d6WHVaTVhBazNaMkJNMjBTaEx1QTFZdUd4ZFc3bndSNlhMaF9jWDhUMEIzR1ZxbWJjbDBnbVpHRHpJaG1QSlBjbXNtV1ZtVUY1S3BZR2pic3Yxb2xBT3FJRTFDaFVtZHU5?oc=5) (Wed, 29 Apr 2026 11:14:01 GMT)
 
 <!-- END_dashboard -->
 

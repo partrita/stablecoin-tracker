@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-26 01:58:09 (UTC)*
+*Last Updated: 2026-04-29 14:13:54 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,380,659,665** | 🟢 +0.03% | 🔴 -49.99% |
+| **$299,623,920,230** | 🔴 -50.09% | 🔴 -50.02% |
 
 ### 📰 Latest News
-- [Visa Validator Role On Tempo Reframes Stablecoin And Card Payment Future - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjVmcjVzalBPWEZzNUlQaXltandqalE2eW1NSENUS1c1YnZGcWdYclpTT2ZvZTRERXJfd212VHBmN1pneWlpOS14QWlVbXR4Yk1kOEI0ZFBFVzN6RkxxWVJEc1J6TXJ2NzdEUGlBcXdEbkktZ2hoRlhwQWRnbUNXeTA5RTdRVVppQ2l4TjFFVGx1VUhDdEFCcURwWmNnQnBT?oc=5) (Sat, 25 Apr 2026 23:04:18 GMT)
-- [Western Union Bets on Stablecoins and M&amp;A for Growth - PYMNTS.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxPVzRxSS14UDREMi1fUl9jQnFkdFRNRkhYTTZaV0pTenVGemJTRHRoTGxuUXZHSlNXTm92UFJaSzdqeWU3QVNabWZ6b2g2WTZMRS1VNEVBTDQ5bmgwM01mcDNPQW53X3Jqb0ZaWkg5bDZPdnotdmp6VVFHU0V2MWtZUlZSMUppR2Y1R1NUQTZZdFgtUWc?oc=5) (Fri, 24 Apr 2026 23:56:50 GMT)
-- [Stablecoin Growth in the U.S. - Purdue Global Law School](https://news.google.com/rss/articles/CBMic0FVX3lxTE9uWjZ3RTVSTGM4a1VJejZyQ2tFdUNjUmxsOHpMcW9nZlE3b05EQWNaT3dOTUZtai02SDNma04zb3RRQkhSS2JaUDUzTWVJS21IaHhsQjZlclh4S19NVGRPWFdfX3BMYnVHYWJpQUpWZjRyMDA?oc=5) (Fri, 24 Apr 2026 20:57:47 GMT)
-- [OCC’s GENIUS Act Proposal: What Prospective Issuers Need to Know - Morgan Lewis](https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGFFNG5LTUJ1aVNHX1ZWSzBPNzJxVWtVNldreWtPQnE4SThTMEpOVFZQS3dQbkNjSGJlR0JtVjZ1TndNd3IyVnBYcjdSdlpUVWJrNWx1TVZrYi1EUk5jNHcxZFlEdGhpV1FoWGNqdnlvOFhVWHVlTlhRdXM3QlRiUXhfRGpkZFB4Mk92OVBqNUpJbTE4RThQWVE5WjNNTzdZYzVabXdB?oc=5) (Fri, 24 Apr 2026 19:43:17 GMT)
-- [Morgan Stanley Supports Stablecoin Issuers With New Fund for Reserves - PYMNTS.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUS0zb3lXV1drTzc1TVhBN2ZsTWY2ZE80RnRnZDVIRjN4bW1jRjR5X0RZQTl1NDY0cWNkM2luRFVENXc0NjJmMThOVmFQNXRISVYwS2pXcWEyRFJGSXZHMW1zSFc4OU0xM2ljWl9nVnBybEt4NlRhYUNicVl2LV9kajlOYnNMQXFfQlU5aXJ4R1l6UV9VWWpZYmRROE1oQW4xVjQ5bjczZ0tKN25wZHc?oc=5) (Fri, 24 Apr 2026 18:37:44 GMT)
+- [Solana Ventures leads $18 million round in Squads to scale its stablecoin platform Altitude - The Block](https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFFKTlk0bkxiZ2F6RkhLcDM1Ykx0VUpRNzNLZE91UlhOWXo4SU1taWU3a0NhNm9GUFRCV3FucC1kYnlnZTNTT2Q5emhfVjlmcXV6dl9LR1c4RVhweW1RQWZZMnlKU2JkaXZCYm9PdUFEM3RsUlphajZadUJyWlhCZ25VOG5LZk85VVVrNzVwSQ?oc=5) (Wed, 29 Apr 2026 13:55:02 GMT)
+- [Ripple (XRP) News: OKX’s RLUSD Listing Just Made the Stablecoin Institutional Collateral - Yahoo Finance](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVG5Sd2c0TGxabGx2VnQtZnpiMnl3NWhoZ1R3ZkNzWHRiUnhXalBqd2NkRTR1YzNnczBGcUk4bGxNU2NGMGdBWmhrVzNrQU51eldkTHU3U3daRFRVTkVWdHJ5OVcwQ19QR0VfbHp3UklYNDhOUUZtUTRwd2Q4S2xPX2ZjLTJEM3BGS21DVHZEWnI2bFJO?oc=5) (Wed, 29 Apr 2026 13:48:59 GMT)
+- [WeFi collaborates with Visa on stablecoin payment use cases - Yahoo Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSkdXY0RiaGdMZlFJSENYVlNMMHN3WWJVXzZYUUpLcndoaHlndWdiNHROQkJhNm1xQkFCRlI0WWtuTVlTX3VLZzk1c2JTdDdDQV9EQUdsdWZXenFEX05wX0J1U1p6MVM5Nzhfem9kQ0dUX1plbHU3SnU3MXNkQ0JuR0dMVFFSY3lqZmNnbHE2WG9uSnNGLW5RSmt6MVkwQ3FJTjl1WWVpQXZOUQ?oc=5) (Wed, 29 Apr 2026 12:04:08 GMT)
+- [WeFi collaborates with Visa on stablecoin payment use cases - Electronic Payments International](https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ1RTN3ZXaTlXN3N0c1VXdjdobXh2dTQ2clNyYS1Lb2ZBdURwbWxDdHNJR2VuUGlRbC1uamxSUWZHNEtGUEJ3SUczY2lvdVh1Ui0xYVhmemR3UnhEcXFqdjVZcW9lQzl6eTlOcmZlRkRfcWpDU2h2a0dLdHQteldWSkptN1VJNDIwTFM0TEp4ZkU5Y1BwSHdEWkJ3SFBIakll?oc=5) (Wed, 29 Apr 2026 11:18:33 GMT)
+- [Tether leads Belo&#x27;s $14 million raise to expand stablecoin payments across Latin America - CoinDesk](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazE5c2RJQzZyZXRSUzVaWjNYbExkRi0wc2VZMWg5YUllRHkzSldqbmZJV2xpRTlvSEk5WGh1QmhueHBSLWIyUVAtZjJuTU5mSnI4ejVPUnJ0YTM2T3MyS0MwQW8xQ2VKUG5PVHdpa3d6WHVaTVhBazNaMkJNMjBTaEx1QTFZdUd4ZFc3bndSNlhMaF9jWDhUMEIzR1ZxbWJjbDBnbVpHRHpJaG1QSlBjbXNtV1ZtVUY1S3BZR2pic3Yxb2xBT3FJRTFDaFVtZHU5?oc=5) (Wed, 29 Apr 2026 11:14:01 GMT)
