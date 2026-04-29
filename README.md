@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-29 02:08:41 (UTC)*
+*Last Updated: 2026-04-29 07:18:05 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,101,698,810** | 🔴 -50.01% | 🔴 -49.94% |
+| **$300,144,156,052** | 🔴 -50.01% | 🔴 -49.94% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Financial trade group creates stablecoin certification for treasury - CFO.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNeFdaQm1CaTZXX19YeDUyRk5TaXozMk8tQkEyd1BjN1U4dDdETk8yUkxNYmFTQ1EzRVB2NjdzV3M0bkl6TUwtWUpJcXA1MHNmSmp0bnVRaFpXcjBLazl5WWN0RUpIM3JjVnFNYkRPVU5QazgtOHp4LTY4Y3loWm9OSkFUZmJVczBSc2FZaE5WcERabHFPeFlRUURSQ2NpRGFaZGxCQ3Vn?oc=5) (Tue, 28 Apr 2026 20:07:01 GMT)
-- [US regulatory clarity brings stablecoins into the payments mainstream - Finextra Research](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTU1JMXA1SE1iMHo3WUptRlM3RkZTTVVHeC14S1BIZ08tNi01WFYtVUZNelR1NHJmY2QtbUdqY2JkenpNbnhsc3BHN0NoMnRvOExiTDRQeFhhX3dGenFtckx2d1VDSTluZXlyOEJ1dHVYS2c4OGoyMWFiOTZGRXoybFpEOGxtUjBZeXpFaW9JNm5fMkFRZlVGZEF5WWozVWdxQ3JMZFFhSGRRVGFVMzBQR293?oc=5) (Tue, 28 Apr 2026 20:00:00 GMT)
+- [Stablecoin supply to soar 1,100% by 2030, says Bain - TheBanker.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE14aExvTmdsMWxxRTVQc19NdmNvc3pHWDhYRjQ5X1VvZ24zd0E3YUFrNDhkVUhHRUU4T2hTUk1IeHBQdlA4WWVuRzBGdDNzbF8zbThtdHJxbFU2akJOd2dnSng3NEVybGhuUmpHOHJRQ3FVeVk4ell0eFZn?oc=5) (Wed, 29 Apr 2026 05:18:37 GMT)
+- [The stablecoin stumbling block - Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE80cGpsZjQ3c1p6clNyclR3eVEtanR4S1NockxqWEZzNzZINWFyWjNNamUxR0dydEIwRjlaanNIanExNjEydUt6dlpHazFqU2ZMeVRTeVliZmxKWkQ1TjNNd1FNRWg5NGxoaXdYeXpLaTk?oc=5) (Wed, 29 Apr 2026 04:03:07 GMT)
+- [Financial trade group creates stablecoin certificate for treasury - CFO.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNeFdaQm1CaTZXX19YeDUyRk5TaXozMk8tQkEyd1BjN1U4dDdETk8yUkxNYmFTQ1EzRVB2NjdzV3M0bkl6TUwtWUpJcXA1MHNmSmp0bnVRaFpXcjBLazl5WWN0RUpIM3JjVnFNYkRPVU5QazgtOHp4LTY4Y3loWm9OSkFUZmJVczBSc2FZaE5WcERabHFPeFlRUURSQ2NpRGFaZGxCQ3Vn?oc=5) (Tue, 28 Apr 2026 20:07:01 GMT)
+- [US regulatory clarity brings stablecoins into the payments mainstream - Finextra Research](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTU1JMXA1SE1iMHo3WUptRlM3RkZTTVVHeC14S1BIZ08tNi01WFYtVUZNelR1NHJmY2QtbUdqY2JkenpNbnhsc3BHN0NoMnRvOExiTDRQeFhhX3dGenFtckx2d1VDSTluZXlyOEJ1dHVYS2c4OGoyMWFiOTZGRXoybFpEOGxtUjBZeXpFaW9JNm5fMkFRZlVGZEF5WWozVWdxQ3JMZFFhSGRRVGFVMzBQR293?oc=5) (Tue, 28 Apr 2026 19:21:31 GMT)
 - [Western Union Stablecoin Launch Tests Valuation Gap And Earnings Outlook - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkJRNVU5M1NmQjVDMDVGQ1dlUEJOS3dRUWVSU3JXYXhrRVNSOHcwV0ZLYU5TWlRJZ0RBb0ZlZzhQeEFQUklNWDBlZVlqUUZ2dUxmN3ExaUlXU19WVWRGX3FtaFBvYnZ2d2pURmItTTFGZHVZYlI2X28tVmZoLTZNMEwwMktsY1pyUUxCZ210RW82WGszWlRoN08zRmkzTEcwM094OQ?oc=5) (Tue, 28 Apr 2026 19:03:05 GMT)
-- [Stablecoin Giant Tether Reveals Plans for Modular Bitcoin Mining Hardware - Decrypt](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM3huSm1pbFBpR28yMFk4dVlXS01ERmlyVEp0cVp4RzBuOFEwV3RBVWlCOFUyY0xYWkpodDFFaHp3RkJqZ2dBZWt2QWtUQnZRV1lDd1dwbjU0eUpidENvMVgzMnBlQkd5bFNVSGpsQW5GNkZ3MUo5Q0psM2NjbEZ3bkhqYUliMWNN0gGQAUFVX3lxTFBZV05LNUdOeG02eExtZkN5SlVIZGt0N0d3VmRyNDlZM1NCX0pNdnBhZVFOTDdhMjYtUTQ4QmJUSkpxOF9tTFZmQ1JtQUpUazlUY0o1RktQbzVHdFdQSklTSGEwSVRQNnVGUk5fcjBZUWhvU3dobzhTVm5aLTBYR3NHcjUtcGhmNHExMHA2MHZIdg?oc=5) (Tue, 28 Apr 2026 16:50:38 GMT)
-- [Stablecoin Giant Tether Reveals Plans for Modular Bitcoin Mining Hardware - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxQTHZVNkJNWTVIUjFCd2lra2JuTlhEV2pFZnRnb3NjcGFuVzVUM0lFMWZ2RjRnNkluTzI2VVpwbWRxVU15UjhZeXFtV2lyeENyN29ra29VWlFlT1J2ZUJ2N1ExRjh6S0VXaFJ6Rk81Zkd6a2JNdWlZTVozZFRZaDViakp6UTgyTlg2cHNNMzc1bmVleEFDclVEdkhzb1hkN0RqVHEzTA?oc=5) (Tue, 28 Apr 2026 16:50:38 GMT)
 
 <!-- END_dashboard -->
 
