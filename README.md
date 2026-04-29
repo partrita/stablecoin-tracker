@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-28 09:27:23 (UTC)*
+*Last Updated: 2026-04-29 02:08:41 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,168,226,706** | 🔴 -50.04% | 🟢 +0.01% |
+| **$300,101,698,810** | 🔴 -50.01% | 🔴 -49.94% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Western Union says stablecoin strategy is moving from testing to rollout - AMBCrypto](https://news.google.com/rss/articles/CBMimwFBVV95cUxPOEl3R1lOcTdMRll6QXJ3VHdqcjM4YkE2cjhEYlJLczBXYTRUMnBBNENvVnhQX0I5RGFERExiODlic0g3S1duMUFLVnZzQmVSdTd0VHotV2cxWUpRQnVYc2hxX1JQUlFyRndhcno1WEo4UGVYbDBNM2dXNVg0WklKREdQY2pMck90a2xhMGotbC1Gc1gxUFcydVlXNNIBoAFBVV95cUxONm9pS3lzTTRYSmpiWUluUmdOYTVXWDNxLWxkbTE0M2RYRl9qTlhDUzNxaDFTTW5Gal9tZnZkRlNoWXNZQVg2UktqUDExVm50eFRhOXgybFJtRWQ4VmJLbTFzNV9vSnBSVzUtTTdsNzNhWkViNjRPS0NXbXNNcnc0NjRRaWlDRUJxVUc4MTJ6ck82M1lrTHpVUUluT3BtUWtm?oc=5) (Mon, 27 Apr 2026 21:57:31 GMT)
-- [Why stablecoins are making many banks nervous - marketplace.org](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXBVcFFDVGgyQW94WnlVVnJXOWxwSUNKTlBvN0pEZG9qbzFYaVhRMWUwWWh4OUtJTGJzQTdoZ3IzNFFTV1A1aVpPVW1Tc0VUbXhyQjRYc3dzd3pHQUVIRTl0STNYWDlVNHFmQjUyVXktcmUwbnR1NVN6ZFZnWnhyMjdYQWZDVkdqZ0UtT0c3ZlNhYVVQ?oc=5) (Mon, 27 Apr 2026 21:20:00 GMT)
-- [Paystand Launches USDb: The First Bitcoin-Aligned Stablecoin Purpose-Built for the $100 Trillion B2B Economy - Business Wire](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTVpkV3BjZTBJZ1FwVU53N290RGtBTDcxRmQ5WGM0ZFlsaEtMeWtwR05LNThlcWlsTTlsaTRHdkY2aFpIc1EtZHdScDh4bzluN3dIeXJRem8xUkwtLThUUU14ajZBbFJneFFVQzFwZHZKX2RQTGZoMjFJWGJRcUM2eEI0SkE4allSNkc3WUhFVUNnYVpiUGdVOENoVTd1SHQ0Yk5MSjEtNXZxbzRtWFdsdDdGazF0Z2FYYjZjVEp2M0NDSnctMDlLSC1fVXlVamNZaFlXd3ZXSGlUNTFrSG5BNTV0Z2h3RUdZZTJubTNVVF9HNUptT3BjWkJn?oc=5) (Mon, 27 Apr 2026 21:00:00 GMT)
-- [Western Union eyeing stablecoin launch to settle global transactions without SWIFT, CEO says - CoinDesk](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT01uR2FiYXFsUW9NLU1CM0psbjhYZnZ2amcxcTlOc2trNW1uX2JETmZXNXVjcld2V0RCb3VBSDM5amhwYUFDak9yVHNPVTJQanY3NXlkdE1GcUZXeFZLVzk0UktGbVB5SVo4MzVtWXN1M05sRlh0Q0F2QU1kbzFFeVJQVUJqLWYway14dEM2YnBaOG5pYkpFZi1JMW9yeEZxM0txY1BkRmwweUFIYkJoT3Ntel9maGJScnlOS1MxVVQzaFVXTXpFRWxYa2lNQUticUE?oc=5) (Mon, 27 Apr 2026 20:40:10 GMT)
-- [BLOG: JPMorgan, BNY Mellon roll out deposit tokens, lobby to restrict non-bank stablecoins - thebusinessjournal.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxPSEtlSkpFT2htQmxQMzF5WnFlQkpTLTFybHNZZHJ6RXVNbU9fTHN0dFFQenktR1JJMS1EQ2RBazc5a3V5R1NBbzRueUxMcTNzSkNVXzA3bEFuRm5jOHlBUFluRVVoalJjQ3RlZFUySXNWNlVLU3FFRlMyeTVhVUkwZw?oc=5) (Mon, 27 Apr 2026 20:39:01 GMT)
+- [Financial trade group creates stablecoin certification for treasury - CFO.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNeFdaQm1CaTZXX19YeDUyRk5TaXozMk8tQkEyd1BjN1U4dDdETk8yUkxNYmFTQ1EzRVB2NjdzV3M0bkl6TUwtWUpJcXA1MHNmSmp0bnVRaFpXcjBLazl5WWN0RUpIM3JjVnFNYkRPVU5QazgtOHp4LTY4Y3loWm9OSkFUZmJVczBSc2FZaE5WcERabHFPeFlRUURSQ2NpRGFaZGxCQ3Vn?oc=5) (Tue, 28 Apr 2026 20:07:01 GMT)
+- [US regulatory clarity brings stablecoins into the payments mainstream - Finextra Research](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTU1JMXA1SE1iMHo3WUptRlM3RkZTTVVHeC14S1BIZ08tNi01WFYtVUZNelR1NHJmY2QtbUdqY2JkenpNbnhsc3BHN0NoMnRvOExiTDRQeFhhX3dGenFtckx2d1VDSTluZXlyOEJ1dHVYS2c4OGoyMWFiOTZGRXoybFpEOGxtUjBZeXpFaW9JNm5fMkFRZlVGZEF5WWozVWdxQ3JMZFFhSGRRVGFVMzBQR293?oc=5) (Tue, 28 Apr 2026 20:00:00 GMT)
+- [Western Union Stablecoin Launch Tests Valuation Gap And Earnings Outlook - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkJRNVU5M1NmQjVDMDVGQ1dlUEJOS3dRUWVSU3JXYXhrRVNSOHcwV0ZLYU5TWlRJZ0RBb0ZlZzhQeEFQUklNWDBlZVlqUUZ2dUxmN3ExaUlXU19WVWRGX3FtaFBvYnZ2d2pURmItTTFGZHVZYlI2X28tVmZoLTZNMEwwMktsY1pyUUxCZ210RW82WGszWlRoN08zRmkzTEcwM094OQ?oc=5) (Tue, 28 Apr 2026 19:03:05 GMT)
+- [Stablecoin Giant Tether Reveals Plans for Modular Bitcoin Mining Hardware - Decrypt](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM3huSm1pbFBpR28yMFk4dVlXS01ERmlyVEp0cVp4RzBuOFEwV3RBVWlCOFUyY0xYWkpodDFFaHp3RkJqZ2dBZWt2QWtUQnZRV1lDd1dwbjU0eUpidENvMVgzMnBlQkd5bFNVSGpsQW5GNkZ3MUo5Q0psM2NjbEZ3bkhqYUliMWNN0gGQAUFVX3lxTFBZV05LNUdOeG02eExtZkN5SlVIZGt0N0d3VmRyNDlZM1NCX0pNdnBhZVFOTDdhMjYtUTQ4QmJUSkpxOF9tTFZmQ1JtQUpUazlUY0o1RktQbzVHdFdQSklTSGEwSVRQNnVGUk5fcjBZUWhvU3dobzhTVm5aLTBYR3NHcjUtcGhmNHExMHA2MHZIdg?oc=5) (Tue, 28 Apr 2026 16:50:38 GMT)
+- [Stablecoin Giant Tether Reveals Plans for Modular Bitcoin Mining Hardware - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxQTHZVNkJNWTVIUjFCd2lra2JuTlhEV2pFZnRnb3NjcGFuVzVUM0lFMWZ2RjRnNkluTzI2VVpwbWRxVU15UjhZeXFtV2lyeENyN29ra29VWlFlT1J2ZUJ2N1ExRjh6S0VXaFJ6Rk81Zkd6a2JNdWlZTVozZFRZaDViakp6UTgyTlg2cHNNMzc1bmVleEFDclVEdkhzb1hkN0RqVHEzTA?oc=5) (Tue, 28 Apr 2026 16:50:38 GMT)
 
 <!-- END_dashboard -->
 
