@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-29 07:18:05 (UTC)*
+*Last Updated: 2026-04-30 02:08:44 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,144,156,052** | 🔴 -50.01% | 🔴 -49.94% |
+| **$299,196,136,137** | 🔴 -50.15% | 🔴 -50.16% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoin supply to soar 1,100% by 2030, says Bain - TheBanker.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE14aExvTmdsMWxxRTVQc19NdmNvc3pHWDhYRjQ5X1VvZ24zd0E3YUFrNDhkVUhHRUU4T2hTUk1IeHBQdlA4WWVuRzBGdDNzbF8zbThtdHJxbFU2akJOd2dnSng3NEVybGhuUmpHOHJRQ3FVeVk4ell0eFZn?oc=5) (Wed, 29 Apr 2026 05:18:37 GMT)
-- [The stablecoin stumbling block - Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE80cGpsZjQ3c1p6clNyclR3eVEtanR4S1NockxqWEZzNzZINWFyWjNNamUxR0dydEIwRjlaanNIanExNjEydUt6dlpHazFqU2ZMeVRTeVliZmxKWkQ1TjNNd1FNRWg5NGxoaXdYeXpLaTk?oc=5) (Wed, 29 Apr 2026 04:03:07 GMT)
-- [Financial trade group creates stablecoin certificate for treasury - CFO.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNeFdaQm1CaTZXX19YeDUyRk5TaXozMk8tQkEyd1BjN1U4dDdETk8yUkxNYmFTQ1EzRVB2NjdzV3M0bkl6TUwtWUpJcXA1MHNmSmp0bnVRaFpXcjBLazl5WWN0RUpIM3JjVnFNYkRPVU5QazgtOHp4LTY4Y3loWm9OSkFUZmJVczBSc2FZaE5WcERabHFPeFlRUURSQ2NpRGFaZGxCQ3Vn?oc=5) (Tue, 28 Apr 2026 20:07:01 GMT)
-- [US regulatory clarity brings stablecoins into the payments mainstream - Finextra Research](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTU1JMXA1SE1iMHo3WUptRlM3RkZTTVVHeC14S1BIZ08tNi01WFYtVUZNelR1NHJmY2QtbUdqY2JkenpNbnhsc3BHN0NoMnRvOExiTDRQeFhhX3dGenFtckx2d1VDSTluZXlyOEJ1dHVYS2c4OGoyMWFiOTZGRXoybFpEOGxtUjBZeXpFaW9JNm5fMkFRZlVGZEF5WWozVWdxQ3JMZFFhSGRRVGFVMzBQR293?oc=5) (Tue, 28 Apr 2026 19:21:31 GMT)
-- [Western Union Stablecoin Launch Tests Valuation Gap And Earnings Outlook - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkJRNVU5M1NmQjVDMDVGQ1dlUEJOS3dRUWVSU3JXYXhrRVNSOHcwV0ZLYU5TWlRJZ0RBb0ZlZzhQeEFQUklNWDBlZVlqUUZ2dUxmN3ExaUlXU19WVWRGX3FtaFBvYnZ2d2pURmItTTFGZHVZYlI2X28tVmZoLTZNMEwwMktsY1pyUUxCZ210RW82WGszWlRoN08zRmkzTEcwM094OQ?oc=5) (Tue, 28 Apr 2026 19:03:05 GMT)
+- [&#x27;Nearly Two-Thirds&#x27;—Stablecoins Suddenly Hit $4.5T Q1 Volume Record - Forbes](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQkhNcDJIanNyRmItR0hMWmpUZ0Y3RFhhZmhHM2wzTm1TVTBIRzRpVUR5MDRpMEN2OXRzTDdfZlViVWpWOXhWcEY0WUQxdmRnWlJxc3ZYZnBiV25Rd1dZMFZ3UlRFSWh6aHh2N2hoSXdWSFNQbUlKUXR2SHBZeUhXSWpyQU9PdWFLWmVmOTV6T1dVTUhHMTQ2YzBOVll3aWIwQWhLLWNJUFlVazFfRzJjSTZuX19lMVRLRzJv?oc=5) (Thu, 30 Apr 2026 01:40:35 GMT)
+- [Meta (META) starts stablecoin payout to creators in Circle&#x27;s USDC on Polygon, Solana via Stripe - CoinDesk](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMXNTRmctTHVMZEFYUnVPVjR3XzRVM1lVdFQyOURaaUFVc0twdXI2N3cyM3ZRQUR3NkJNRVpHeTlfcTVwNThXV3IwY1BETnE2anRIZXNGMWxjWm9LS05lMzBWWGp1c2xXYXFxOEE0TlJJWVMzWmpaNm5RYS0xazR3aFFENjJ4NXpDR3pwYVhZUkdUZF9LYVFqTVNlbS1Cd3ZFS3h5WFFRSlJMdnlyM1JXdVdMbnNjWldycFlINGltVHBCZw?oc=5) (Wed, 29 Apr 2026 22:42:10 GMT)
+- [Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe - Decrypt](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZERIa0MzY0N0OXFjUXpIRjdPdFVtQjF2T1p3WmZHZXVWSm9TNFI5aUZMalpCeDFXT3FBNWcxUnZNRkF3NTZBWjgwREJpMVpnQ1d1ZkpPZ1B5a2M5aFFvdW5YY1Zkb0VjUVNQRVQ2VVNlWTZpckJHdHZ5MUd3YnVYcjdRQ2JPZ3c0VmprcGh3UDVfTjVFbEFmUWFUa1hxZkI1MnRkWlNzVdIBrwFBVV95cUxOb1g2d05abzdleUx5VHJMTm04OTQ3cDFidjVidmwtTFduX1BoQ0FMcWhaMC0yRTJlbXZGTi0yNnV3RFNqdVMxRGxsNzBWM0VndWRma0g5dHRjdUQ5N0RaUHVURS1iZVVsQW9CZy1kRVdRRUhxZ2FYaE5xMDJ4MEo4UmluQ2h3UVJsMVhDSGY4bDFIeF9GVHF5cmIxZl9PQndLNjdIVko4Y083d0FGWEhj?oc=5) (Wed, 29 Apr 2026 20:10:14 GMT)
+- [Walmart-Backed OnePay Joins Tempo Blockchain to Launch Stablecoin Payouts - PYMNTS.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVE5oaGVQUTNhcHAzR1pKc01SZGUtUFE5b0NZUUpTcnlmNWNBNmpWTjJFb0V0enUzc2FsZHdwNVR2YUhlRE9Hc3M5UWFsNE1KNS1UdE5tdkZDSV9RT0R1Wi1oY2lwV2YzSXBaYTZyTEtJWVRkRGhzSk1GMnFoT1FJM1NqeElvNl9RSW9Hd09BLXRsR2JPdnA0OERSSjFqSFE?oc=5) (Wed, 29 Apr 2026 20:00:55 GMT)
+- [Meta Platforms Pays Some Creators In Stablecoins - Yahoo Finance](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTV1MzhsRERLVjl2b3lNVGEzS1NXbmxsTDJBdUlld2ZyRUpvNmN5UUUzN2tSQjNRSjk1QXJQdDRrSFV5V0xHS1R0T3ZkczhvUXdaZHdmY2Z6VWY0THpGSzg0MXhzeVdtbHlxMENOUUZoZ1FVS0F0X2dCV0k3LV9MeWN3RzlEUW5kWW1mNU5VN2lLUmhMSEVDeXFBY2xjSFBHNlFxdUdUTGc?oc=5) (Wed, 29 Apr 2026 19:34:00 GMT)
 
 <!-- END_dashboard -->
 
