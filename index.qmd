@@ -18,36 +18,51 @@ jupyter: python3
 #| title: Market Cap History
 import pandas as pd
 import plotly.express as px
+import os
 
 # Load data
-df = pd.read_csv("data/stablecoin_marketcap.csv")
+# Security: Check file existence before reading to prevent FileNotFoundError DoS
+if os.path.exists("data/stablecoin_marketcap.csv"):
+    df = pd.read_csv("data/stablecoin_marketcap.csv")
 
-# Ensure date is datetime
-# Security: Date parsing uses errors="coerce" to prevent Denial of Service (DoS) from unhandled DateParseError/ValueError if the CSV contains malformed data.
-df["date"] = pd.to_datetime(df["date"], errors="coerce")
+    # Ensure date is datetime
+    # Security: Date parsing uses errors="coerce" to prevent Denial of Service (DoS) from unhandled DateParseError/ValueError if the CSV contains malformed data.
+    df["date"] = pd.to_datetime(df["date"], errors="coerce")
 
-# Security: Enforce explicit numeric conversion for market_cap to prevent unhandled exceptions (DoS) when plotting
-df["market_cap"] = pd.to_numeric(df["market_cap"], errors="coerce")
+    # Security: Enforce explicit numeric conversion for market_cap to prevent unhandled exceptions (DoS) when plotting
+    df["market_cap"] = pd.to_numeric(df["market_cap"], errors="coerce")
 
-df = df.dropna(subset=["date", "market_cap"])
+    df = df.dropna(subset=["date", "market_cap"])
 
-# Line Plot
-fig = px.line(df, x="date", y="market_cap", color="coin_name", title="Stablecoin Market Cap Over Time")
-fig.show()
+    # Security: Check for empty dataframe before plotting to prevent ValueError with NaT
+    if not df.empty:
+        # Line Plot
+        fig = px.line(df, x="date", y="market_cap", color="coin_name", title="Stablecoin Market Cap Over Time")
+        fig.show()
+    else:
+        print("No valid data available for Market Cap History.")
+else:
+    # Initialize empty df to avoid undefined variable in next block
+    df = pd.DataFrame(columns=["date", "market_cap", "coin_name"])
+    print("Market Cap data file not found.")
 ```
 
 ```{python}
 #| title: Market Dominance
-# Get latest date
-latest_date = df['date'].max()
-latest_df = df[df['date'] == latest_date].copy()
+# Security: Check for empty dataframe before applying operations that fail on NaT (e.g. strftime)
+if not df.empty:
+    # Get latest date
+    latest_date = df['date'].max()
+    latest_df = df[df['date'] == latest_date].copy()
 
-# Sort by market cap descending
-latest_df = latest_df.sort_values(by='market_cap', ascending=False)
+    # Sort by market cap descending
+    latest_df = latest_df.sort_values(by='market_cap', ascending=False)
 
-# Pie Chart
-fig_pie = px.pie(latest_df, values='market_cap', names='coin_name', title=f'Market Dominance ({latest_date.strftime("%Y-%m-%d")})')
-fig_pie.show()
+    # Pie Chart
+    fig_pie = px.pie(latest_df, values='market_cap', names='coin_name', title=f'Market Dominance ({latest_date.strftime("%Y-%m-%d")})')
+    fig_pie.show()
+else:
+    print("No valid data available for Market Dominance.")
 ```
 
 
