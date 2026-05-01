@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-01 02:12:40 (UTC)*
+*Last Updated: 2026-05-01 08:34:23 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$299,673,034,541** | 🟢 +0.16% | 🔴 -50.13% |
+| **$299,697,914,858** | 🟢 +0.17% | 🔴 -50.13% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [How China’s Fear of Secondary Sanctions Pushed Moscow into Leveraging Stablecoins to Reshape Financial Warfare - Small Wars Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZzhMZk9sZi1GOWI5TnZzSF9TMVJjRndkTmFuN0lzVDM4ODBrbElMbFIxeDhPTmxtbHNDcmd4cG5PcTBaRDhCcmZQVm9BWVpoWWV1OUZFOTRXYWFZMG4tNU5CdUg1WGxvaHpLcWtteGlXSU5LSWg2Y0ljZ043RWdlazF6MERZTlNSalRXc0JpVjNQYXBtLURuclBVbE9Uc3VBYk9NTXdOeVZlQ0U?oc=5) (Fri, 01 May 2026 06:02:07 GMT)
+- [Senate Dems Press Lutnick On Stablecoin Co.&#x27;s Loan To Trust - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTE13TlJIZlJfSlY3SVkyY1pOd0JUblNDWkFWTXRIZGdVU21XMTJqdFF4TnVhazFTRzlhYzBaVUJmQlRlWmdEUlczQ2JDaEJ1YjhaRWZ0dVlR0gFWQVVfeXFMTXdOUkhmUl9KVjdJWTJjWk53QlRuU0NaQVZNdEhkZ1VTbVcxMmp0UXhOdWFrMVNHOWFjMFpVQmZCVGVaZ0RSVzNDYkNoQnViOFpFZnR1WVE?oc=5) (Fri, 01 May 2026 00:59:00 GMT)
 - [FinCEN and OFAC Propose Rule for Payment Stablecoin Issuers to Implement GENIUS Act - orrick.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxPRzI5elhFV2s4eExzUmYzZXQ0dzlGWjkzN0lMdnltLTMyTzR3eWE0Z1ZINzRDeUx5eThFR1dRZXVRdmNETG4wWkwzUVNqZk5lUk5WTjZLM2dyVFhheW1SbmpRZWlWSUkxTkJUMXg4bVQ2aGlxeHBuejJqUVl5WjEwd1lvX24zNHA4OWFzUUlGTDFDLXU0N1RxSE9nVmJSR05lczBYRURQd3VZYVp1S3JmRDA2TmtRZnNBelJfVzdzMDJLbkN5?oc=5) (Fri, 01 May 2026 00:40:18 GMT)
 - [Anchorage Digital Partners with M0 on US Stablecoin Issuance Stack - thedefiant.io](https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2Myakl3T2tHWlJ6Rkc3ZUwyckY0SjNBWnYwNUVoTGN1UEY2bXVyUHZfOVQ0TTJPYlM4cklnQnJrZkRQWUNyY0M5S0lJMVJiVTBaLVRUdTRTamNDX0E4anA5ZzZJMnR1UkcxamhkV3R2Q09yOTVqTk9RdUhCem9YTG5uQjE1NXNvcS1Ib0xfZkFXYWt6LVJUa2t4NXMtZnNiVmxRaGx1TXBKaFFKazIxSGROSQ?oc=5) (Thu, 30 Apr 2026 18:57:45 GMT)
 - [Meta Brings Stablecoin Payouts to a Massive Global Ecosystem - PaymentsJournal](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcGZyemRCQ01rV0lzeEN2RTNoc0ptWkNWZmEyMlh6VXMwWXpMdTE0WWdLcWQwODUzcmZVZF9RM2p3SHl6SXVkdTdxcXBfT2k2ZVF0MGV4ek8zYWE1ZTRnN2NZT1Bvc1JYWXRPeTNyeDNWN0xUbUFwSDFlM3YyZkNmM0NJNFlLcHhwZnBsanROREZpWWlSZ1VPN9IBngFBVV95cUxNRmV3c0RscVo3dktRWWNwZ2RhdjZMT2pFcWpsZVpFbC1XeEZ0OXFCQndwcnFJVE1hbDhqUWhLb1VMMmtqMnQyNXZfNW1iV3VtNkxxNVVlVGYtVGZiaXdyZzZBZXRHakNWZUdIQTJqbm9aZGtRaXNxdEFWUjdZVXZlNUo4ZGlDVFVPUS1yazBPME15RXh2MFd3S2RkdkZ6QQ?oc=5) (Thu, 30 Apr 2026 18:30:00 GMT)
-- [Coinbase&#x27;s &#x27;CUSHY&#x27; stablecoin fund to launch tokenized share class via Superstate in Q2 - The Block](https://news.google.com/rss/articles/CBMirgFBVV95cUxPOXFMaUEtZGZETDU3MHU2UzRfVUNMSnIxWVdUTFdfRDlzQkxmd09KSHVaUUZnRy1hbkdmMGNKNERMYUx0WnloUVQ0T0RwSldrZzZiMGY1ZUFNd01WTnhiQlhCd3VWVm5aeU1LMmtEQU1IMG1sWnRhU1BNU2RUV0ZMdHJsREFOQThxQnBFakNGWnMzMG9fYkZsTURNOWFweDFVTzVtVnIwWXl4MXlZc1E?oc=5) (Thu, 30 Apr 2026 17:37:58 GMT)
-- [Tether pivots from stablecoin issuer to full-stack bitcoin player - Yahoo Finance](https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1ZyZUsyNlE4U1FTanlNZVduQnRscGRmY3JLNnpTYUdoZWctMjRuNTZ1d1BwZWE3Um9LbDY1MHR4QXpCLTF0WkplMmZuOVN3STNkQl9LNmdwM0hJcWc3MUlxbUZibVRxVkp4TVRRWE16MGV5SVlFUVl6anlsOFF0a09rVHA5MXdmbkhfcEZLcXYyektMMmhWc2NtcHNPRXQxYkZxU0gzNUg0LUpURWNZQVpn?oc=5) (Thu, 30 Apr 2026 16:28:20 GMT)
 
 <!-- END_dashboard -->
 
