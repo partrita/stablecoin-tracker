@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-30 02:08:44 (UTC)*
+*Last Updated: 2026-05-01 02:12:40 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$299,196,136,137** | 🔴 -50.15% | 🔴 -50.16% |
+| **$299,673,034,541** | 🟢 +0.16% | 🔴 -50.13% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [&#x27;Nearly Two-Thirds&#x27;—Stablecoins Suddenly Hit $4.5T Q1 Volume Record - Forbes](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQkhNcDJIanNyRmItR0hMWmpUZ0Y3RFhhZmhHM2wzTm1TVTBIRzRpVUR5MDRpMEN2OXRzTDdfZlViVWpWOXhWcEY0WUQxdmRnWlJxc3ZYZnBiV25Rd1dZMFZ3UlRFSWh6aHh2N2hoSXdWSFNQbUlKUXR2SHBZeUhXSWpyQU9PdWFLWmVmOTV6T1dVTUhHMTQ2YzBOVll3aWIwQWhLLWNJUFlVazFfRzJjSTZuX19lMVRLRzJv?oc=5) (Thu, 30 Apr 2026 01:40:35 GMT)
-- [Meta (META) starts stablecoin payout to creators in Circle&#x27;s USDC on Polygon, Solana via Stripe - CoinDesk](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMXNTRmctTHVMZEFYUnVPVjR3XzRVM1lVdFQyOURaaUFVc0twdXI2N3cyM3ZRQUR3NkJNRVpHeTlfcTVwNThXV3IwY1BETnE2anRIZXNGMWxjWm9LS05lMzBWWGp1c2xXYXFxOEE0TlJJWVMzWmpaNm5RYS0xazR3aFFENjJ4NXpDR3pwYVhZUkdUZF9LYVFqTVNlbS1Cd3ZFS3h5WFFRSlJMdnlyM1JXdVdMbnNjWldycFlINGltVHBCZw?oc=5) (Wed, 29 Apr 2026 22:42:10 GMT)
-- [Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe - Decrypt](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZERIa0MzY0N0OXFjUXpIRjdPdFVtQjF2T1p3WmZHZXVWSm9TNFI5aUZMalpCeDFXT3FBNWcxUnZNRkF3NTZBWjgwREJpMVpnQ1d1ZkpPZ1B5a2M5aFFvdW5YY1Zkb0VjUVNQRVQ2VVNlWTZpckJHdHZ5MUd3YnVYcjdRQ2JPZ3c0VmprcGh3UDVfTjVFbEFmUWFUa1hxZkI1MnRkWlNzVdIBrwFBVV95cUxOb1g2d05abzdleUx5VHJMTm04OTQ3cDFidjVidmwtTFduX1BoQ0FMcWhaMC0yRTJlbXZGTi0yNnV3RFNqdVMxRGxsNzBWM0VndWRma0g5dHRjdUQ5N0RaUHVURS1iZVVsQW9CZy1kRVdRRUhxZ2FYaE5xMDJ4MEo4UmluQ2h3UVJsMVhDSGY4bDFIeF9GVHF5cmIxZl9PQndLNjdIVko4Y083d0FGWEhj?oc=5) (Wed, 29 Apr 2026 20:10:14 GMT)
-- [Walmart-Backed OnePay Joins Tempo Blockchain to Launch Stablecoin Payouts - PYMNTS.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVE5oaGVQUTNhcHAzR1pKc01SZGUtUFE5b0NZUUpTcnlmNWNBNmpWTjJFb0V0enUzc2FsZHdwNVR2YUhlRE9Hc3M5UWFsNE1KNS1UdE5tdkZDSV9RT0R1Wi1oY2lwV2YzSXBaYTZyTEtJWVRkRGhzSk1GMnFoT1FJM1NqeElvNl9RSW9Hd09BLXRsR2JPdnA0OERSSjFqSFE?oc=5) (Wed, 29 Apr 2026 20:00:55 GMT)
-- [Meta Platforms Pays Some Creators In Stablecoins - Yahoo Finance](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTV1MzhsRERLVjl2b3lNVGEzS1NXbmxsTDJBdUlld2ZyRUpvNmN5UUUzN2tSQjNRSjk1QXJQdDRrSFV5V0xHS1R0T3ZkczhvUXdaZHdmY2Z6VWY0THpGSzg0MXhzeVdtbHlxMENOUUZoZ1FVS0F0X2dCV0k3LV9MeWN3RzlEUW5kWW1mNU5VN2lLUmhMSEVDeXFBY2xjSFBHNlFxdUdUTGc?oc=5) (Wed, 29 Apr 2026 19:34:00 GMT)
+- [FinCEN and OFAC Propose Rule for Payment Stablecoin Issuers to Implement GENIUS Act - orrick.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxPRzI5elhFV2s4eExzUmYzZXQ0dzlGWjkzN0lMdnltLTMyTzR3eWE0Z1ZINzRDeUx5eThFR1dRZXVRdmNETG4wWkwzUVNqZk5lUk5WTjZLM2dyVFhheW1SbmpRZWlWSUkxTkJUMXg4bVQ2aGlxeHBuejJqUVl5WjEwd1lvX24zNHA4OWFzUUlGTDFDLXU0N1RxSE9nVmJSR05lczBYRURQd3VZYVp1S3JmRDA2TmtRZnNBelJfVzdzMDJLbkN5?oc=5) (Fri, 01 May 2026 00:40:18 GMT)
+- [Anchorage Digital Partners with M0 on US Stablecoin Issuance Stack - thedefiant.io](https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2Myakl3T2tHWlJ6Rkc3ZUwyckY0SjNBWnYwNUVoTGN1UEY2bXVyUHZfOVQ0TTJPYlM4cklnQnJrZkRQWUNyY0M5S0lJMVJiVTBaLVRUdTRTamNDX0E4anA5ZzZJMnR1UkcxamhkV3R2Q09yOTVqTk9RdUhCem9YTG5uQjE1NXNvcS1Ib0xfZkFXYWt6LVJUa2t4NXMtZnNiVmxRaGx1TXBKaFFKazIxSGROSQ?oc=5) (Thu, 30 Apr 2026 18:57:45 GMT)
+- [Meta Brings Stablecoin Payouts to a Massive Global Ecosystem - PaymentsJournal](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcGZyemRCQ01rV0lzeEN2RTNoc0ptWkNWZmEyMlh6VXMwWXpMdTE0WWdLcWQwODUzcmZVZF9RM2p3SHl6SXVkdTdxcXBfT2k2ZVF0MGV4ek8zYWE1ZTRnN2NZT1Bvc1JYWXRPeTNyeDNWN0xUbUFwSDFlM3YyZkNmM0NJNFlLcHhwZnBsanROREZpWWlSZ1VPN9IBngFBVV95cUxNRmV3c0RscVo3dktRWWNwZ2RhdjZMT2pFcWpsZVpFbC1XeEZ0OXFCQndwcnFJVE1hbDhqUWhLb1VMMmtqMnQyNXZfNW1iV3VtNkxxNVVlVGYtVGZiaXdyZzZBZXRHakNWZUdIQTJqbm9aZGtRaXNxdEFWUjdZVXZlNUo4ZGlDVFVPUS1yazBPME15RXh2MFd3S2RkdkZ6QQ?oc=5) (Thu, 30 Apr 2026 18:30:00 GMT)
+- [Coinbase&#x27;s &#x27;CUSHY&#x27; stablecoin fund to launch tokenized share class via Superstate in Q2 - The Block](https://news.google.com/rss/articles/CBMirgFBVV95cUxPOXFMaUEtZGZETDU3MHU2UzRfVUNMSnIxWVdUTFdfRDlzQkxmd09KSHVaUUZnRy1hbkdmMGNKNERMYUx0WnloUVQ0T0RwSldrZzZiMGY1ZUFNd01WTnhiQlhCd3VWVm5aeU1LMmtEQU1IMG1sWnRhU1BNU2RUV0ZMdHJsREFOQThxQnBFakNGWnMzMG9fYkZsTURNOWFweDFVTzVtVnIwWXl4MXlZc1E?oc=5) (Thu, 30 Apr 2026 17:37:58 GMT)
+- [Tether pivots from stablecoin issuer to full-stack bitcoin player - Yahoo Finance](https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1ZyZUsyNlE4U1FTanlNZVduQnRscGRmY3JLNnpTYUdoZWctMjRuNTZ1d1BwZWE3Um9LbDY1MHR4QXpCLTF0WkplMmZuOVN3STNkQl9LNmdwM0hJcWc3MUlxbUZibVRxVkp4TVRRWE16MGV5SVlFUVl6anlsOFF0a09rVHA5MXdmbkhfcEZLcXYyektMMmhWc2NtcHNPRXQxYkZxU0gzNUg0LUpURWNZQVpn?oc=5) (Thu, 30 Apr 2026 16:28:20 GMT)
 
 <!-- END_dashboard -->
 
