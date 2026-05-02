@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-01 08:34:23 (UTC)*
+*Last Updated: 2026-05-02 02:00:01 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$299,697,914,858** | 🟢 +0.17% | 🔴 -50.13% |
+| **$299,958,511,648** | 🔴 -49.95% | 🔴 -0.11% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [How China’s Fear of Secondary Sanctions Pushed Moscow into Leveraging Stablecoins to Reshape Financial Warfare - Small Wars Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZzhMZk9sZi1GOWI5TnZzSF9TMVJjRndkTmFuN0lzVDM4ODBrbElMbFIxeDhPTmxtbHNDcmd4cG5PcTBaRDhCcmZQVm9BWVpoWWV1OUZFOTRXYWFZMG4tNU5CdUg1WGxvaHpLcWtteGlXSU5LSWg2Y0ljZ043RWdlazF6MERZTlNSalRXc0JpVjNQYXBtLURuclBVbE9Uc3VBYk9NTXdOeVZlQ0U?oc=5) (Fri, 01 May 2026 06:02:07 GMT)
-- [Senate Dems Press Lutnick On Stablecoin Co.&#x27;s Loan To Trust - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTE13TlJIZlJfSlY3SVkyY1pOd0JUblNDWkFWTXRIZGdVU21XMTJqdFF4TnVhazFTRzlhYzBaVUJmQlRlWmdEUlczQ2JDaEJ1YjhaRWZ0dVlR0gFWQVVfeXFMTXdOUkhmUl9KVjdJWTJjWk53QlRuU0NaQVZNdEhkZ1VTbVcxMmp0UXhOdWFrMVNHOWFjMFpVQmZCVGVaZ0RSVzNDYkNoQnViOFpFZnR1WVE?oc=5) (Fri, 01 May 2026 00:59:00 GMT)
-- [FinCEN and OFAC Propose Rule for Payment Stablecoin Issuers to Implement GENIUS Act - orrick.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxPRzI5elhFV2s4eExzUmYzZXQ0dzlGWjkzN0lMdnltLTMyTzR3eWE0Z1ZINzRDeUx5eThFR1dRZXVRdmNETG4wWkwzUVNqZk5lUk5WTjZLM2dyVFhheW1SbmpRZWlWSUkxTkJUMXg4bVQ2aGlxeHBuejJqUVl5WjEwd1lvX24zNHA4OWFzUUlGTDFDLXU0N1RxSE9nVmJSR05lczBYRURQd3VZYVp1S3JmRDA2TmtRZnNBelJfVzdzMDJLbkN5?oc=5) (Fri, 01 May 2026 00:40:18 GMT)
-- [Anchorage Digital Partners with M0 on US Stablecoin Issuance Stack - thedefiant.io](https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2Myakl3T2tHWlJ6Rkc3ZUwyckY0SjNBWnYwNUVoTGN1UEY2bXVyUHZfOVQ0TTJPYlM4cklnQnJrZkRQWUNyY0M5S0lJMVJiVTBaLVRUdTRTamNDX0E4anA5ZzZJMnR1UkcxamhkV3R2Q09yOTVqTk9RdUhCem9YTG5uQjE1NXNvcS1Ib0xfZkFXYWt6LVJUa2t4NXMtZnNiVmxRaGx1TXBKaFFKazIxSGROSQ?oc=5) (Thu, 30 Apr 2026 18:57:45 GMT)
-- [Meta Brings Stablecoin Payouts to a Massive Global Ecosystem - PaymentsJournal](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcGZyemRCQ01rV0lzeEN2RTNoc0ptWkNWZmEyMlh6VXMwWXpMdTE0WWdLcWQwODUzcmZVZF9RM2p3SHl6SXVkdTdxcXBfT2k2ZVF0MGV4ek8zYWE1ZTRnN2NZT1Bvc1JYWXRPeTNyeDNWN0xUbUFwSDFlM3YyZkNmM0NJNFlLcHhwZnBsanROREZpWWlSZ1VPN9IBngFBVV95cUxNRmV3c0RscVo3dktRWWNwZ2RhdjZMT2pFcWpsZVpFbC1XeEZ0OXFCQndwcnFJVE1hbDhqUWhLb1VMMmtqMnQyNXZfNW1iV3VtNkxxNVVlVGYtVGZiaXdyZzZBZXRHakNWZUdIQTJqbm9aZGtRaXNxdEFWUjdZVXZlNUo4ZGlDVFVPUS1yazBPME15RXh2MFd3S2RkdkZ6QQ?oc=5) (Thu, 30 Apr 2026 18:30:00 GMT)
+- [Tillis, Alsobrooks drop new stablecoin yield compromise - American Banker](https://news.google.com/rss/articles/CBMilAFBVV95cUxQRGkwMTlXRlJqU0hYVDlJcjNzQ3BPNHZfR281RFBLSDc0aWUyYl9lYzJ6cDF6RnVmTkh3c2w4ek9DRnI1VDE0a0w2aG8zQTFCdTQ5MTdOcnM5QUZYUFEyZEZkVXFHcjF0LW5uYlBNUTVjY1hWVm44MEkxQWhNWm14SnUzYjVHWGpJMDZiV29BWGYtM1h6?oc=5) (Sat, 02 May 2026 01:29:00 GMT)
+- [Clarity Act text lets crypto firms offer stablecoin rewards while shielding bank yield - CoinDesk](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeVBxUFc0LTFlOG9hMF9rckxCQ0ZoNkRyOWxZb285MUU1YUxiakl6ek9HS3BFT2xrY3M0UXA2eG1JcjFmSzdFNWRTTTB4T0R2aFpZRTdSUG9XZHdfOU1jT3FJXzZPTXRfMi1CeGtrbE1zNW55RXBCQlJoTTk1WU1udlBta1NIYzRsbjNjSFJRdnBGS2p6ME5teWlmZHNqT2oxR2EwTWlsNXVyV1BrMGplSHlQdDF0LXVuT0FQRmVSTUxHRVpVcmVVOA?oc=5) (Sat, 02 May 2026 00:56:15 GMT)
+- [Coinbase secures stablecoin yield compromise, paving way for U.S. crypto bill - Investing.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxNd21vQ25LbXNLOEI2ZHZDUW5jWHd2Q0ZWQ0xDX1BHdUJhUFF2SmxZeUpHR005bEw0T2NjRFRGZGY3WnQ4TVl4aHhxVGstOUwxNHhmU3EtcjNweWlZVVRiZlhGYXBJMnVnZFJBWjNlUFU1amhBdndzQ3IzZVF4LWR1UHhHeEhqUG5KSmlBVklqUmRBM01TMzNidi1SREpnVVgxZWRMTHNOd1RPYkp0cmEtaWExWVZ6cGY3dXFvNG9FakV4bDNMR0NXSEFOTFFYUQ?oc=5) (Sat, 02 May 2026 00:10:53 GMT)
+- [Public comment to OCC on implementation of the GENIUS Act - Brookings](https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWM1MmtLUlJtUHdqOGhhOWlmbC01RVpNeEJNMFc2RlBsS1E0bmRTZWJhamdpQlZ5N3lWMTVFa1dsdVNZQUd2aEt1clJfeDRuckdvMTBlLWx4Sl85VU5KYThCRHBYS1k2TWRaR21BOWNtU2F1QzN4VzlaNk8wN0NLTHNkX0lzX1AwSUoxMEpMNllKY2JJa0ZXVw?oc=5) (Fri, 01 May 2026 21:20:14 GMT)
+- [Vault: Tillis-Alsobrooks cinch deal on stablecoin yield - Punchbowl News](https://news.google.com/rss/articles/CBMigwFBVV95cUxPRlNKWkVmSFBhSmNBNVF6ME9jT0c3ZUMyMDdia3p2bThKekxLM3ZKWmRFLVV3NXptaHljR3NqMUhHcm9jUlBxSHRTZlVnYU9nX3ZrQVJJTUE0YVJWam1SeHhuY3VPUWdMUE9xeFZpVHg2OXI0REliVW12RXBTVjZVTjk3RQ?oc=5) (Fri, 01 May 2026 21:02:09 GMT)
 
 <!-- END_dashboard -->
 
