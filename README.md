@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-02 02:00:01 (UTC)*
+*Last Updated: 2026-05-03 02:04:51 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$299,958,511,648** | 🔴 -49.95% | 🔴 -0.11% |
+| **$300,255,970,016** | 🟢 +0.10% | 🔴 -0.04% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Tillis, Alsobrooks drop new stablecoin yield compromise - American Banker](https://news.google.com/rss/articles/CBMilAFBVV95cUxQRGkwMTlXRlJqU0hYVDlJcjNzQ3BPNHZfR281RFBLSDc0aWUyYl9lYzJ6cDF6RnVmTkh3c2w4ek9DRnI1VDE0a0w2aG8zQTFCdTQ5MTdOcnM5QUZYUFEyZEZkVXFHcjF0LW5uYlBNUTVjY1hWVm44MEkxQWhNWm14SnUzYjVHWGpJMDZiV29BWGYtM1h6?oc=5) (Sat, 02 May 2026 01:29:00 GMT)
-- [Clarity Act text lets crypto firms offer stablecoin rewards while shielding bank yield - CoinDesk](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeVBxUFc0LTFlOG9hMF9rckxCQ0ZoNkRyOWxZb285MUU1YUxiakl6ek9HS3BFT2xrY3M0UXA2eG1JcjFmSzdFNWRTTTB4T0R2aFpZRTdSUG9XZHdfOU1jT3FJXzZPTXRfMi1CeGtrbE1zNW55RXBCQlJoTTk1WU1udlBta1NIYzRsbjNjSFJRdnBGS2p6ME5teWlmZHNqT2oxR2EwTWlsNXVyV1BrMGplSHlQdDF0LXVuT0FQRmVSTUxHRVpVcmVVOA?oc=5) (Sat, 02 May 2026 00:56:15 GMT)
-- [Coinbase secures stablecoin yield compromise, paving way for U.S. crypto bill - Investing.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxNd21vQ25LbXNLOEI2ZHZDUW5jWHd2Q0ZWQ0xDX1BHdUJhUFF2SmxZeUpHR005bEw0T2NjRFRGZGY3WnQ4TVl4aHhxVGstOUwxNHhmU3EtcjNweWlZVVRiZlhGYXBJMnVnZFJBWjNlUFU1amhBdndzQ3IzZVF4LWR1UHhHeEhqUG5KSmlBVklqUmRBM01TMzNidi1SREpnVVgxZWRMTHNOd1RPYkp0cmEtaWExWVZ6cGY3dXFvNG9FakV4bDNMR0NXSEFOTFFYUQ?oc=5) (Sat, 02 May 2026 00:10:53 GMT)
-- [Public comment to OCC on implementation of the GENIUS Act - Brookings](https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWM1MmtLUlJtUHdqOGhhOWlmbC01RVpNeEJNMFc2RlBsS1E0bmRTZWJhamdpQlZ5N3lWMTVFa1dsdVNZQUd2aEt1clJfeDRuckdvMTBlLWx4Sl85VU5KYThCRHBYS1k2TWRaR21BOWNtU2F1QzN4VzlaNk8wN0NLTHNkX0lzX1AwSUoxMEpMNllKY2JJa0ZXVw?oc=5) (Fri, 01 May 2026 21:20:14 GMT)
-- [Vault: Tillis-Alsobrooks cinch deal on stablecoin yield - Punchbowl News](https://news.google.com/rss/articles/CBMigwFBVV95cUxPRlNKWkVmSFBhSmNBNVF6ME9jT0c3ZUMyMDdia3p2bThKekxLM3ZKWmRFLVV3NXptaHljR3NqMUhHcm9jUlBxSHRTZlVnYU9nX3ZrQVJJTUE0YVJWam1SeHhuY3VPUWdMUE9xeFZpVHg2OXI0REliVW12RXBTVjZVTjk3RQ?oc=5) (Fri, 01 May 2026 21:02:09 GMT)
+- [Coinbase Expands Stablecoin Credit And Payments Role As Valuation Questions Linger - simplywall.st](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLXVRUnR0N1ZyTGd0ZWtDTGdMTE04dHQ0UzBnVEhmS213NTdoR2JQQlF4TUZNTUl6VnVwaHp6N3NCcER2WTFQOFRqeE9BNWhQMHNKWk9vUHh3cVNYa0o1amJzTXRqcXd5aWRpamJFZUNyY0VaYWs4azN6OC12T3lTX2FhVVVmSXl1M29SVUtWQkN0dmJ5NlBwY0pNRWRqQ29GZFhONnJkWnBPbENZaVloclpuVXFkdEV0N2dORUJEMHlhSzNVV3FXY2ZzOVFpQU85ZWxuZk1EUlFMT0h5cmRfekZ30gHnAUFVX3lxTE5kaUEtcUtHaFQ2aC1uY2VYWms4bERkTWVrMUY2SldBd3R2WFJ4Rk1CdDFxMnVIb2ZvTDZsMl9XUk5hZHVlUlZoS0pRNmdlcmRjeVZ1R2d0YXEyelJUS2hXVTRFYWhJc2RYT1E4OHlEdVBkX29JQWFBYWY2NlQ4c0lYQlVSel85RXJqX1dNLVVCRHlZb3E5ZlJqSUZzMjZZcVFXN1RvcENXVHRNZVprRTZydDdQREltZ0s3WmxCWWRScjVWV2hVRUZKb0xzUDlkYzg1dUdqVk1UelRvOEtpMlJITDQwa255cw?oc=5) (Sat, 02 May 2026 22:00:44 GMT)
+- [Stablecoin Yield Deal Removes Obstacle to Crypto Bill. What It Means For Coinbase. - Barron&#x27;s](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRl82QmMtd2ozMnN1b3Izdjl4bG9XQU14QS1yQ0tteTlaa0JXSzUzeVpGQ3RlY2hKeTdFX08zdlRmSm1NYXhSQnFEdVo3aFpzbGxQSzk0OERZMXJlWXZ4aEdNZ1FhclVPNVkwVUEwQ1JhTlllTzlzQS1JdDBnXzllc1NMYnVIYTlZMjR6Mm81d0pNVmdzcTk4NXFBaHZEQTJDMXV0eXh6QUctRXBlZUJj?oc=5) (Sat, 02 May 2026 20:04:00 GMT)
+- [Coinbase Says Key Stablecoin Bill Deal Reached - Bitbo](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vSWp5Z2gxbEVpdWFtSXVraDBZWjItYmpVcmNVVzVCYkpGRFBzZmtXaEhlSG1KODRYMmh0d0lXekF1YnFMdm9rbHloYUxfdzNzdWRCSUVYMVJETzhpcGhhUnVB?oc=5) (Sat, 02 May 2026 19:25:00 GMT)
+- [Brazil&#x27;s central bank bans stablecoin and crypto settlement in cross-border payments - CoinDesk](https://news.google.com/rss/articles/CBMixgFBVV95cUxNVmpQWGlHNDlnQ2N1QjVvMjhqWEN2bzl1b3FRMjM0QzhPSF8yaHNFMTV2OVliNDM3OU00V0hJUUVlQzgzQ1NKal9XdXBoeHVJaFpBQW9NQXVSR0wxRnRfclE1eGl4RV8yVC0yUVBuUmVmOURFRU13bFNnekNOZ0Fyc1FsY2Y2c1Z2V0pBVDk3bml5WVM5WkM5bGhqYXlQaW45T25qeFkxZFZmX0RfNWNRa2xzNGZMbnlGUGlzYmpScWstLTNzNUE?oc=5) (Sat, 02 May 2026 16:58:19 GMT)
+- [JPMorgan casts doubt on stablecoin market cap growth - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMikAFBVV95cUxNX2xxNndiUVFUa3ZTbUFUM3A4bFJkS2tYZkR5X1V2VlUtVV9EYTlWQXo5Tmg0eDMwNVN4WUIzd1FDUUFIeENub1VJVkJGVjJweTMtQlJTcGpTSUlvNXZLWk4wbldQSHNCclpJall4VEVIaGZPVUJDNWF0aEtyVDNvbEV4eWc4bGtIRkpsLU0zZFo?oc=5) (Sat, 02 May 2026 16:30:00 GMT)
 
 <!-- END_dashboard -->
 
