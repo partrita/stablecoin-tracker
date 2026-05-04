@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-03 02:04:51 (UTC)*
+*Last Updated: 2026-05-04 02:04:42 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,255,970,016** | 🟢 +0.10% | 🔴 -0.04% |
+| **$300,307,834,286** | 🟢 +0.02% | 🔴 -50.02% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Coinbase Expands Stablecoin Credit And Payments Role As Valuation Questions Linger - simplywall.st](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLXVRUnR0N1ZyTGd0ZWtDTGdMTE04dHQ0UzBnVEhmS213NTdoR2JQQlF4TUZNTUl6VnVwaHp6N3NCcER2WTFQOFRqeE9BNWhQMHNKWk9vUHh3cVNYa0o1amJzTXRqcXd5aWRpamJFZUNyY0VaYWs4azN6OC12T3lTX2FhVVVmSXl1M29SVUtWQkN0dmJ5NlBwY0pNRWRqQ29GZFhONnJkWnBPbENZaVloclpuVXFkdEV0N2dORUJEMHlhSzNVV3FXY2ZzOVFpQU85ZWxuZk1EUlFMT0h5cmRfekZ30gHnAUFVX3lxTE5kaUEtcUtHaFQ2aC1uY2VYWms4bERkTWVrMUY2SldBd3R2WFJ4Rk1CdDFxMnVIb2ZvTDZsMl9XUk5hZHVlUlZoS0pRNmdlcmRjeVZ1R2d0YXEyelJUS2hXVTRFYWhJc2RYT1E4OHlEdVBkX29JQWFBYWY2NlQ4c0lYQlVSel85RXJqX1dNLVVCRHlZb3E5ZlJqSUZzMjZZcVFXN1RvcENXVHRNZVprRTZydDdQREltZ0s3WmxCWWRScjVWV2hVRUZKb0xzUDlkYzg1dUdqVk1UelRvOEtpMlJITDQwa255cw?oc=5) (Sat, 02 May 2026 22:00:44 GMT)
-- [Stablecoin Yield Deal Removes Obstacle to Crypto Bill. What It Means For Coinbase. - Barron&#x27;s](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRl82QmMtd2ozMnN1b3Izdjl4bG9XQU14QS1yQ0tteTlaa0JXSzUzeVpGQ3RlY2hKeTdFX08zdlRmSm1NYXhSQnFEdVo3aFpzbGxQSzk0OERZMXJlWXZ4aEdNZ1FhclVPNVkwVUEwQ1JhTlllTzlzQS1JdDBnXzllc1NMYnVIYTlZMjR6Mm81d0pNVmdzcTk4NXFBaHZEQTJDMXV0eXh6QUctRXBlZUJj?oc=5) (Sat, 02 May 2026 20:04:00 GMT)
-- [Coinbase Says Key Stablecoin Bill Deal Reached - Bitbo](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vSWp5Z2gxbEVpdWFtSXVraDBZWjItYmpVcmNVVzVCYkpGRFBzZmtXaEhlSG1KODRYMmh0d0lXekF1YnFMdm9rbHloYUxfdzNzdWRCSUVYMVJETzhpcGhhUnVB?oc=5) (Sat, 02 May 2026 19:25:00 GMT)
-- [Brazil&#x27;s central bank bans stablecoin and crypto settlement in cross-border payments - CoinDesk](https://news.google.com/rss/articles/CBMixgFBVV95cUxNVmpQWGlHNDlnQ2N1QjVvMjhqWEN2bzl1b3FRMjM0QzhPSF8yaHNFMTV2OVliNDM3OU00V0hJUUVlQzgzQ1NKal9XdXBoeHVJaFpBQW9NQXVSR0wxRnRfclE1eGl4RV8yVC0yUVBuUmVmOURFRU13bFNnekNOZ0Fyc1FsY2Y2c1Z2V0pBVDk3bml5WVM5WkM5bGhqYXlQaW45T25qeFkxZFZmX0RfNWNRa2xzNGZMbnlGUGlzYmpScWstLTNzNUE?oc=5) (Sat, 02 May 2026 16:58:19 GMT)
-- [JPMorgan casts doubt on stablecoin market cap growth - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMikAFBVV95cUxNX2xxNndiUVFUa3ZTbUFUM3A4bFJkS2tYZkR5X1V2VlUtVV9EYTlWQXo5Tmg0eDMwNVN4WUIzd1FDUUFIeENub1VJVkJGVjJweTMtQlJTcGpTSUlvNXZLWk4wbldQSHNCclpJall4VEVIaGZPVUJDNWF0aEtyVDNvbEV4eWc4bGtIRkpsLU0zZFo?oc=5) (Sat, 02 May 2026 16:30:00 GMT)
+- [Crypto Firms Keep Stablecoin Rewards Under Senate Deal - PYMNTS.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMXZlOVFkckpWU1FMbF9MYzJUTlMxWWRtaVZSOFJQdHgxcEY3UWFQb1dKWHNlS2xsMWRienA4NzBLUDZaNHZKSl9maS1HVk1lZlA5b0ZDdjQ2S3FOUTVmcE94aGdMNVlmRHdSS1hFTHk3T2R5MjBlcWlWSC1uTkJzazhOc2M1UE9lVHdVWFNpdDYtUS15alBUTTJveFJKcW8?oc=5) (Sun, 03 May 2026 22:12:29 GMT)
+- [Stablecoin Yield Deal Removes Obstacle to Crypto Bill. What It Means For Coinbase. - Barron&#x27;s](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRl82QmMtd2ozMnN1b3Izdjl4bG9XQU14QS1yQ0tteTlaa0JXSzUzeVpGQ3RlY2hKeTdFX08zdlRmSm1NYXhSQnFEdVo3aFpzbGxQSzk0OERZMXJlWXZ4aEdNZ1FhclVPNVkwVUEwQ1JhTlllTzlzQS1JdDBnXzllc1NMYnVIYTlZMjR6Mm81d0pNVmdzcTk4NXFBaHZEQTJDMXV0eXh6QUctRXBlZUJj?oc=5) (Sun, 03 May 2026 17:03:00 GMT)
+- [Session 2 SAFE CEPR EFA RPN Webinar Series: Stablecoin Regulation - CEPR](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQTNrUFlSbmFadlNxbGxEYWJQV2ZZLXc0Zjh0em1BcnExNV83WWRNeHJfMFVwRUZrcjI3ZFB5cWp3c3QxemZtWXJUMk1UR25TZTZZeG11LUI0WEQ1cTA5akVnN2lXU1ZqWWljclBxZ2cwZ1JqNkVoTFZRWWhjUkduZ0pWcW9KWEpZekNncW5uYVQ3dw?oc=5) (Sun, 03 May 2026 15:06:11 GMT)
+- [Coinbase Stablecoin Yield Deal Shapes Outlook For Regulatory Risks And Valuation - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3o3bWpfUHdtTm1jMm5XbzBWWXFkS3NzajF3VFE0b01BdXM1TERVZko3Y1J3YllnaGFBSEhxMmFtMjV0Q3RKOUhFMm5VS0VKWGM5enFYazNVWWRhYzY0WWJxWjFoNlB3VEttTC1lanRaZ0tPTTk3ZGVOWW9iX1lLUzhSakUyNzJFend5eERsU0hjQWxXVjJZQ3dfMEdGN3NWd0ZaZg?oc=5) (Sun, 03 May 2026 10:08:51 GMT)
+- [a16z Calls “Stablecoin” a Leftover Word From Crypto’s Volatile Past - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0UtOEtMVEhnMnJKVWJXV0ZrbEdRU09tUWYtWU13TmxYdTN0U0FjZ3R4QUJGdFVOWkpQcl92d0NtWTYyOEljbS1ZdmE4VGMtYjNXNi1PalhvRlhobXhyQ3JYYnlETjRmX2I2NlNlX1NUdGdDdTY0SHRyVlV0NDV1aHQ0TVp1UG1OSGQ5MGNBVXc4MzVlRnhPeWxkUFFPQk9GMGc?oc=5) (Sun, 03 May 2026 02:19:00 GMT)
 
 <!-- END_dashboard -->
 
