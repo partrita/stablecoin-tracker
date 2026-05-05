@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-04 02:04:42 (UTC)*
+*Last Updated: 2026-05-05 02:04:05 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,307,834,286** | 🟢 +0.02% | 🔴 -50.02% |
+| **$300,793,056,032** | 🟢 +0.16% | 🔴 -49.90% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Crypto Firms Keep Stablecoin Rewards Under Senate Deal - PYMNTS.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMXZlOVFkckpWU1FMbF9MYzJUTlMxWWRtaVZSOFJQdHgxcEY3UWFQb1dKWHNlS2xsMWRienA4NzBLUDZaNHZKSl9maS1HVk1lZlA5b0ZDdjQ2S3FOUTVmcE94aGdMNVlmRHdSS1hFTHk3T2R5MjBlcWlWSC1uTkJzazhOc2M1UE9lVHdVWFNpdDYtUS15alBUTTJveFJKcW8?oc=5) (Sun, 03 May 2026 22:12:29 GMT)
-- [Stablecoin Yield Deal Removes Obstacle to Crypto Bill. What It Means For Coinbase. - Barron&#x27;s](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRl82QmMtd2ozMnN1b3Izdjl4bG9XQU14QS1yQ0tteTlaa0JXSzUzeVpGQ3RlY2hKeTdFX08zdlRmSm1NYXhSQnFEdVo3aFpzbGxQSzk0OERZMXJlWXZ4aEdNZ1FhclVPNVkwVUEwQ1JhTlllTzlzQS1JdDBnXzllc1NMYnVIYTlZMjR6Mm81d0pNVmdzcTk4NXFBaHZEQTJDMXV0eXh6QUctRXBlZUJj?oc=5) (Sun, 03 May 2026 17:03:00 GMT)
-- [Session 2 SAFE CEPR EFA RPN Webinar Series: Stablecoin Regulation - CEPR](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQTNrUFlSbmFadlNxbGxEYWJQV2ZZLXc0Zjh0em1BcnExNV83WWRNeHJfMFVwRUZrcjI3ZFB5cWp3c3QxemZtWXJUMk1UR25TZTZZeG11LUI0WEQ1cTA5akVnN2lXU1ZqWWljclBxZ2cwZ1JqNkVoTFZRWWhjUkduZ0pWcW9KWEpZekNncW5uYVQ3dw?oc=5) (Sun, 03 May 2026 15:06:11 GMT)
-- [Coinbase Stablecoin Yield Deal Shapes Outlook For Regulatory Risks And Valuation - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3o3bWpfUHdtTm1jMm5XbzBWWXFkS3NzajF3VFE0b01BdXM1TERVZko3Y1J3YllnaGFBSEhxMmFtMjV0Q3RKOUhFMm5VS0VKWGM5enFYazNVWWRhYzY0WWJxWjFoNlB3VEttTC1lanRaZ0tPTTk3ZGVOWW9iX1lLUzhSakUyNzJFend5eERsU0hjQWxXVjJZQ3dfMEdGN3NWd0ZaZg?oc=5) (Sun, 03 May 2026 10:08:51 GMT)
-- [a16z Calls “Stablecoin” a Leftover Word From Crypto’s Volatile Past - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0UtOEtMVEhnMnJKVWJXV0ZrbEdRU09tUWYtWU13TmxYdTN0U0FjZ3R4QUJGdFVOWkpQcl92d0NtWTYyOEljbS1ZdmE4VGMtYjNXNi1PalhvRlhobXhyQ3JYYnlETjRmX2I2NlNlX1NUdGdDdTY0SHRyVlV0NDV1aHQ0TVp1UG1OSGQ5MGNBVXc4MzVlRnhPeWxkUFFPQk9GMGc?oc=5) (Sun, 03 May 2026 02:19:00 GMT)
+- [Bank Groups Say Senate Stablecoin Rewards Proposal ‘Falls Short’ - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNmdLRlo5RDVBd2hXRXlDdTVCOElaam9GajVLbmhFdFdGUUpUd2cxakhnNlRRZXhFNWw4M1YyLW5zZlI5YU9IMEx3bWNiRXF0dmVPRXQya0tBYlhiVFdUQTg4VnlEM2YzZXBqUVVuQk5iZmxuc1BLS256RVdFdkNiUWRzWmZ3RTk3RHdCOERjZUJSN213Q1JMQzJoTkZGRlBKeE1mOV8wdnFTb0ZyWkVhUXBWOA?oc=5) (Tue, 05 May 2026 00:55:00 GMT)
+- [Tetra Launches Canadian-Dollar Stablecoin to Power Cross-Border Payments - PYMNTS.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1FOYVkySndJNVJXN3UwcE1TODNYWkxMZ2E4Y2U4UXlaenVSZWI0VWZacWVkSHNCTFk0eEYwTkJkOUpEZkJDSXg0b0VvM0hyeE9MTE1wb3RucVg3N1daOFQ3T3JmLWZJTEhobGNLcENOZHg3M2VJM2dPaDVaMjBhYkJIVnBFa0VBZV9KZUZHZ1N0QVF6dzNuYlpXWmdIOFQ5a2NnYXN5MDRZZzkyZ1JLM1dR?oc=5) (Mon, 04 May 2026 23:07:29 GMT)
+- [Canada just got its first regulated digital dollar to take on the U.S. stablecoin&#x27;s crypto dominance - CoinDesk](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVzFMMDlkMFhEUkRXNnMxTVJMMlpQeURZZFRNQTVsRW83RmotZmw5VDRKTXJVODBuaXpZOXhINTRRS3JhS0NqeFlVZFFzUDBnaXRZaFJza1lzLUl0RVFfVGg1czJGQS1qSHcyRUcyRlB5Y1ZsS1BCdkRlZFZfUHNjQWRyZVJWbkJEdmtzYlNFZnRycUc0VWlENkhWX3VjMVNzdENPRXZubEpLbGNENE1ERk9QdndqeHlFcUJMdF9DRGU1V0g5cGV1V2tSM245RVg4blBpVWlJbjlkS1E5cWZGVDVKLU5UUlE?oc=5) (Mon, 04 May 2026 22:32:38 GMT)
+- [Western Union launches its own stablecoin - American Banker](https://news.google.com/rss/articles/CBMigwFBVV95cUxObmlFNHBJSjU1VWhhVnhodHAwakNtT1ZOMkhoR1ZXbzZmTUg3QXR1OTh2NjF6MXVaYmF3WkhyT0JUQ0dIX1NVb1lEaktZRDdYSm1JVmxpVUNBT2pwUFQ3dnlLRTVwTWJzc1BNQXFrOWMyUm9IUlhvV1NjVWotcGxPSnlZaw?oc=5) (Mon, 04 May 2026 20:14:00 GMT)
+- [Bitcoin Tops $80K and Coinbase Wins Stablecoin Deal in Clarity Act - Gotrade](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmZGaVhQVV9sYU5DRmRNVEdDcW1RemhlUDhoS1ZnUFNReHRSb1VsVHBSV3BQMFRMZzZBLXAwMWZVc1E5NDV6TW1Jc2VTa1ZhMW1TS1lsZnVESXB6MURaNF9OOXJGNUpJNnAzYTl2SXpyeXZYdzBtazBVWm1COHhqa1VDcXp3dHRPTTdwREJKanpCQms?oc=5) (Mon, 04 May 2026 18:45:42 GMT)
 
 <!-- END_dashboard -->
 
