@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-05 02:04:05 (UTC)*
+*Last Updated: 2026-05-06 02:03:41 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,793,056,032** | 🟢 +0.16% | 🔴 -49.90% |
+| **$301,093,684,663** | 🟢 +0.10% | 🔴 -49.84% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Bank Groups Say Senate Stablecoin Rewards Proposal ‘Falls Short’ - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNmdLRlo5RDVBd2hXRXlDdTVCOElaam9GajVLbmhFdFdGUUpUd2cxakhnNlRRZXhFNWw4M1YyLW5zZlI5YU9IMEx3bWNiRXF0dmVPRXQya0tBYlhiVFdUQTg4VnlEM2YzZXBqUVVuQk5iZmxuc1BLS256RVdFdkNiUWRzWmZ3RTk3RHdCOERjZUJSN213Q1JMQzJoTkZGRlBKeE1mOV8wdnFTb0ZyWkVhUXBWOA?oc=5) (Tue, 05 May 2026 00:55:00 GMT)
-- [Tetra Launches Canadian-Dollar Stablecoin to Power Cross-Border Payments - PYMNTS.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1FOYVkySndJNVJXN3UwcE1TODNYWkxMZ2E4Y2U4UXlaenVSZWI0VWZacWVkSHNCTFk0eEYwTkJkOUpEZkJDSXg0b0VvM0hyeE9MTE1wb3RucVg3N1daOFQ3T3JmLWZJTEhobGNLcENOZHg3M2VJM2dPaDVaMjBhYkJIVnBFa0VBZV9KZUZHZ1N0QVF6dzNuYlpXWmdIOFQ5a2NnYXN5MDRZZzkyZ1JLM1dR?oc=5) (Mon, 04 May 2026 23:07:29 GMT)
-- [Canada just got its first regulated digital dollar to take on the U.S. stablecoin&#x27;s crypto dominance - CoinDesk](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVzFMMDlkMFhEUkRXNnMxTVJMMlpQeURZZFRNQTVsRW83RmotZmw5VDRKTXJVODBuaXpZOXhINTRRS3JhS0NqeFlVZFFzUDBnaXRZaFJza1lzLUl0RVFfVGg1czJGQS1qSHcyRUcyRlB5Y1ZsS1BCdkRlZFZfUHNjQWRyZVJWbkJEdmtzYlNFZnRycUc0VWlENkhWX3VjMVNzdENPRXZubEpLbGNENE1ERk9QdndqeHlFcUJMdF9DRGU1V0g5cGV1V2tSM245RVg4blBpVWlJbjlkS1E5cWZGVDVKLU5UUlE?oc=5) (Mon, 04 May 2026 22:32:38 GMT)
-- [Western Union launches its own stablecoin - American Banker](https://news.google.com/rss/articles/CBMigwFBVV95cUxObmlFNHBJSjU1VWhhVnhodHAwakNtT1ZOMkhoR1ZXbzZmTUg3QXR1OTh2NjF6MXVaYmF3WkhyT0JUQ0dIX1NVb1lEaktZRDdYSm1JVmxpVUNBT2pwUFQ3dnlLRTVwTWJzc1BNQXFrOWMyUm9IUlhvV1NjVWotcGxPSnlZaw?oc=5) (Mon, 04 May 2026 20:14:00 GMT)
-- [Bitcoin Tops $80K and Coinbase Wins Stablecoin Deal in Clarity Act - Gotrade](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmZGaVhQVV9sYU5DRmRNVEdDcW1RemhlUDhoS1ZnUFNReHRSb1VsVHBSV3BQMFRMZzZBLXAwMWZVc1E5NDV6TW1Jc2VTa1ZhMW1TS1lsZnVESXB6MURaNF9OOXJGNUpJNnAzYTl2SXpyeXZYdzBtazBVWm1COHhqa1VDcXp3dHRPTTdwREJKanpCQms?oc=5) (Mon, 04 May 2026 18:45:42 GMT)
+- [Delaware Makes Its Stablecoin Land Grab - PYMNTS.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUVVBY3Q4RjhJMkVwSjFfNm4xRFV6SGFJYlRWTUphbHJzRGJwZ1AzWVA2UGlOYUJ0ZF9lYlNZeXFmblprWmxPVXN1MDByODVBYnJiMFkyVzhoSnJQSG0wY1hQTFRUTE54WkEyWkgwd1RueldQYkZLNnhwUVJyelA3c2ZFcnVVNTBSNTEw?oc=5) (Wed, 06 May 2026 00:06:03 GMT)
+- [Banks Say Stablecoin Yield Fix For Crypto Bill &#x27;Falls Short&#x27; - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5bk9TNlNsVXJYT21yeVFCWTZJZEFaMHVMYTVxVTE2b1ZXNXhDVGV5dE9ySDhwZF96UXpmWjJBWmVobGRzVllOaHJ4YXNEQWMwYzNsQlRB0gFWQVVfeXFMUDluT1M2U2xVclhPbXJ5UUJZNklkQVowdUxhNXFVMTZvVlc1eENUZXl0T3JIOHBkX3pRemZaMkFaZWhsZHNWWU5ocnhhc0RBYzBjM2xCVEE?oc=5) (Tue, 05 May 2026 21:45:00 GMT)
+- [SoFi to launch its stablecoin on Solana, citing speed and cost - The Block](https://news.google.com/rss/articles/CBMingFBVV95cUxQRXJfRUpXNnNlUWdyREJYQVFvdVplRTI2S1N0SF83a1dhV3NYTEY2VHRGM0l4bnBZQmZXMF9zeWloNUdJNW52MDZzRkhjWFNZVGw4dHJ6b1g2Qm9qcEd0X19rS1NUeXlHaXVTLTF2UWhXbzNFSlN3czc5dkdyazRmX1FETG1md3g1STg1bmhCbnJSZ05kcVI3M1FBbnQ0dw?oc=5) (Tue, 05 May 2026 19:15:55 GMT)
+- [AICPA wants regulators to use its stablecoin guidance - Accounting Today](https://news.google.com/rss/articles/CBMilAFBVV95cUxNUFJQZzdCMzdhMWVRRUdIVEloYXBFOGs5TU5MbDlDNHBIdVdhNDZUejByNy1YdHdtdHdhUklBNlNCRnQwWUYyZ2lVSjhZcTNqWHc0cThmcThvZXprMlRYRmNRR185UzRxWTkzbWVib3NBc19VRW05cDAtYnhQQjVnRFo3WGdLR0dwTzduT2RWSWFlMTcy?oc=5) (Tue, 05 May 2026 17:53:00 GMT)
+- [A Model Built to Mislead: Why the CEA&#x27;s Stablecoin Analysis was Rigged - Americans for Financial Reform](https://news.google.com/rss/articles/CBMid0FVX3lxTE1wZFcyMWxKeS0xSVhqM01oaWkyN2tJQTVYMUVMTHlzMlpnczdkem5qdUZtSXF3eXdad0hOSm5KLVFVR3RxalpaMXBOaWdrR0Z4TGYtdTFkcTI0eUJwRG9Zdld1ak9XQzV3QWxHRUJnQ0V2SUJIWWNz?oc=5) (Tue, 05 May 2026 17:52:55 GMT)
 
 <!-- END_dashboard -->
 
