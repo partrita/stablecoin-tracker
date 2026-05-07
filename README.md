@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-06 02:03:41 (UTC)*
+*Last Updated: 2026-05-07 02:06:20 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$301,093,684,663** | 🟢 +0.10% | 🔴 -49.84% |
+| **$301,575,339,119** | 🟢 +0.16% | 🟢 +0.80% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Delaware Makes Its Stablecoin Land Grab - PYMNTS.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUVVBY3Q4RjhJMkVwSjFfNm4xRFV6SGFJYlRWTUphbHJzRGJwZ1AzWVA2UGlOYUJ0ZF9lYlNZeXFmblprWmxPVXN1MDByODVBYnJiMFkyVzhoSnJQSG0wY1hQTFRUTE54WkEyWkgwd1RueldQYkZLNnhwUVJyelA3c2ZFcnVVNTBSNTEw?oc=5) (Wed, 06 May 2026 00:06:03 GMT)
-- [Banks Say Stablecoin Yield Fix For Crypto Bill &#x27;Falls Short&#x27; - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5bk9TNlNsVXJYT21yeVFCWTZJZEFaMHVMYTVxVTE2b1ZXNXhDVGV5dE9ySDhwZF96UXpmWjJBWmVobGRzVllOaHJ4YXNEQWMwYzNsQlRB0gFWQVVfeXFMUDluT1M2U2xVclhPbXJ5UUJZNklkQVowdUxhNXFVMTZvVlc1eENUZXl0T3JIOHBkX3pRemZaMkFaZWhsZHNWWU5ocnhhc0RBYzBjM2xCVEE?oc=5) (Tue, 05 May 2026 21:45:00 GMT)
-- [SoFi to launch its stablecoin on Solana, citing speed and cost - The Block](https://news.google.com/rss/articles/CBMingFBVV95cUxQRXJfRUpXNnNlUWdyREJYQVFvdVplRTI2S1N0SF83a1dhV3NYTEY2VHRGM0l4bnBZQmZXMF9zeWloNUdJNW52MDZzRkhjWFNZVGw4dHJ6b1g2Qm9qcEd0X19rS1NUeXlHaXVTLTF2UWhXbzNFSlN3czc5dkdyazRmX1FETG1md3g1STg1bmhCbnJSZ05kcVI3M1FBbnQ0dw?oc=5) (Tue, 05 May 2026 19:15:55 GMT)
-- [AICPA wants regulators to use its stablecoin guidance - Accounting Today](https://news.google.com/rss/articles/CBMilAFBVV95cUxNUFJQZzdCMzdhMWVRRUdIVEloYXBFOGs5TU5MbDlDNHBIdVdhNDZUejByNy1YdHdtdHdhUklBNlNCRnQwWUYyZ2lVSjhZcTNqWHc0cThmcThvZXprMlRYRmNRR185UzRxWTkzbWVib3NBc19VRW05cDAtYnhQQjVnRFo3WGdLR0dwTzduT2RWSWFlMTcy?oc=5) (Tue, 05 May 2026 17:53:00 GMT)
-- [A Model Built to Mislead: Why the CEA&#x27;s Stablecoin Analysis was Rigged - Americans for Financial Reform](https://news.google.com/rss/articles/CBMid0FVX3lxTE1wZFcyMWxKeS0xSVhqM01oaWkyN2tJQTVYMUVMTHlzMlpnczdkem5qdUZtSXF3eXdad0hOSm5KLVFVR3RxalpaMXBOaWdrR0Z4TGYtdTFkcTI0eUJwRG9Zdld1ak9XQzV3QWxHRUJnQ0V2SUJIWWNz?oc=5) (Tue, 05 May 2026 17:52:55 GMT)
+- [Is Stablecoin Reward Clarity Under The CLARITY Act Altering The Investment Case For Coinbase (COIN)? - Yahoo Finance](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmtuVTRwMWtUMG42c0t4djB3aXFURENUZG4tZWs5Z3J1TGl0LVN1YXVQdVExZnZmQ3R2MHBjT01hVTBVOWpLck9qT1hjNUMtdmdseXhyZS1iaXhBWF9YSHBfSXVXckt5R2RxM2FsQVhxTktJMGdzNmg1bEtJRDQzREJrWVRZVW9oaUhBN3JZUnNDTlV6eU9VZi1rQjJaVXVzaFVocm1kTQ?oc=5) (Wed, 06 May 2026 19:27:09 GMT)
+- [Banks, crypto firms battle over stablecoin yield - Banking Dive](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRG1JVmlMa1Y5MG1BMUdSMjEtQmdEcTFJcUVVLVZQTWJqVTlnTjZSbG9ONTg1VDl2U0UzWXBDOWk5eHBrYV9zN2JsYkVUMHpIdDZOdnk4aDZaX2VHeU4zTUZKWXJadWYySVFFajB4czlubmtPOF9LSDU0aVBVdkRudDY5RVpoN01nRzkxdlNxRzc2V3hDNW5qVHBZcG5sVjBteElNOGlSeEZONG85Z3ZtMDdvZw?oc=5) (Wed, 06 May 2026 16:34:09 GMT)
+- [&#x27;Clarity Act will pass this summer&#x27;: Coinbase CLO Grewal backs stablecoin compromise, urges banks to accept deal - The Block](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeHczTGU5SnBjbzFDUV9iOGRjM1pOdkpKcWhKdXlXWVpGY1BsOWNoSlBLU0tIM041NDExYWZsTFBwSXBqZWVDNHNMQlNuNmVGdk1SSzhuazhZRXJXeHY1SzFlY2c0OVMzTlotMlNFaGVzQ0QwNzlVLU12ZDZoR2xDbHhMa0VfOFJzLUdtWjhSdWxLU3VMRk9KYTNzODcxOFgzNlZJTXh0TnQwV0Z0YlBjclNRVFBVRXdWOWlQT0g2VzFxXzY3eXQyYVdtUTNncWhvTXFIejRWNDVkRERI?oc=5) (Wed, 06 May 2026 14:46:59 GMT)
+- [Stablecoin yield debate central in GENIUS rule comments; SEC backs Trump&#x27;s idea of allowing semi-annual earnings reports; and more in Bankers&#x27; Hours - LinkedIn](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMzdnRDNIeV80Rnd6cmNGT01aTE5rUW5aUXdSQlowMDdtVkZ2RVNreEhJVkg0VFB5RzNpdVVFcGJyRFdGemtuT1hWb0YxZ3I4cGpZanU1NkFYazFpcXdESzNQY0R1VGh6Qk10b1RBZWxEcFBWMldwN05qMDQ1a2NHOUxlMzJyU0F3Ri1yN0NVaFRiQ2VLdW5XbQ?oc=5) (Wed, 06 May 2026 14:00:16 GMT)
+- [OpenTrade raises $17M to expand stablecoin yield infrastructure after topping $200M TVL - The Block](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMUo3d1Q4a3Q1d0tJTmFJaE1WaHp2QlVhWUFrbW5xWTBlWjlWbU5UOXY5bTZPMEg5aTdLdm82ZDFpeTVsQ1FudjlHNUNjTXlzOE5xbEpWX1lsc0lqOE1RRFg1TDVTZTZrWXVFWmJTYkJ4TUVmSzhvYzdENEtOMnZkTnZnWTkxSHpsNFo4SXVIWWFNaF9uOGFESjIzYWszbkRHQm5kaG5oZ3p4SkVuenZ6REtySC1pVWdFMFVEQzJR?oc=5) (Wed, 06 May 2026 13:00:00 GMT)
 
 <!-- END_dashboard -->
 
