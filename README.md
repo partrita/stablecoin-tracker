@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-07 02:06:20 (UTC)*
+*Last Updated: 2026-05-08 02:12:41 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$301,575,339,119** | 🟢 +0.16% | 🟢 +0.80% |
+| **$301,495,963,888** | 🔴 -0.03% | 🔴 -49.70% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Is Stablecoin Reward Clarity Under The CLARITY Act Altering The Investment Case For Coinbase (COIN)? - Yahoo Finance](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmtuVTRwMWtUMG42c0t4djB3aXFURENUZG4tZWs5Z3J1TGl0LVN1YXVQdVExZnZmQ3R2MHBjT01hVTBVOWpLck9qT1hjNUMtdmdseXhyZS1iaXhBWF9YSHBfSXVXckt5R2RxM2FsQVhxTktJMGdzNmg1bEtJRDQzREJrWVRZVW9oaUhBN3JZUnNDTlV6eU9VZi1rQjJaVXVzaFVocm1kTQ?oc=5) (Wed, 06 May 2026 19:27:09 GMT)
-- [Banks, crypto firms battle over stablecoin yield - Banking Dive](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRG1JVmlMa1Y5MG1BMUdSMjEtQmdEcTFJcUVVLVZQTWJqVTlnTjZSbG9ONTg1VDl2U0UzWXBDOWk5eHBrYV9zN2JsYkVUMHpIdDZOdnk4aDZaX2VHeU4zTUZKWXJadWYySVFFajB4czlubmtPOF9LSDU0aVBVdkRudDY5RVpoN01nRzkxdlNxRzc2V3hDNW5qVHBZcG5sVjBteElNOGlSeEZONG85Z3ZtMDdvZw?oc=5) (Wed, 06 May 2026 16:34:09 GMT)
-- [&#x27;Clarity Act will pass this summer&#x27;: Coinbase CLO Grewal backs stablecoin compromise, urges banks to accept deal - The Block](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeHczTGU5SnBjbzFDUV9iOGRjM1pOdkpKcWhKdXlXWVpGY1BsOWNoSlBLU0tIM041NDExYWZsTFBwSXBqZWVDNHNMQlNuNmVGdk1SSzhuazhZRXJXeHY1SzFlY2c0OVMzTlotMlNFaGVzQ0QwNzlVLU12ZDZoR2xDbHhMa0VfOFJzLUdtWjhSdWxLU3VMRk9KYTNzODcxOFgzNlZJTXh0TnQwV0Z0YlBjclNRVFBVRXdWOWlQT0g2VzFxXzY3eXQyYVdtUTNncWhvTXFIejRWNDVkRERI?oc=5) (Wed, 06 May 2026 14:46:59 GMT)
-- [Stablecoin yield debate central in GENIUS rule comments; SEC backs Trump&#x27;s idea of allowing semi-annual earnings reports; and more in Bankers&#x27; Hours - LinkedIn](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMzdnRDNIeV80Rnd6cmNGT01aTE5rUW5aUXdSQlowMDdtVkZ2RVNreEhJVkg0VFB5RzNpdVVFcGJyRFdGemtuT1hWb0YxZ3I4cGpZanU1NkFYazFpcXdESzNQY0R1VGh6Qk10b1RBZWxEcFBWMldwN05qMDQ1a2NHOUxlMzJyU0F3Ri1yN0NVaFRiQ2VLdW5XbQ?oc=5) (Wed, 06 May 2026 14:00:16 GMT)
-- [OpenTrade raises $17M to expand stablecoin yield infrastructure after topping $200M TVL - The Block](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMUo3d1Q4a3Q1d0tJTmFJaE1WaHp2QlVhWUFrbW5xWTBlWjlWbU5UOXY5bTZPMEg5aTdLdm82ZDFpeTVsQ1FudjlHNUNjTXlzOE5xbEpWX1lsc0lqOE1RRFg1TDVTZTZrWXVFWmJTYkJ4TUVmSzhvYzdENEtOMnZkTnZnWTkxSHpsNFo4SXVIWWFNaF9uOGFESjIzYWszbkRHQm5kaG5oZ3p4SkVuenZ6REtySC1pVWdFMFVEQzJR?oc=5) (Wed, 06 May 2026 13:00:00 GMT)
+- [Coinbax wins $20,000 PitchFest prize at Consensus Miami for stablecoin compliance - CoinDesk](https://news.google.com/rss/articles/CBMixwFBVV95cUxNd1owU21HWGZJamFubU15Y09CUzJmOWRsQ1pMSmdUUmtySEpvVVYzd3h3S3E0V2w3S2pVOUZSR2o0bjMwWm56V05jTFdvNjFwQnJqMG1EZGc5M1YxSlFfNE5jTnBfbkROR2M2SzFGTGJydFRPcDM0Zk53V2FUYzBSYmM0aUZDenRKTVZ4amFkdTc4NDFpNm1CM2xDT0N1WWNxY3hQcFJCcnR0Qi1wLWl1aDJGdi1sWFBRTXRwYWE0allzN203bnF3?oc=5) (Thu, 07 May 2026 21:50:38 GMT)
+- [AI agents and large corporates will lead the next stablecoin boom, executives say - CoinDesk](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU1JlN3dXVFlwR1AtNm5qb0hBTUxfWHJNOV8zQnlVMXpKMlZRRngxQ0JET2RUeV9PUW9tR2xuWnNnWnh0MGZCSDhFZDdGUS1UTDVPUy1IOWNKTzNSVE5TLU02dGotSjAzLUZRYVd1dlRDMWFfQVZyVVdHWjZiUzJUUEkyTURDYWNlNU85SXVsaTNFVl9DR05DOFY2WXIybEhybDdPM0ZVMEFUYTUybDRLekRiY3ZVX0s0Uk5wNFFwM0p3MEE?oc=5) (Thu, 07 May 2026 21:13:22 GMT)
+- [The stablecoin queue: 20 banks and tech giants are waiting to issue tokens with Anchorage Digital - CoinDesk](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSWFIVnBCdnJuVGpBdGNOdUhXb2lrOEU3RUZKSmg1RlFEVkdlV2x3cGp6M3VaTEdJdk1VUm80UUFaQkE4b1lFa05qTU80bUNuankzRFItS0R1MlRuSUVKOGxob0FXbDNfb09aUGVmTGJoWDZIbTRGenBCVGZpZHJ3Tm05SzJNdDB4eHBBTjh5Q2J0MTZpN3N1NVpOZHZxU3hPWFNQa0VKR1UyUG5GeXl5RlpKaV9rUXVLdTJ2QThqVVRtSTJYOU40?oc=5) (Thu, 07 May 2026 16:36:58 GMT)
+- [Kraken parent Payward to buy stablecoin payments firm Reap for $600m - ledgerinsights.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxQT292bVVqTVIweGdsVlphTHNod25Sc1pjX19xTEg4TDd2M1hhZTVXd1pBcjg3R1A5N190ellEai0xaVF3RG1sX2lXUEliUlIzaUd0aGRwSEE3cmV4RlhpLWc4Ukw5alhtcHoyNUprMk5hQVMxdmRld3JVYnEzY0tCUzlkV2xBRHcwQnhzcXR3ZTVfY1BuNk5TczhFbE56T3Zu?oc=5) (Thu, 07 May 2026 15:13:46 GMT)
+- [Here’s Why Mastercard Is Betting Big on BVNK — and Stablecoin - Global Finance Magazine](https://news.google.com/rss/articles/CBMid0FVX3lxTE1ESUZNYTdCejJJaFdkRUJ1anZqTzN3OENBaXJJVkQ1UTlkODc0RjZUdVNDM2dKWWZJSXZFckdOS0ZjQ05Ha2pyNmlnWFBFYUNkVVpHQ0R4NXI5a1l3cjFFcmZxbFFDcXRwekxvTG9nSzhnOGd1VW93?oc=5) (Thu, 07 May 2026 14:57:01 GMT)
 
 <!-- END_dashboard -->
 
