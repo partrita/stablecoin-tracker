@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-08 02:12:41 (UTC)*
+*Last Updated: 2026-05-09 02:06:30 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$301,495,963,888** | 🔴 -0.03% | 🔴 -49.70% |
+| **$300,196,901,542** | 🔴 -0.43% | 🟢 +0.08% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Coinbax wins $20,000 PitchFest prize at Consensus Miami for stablecoin compliance - CoinDesk](https://news.google.com/rss/articles/CBMixwFBVV95cUxNd1owU21HWGZJamFubU15Y09CUzJmOWRsQ1pMSmdUUmtySEpvVVYzd3h3S3E0V2w3S2pVOUZSR2o0bjMwWm56V05jTFdvNjFwQnJqMG1EZGc5M1YxSlFfNE5jTnBfbkROR2M2SzFGTGJydFRPcDM0Zk53V2FUYzBSYmM0aUZDenRKTVZ4amFkdTc4NDFpNm1CM2xDT0N1WWNxY3hQcFJCcnR0Qi1wLWl1aDJGdi1sWFBRTXRwYWE0allzN203bnF3?oc=5) (Thu, 07 May 2026 21:50:38 GMT)
-- [AI agents and large corporates will lead the next stablecoin boom, executives say - CoinDesk](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU1JlN3dXVFlwR1AtNm5qb0hBTUxfWHJNOV8zQnlVMXpKMlZRRngxQ0JET2RUeV9PUW9tR2xuWnNnWnh0MGZCSDhFZDdGUS1UTDVPUy1IOWNKTzNSVE5TLU02dGotSjAzLUZRYVd1dlRDMWFfQVZyVVdHWjZiUzJUUEkyTURDYWNlNU85SXVsaTNFVl9DR05DOFY2WXIybEhybDdPM0ZVMEFUYTUybDRLekRiY3ZVX0s0Uk5wNFFwM0p3MEE?oc=5) (Thu, 07 May 2026 21:13:22 GMT)
-- [The stablecoin queue: 20 banks and tech giants are waiting to issue tokens with Anchorage Digital - CoinDesk](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSWFIVnBCdnJuVGpBdGNOdUhXb2lrOEU3RUZKSmg1RlFEVkdlV2x3cGp6M3VaTEdJdk1VUm80UUFaQkE4b1lFa05qTU80bUNuankzRFItS0R1MlRuSUVKOGxob0FXbDNfb09aUGVmTGJoWDZIbTRGenBCVGZpZHJ3Tm05SzJNdDB4eHBBTjh5Q2J0MTZpN3N1NVpOZHZxU3hPWFNQa0VKR1UyUG5GeXl5RlpKaV9rUXVLdTJ2QThqVVRtSTJYOU40?oc=5) (Thu, 07 May 2026 16:36:58 GMT)
-- [Kraken parent Payward to buy stablecoin payments firm Reap for $600m - ledgerinsights.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxQT292bVVqTVIweGdsVlphTHNod25Sc1pjX19xTEg4TDd2M1hhZTVXd1pBcjg3R1A5N190ellEai0xaVF3RG1sX2lXUEliUlIzaUd0aGRwSEE3cmV4RlhpLWc4Ukw5alhtcHoyNUprMk5hQVMxdmRld3JVYnEzY0tCUzlkV2xBRHcwQnhzcXR3ZTVfY1BuNk5TczhFbE56T3Zu?oc=5) (Thu, 07 May 2026 15:13:46 GMT)
-- [Here’s Why Mastercard Is Betting Big on BVNK — and Stablecoin - Global Finance Magazine](https://news.google.com/rss/articles/CBMid0FVX3lxTE1ESUZNYTdCejJJaFdkRUJ1anZqTzN3OENBaXJJVkQ1UTlkODc0RjZUdVNDM2dKWWZJSXZFckdOS0ZjQ05Ha2pyNmlnWFBFYUNkVVpHQ0R4NXI5a1l3cjFFcmZxbFFDcXRwekxvTG9nSzhnOGd1VW93?oc=5) (Thu, 07 May 2026 14:57:01 GMT)
+- [Yield-Bearing Stablecoins Can Destroy Deposits - Bank Policy Institute](https://news.google.com/rss/articles/CBMicEFVX3lxTFB0TTZ1bTVsS0ZuYzNWVkFDcnlYLURuTkVYc3Fkc1dkN1NYVmZUa2c4dHlndmxUZUVtQ2NDV2UwM2RCb241S3NXNVNaVnZLc190OGNmYlIwOElwS1hLZzN6eG1pME1kdFlOZ2h0dTRZbkg?oc=5) (Fri, 08 May 2026 21:06:00 GMT)
+- [Vault: Banks plead for stronger stablecoin restrictions - Punchbowl News](https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWk3dUlmSDAxeFAybkhwRHBId2xDZkRTbm5VUDZDRmJ0Mmd2YTJPYi1lMml3MzMycGNHdDdvNERqekRFZWt6bVE2akdqRG1CS0ZReWdid1Q5eF9VV3YzQXhjWFZ1UTBHMU8tWnJKbWFUYkRCTjV5aGppcVVhckVxQy1kSQ?oc=5) (Fri, 08 May 2026 21:03:30 GMT)
+- [Stablecoin Regulatory Clarity: Can Disruptors Be Disrupted? - Seeking Alpha](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZHFla3JYbnVnUjZFa0tNcEFFOFV2QkZzS0tPQlVtYmlmUEo4VTVUOXowM2ZOYmlzVlVJYlFaVUs3eGRyMmRJX2lrYVlPejNKZjlPSlV5c0FhSXA0a1B5MlVQLVZVN25qTl9BUmdxWk5fU1JEYS14cFM1aldVRHJSdnZQRzR2eFdZY1hlT2o3b3dBVFNwQ3lUNXJsYUVFelU?oc=5) (Fri, 08 May 2026 21:03:29 GMT)
+- [Banking Trade Groups Urge Senate Banking Leaders to Strengthen Stablecoin Yield Guardrails to Prevent Deposit Flight - Bank Policy Institute](https://news.google.com/rss/articles/CBMizgFBVV95cUxQRzYybTl0dHVDOG53X2FMRWFPMnVxM1VkdkFia2VXYnR5dWlIY2hMbGxldjlYODN2MWZ3anZObnZZZFRyYURfMnhLZmdLMUZiekY1T1VLVmlsTWJMdm1Ranc5ekVJVGNlX2p6RkotZ0NmbHduOEhla202d0lVOHh5R2Fzd3JUbXVaNzdUVnp0LUpJa1UyTUN0MS1QdmtEU1dsRTV4blRZdlJEd3BGRTZwTUVtVnV2anJ5S1dEQU05SWYyVk9UVFJjOXhxVTZ4QQ?oc=5) (Fri, 08 May 2026 20:29:28 GMT)
+- [&#x27;Shifted the vibes:&#x27; Stablecoin deal revives crypto bill despite lingering ethics disputes - The Block](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVmZNb01mTVNSRGFvRjZqUzZVSm91NklyeXlHNURtdC16TFVwWWZjQ3JrM2VsYlM5MHotMDdZMVR4VkNDMlZacFN2REZuQl9RLW5RZGltVHI0cE1DcExCRGZwNV9wcWpweHBrZXJ3Y2k4ZkQxakRBSFhIZUktazRRWVFkT0NGQ1pkT2RyenF3M1lfUm1BUFg3ekRhVUZkXzdIcS1RdUxNQkxHRlBMbXl0ZEJOLUxxRUF1bFhN?oc=5) (Fri, 08 May 2026 20:20:38 GMT)
 
 <!-- END_dashboard -->
 
