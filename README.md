@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-09 02:06:30 (UTC)*
+*Last Updated: 2026-05-10 02:07:44 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,196,901,542** | 🔴 -0.43% | 🟢 +0.08% |
+| **$300,935,479,273** | 🟢 +0.25% | 🟢 +0.23% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Yield-Bearing Stablecoins Can Destroy Deposits - Bank Policy Institute](https://news.google.com/rss/articles/CBMicEFVX3lxTFB0TTZ1bTVsS0ZuYzNWVkFDcnlYLURuTkVYc3Fkc1dkN1NYVmZUa2c4dHlndmxUZUVtQ2NDV2UwM2RCb241S3NXNVNaVnZLc190OGNmYlIwOElwS1hLZzN6eG1pME1kdFlOZ2h0dTRZbkg?oc=5) (Fri, 08 May 2026 21:06:00 GMT)
-- [Vault: Banks plead for stronger stablecoin restrictions - Punchbowl News](https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWk3dUlmSDAxeFAybkhwRHBId2xDZkRTbm5VUDZDRmJ0Mmd2YTJPYi1lMml3MzMycGNHdDdvNERqekRFZWt6bVE2akdqRG1CS0ZReWdid1Q5eF9VV3YzQXhjWFZ1UTBHMU8tWnJKbWFUYkRCTjV5aGppcVVhckVxQy1kSQ?oc=5) (Fri, 08 May 2026 21:03:30 GMT)
-- [Stablecoin Regulatory Clarity: Can Disruptors Be Disrupted? - Seeking Alpha](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZHFla3JYbnVnUjZFa0tNcEFFOFV2QkZzS0tPQlVtYmlmUEo4VTVUOXowM2ZOYmlzVlVJYlFaVUs3eGRyMmRJX2lrYVlPejNKZjlPSlV5c0FhSXA0a1B5MlVQLVZVN25qTl9BUmdxWk5fU1JEYS14cFM1aldVRHJSdnZQRzR2eFdZY1hlT2o3b3dBVFNwQ3lUNXJsYUVFelU?oc=5) (Fri, 08 May 2026 21:03:29 GMT)
-- [Banking Trade Groups Urge Senate Banking Leaders to Strengthen Stablecoin Yield Guardrails to Prevent Deposit Flight - Bank Policy Institute](https://news.google.com/rss/articles/CBMizgFBVV95cUxQRzYybTl0dHVDOG53X2FMRWFPMnVxM1VkdkFia2VXYnR5dWlIY2hMbGxldjlYODN2MWZ3anZObnZZZFRyYURfMnhLZmdLMUZiekY1T1VLVmlsTWJMdm1Ranc5ekVJVGNlX2p6RkotZ0NmbHduOEhla202d0lVOHh5R2Fzd3JUbXVaNzdUVnp0LUpJa1UyTUN0MS1QdmtEU1dsRTV4blRZdlJEd3BGRTZwTUVtVnV2anJ5S1dEQU05SWYyVk9UVFJjOXhxVTZ4QQ?oc=5) (Fri, 08 May 2026 20:29:28 GMT)
-- [&#x27;Shifted the vibes:&#x27; Stablecoin deal revives crypto bill despite lingering ethics disputes - The Block](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVmZNb01mTVNSRGFvRjZqUzZVSm91NklyeXlHNURtdC16TFVwWWZjQ3JrM2VsYlM5MHotMDdZMVR4VkNDMlZacFN2REZuQl9RLW5RZGltVHI0cE1DcExCRGZwNV9wcWpweHBrZXJ3Y2k4ZkQxakRBSFhIZUktazRRWVFkT0NGQ1pkT2RyenF3M1lfUm1BUFg3ekRhVUZkXzdIcS1RdUxNQkxHRlBMbXl0ZEJOLUxxRUF1bFhN?oc=5) (Fri, 08 May 2026 20:20:38 GMT)
+- [BoE&#x27;s Bailey warns of looming &#x27;wrestle&#x27; with US over stablecoin rules, flags run risk for UK - The Block](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjV3cUFXNmNfNnZ3eU5jYmN6Zkdjb1p1RHFTWDFsbHN3VTB6V3EzTGY1Q2FnR0ZybFFVT1pqWi1DaXFpR0xmQ1dtSFpLVFUwR1lSY0lpTUUtYWxtYUxJQWtZZ25kSVhqQzVsOUdHMmlOOHVBR2RYQ1BmTk5QRHVoUG1sWHVsdVB5VDNWb19xQ1lwRG13OFF0R0JuVTJhRnZUcnJ2M0RUdXk2azB2MnBkd1pXT1RrYnphYVJ1RlV0Ul9NUQ?oc=5) (Sat, 09 May 2026 19:56:36 GMT)
+- [BPInsights: May 9, 2026 - Bank Policy Institute](https://news.google.com/rss/articles/CBMiT0FVX3lxTE55d3ByZUljai1QZTFzUTRmODh2Rk8xaHYtM0NwQkFvSmVZRnVTQ3c5bDB3U2NQRWFNX0ZybUpxZ3UxSmNKZkFKX2puc29jYnc?oc=5) (Sat, 09 May 2026 11:00:00 GMT)
+- [Hennen: North Dakota leads with Roughrider stablecoin - InForum](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZWd1bktIWXJZUnB2WFkzWndzWVlEaFBvamtsOHE1dWJBT3ZWWTdnd2tGTFZSZGxJTGFFOTM2d3dUVkxzRWtzekREcFhmUV9NT051WEJDNF9mZzRUeTJZZndiU2p1QmRTcWYtRVhlZnp2czhlNUk0VlNKYXpSM0g1eU9BNmdKTUxhTE5tTEJBazdWVnNyWlVB?oc=5) (Sat, 09 May 2026 10:06:43 GMT)
+- [Mastercard Stablecoin Push With Yellow Card And What It Means For Valuation - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxPOXJmQ1laZEVvbTA5dS1WODktNVBFdnBqck9zNXVlNDRZcFd1d0JUTGRtSV8wMjk5QUtxdDZCeTJFSnVNTmVBakxkUmgxUHd4YXE4MjNLcVl5MjRLSzlDMjlNZENkZUkzRkR6cWxvT3hYbHdSLTZNeGdIdG1Ec0dEaExpMFBjRzhnS2RrNkJjb2MyQkpfZ25nbU50dlhWTWJCSlROV0dB?oc=5) (Sat, 09 May 2026 08:22:48 GMT)
+- [How HIFI Built Compliance Into Stablecoin Infrastructure From Day Zero - TRM Labs](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUGlCYm9XaVp2SW93V3FpbGZDRFM1dW8zN0g3VllnVTVNNktOVW5FUVRhSDdtdDZKLTQ1VDJ0Yjhma1h4NWx0YlJWNFNZQ29PMWtIR3NOcTFVdWc3cHlvd1RFTFYwcGhDT2F4WHpXeU1mcnhfUkotaDZDMWthWGRTTGw2aDFaNlJBZFFIRkNUTW13TXRkRDg0OWgyM3VYd2RseWlyTnl0Vk50aDFrMDBmbW1MNl9IbGRPWkNfaA?oc=5) (Sat, 09 May 2026 03:20:37 GMT)
 
 <!-- END_dashboard -->
 
