@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-10 02:07:44 (UTC)*
+*Last Updated: 2026-05-11 02:26:29 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,935,479,273** | 🟢 +0.25% | 🟢 +0.23% |
+| **$301,013,726,712** | 🟢 +0.03% | 🟢 +0.24% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [BoE&#x27;s Bailey warns of looming &#x27;wrestle&#x27; with US over stablecoin rules, flags run risk for UK - The Block](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjV3cUFXNmNfNnZ3eU5jYmN6Zkdjb1p1RHFTWDFsbHN3VTB6V3EzTGY1Q2FnR0ZybFFVT1pqWi1DaXFpR0xmQ1dtSFpLVFUwR1lSY0lpTUUtYWxtYUxJQWtZZ25kSVhqQzVsOUdHMmlOOHVBR2RYQ1BmTk5QRHVoUG1sWHVsdVB5VDNWb19xQ1lwRG13OFF0R0JuVTJhRnZUcnJ2M0RUdXk2azB2MnBkd1pXT1RrYnphYVJ1RlV0Ul9NUQ?oc=5) (Sat, 09 May 2026 19:56:36 GMT)
-- [BPInsights: May 9, 2026 - Bank Policy Institute](https://news.google.com/rss/articles/CBMiT0FVX3lxTE55d3ByZUljai1QZTFzUTRmODh2Rk8xaHYtM0NwQkFvSmVZRnVTQ3c5bDB3U2NQRWFNX0ZybUpxZ3UxSmNKZkFKX2puc29jYnc?oc=5) (Sat, 09 May 2026 11:00:00 GMT)
-- [Hennen: North Dakota leads with Roughrider stablecoin - InForum](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZWd1bktIWXJZUnB2WFkzWndzWVlEaFBvamtsOHE1dWJBT3ZWWTdnd2tGTFZSZGxJTGFFOTM2d3dUVkxzRWtzekREcFhmUV9NT051WEJDNF9mZzRUeTJZZndiU2p1QmRTcWYtRVhlZnp2czhlNUk0VlNKYXpSM0g1eU9BNmdKTUxhTE5tTEJBazdWVnNyWlVB?oc=5) (Sat, 09 May 2026 10:06:43 GMT)
-- [Mastercard Stablecoin Push With Yellow Card And What It Means For Valuation - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxPOXJmQ1laZEVvbTA5dS1WODktNVBFdnBqck9zNXVlNDRZcFd1d0JUTGRtSV8wMjk5QUtxdDZCeTJFSnVNTmVBakxkUmgxUHd4YXE4MjNLcVl5MjRLSzlDMjlNZENkZUkzRkR6cWxvT3hYbHdSLTZNeGdIdG1Ec0dEaExpMFBjRzhnS2RrNkJjb2MyQkpfZ25nbU50dlhWTWJCSlROV0dB?oc=5) (Sat, 09 May 2026 08:22:48 GMT)
-- [How HIFI Built Compliance Into Stablecoin Infrastructure From Day Zero - TRM Labs](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUGlCYm9XaVp2SW93V3FpbGZDRFM1dW8zN0g3VllnVTVNNktOVW5FUVRhSDdtdDZKLTQ1VDJ0Yjhma1h4NWx0YlJWNFNZQ29PMWtIR3NOcTFVdWc3cHlvd1RFTFYwcGhDT2F4WHpXeU1mcnhfUkotaDZDMWthWGRTTGw2aDFaNlJBZFFIRkNUTW13TXRkRDg0OWgyM3VYd2RseWlyTnl0Vk50aDFrMDBmbW1MNl9IbGRPWkNfaA?oc=5) (Sat, 09 May 2026 03:20:37 GMT)
+- [FDIC and OCC Both Want to Be Stablecoins’ New Boss - PYMNTS.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVA1SmlGNmg0RUpjNTVSUmJIdFY4T1QyOHdEOUY1SUVUMW5BN1hOblB5cEZfQmprRGhYMWM4UXNFcGpuekVxRmNiLUZIM2ZrVFpJS1AyOVBjbWs2TVlfU0FodlpxTjc1a0oyVHB3VllWMjVJdnk2ZlBkeV9SU2VZMXVoc0MxRURlVW5MUmttMWRaYzJQMS1NZw?oc=5) (Mon, 11 May 2026 01:38:07 GMT)
+- [Stablecoin Firm Circle Reports Earnings On Monday. AI Will Be In Focus - Barron&#x27;s](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXBYRm5DSVNycmZRcDdMeVM5X2dBaUNMMGNtX3ZWTW4yZHB1Y2NkN2JTVG5FWHozODNxemI4UTUtcms4cmhYTDlCMV91bHhGZDBzQ1E2aUw3NEM4SHJRWE5CZFVYMTBWYkFVUTJrS0gyR2JfUXVSalNqdG1FX09lb1NiWm5yeWVIQ3JjangwSE5VY3lRV0FDWm4tMkt1MmxRS3Jhdk5PSzZMeGdpb3poYVln?oc=5) (Sun, 10 May 2026 20:15:00 GMT)
+- [Cutting Through The Stablecoin Noise—What Credit Unions Actually Need To Know Now - CU Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxNS3VpV3VLVEd0YlJBU3ZPcHFHdU9WX2RBSzZJZjBad2tHdGxBaXJ4YnZHOUpUMkQwYUdYampYY0d5TzVCUC1nRmFMLWZ3NHk5ZEdWTUI5bVpmTGZVYlc0NDEtSEdRX0c1a3VIekYweDJXWmo1d3VjVTViRkVJaWNBSERwa2hTZEhJS01xQzBrSXJiMzFFWTlCLU1ZMXVFMXZRTzdQZUhXcnBTMEtCQ1ZPckt6cmpsOFQ2MXc?oc=5) (Sun, 10 May 2026 13:28:42 GMT)
+- [Bank of Canada Says Stablecoin Rules Could Arrive Later in 2027 - Yahoo Finance](https://news.google.com/rss/articles/CBMinwFBVV95cUxOUWR1X216M0ozb0NuaUhHV3Fzc3VoZXFod05xMV85THlaclptcGFyNkpNWl9QUGxpcXVaaEdLcTNhMThGb3prSUlmTllfMWxROFhtSEV2S0NXZF8zWEhnV05ybzVrZTNwN01aeTJhU1phOVlXRHpXdWdTcHE1ODZHeGpZMnYwaVltN3Y3SWJzdDN0X0VoV3owTk9TVTR0cEk?oc=5) (Sun, 10 May 2026 04:28:00 GMT)
+- [Banking groups and crypto advocates clash over stablecoin rewards in Senate bill - Investing.com](https://news.google.com/rss/articles/CBMi1gFBVV95cUxORFFZRVpxampiQ1RVYkNoZHNxaFRnbS10bjhXSEdXN2EzWTRxc3AwZS1raEoxbXhFUDRrdFJ0N0FXcDlMNjRCaWo1c0JfMHU5SmQ3WjJyMmFSdkp0SGc3TnI5WU8xQ2VFZVQ1WnN1SlhMYlhPS0Zzc0pNNUlUdWVUeTlxbGZTZEUwaEhyTUc1c3phMXhFLW5wZ1pZWTB2RTZjWW51N19hRWwtWE9IOFBIQ2F0T3N4V0t3QWhNSGRWbm1pTjFnTlZqRFZZNU5JZElzMDBvVkVB?oc=5) (Sun, 10 May 2026 02:03:52 GMT)
 
 <!-- END_dashboard -->
 
