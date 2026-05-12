@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-11 02:26:29 (UTC)*
+*Last Updated: 2026-05-12 02:11:43 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$301,013,726,712** | 🟢 +0.03% | 🟢 +0.24% |
+| **$301,383,554,338** | 🟢 +0.12% | 🟢 +0.20% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [FDIC and OCC Both Want to Be Stablecoins’ New Boss - PYMNTS.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVA1SmlGNmg0RUpjNTVSUmJIdFY4T1QyOHdEOUY1SUVUMW5BN1hOblB5cEZfQmprRGhYMWM4UXNFcGpuekVxRmNiLUZIM2ZrVFpJS1AyOVBjbWs2TVlfU0FodlpxTjc1a0oyVHB3VllWMjVJdnk2ZlBkeV9SU2VZMXVoc0MxRURlVW5MUmttMWRaYzJQMS1NZw?oc=5) (Mon, 11 May 2026 01:38:07 GMT)
-- [Stablecoin Firm Circle Reports Earnings On Monday. AI Will Be In Focus - Barron&#x27;s](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXBYRm5DSVNycmZRcDdMeVM5X2dBaUNMMGNtX3ZWTW4yZHB1Y2NkN2JTVG5FWHozODNxemI4UTUtcms4cmhYTDlCMV91bHhGZDBzQ1E2aUw3NEM4SHJRWE5CZFVYMTBWYkFVUTJrS0gyR2JfUXVSalNqdG1FX09lb1NiWm5yeWVIQ3JjangwSE5VY3lRV0FDWm4tMkt1MmxRS3Jhdk5PSzZMeGdpb3poYVln?oc=5) (Sun, 10 May 2026 20:15:00 GMT)
-- [Cutting Through The Stablecoin Noise—What Credit Unions Actually Need To Know Now - CU Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxNS3VpV3VLVEd0YlJBU3ZPcHFHdU9WX2RBSzZJZjBad2tHdGxBaXJ4YnZHOUpUMkQwYUdYampYY0d5TzVCUC1nRmFMLWZ3NHk5ZEdWTUI5bVpmTGZVYlc0NDEtSEdRX0c1a3VIekYweDJXWmo1d3VjVTViRkVJaWNBSERwa2hTZEhJS01xQzBrSXJiMzFFWTlCLU1ZMXVFMXZRTzdQZUhXcnBTMEtCQ1ZPckt6cmpsOFQ2MXc?oc=5) (Sun, 10 May 2026 13:28:42 GMT)
-- [Bank of Canada Says Stablecoin Rules Could Arrive Later in 2027 - Yahoo Finance](https://news.google.com/rss/articles/CBMinwFBVV95cUxOUWR1X216M0ozb0NuaUhHV3Fzc3VoZXFod05xMV85THlaclptcGFyNkpNWl9QUGxpcXVaaEdLcTNhMThGb3prSUlmTllfMWxROFhtSEV2S0NXZF8zWEhnV05ybzVrZTNwN01aeTJhU1phOVlXRHpXdWdTcHE1ODZHeGpZMnYwaVltN3Y3SWJzdDN0X0VoV3owTk9TVTR0cEk?oc=5) (Sun, 10 May 2026 04:28:00 GMT)
-- [Banking groups and crypto advocates clash over stablecoin rewards in Senate bill - Investing.com](https://news.google.com/rss/articles/CBMi1gFBVV95cUxORFFZRVpxampiQ1RVYkNoZHNxaFRnbS10bjhXSEdXN2EzWTRxc3AwZS1raEoxbXhFUDRrdFJ0N0FXcDlMNjRCaWo1c0JfMHU5SmQ3WjJyMmFSdkp0SGc3TnI5WU8xQ2VFZVQ1WnN1SlhMYlhPS0Zzc0pNNUlUdWVUeTlxbGZTZEUwaEhyTUc1c3phMXhFLW5wZ1pZWTB2RTZjWW51N19hRWwtWE9IOFBIQ2F0T3N4V0t3QWhNSGRWbm1pTjFnTlZqRFZZNU5JZElzMDBvVkVB?oc=5) (Sun, 10 May 2026 02:03:52 GMT)
+- [&#x27;We Need Your Help&#x27;: Banks Rallied For Stablecoin Yield Fight - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTE00UHQtbVQ0Uk5uZG9ZTXZBSlNab2laanFsRE02YjM1NHlHako0MS0yNWJLdEVtZVBZNGREa1hVcXNWTGk4Rm9rY2kteG5oajNKNFVVcXJ30gFWQVVfeXFMTTRQdC1tVDRSTm5kb1lNdkFKU1pvaVpqcWxETTZiMzU0eUdqSjQxLTI1Ykt0RW1lUFk0ZERrWFVxc1ZMaThGb2tjaS14bmhqM0o0VVVxcnc?oc=5) (Mon, 11 May 2026 23:31:00 GMT)
+- [Anchorage Digital Ends USDG Promotion to Assert Stablecoin Neutrality - PYMNTS.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1V6M0EyVXduVGoyTkY5clU4UXNvMnRhVmNaY3FoTFF3WVRVakQ5WHpKNENMR1pZU0c1M0diLXdYNG1DWDBmRjBUQW11MEhPVzl1Y3ZvemZ0bXhvelF4U25nQ3prUW95QU9zWUpZeVpCUWlmWWJwVVd1LXdpVlEzRGJKWVhjSkg2TGFlV1BaQ2laRXc0ZU9WY1BqWHQ2NWZzeUxqaUlEd0U1ZjRFSWN4TXBpZw?oc=5) (Mon, 11 May 2026 19:53:12 GMT)
+- [How Mastercard’s Stablecoin Remittance Push with Yellow Card Could Reshape the MA Investment Narrative - Yahoo Finance](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmxadkVWM2VrN3A5RkNKUmpPMmVaTEJoRU9RWmdFSU5MTlNiZU10dGJ5cGItRnk0QU9LMXRiajRldDBfdlcxODl4MnlWSTFWbWpBeUlBR3hwMHZUMDJ5MjhpWFZhUVRCckg4bGk3SDZiS0ExbVlJZ01iMGNQNnNfU0lfZXhIUEo3WmVKVFUwT1VrVTA4bEkxT0dmMlV6MmdNRTNianZUZ1BEdTlONFE?oc=5) (Mon, 11 May 2026 19:13:20 GMT)
+- [Corpay Taps BVNK To Offer Customers Stablecoin Settlement - PYMNTS.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOU1Qzell3VjFmWnhFTmJ6b05SNGJxbE9wLUhhcTdtbGNjZC1jR0Rtd3RRQzVDUTBObHgyeUtSbFJyM1UzLWN3UXJoaThWMHd0dGtzMmNRZHBBTThOYnRfbGpfZGU0QXE5VXB4WjBXelJxMm5lYlVnc1EyRkdtTER5UlhBemZmbjNVMGZpQjc4TWl2OFFkRUQzLVVfcDdfQQ?oc=5) (Mon, 11 May 2026 18:35:24 GMT)
+- [Stablecoin yield: American Bankers Association urges CEOs to contact Senators - ledgerinsights.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxNOVBEUWRKQThGLU04NjVaaVJjWnprb216MWgzeE91RkdZbVdBeHU2M3ZwSTdqZGgxT2tmempKWGlBQk9mZmZvR2dvbmZ5TzU3MzIwX21VdGNxb19NX1dKVTdJN3E4Wk1FZFc3WVJXWmZ5ci1HUVBYVU1SaDRMMUVaTkVSTlJ5akpjdlo1YWg3UHFsN3BfR2xxOEVtbEg2Um5uQzhEZmZjQVp2dkw4?oc=5) (Mon, 11 May 2026 18:07:54 GMT)
 
 <!-- END_dashboard -->
 
