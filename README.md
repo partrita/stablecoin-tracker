@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-12 02:11:43 (UTC)*
+*Last Updated: 2026-05-13 02:26:46 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$301,383,554,338** | 🟢 +0.12% | 🟢 +0.20% |
+| **$301,044,557,871** | 🔴 -0.11% | 🔴 -0.02% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [&#x27;We Need Your Help&#x27;: Banks Rallied For Stablecoin Yield Fight - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTE00UHQtbVQ0Uk5uZG9ZTXZBSlNab2laanFsRE02YjM1NHlHako0MS0yNWJLdEVtZVBZNGREa1hVcXNWTGk4Rm9rY2kteG5oajNKNFVVcXJ30gFWQVVfeXFMTTRQdC1tVDRSTm5kb1lNdkFKU1pvaVpqcWxETTZiMzU0eUdqSjQxLTI1Ykt0RW1lUFk0ZERrWFVxc1ZMaThGb2tjaS14bmhqM0o0VVVxcnc?oc=5) (Mon, 11 May 2026 23:31:00 GMT)
-- [Anchorage Digital Ends USDG Promotion to Assert Stablecoin Neutrality - PYMNTS.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1V6M0EyVXduVGoyTkY5clU4UXNvMnRhVmNaY3FoTFF3WVRVakQ5WHpKNENMR1pZU0c1M0diLXdYNG1DWDBmRjBUQW11MEhPVzl1Y3ZvemZ0bXhvelF4U25nQ3prUW95QU9zWUpZeVpCUWlmWWJwVVd1LXdpVlEzRGJKWVhjSkg2TGFlV1BaQ2laRXc0ZU9WY1BqWHQ2NWZzeUxqaUlEd0U1ZjRFSWN4TXBpZw?oc=5) (Mon, 11 May 2026 19:53:12 GMT)
-- [How Mastercard’s Stablecoin Remittance Push with Yellow Card Could Reshape the MA Investment Narrative - Yahoo Finance](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmxadkVWM2VrN3A5RkNKUmpPMmVaTEJoRU9RWmdFSU5MTlNiZU10dGJ5cGItRnk0QU9LMXRiajRldDBfdlcxODl4MnlWSTFWbWpBeUlBR3hwMHZUMDJ5MjhpWFZhUVRCckg4bGk3SDZiS0ExbVlJZ01iMGNQNnNfU0lfZXhIUEo3WmVKVFUwT1VrVTA4bEkxT0dmMlV6MmdNRTNianZUZ1BEdTlONFE?oc=5) (Mon, 11 May 2026 19:13:20 GMT)
-- [Corpay Taps BVNK To Offer Customers Stablecoin Settlement - PYMNTS.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOU1Qzell3VjFmWnhFTmJ6b05SNGJxbE9wLUhhcTdtbGNjZC1jR0Rtd3RRQzVDUTBObHgyeUtSbFJyM1UzLWN3UXJoaThWMHd0dGtzMmNRZHBBTThOYnRfbGpfZGU0QXE5VXB4WjBXelJxMm5lYlVnc1EyRkdtTER5UlhBemZmbjNVMGZpQjc4TWl2OFFkRUQzLVVfcDdfQQ?oc=5) (Mon, 11 May 2026 18:35:24 GMT)
-- [Stablecoin yield: American Bankers Association urges CEOs to contact Senators - ledgerinsights.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxNOVBEUWRKQThGLU04NjVaaVJjWnprb216MWgzeE91RkdZbVdBeHU2M3ZwSTdqZGgxT2tmempKWGlBQk9mZmZvR2dvbmZ5TzU3MzIwX21VdGNxb19NX1dKVTdJN3E4Wk1FZFc3WVJXWmZ5ci1HUVBYVU1SaDRMMUVaTkVSTlJ5akpjdlo1YWg3UHFsN3BfR2xxOEVtbEg2Um5uQzhEZmZjQVp2dkw4?oc=5) (Mon, 11 May 2026 18:07:54 GMT)
+- [Private Payments Are Live on Polygon - Polygon Labs](https://news.google.com/rss/articles/CBMid0FVX3lxTE9lSzRvTTR5WG1DelNITmlFc1hSNTFlVFBUU3pwQ0ZTcTQ0STVKTkE4Q2FmUU1FdGowRjRUZVVodzhEdWkySEZPTzdrN1E2bU5qcDNLZHdpSjJyanpnOVY1X3NTZU5rYUVNSkhHMk9EdjYxeHk0T0NN?oc=5) (Tue, 12 May 2026 23:36:42 GMT)
+- [Bakkt Leans Into Stablecoin Payments After Sharp Q1 Revenue Drop - Yahoo Finance](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQblZDWjFldVlaZmsyazZMNGRBc2dnV0NXTHNrSjllLWNXMnVqS2NBWUcyMXE5bE9OQV8zbEZXNlFoZUdkeFF4ZE5GZkVWQzJUM2docXVPZGx4VEFfM0RWdFRhVHA0Tl8yTnNlWURuS0ZmeHdUUjR2X2tPR1AxT09uaExTSDJlMjNWWS1z?oc=5) (Tue, 12 May 2026 22:47:00 GMT)
+- [Clarity Act Text Reveals Stablecoin Rules, Crypto Provisions Ahead Of Hearing - Investor&#x27;s Business Daily](https://news.google.com/rss/articles/CBMikgFBVV95cUxOdS1iMXR6TWQtWkhLTWVLY09WaUt5d3o0OEc3eEhmM2FORXhZVjVkeGJrQTAxcFpjZ2Q4Nkctck1TQ1pxN0dHcFgzZWptM1pSemRhcmk1MndMYmNSbDJ1QTZKLWdfVnBsWnp5MUVQVmRTQURwSk0xSEtVekp6VjhkUTI4dF9QTmVib3V6U3NCaVB5QQ?oc=5) (Tue, 12 May 2026 20:33:00 GMT)
+- [Explainer: What is in the US Senate&#x27;s landmark crypto bill? - Reuters](https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHZoTENMZFF0OG4wSG5BZ3V2ZGZXTk5WekpiQjZlNnFVRzc3c3M5Z3JJSXhjWGE1Qk1hYlhlRlJ4WklSRFJrU2U1d2Rvc2xZUV9lQnJmSmhMYkw5MjFqM2lBTlZ1U2xPbFdTMDBoNG5DT3NzSDNsYV9Vb3Q1VFRlTzFXTGpOUUdyNWZ1bkxIcGNIelBCNXdKSzRtdw?oc=5) (Tue, 12 May 2026 20:21:24 GMT)
+- [Stablecoin Debate Intensifies Ahead of May 14 CLARITY Act Markup - ACA International](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVTROcEg2LXNRTm1oaVE3aTk2X1VMakF3X1h3cUxlbFFrYlhwTlBmT2M2bjA1am5POTFVbm92NFN2ekpTYU9MVjlwV3RKbnlJaHY5OE9za2FQMDRlVVlTQ1FoaTlTaUtOOWc3dzNDbkJEeUY4VldlRzM3WnU1MzFEcXZpVjd4SXltb2NrVWpTWDJJVmI1S1B4UTFvZmNwWTZZZEVwVUl3?oc=5) (Tue, 12 May 2026 18:59:27 GMT)
 
 <!-- END_dashboard -->
 
