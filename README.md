@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-13 02:26:46 (UTC)*
+*Last Updated: 2026-05-14 02:28:40 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$301,044,557,871** | 🔴 -0.11% | 🔴 -0.02% |
+| **$300,549,809,901** | 🔴 -0.16% | 🔴 -0.34% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Private Payments Are Live on Polygon - Polygon Labs](https://news.google.com/rss/articles/CBMid0FVX3lxTE9lSzRvTTR5WG1DelNITmlFc1hSNTFlVFBUU3pwQ0ZTcTQ0STVKTkE4Q2FmUU1FdGowRjRUZVVodzhEdWkySEZPTzdrN1E2bU5qcDNLZHdpSjJyanpnOVY1X3NTZU5rYUVNSkhHMk9EdjYxeHk0T0NN?oc=5) (Tue, 12 May 2026 23:36:42 GMT)
-- [Bakkt Leans Into Stablecoin Payments After Sharp Q1 Revenue Drop - Yahoo Finance](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQblZDWjFldVlaZmsyazZMNGRBc2dnV0NXTHNrSjllLWNXMnVqS2NBWUcyMXE5bE9OQV8zbEZXNlFoZUdkeFF4ZE5GZkVWQzJUM2docXVPZGx4VEFfM0RWdFRhVHA0Tl8yTnNlWURuS0ZmeHdUUjR2X2tPR1AxT09uaExTSDJlMjNWWS1z?oc=5) (Tue, 12 May 2026 22:47:00 GMT)
-- [Clarity Act Text Reveals Stablecoin Rules, Crypto Provisions Ahead Of Hearing - Investor&#x27;s Business Daily](https://news.google.com/rss/articles/CBMikgFBVV95cUxOdS1iMXR6TWQtWkhLTWVLY09WaUt5d3o0OEc3eEhmM2FORXhZVjVkeGJrQTAxcFpjZ2Q4Nkctck1TQ1pxN0dHcFgzZWptM1pSemRhcmk1MndMYmNSbDJ1QTZKLWdfVnBsWnp5MUVQVmRTQURwSk0xSEtVekp6VjhkUTI4dF9QTmVib3V6U3NCaVB5QQ?oc=5) (Tue, 12 May 2026 20:33:00 GMT)
-- [Explainer: What is in the US Senate&#x27;s landmark crypto bill? - Reuters](https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHZoTENMZFF0OG4wSG5BZ3V2ZGZXTk5WekpiQjZlNnFVRzc3c3M5Z3JJSXhjWGE1Qk1hYlhlRlJ4WklSRFJrU2U1d2Rvc2xZUV9lQnJmSmhMYkw5MjFqM2lBTlZ1U2xPbFdTMDBoNG5DT3NzSDNsYV9Vb3Q1VFRlTzFXTGpOUUdyNWZ1bkxIcGNIelBCNXdKSzRtdw?oc=5) (Tue, 12 May 2026 20:21:24 GMT)
-- [Stablecoin Debate Intensifies Ahead of May 14 CLARITY Act Markup - ACA International](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVTROcEg2LXNRTm1oaVE3aTk2X1VMakF3X1h3cUxlbFFrYlhwTlBmT2M2bjA1am5POTFVbm92NFN2ekpTYU9MVjlwV3RKbnlJaHY5OE9za2FQMDRlVVlTQ1FoaTlTaUtOOWc3dzNDbkJEeUY4VldlRzM3WnU1MzFEcXZpVjd4SXltb2NrVWpTWDJJVmI1S1B4UTFvZmNwWTZZZEVwVUl3?oc=5) (Tue, 12 May 2026 18:59:27 GMT)
+- [jimi FITZ: Senate Showdown on Stablecoin Rules Could Shape Crypto’s Future - NBC Palm Springs](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ1JRc0hUU1kzZFM4WWtualRXYUVjTmZDcnJxSmhybzUwVEE3ZTFQZ21EeF9oVVdzdzJ3M2pvdm5SeUZCdFFtV0JuY0Q4elFUOFQ5UTBsd3BOWHFXc0t4czFIcVpfeDM2RjJCenpnV2tYTzFRTUFBMXBTU0dhXzV4Z29SZVpncW5DMWxEWTNlVWlJemRSdmZoa085X2drSFhZVzVRWU4tYlZvLXplcFU4?oc=5) (Wed, 13 May 2026 20:54:36 GMT)
+- [A Crucial Stablecoin Bill Faces a Senate Committee Vote - Digital Transactions](https://news.google.com/rss/articles/CBMilwFBVV95cUxOSFZFd0J0MmRMVF9SalF6QmluWFdXdVFYZlZ4RHpjT3ctN3BVTG1fMzRhN1YzSlNNbEZLLXFxcTRLMm4tOFI0anBwZHdudkNpQ3BNbVMzOHh3WVRZbVFETUNHOExiTXd1ZThNbG9kcGVkZUs3OWZDcWRVLXhGSEtTVmZmTkU1LTNTM01WaTY0d0dxWGNuLWJN?oc=5) (Wed, 13 May 2026 20:19:50 GMT)
+- [PPI Calls for Senate Banking Committee to Close Stablecoin Yield Loophole - Progressive Policy Institute](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRTg1eE5zOW40ZF9rTldFa1lFM2d1TDd1ZHhDMEd5eEgtWHhDUDlGMmJEQk9tSmxHNzRpY0dRT2hReG1MWTNack5MVGRZX0VhNVY2Rm15VWxjYlR4VTgyMVp6NkxpNDlBaWVmNUc2cEtFLVU2TmlKTERFQnNTTHQxdHlZWklmUkg0M2paT0NWM3Z3LVI4R09fcmJnN3g3WjlXTGZpYzdwX3ZkZWY2?oc=5) (Wed, 13 May 2026 19:48:09 GMT)
+- [How Treasury&#x27;s Stablecoin Test Will Shape State Oversight - Law360](https://news.google.com/rss/articles/CBMirwFBVV95cUxNcXZVZFdpaXhyaEM1UXVud2ZSTE5uS1BJZF9CSHVoUXdnc2lXOVNiYUtqSzF0bV9rTThFdHdoaUNzS3BRMEpPblFVZWlYc2NFc1pqajZJal9Tck54TXBoU2Nnc3VFVGpzUm5lRUp1QnB2a0JwU2c1R3MzeXZkdHJPMjNrT0FWOUluUmtXT2k4SEhseEMxZ1VfVVJYZnppRV9xY3ZIMUxCLWhKYzJkX2M00gFWQVVfeXFMTko2cVFReldIMkNXcVBJbzdMdkFzb1BpNUd5a0xsb25SallNOEJGLUZmZC02R3JzRFBPOGh4WGJ6YjA0S3FKcGVraDRUVWctZ3RpUnZxcWc?oc=5) (Wed, 13 May 2026 19:30:00 GMT)
+- [How Treasury&#x27;s Stablecoin Test Will Shape State Oversight - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KNnFRUXpXSDJDV3FQSW83THZBc29QaTVHeWtMbG9uUmpZTThCRi1GZmQtNkdyc0RQTzhoeFhiemIwNEtxSnBla2g0VFVnLWd0aVJ2cXFn0gFWQVVfeXFMTko2cVFReldIMkNXcVBJbzdMdkFzb1BpNUd5a0xsb25SallNOEJGLUZmZC02R3JzRFBPOGh4WGJ6YjA0S3FKcGVraDRUVWctZ3RpUnZxcWc?oc=5) (Wed, 13 May 2026 19:30:00 GMT)
 
 <!-- END_dashboard -->
 
