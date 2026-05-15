@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-14 02:28:40 (UTC)*
+*Last Updated: 2026-05-15 02:27:10 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,549,809,901** | 🔴 -0.16% | 🔴 -0.34% |
+| **$300,659,772,807** | 🟢 +0.04% | 🔴 -0.28% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [jimi FITZ: Senate Showdown on Stablecoin Rules Could Shape Crypto’s Future - NBC Palm Springs](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ1JRc0hUU1kzZFM4WWtualRXYUVjTmZDcnJxSmhybzUwVEE3ZTFQZ21EeF9oVVdzdzJ3M2pvdm5SeUZCdFFtV0JuY0Q4elFUOFQ5UTBsd3BOWHFXc0t4czFIcVpfeDM2RjJCenpnV2tYTzFRTUFBMXBTU0dhXzV4Z29SZVpncW5DMWxEWTNlVWlJemRSdmZoa085X2drSFhZVzVRWU4tYlZvLXplcFU4?oc=5) (Wed, 13 May 2026 20:54:36 GMT)
-- [A Crucial Stablecoin Bill Faces a Senate Committee Vote - Digital Transactions](https://news.google.com/rss/articles/CBMilwFBVV95cUxOSFZFd0J0MmRMVF9SalF6QmluWFdXdVFYZlZ4RHpjT3ctN3BVTG1fMzRhN1YzSlNNbEZLLXFxcTRLMm4tOFI0anBwZHdudkNpQ3BNbVMzOHh3WVRZbVFETUNHOExiTXd1ZThNbG9kcGVkZUs3OWZDcWRVLXhGSEtTVmZmTkU1LTNTM01WaTY0d0dxWGNuLWJN?oc=5) (Wed, 13 May 2026 20:19:50 GMT)
-- [PPI Calls for Senate Banking Committee to Close Stablecoin Yield Loophole - Progressive Policy Institute](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRTg1eE5zOW40ZF9rTldFa1lFM2d1TDd1ZHhDMEd5eEgtWHhDUDlGMmJEQk9tSmxHNzRpY0dRT2hReG1MWTNack5MVGRZX0VhNVY2Rm15VWxjYlR4VTgyMVp6NkxpNDlBaWVmNUc2cEtFLVU2TmlKTERFQnNTTHQxdHlZWklmUkg0M2paT0NWM3Z3LVI4R09fcmJnN3g3WjlXTGZpYzdwX3ZkZWY2?oc=5) (Wed, 13 May 2026 19:48:09 GMT)
-- [How Treasury&#x27;s Stablecoin Test Will Shape State Oversight - Law360](https://news.google.com/rss/articles/CBMirwFBVV95cUxNcXZVZFdpaXhyaEM1UXVud2ZSTE5uS1BJZF9CSHVoUXdnc2lXOVNiYUtqSzF0bV9rTThFdHdoaUNzS3BRMEpPblFVZWlYc2NFc1pqajZJal9Tck54TXBoU2Nnc3VFVGpzUm5lRUp1QnB2a0JwU2c1R3MzeXZkdHJPMjNrT0FWOUluUmtXT2k4SEhseEMxZ1VfVVJYZnppRV9xY3ZIMUxCLWhKYzJkX2M00gFWQVVfeXFMTko2cVFReldIMkNXcVBJbzdMdkFzb1BpNUd5a0xsb25SallNOEJGLUZmZC02R3JzRFBPOGh4WGJ6YjA0S3FKcGVraDRUVWctZ3RpUnZxcWc?oc=5) (Wed, 13 May 2026 19:30:00 GMT)
-- [How Treasury&#x27;s Stablecoin Test Will Shape State Oversight - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KNnFRUXpXSDJDV3FQSW83THZBc29QaTVHeWtMbG9uUmpZTThCRi1GZmQtNkdyc0RQTzhoeFhiemIwNEtxSnBla2g0VFVnLWd0aVJ2cXFn0gFWQVVfeXFMTko2cVFReldIMkNXcVBJbzdMdkFzb1BpNUd5a0xsb25SallNOEJGLUZmZC02R3JzRFBPOGh4WGJ6YjA0S3FKcGVraDRUVWctZ3RpUnZxcWc?oc=5) (Wed, 13 May 2026 19:30:00 GMT)
+- [Hong Kong Is Trying to Avoid the 2 Stablecoin Traps: Chaos and Irrelevance - Newsweek](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOczF3Rk9QNzBiSHpHMEpDRkNuLWU1SWwxWGJjY2VLOXNiQlJDMXNzQWplLUtPR3dTTEgwUUxtcFJMSEJBVGk0dW9yWk90emVYQzQ2ZGpKLXZQUmJ1REdscTZPMk1EcEF3UW1XOGRERmpVWHhSNlZuaDE5X0RsQUpFb1VnWjRQNENwejBFOE5XMWtHdmF3OGoyQl9oUElLd1RCbXMtRzhFeVFVMkU?oc=5) (Thu, 14 May 2026 20:41:00 GMT)
+- [Fasset Raises $51 Million to Expand Stablecoin-Focused Neobank - PYMNTS.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXpNRkJsNk1ibUhmaVBQRmt4TktNQllsWC1IUTVZMW1sMWFhdExDV2ZhZmZkVlI4UEdOSGxzM2hsSThoYVAxaEJGZWRfd2FoWHNTZUNIeDUxYktrYkJudV9jRWJBc0hUZEs5aVhWVmxuTVdrOC1hTnFwR1FqY3R6YTJUd1pHTHhlY0pRLS1pbmIxZUZjX2dEYjg5dDVBZld4cmZ3N2ZlVVI?oc=5) (Thu, 14 May 2026 18:29:51 GMT)
+- [Bank of England ready to water down &#x27;overly conservative&#x27; stablecoin proposals: FT - CoinDesk](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRXdHVFBuQ3ZGRXdwekhLMThSYkJqLXFVN3Uxc1JnMXY1SjJSMVdFaEVfa05ZSXlNT1lMYlFLRHBfcjlfcEpnOHJDcGZGajBtZHlOMGFoR0VMcDRtYXoteWRIdldoQjd6dGltaE1BQTZscnN5bnlwemhqeFllT3JBeHkxY0diRWNueEx6QjVyTUlNeHE2NFR6VWI1V2FSRm81cVltLS1VSmpGUnk3S2RKOFE1bWNfbWZXN2puSFYtWQ?oc=5) (Thu, 14 May 2026 18:28:59 GMT)
+- [BofE to soften plans for stablecoin restrictions - Finextra Research](https://news.google.com/rss/articles/CBMilgFBVV95cUxOLXotdVVfdm1CVzRiMEg2UWVmUWozbGNCTUlvQTNvaFhKSzl6ei1aOFE0TTZDb2VYWkNWc2ZDUFYydzdMMktpaWFaSEdCRTRjRTdrYk1qQWVzRVRpWXYxOFdLOExlUWZYX0JIeE9Ib01DRHR3VC05Z2RuVVE2RVB5ZzM2eFdNRW81VERWNFhVQzJjOWFzakE?oc=5) (Thu, 14 May 2026 18:22:00 GMT)
+- [Hyperliquid Shifts Stablecoin Strategy Back Toward USDC - Yahoo Finance](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYTN0SVVLSmIzNXE3cHFpaEI0VnNWMExBb3J4cWhaSHdFb2xGRXpuc1dROEk3RlM3WC1YSm4tNTFMUlB0S1MwR0s2UWlvMUFGWkZtZE9nb29nSTNEN01ocmZxZlU2MXJveW5BRW9SREFQMWJmUDZQdDlwYTVwOVhFTWI0MXRJTjlYbTk2LWNlR2oxM3FKVVVDRjBzTEtSLTFlSDdkbUNtZzI2SkxT?oc=5) (Thu, 14 May 2026 18:02:11 GMT)
 
 <!-- END_dashboard -->
 
