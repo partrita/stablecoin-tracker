@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-15 02:27:10 (UTC)*
+*Last Updated: 2026-05-16 02:09:22 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,659,772,807** | 🟢 +0.04% | 🔴 -0.28% |
+| **$300,833,778,121** | 🟢 +0.06% | 🟢 +0.21% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Hong Kong Is Trying to Avoid the 2 Stablecoin Traps: Chaos and Irrelevance - Newsweek](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOczF3Rk9QNzBiSHpHMEpDRkNuLWU1SWwxWGJjY2VLOXNiQlJDMXNzQWplLUtPR3dTTEgwUUxtcFJMSEJBVGk0dW9yWk90emVYQzQ2ZGpKLXZQUmJ1REdscTZPMk1EcEF3UW1XOGRERmpVWHhSNlZuaDE5X0RsQUpFb1VnWjRQNENwejBFOE5XMWtHdmF3OGoyQl9oUElLd1RCbXMtRzhFeVFVMkU?oc=5) (Thu, 14 May 2026 20:41:00 GMT)
-- [Fasset Raises $51 Million to Expand Stablecoin-Focused Neobank - PYMNTS.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXpNRkJsNk1ibUhmaVBQRmt4TktNQllsWC1IUTVZMW1sMWFhdExDV2ZhZmZkVlI4UEdOSGxzM2hsSThoYVAxaEJGZWRfd2FoWHNTZUNIeDUxYktrYkJudV9jRWJBc0hUZEs5aVhWVmxuTVdrOC1hTnFwR1FqY3R6YTJUd1pHTHhlY0pRLS1pbmIxZUZjX2dEYjg5dDVBZld4cmZ3N2ZlVVI?oc=5) (Thu, 14 May 2026 18:29:51 GMT)
-- [Bank of England ready to water down &#x27;overly conservative&#x27; stablecoin proposals: FT - CoinDesk](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRXdHVFBuQ3ZGRXdwekhLMThSYkJqLXFVN3Uxc1JnMXY1SjJSMVdFaEVfa05ZSXlNT1lMYlFLRHBfcjlfcEpnOHJDcGZGajBtZHlOMGFoR0VMcDRtYXoteWRIdldoQjd6dGltaE1BQTZscnN5bnlwemhqeFllT3JBeHkxY0diRWNueEx6QjVyTUlNeHE2NFR6VWI1V2FSRm81cVltLS1VSmpGUnk3S2RKOFE1bWNfbWZXN2puSFYtWQ?oc=5) (Thu, 14 May 2026 18:28:59 GMT)
-- [BofE to soften plans for stablecoin restrictions - Finextra Research](https://news.google.com/rss/articles/CBMilgFBVV95cUxOLXotdVVfdm1CVzRiMEg2UWVmUWozbGNCTUlvQTNvaFhKSzl6ei1aOFE0TTZDb2VYWkNWc2ZDUFYydzdMMktpaWFaSEdCRTRjRTdrYk1qQWVzRVRpWXYxOFdLOExlUWZYX0JIeE9Ib01DRHR3VC05Z2RuVVE2RVB5ZzM2eFdNRW81VERWNFhVQzJjOWFzakE?oc=5) (Thu, 14 May 2026 18:22:00 GMT)
-- [Hyperliquid Shifts Stablecoin Strategy Back Toward USDC - Yahoo Finance](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYTN0SVVLSmIzNXE3cHFpaEI0VnNWMExBb3J4cWhaSHdFb2xGRXpuc1dROEk3RlM3WC1YSm4tNTFMUlB0S1MwR0s2UWlvMUFGWkZtZE9nb29nSTNEN01ocmZxZlU2MXJveW5BRW9SREFQMWJmUDZQdDlwYTVwOVhFTWI0MXRJTjlYbTk2LWNlR2oxM3FKVVVDRjBzTEtSLTFlSDdkbUNtZzI2SkxT?oc=5) (Thu, 14 May 2026 18:02:11 GMT)
+- [NCUA Stablecoin Plan Opens Door To Credit Union-Backed Digital Dollar Issuers - CU Today](https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ3JtS1VnMDA5NGFfSVlaX0V4WmxZMEZHMWpVRzFfVEZkc0loY0ZVQkZvVVlLQmFMYzlRblIxMnhkdUdfLVMyS3hDakVtc1lybDZsTHV3RkZ6UV81aExLdElMNE45TVJ3MEJKMjFxTUJDRmg2MWcyZERrSmFLZy1udkxVR0t4NVdZRGlTOUFrRGlVOExjdkRPbm1Hc3pFcW5jYThmWEdGSUNBVFBfakJySHotdlE?oc=5) (Fri, 15 May 2026 21:14:56 GMT)
+- [50 CUs Join Stablecoin, Faster Payments Pilot Led by CrossState and Metallicus - Credit Union Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzZpNnkwS2s2eG9HcEp6RE1ELUFKXzZOd280amUwczZZX2x3UDBGcWYzdHg1eXNwa2ZVSGg5QnBxUjJTR1IwaDhRaWM0b1RLRGpPVXNfdWN2REh5QnEtLV9nbE82clpuLXJMSFFxWFk4R3dPeGt3b1BuTkM1TF9rYlhubEJzSE1XVExHXzBvQmpoY0YyUUVUTFpmMV9NMmRlRy1MdGphTVB2NnZ1MW41dFdpd9IBuAFBVV95cUxQdVdTdDJHRnhyMEZtYWdfYkVLWE56NFBLV1NkRE95TjJIV0owZ3E0RWNxcFhkXzR4bGRueDE3M24xQkNUaGFVQm5KTm9kaUZWdGRpM2JkUkpJOUFkQ2duczR1ZU1wUklwQUFKMzR6RnB4dlFzaFJUbXFwUExYaXp4dEVkYlJqVWY2YnhLMlREODVXQW5RZEEyRG5LdWstdkhSZE5uS0ZEdFdrcF9ZaUlYNlYwOHZPOHZ2?oc=5) (Fri, 15 May 2026 21:11:47 GMT)
+- [Europe Vies To Close Stablecoin Gap - Global Finance Magazine](https://news.google.com/rss/articles/CBMic0FVX3lxTE9hSUpsWVBEVzBadDZKc1BRT1NBQUNCRWIyWFdKX1QxX1VXb0VHUVljN0NLekk2cjdnWnI2dTNwSU5FN3UzSWo1NHIzVmRuOTZzbXI5RE0tYkVsUG9paWtaTG10eDB1U0RUVXBGaldvMVNrc0U?oc=5) (Fri, 15 May 2026 20:47:20 GMT)
+- [CRCL vs. ARC: Why Stablecoin Balances Beat Stablecoin Velocity - Messari](https://news.google.com/rss/articles/CBMijwFBVV95cUxPYlJLNFozZHZDYzd6WFMzWlhwZDBLakNBb3J2eldJX1VCRV9FeDJiNG9vUTZkMk15WFltZ0hhWnhhMllnck5WVVBKRU54S0RNTnhKNkdkTHk0N2tOWDVtRWR1cHV2VEwwS09PMlBsdkZub3ItSVdlczc1eEVPWDF2c21FS25tc3VzQkJjZjdfNA?oc=5) (Fri, 15 May 2026 16:08:53 GMT)
+- [How Stablecoins Are Crashing the Agentic Commerce Party - Digital Transactions](https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXRxelR6cUQ5UEo4MjZRd250MEo2THBadHBreEE5MmtXbWc1X210VF9ZQUhiVDY5X2FlYmE4cm1jSjhoM2IwYUkzNGlTaFV1T2s2T1BtS2xhQXlsMmhQYjM1MlhGejJUWXphMi0wQ3AyY3ZjWVRMVmVnNWZKeDdXZmZLd09oZW1JcGdKUnpXMDluaHRxakdR?oc=5) (Fri, 15 May 2026 14:46:54 GMT)
 
 <!-- END_dashboard -->
 
