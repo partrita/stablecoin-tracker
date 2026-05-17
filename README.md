@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-16 02:09:22 (UTC)*
+*Last Updated: 2026-05-17 02:14:28 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,833,778,121** | 🟢 +0.06% | 🟢 +0.21% |
+| **$300,973,536,323** | 🟢 +0.05% | 🟢 +0.01% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [The stablecoin talk is loud this earnings season - CFO Brew](https://news.google.com/rss/articles/CBMihwFBVV95cUxPS1JhM3ZKdmdXZ3ZEMU9zei1VM0xKd25EWGgtNkRlcVp6MXp0V3d6VmFObC1rZVhQREM5UXNLZGFFMktRb1JGZVFPQi1Ba1B3cHI0elFHM25MckJXRFZhNU0tU0xrNHY3V1Q5bFFUSHNLRnpfdnZfQm80OGZna2M0bVRIRnZvRTA?oc=5) (Sat, 16 May 2026 16:16:08 GMT)
+- [Stablecoin bill moving through the NC House - The North State Journal](https://news.google.com/rss/articles/CBMiigFBVV95cUxQVjVnbEJQNUgxb0xGeUU1QzlzVDlNRU5VWTh1QkNPNzJnRjRPWkdIN094T0xlSkEwUU9tSUJwTTR4aDAwY3pKVU1SWTRXQzJiNWI1cXpYUUNWcG15YnZHMjRYYnFLdGxUVWNoNF9PZHF0UjVEQkxiUmdPcFBhRk1XbmJyb0tUZmJVNFE?oc=5) (Sat, 16 May 2026 11:55:16 GMT)
+- [Stablecoin loophole threatens lending by Kansas community banks - The Topeka Capital-Journal](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNHE4VURQYUdHVHhoUkxXUkUteUkzdG1VRm5XSlJXalNvTTNfMUdJQVVMRnR6NmNENThWWWVoMUprc0pDUXJlVGZHeFRvSkVld1VOM29lMzlTMWt5aktCcDRQTVdJNE43aTFad2dtZEJ6NF9rZS1vWE40dXViZ3lrYnJIWS1WUWFQTHZIX3QxSjdIcHEtQTJRdWNaLVBxRHhnMFN3eWJtUG9Obm9mYXlKYjdJeGJvV21PRXJRUDVR?oc=5) (Sat, 16 May 2026 09:01:00 GMT)
+- [Stablecoin loophole threatens lending by Kansas community banks - Salina Journal](https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHpEOWdsUW1VQndTV1BKMk9TLWphZXB6S3p1MVlPbkRQc1RsQjY2T3AydEFwaThGV3psaWF4ZC1ZUk1fYXBKU3U4NzRuS0tlNlZDaVlwNGxKLU1Sb016T0Y2SzFDR3kxOU5FNWxMU1V3OUNUZzFqY0Y0cU1wdUdXdXFUaHVJal9DdXdDQlpweEVLdzBRLWd0RURYQ2dBQ1EydDNkSXU0SWRyR3dZdUZTekVoLUFWQXRZbWc?oc=5) (Sat, 16 May 2026 09:01:00 GMT)
 - [NCUA Stablecoin Plan Opens Door To Credit Union-Backed Digital Dollar Issuers - CU Today](https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ3JtS1VnMDA5NGFfSVlaX0V4WmxZMEZHMWpVRzFfVEZkc0loY0ZVQkZvVVlLQmFMYzlRblIxMnhkdUdfLVMyS3hDakVtc1lybDZsTHV3RkZ6UV81aExLdElMNE45TVJ3MEJKMjFxTUJDRmg2MWcyZERrSmFLZy1udkxVR0t4NVdZRGlTOUFrRGlVOExjdkRPbm1Hc3pFcW5jYThmWEdGSUNBVFBfakJySHotdlE?oc=5) (Fri, 15 May 2026 21:14:56 GMT)
-- [50 CUs Join Stablecoin, Faster Payments Pilot Led by CrossState and Metallicus - Credit Union Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzZpNnkwS2s2eG9HcEp6RE1ELUFKXzZOd280amUwczZZX2x3UDBGcWYzdHg1eXNwa2ZVSGg5QnBxUjJTR1IwaDhRaWM0b1RLRGpPVXNfdWN2REh5QnEtLV9nbE82clpuLXJMSFFxWFk4R3dPeGt3b1BuTkM1TF9rYlhubEJzSE1XVExHXzBvQmpoY0YyUUVUTFpmMV9NMmRlRy1MdGphTVB2NnZ1MW41dFdpd9IBuAFBVV95cUxQdVdTdDJHRnhyMEZtYWdfYkVLWE56NFBLV1NkRE95TjJIV0owZ3E0RWNxcFhkXzR4bGRueDE3M24xQkNUaGFVQm5KTm9kaUZWdGRpM2JkUkpJOUFkQ2duczR1ZU1wUklwQUFKMzR6RnB4dlFzaFJUbXFwUExYaXp4dEVkYlJqVWY2YnhLMlREODVXQW5RZEEyRG5LdWstdkhSZE5uS0ZEdFdrcF9ZaUlYNlYwOHZPOHZ2?oc=5) (Fri, 15 May 2026 21:11:47 GMT)
-- [Europe Vies To Close Stablecoin Gap - Global Finance Magazine](https://news.google.com/rss/articles/CBMic0FVX3lxTE9hSUpsWVBEVzBadDZKc1BRT1NBQUNCRWIyWFdKX1QxX1VXb0VHUVljN0NLekk2cjdnWnI2dTNwSU5FN3UzSWo1NHIzVmRuOTZzbXI5RE0tYkVsUG9paWtaTG10eDB1U0RUVXBGaldvMVNrc0U?oc=5) (Fri, 15 May 2026 20:47:20 GMT)
-- [CRCL vs. ARC: Why Stablecoin Balances Beat Stablecoin Velocity - Messari](https://news.google.com/rss/articles/CBMijwFBVV95cUxPYlJLNFozZHZDYzd6WFMzWlhwZDBLakNBb3J2eldJX1VCRV9FeDJiNG9vUTZkMk15WFltZ0hhWnhhMllnck5WVVBKRU54S0RNTnhKNkdkTHk0N2tOWDVtRWR1cHV2VEwwS09PMlBsdkZub3ItSVdlczc1eEVPWDF2c21FS25tc3VzQkJjZjdfNA?oc=5) (Fri, 15 May 2026 16:08:53 GMT)
-- [How Stablecoins Are Crashing the Agentic Commerce Party - Digital Transactions](https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXRxelR6cUQ5UEo4MjZRd250MEo2THBadHBreEE5MmtXbWc1X210VF9ZQUhiVDY5X2FlYmE4cm1jSjhoM2IwYUkzNGlTaFV1T2s2T1BtS2xhQXlsMmhQYjM1MlhGejJUWXphMi0wQ3AyY3ZjWVRMVmVnNWZKeDdXZmZLd09oZW1JcGdKUnpXMDluaHRxakdR?oc=5) (Fri, 15 May 2026 14:46:54 GMT)
 
 <!-- END_dashboard -->
 
