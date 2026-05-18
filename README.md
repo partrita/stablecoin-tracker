@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-17 02:14:28 (UTC)*
+*Last Updated: 2026-05-18 02:34:52 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,973,536,323** | 🟢 +0.05% | 🟢 +0.01% |
+| **$300,919,785,090** | 🔴 -0.02% | 🔴 -0.03% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [NCUA’s New Stablecoin Framework Sparks Debate Over CUs’ Best Digital-Dollar Strategy - CU Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEFDbXVISGJKdk5GeDFycWxWMlRkTUpJYUF1ZWs1STlsdnlsb3RTMmRTQ0VOdl9YaVNhcjBiQTJSVUVHMUdfV1VYQURBV3BEb3U1STYxby1aSVpuQ1hCUlY2LTR2a3U0cjFKa3Q0VXdTX0JzeElidXZIUWN4RXNKc1loZV9oeEdOMXBXSzlCM1lydFdLbmJBeFl1RVZRRzlpLUp2cVpTZkRGUzFpbGVtcXdYRXlUX0QxWlBpMQ?oc=5) (Sun, 17 May 2026 13:10:30 GMT)
+- [Ruble-pegged stablecoin A7A5 says it has a business even if sanctions end - CoinDesk](https://news.google.com/rss/articles/CBMiywFBVV95cUxONFVXdUxjVEh6WUhzX01WVHR6dURaV0w0amYxd01MZU9HNm5oZEhuaXdQSFpXQWpwSVQ2WDNLeHNfbGRyUXFLZUpLR0FCX3RwZmJGMXdQTE5CS1BXSVpGYzFMOTUtSlZJSW9DaTFHRF9iTlpzdWg1b2ZTNFBtOG1wSy16dlF4clBib3ctb0E1TFhfc1lLaGdQa1pNNUFJNWgxWmpfV29KNmQxUGE3bFNtZXBPcndnaHpKd3h1NTU4cnFIZmJNdmRmeXd1RQ?oc=5) (Sun, 17 May 2026 08:01:22 GMT)
 - [The stablecoin talk is loud this earnings season - CFO Brew](https://news.google.com/rss/articles/CBMihwFBVV95cUxPS1JhM3ZKdmdXZ3ZEMU9zei1VM0xKd25EWGgtNkRlcVp6MXp0V3d6VmFObC1rZVhQREM5UXNLZGFFMktRb1JGZVFPQi1Ba1B3cHI0elFHM25MckJXRFZhNU0tU0xrNHY3V1Q5bFFUSHNLRnpfdnZfQm80OGZna2M0bVRIRnZvRTA?oc=5) (Sat, 16 May 2026 16:16:08 GMT)
 - [Stablecoin bill moving through the NC House - The North State Journal](https://news.google.com/rss/articles/CBMiigFBVV95cUxQVjVnbEJQNUgxb0xGeUU1QzlzVDlNRU5VWTh1QkNPNzJnRjRPWkdIN094T0xlSkEwUU9tSUJwTTR4aDAwY3pKVU1SWTRXQzJiNWI1cXpYUUNWcG15YnZHMjRYYnFLdGxUVWNoNF9PZHF0UjVEQkxiUmdPcFBhRk1XbmJyb0tUZmJVNFE?oc=5) (Sat, 16 May 2026 11:55:16 GMT)
-- [Stablecoin loophole threatens lending by Kansas community banks - The Topeka Capital-Journal](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNHE4VURQYUdHVHhoUkxXUkUteUkzdG1VRm5XSlJXalNvTTNfMUdJQVVMRnR6NmNENThWWWVoMUprc0pDUXJlVGZHeFRvSkVld1VOM29lMzlTMWt5aktCcDRQTVdJNE43aTFad2dtZEJ6NF9rZS1vWE40dXViZ3lrYnJIWS1WUWFQTHZIX3QxSjdIcHEtQTJRdWNaLVBxRHhnMFN3eWJtUG9Obm9mYXlKYjdJeGJvV21PRXJRUDVR?oc=5) (Sat, 16 May 2026 09:01:00 GMT)
 - [Stablecoin loophole threatens lending by Kansas community banks - Salina Journal](https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHpEOWdsUW1VQndTV1BKMk9TLWphZXB6S3p1MVlPbkRQc1RsQjY2T3AydEFwaThGV3psaWF4ZC1ZUk1fYXBKU3U4NzRuS0tlNlZDaVlwNGxKLU1Sb016T0Y2SzFDR3kxOU5FNWxMU1V3OUNUZzFqY0Y0cU1wdUdXdXFUaHVJal9DdXdDQlpweEVLdzBRLWd0RURYQ2dBQ1EydDNkSXU0SWRyR3dZdUZTekVoLUFWQXRZbWc?oc=5) (Sat, 16 May 2026 09:01:00 GMT)
-- [NCUA Stablecoin Plan Opens Door To Credit Union-Backed Digital Dollar Issuers - CU Today](https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ3JtS1VnMDA5NGFfSVlaX0V4WmxZMEZHMWpVRzFfVEZkc0loY0ZVQkZvVVlLQmFMYzlRblIxMnhkdUdfLVMyS3hDakVtc1lybDZsTHV3RkZ6UV81aExLdElMNE45TVJ3MEJKMjFxTUJDRmg2MWcyZERrSmFLZy1udkxVR0t4NVdZRGlTOUFrRGlVOExjdkRPbm1Hc3pFcW5jYThmWEdGSUNBVFBfakJySHotdlE?oc=5) (Fri, 15 May 2026 21:14:56 GMT)
 
 <!-- END_dashboard -->
 
