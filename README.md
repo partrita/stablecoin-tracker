@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-18 02:34:52 (UTC)*
+*Last Updated: 2026-05-19 02:33:13 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,919,785,090** | 🔴 -0.02% | 🔴 -0.03% |
+| **$300,890,611,268** | 🔴 -0.01% | 🔴 -0.16% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [NCUA’s New Stablecoin Framework Sparks Debate Over CUs’ Best Digital-Dollar Strategy - CU Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEFDbXVISGJKdk5GeDFycWxWMlRkTUpJYUF1ZWs1STlsdnlsb3RTMmRTQ0VOdl9YaVNhcjBiQTJSVUVHMUdfV1VYQURBV3BEb3U1STYxby1aSVpuQ1hCUlY2LTR2a3U0cjFKa3Q0VXdTX0JzeElidXZIUWN4RXNKc1loZV9oeEdOMXBXSzlCM1lydFdLbmJBeFl1RVZRRzlpLUp2cVpTZkRGUzFpbGVtcXdYRXlUX0QxWlBpMQ?oc=5) (Sun, 17 May 2026 13:10:30 GMT)
-- [Ruble-pegged stablecoin A7A5 says it has a business even if sanctions end - CoinDesk](https://news.google.com/rss/articles/CBMiywFBVV95cUxONFVXdUxjVEh6WUhzX01WVHR6dURaV0w0amYxd01MZU9HNm5oZEhuaXdQSFpXQWpwSVQ2WDNLeHNfbGRyUXFLZUpLR0FCX3RwZmJGMXdQTE5CS1BXSVpGYzFMOTUtSlZJSW9DaTFHRF9iTlpzdWg1b2ZTNFBtOG1wSy16dlF4clBib3ctb0E1TFhfc1lLaGdQa1pNNUFJNWgxWmpfV29KNmQxUGE3bFNtZXBPcndnaHpKd3h1NTU4cnFIZmJNdmRmeXd1RQ?oc=5) (Sun, 17 May 2026 08:01:22 GMT)
-- [The stablecoin talk is loud this earnings season - CFO Brew](https://news.google.com/rss/articles/CBMihwFBVV95cUxPS1JhM3ZKdmdXZ3ZEMU9zei1VM0xKd25EWGgtNkRlcVp6MXp0V3d6VmFObC1rZVhQREM5UXNLZGFFMktRb1JGZVFPQi1Ba1B3cHI0elFHM25MckJXRFZhNU0tU0xrNHY3V1Q5bFFUSHNLRnpfdnZfQm80OGZna2M0bVRIRnZvRTA?oc=5) (Sat, 16 May 2026 16:16:08 GMT)
-- [Stablecoin bill moving through the NC House - The North State Journal](https://news.google.com/rss/articles/CBMiigFBVV95cUxQVjVnbEJQNUgxb0xGeUU1QzlzVDlNRU5VWTh1QkNPNzJnRjRPWkdIN094T0xlSkEwUU9tSUJwTTR4aDAwY3pKVU1SWTRXQzJiNWI1cXpYUUNWcG15YnZHMjRYYnFLdGxUVWNoNF9PZHF0UjVEQkxiUmdPcFBhRk1XbmJyb0tUZmJVNFE?oc=5) (Sat, 16 May 2026 11:55:16 GMT)
-- [Stablecoin loophole threatens lending by Kansas community banks - Salina Journal](https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHpEOWdsUW1VQndTV1BKMk9TLWphZXB6S3p1MVlPbkRQc1RsQjY2T3AydEFwaThGV3psaWF4ZC1ZUk1fYXBKU3U4NzRuS0tlNlZDaVlwNGxKLU1Sb016T0Y2SzFDR3kxOU5FNWxMU1V3OUNUZzFqY0Y0cU1wdUdXdXFUaHVJal9DdXdDQlpweEVLdzBRLWd0RURYQ2dBQ1EydDNkSXU0SWRyR3dZdUZTekVoLUFWQXRZbWc?oc=5) (Sat, 16 May 2026 09:01:00 GMT)
+- [Does Payoneer (PAYO)–Upwork Stablecoin Push Reveal a Deeper Shift in Cross-Border Strategy? - simplywall.st](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMzBHMDdGZkdnNm8tT045Qld0aTczS3IzSXhad1AxdDg2Y1dwdlV5THdVVlNKdTlyVjNCcnJFbnhaSGVLMENmOXg4N3U0LUtuWmppZlZMQVhETlA1WUFnRXkxTldMRGhRdWFna3hqYm5XeUFyTFJfekRtcFJpVmFSaFhzajhoakhpeGEzMjZKYTRVT0I1YmE2YTNpTDRvRFlTREw0TXpnLXRvUEhIQzV2N09CZ3NGeXBDTnF3V2hqdGpiMmJxMWlFc3RubzVTSW5sT2s5UjNMaUNEQXF4WjZVcmRB0gHnAUFVX3lxTE5HSmFZUDlIa2JZaC05U0d6Vk0yelBhZ0Vmd1RFUGsyRHN0QnVaRGFjeGQ0bHlVbkxwOGhlbnlqWlY0MXlfeXowY0VIRUZHc1dzZUI5b1ljM3Uxd0NIWmtHcDJsUHFpN2p5d19ra09nOHE2b1p4YVdvSlgwUnMtUmxZTVdHbHBvcmJ0R1JmTzBqVDBlcjQzYklVVHB4cUctN3RMcmxXY2NFOXRTTGJIYTRFTVRub2ZwS1diZmJJMFlwY1U3LWJSRWZUN05LWlVVckg2eUpVWk1ZRkVmYUZIeDVUdnlGQWxBQQ?oc=5) (Tue, 19 May 2026 01:34:47 GMT)
+- [LemFi: Tether Invests To Expand Stablecoin-Powered Remittances Across Emerging Markets - Pulse 2.0](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNazVxd3U2YWx1NXNmNVFUR1FPLXFCbkRzMDdvMkMwVkozUlZUZ0hfNEljZlZRTmxpM1E4d09rOHczNWg0QkJLMzRUNDRuM3JDOG9XU01YZlYyVDVJV3laSDZ4bTFibkZZdlRCZ3k4eWhBc2RHdWFlbERjMU5JbTRKX1BLa1dZczd3cVVrOUtZUG9YdmVBekI0ME1jWjh2YVA3UlExRlJ5NEPSAa4BQVVfeXFMT3RjbW1uVG5qRHJ4RTdwXzF0WWlxcEtlVkhqVFNwSnZRaVlVckhMc3ZmenVtdkFITlJTMFRjUEpwR1BWSnBIcjRodjR3Y2pMNTEzcW9oWnpqNDFWU3BhMkZHdHJrb1ZEdDN1S3VhQnJ1YUVKS3JBNV9MMWNiT2NOVDNPM2c1dmVFeS1Icm9vWWFvRzh0bWViOUZhclA5dzNKY09Dd2Jrd3hRclJXc0NR?oc=5) (Tue, 19 May 2026 01:31:19 GMT)
+- [Stablecoin And AI Race Intensifies Pressure To Lift Credit Union CUSO Investment Cap - CU Today](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVDZoV1hSdV9hcl9ZRU5xUkpUQV9YMU9IYnFGUXBxMVlvWDVyQ1UtOTVSVGxPNUlkQVFEM3ZwaU1yMHlXcUFpZUtIX29BYk5scEVJWmd5YmpVTk9GM0tLSC1lWDNCQjRNa0Z1VzVYZHpuZEFSS1J4d1V2R0hxTjNSbUViRDQtQXV3Ml9kRmRNTE9Gd051bk52MmIxSEt2cU1POE9NcjFiNWhfODhCQ2J1MmR3X3MxNWpGUGloQl93?oc=5) (Mon, 18 May 2026 23:01:28 GMT)
+- [Tempo Expands Beyond Payments With Morpho Integration - PYMNTS.com](https://news.google.com/rss/articles/CBMingFBVV95cUxPYVlITE5QZ2tvY1BOdU1iQmMyb0xLUUUtWldyRHVDdzFZUmM5TFhtYVk4V2tUR1hXWXdGLWNCYTFMSnpBMElvMFA1T3Q2NHFoYlNndlRPbXVYNnZTOVltUWl5cUF0ZmI1YjBkYXh1R3ZOcHc5X3VlclNQOENOSHNXQXBYRHJrdndwb05PQ1FRa2lJZzdEb19pdFlwMVhxZw?oc=5) (Mon, 18 May 2026 22:40:12 GMT)
+- [Hyperliquid&#x27;s USDC deal could supercharge HYPE, pressure Circle, Coinbase margins, analysts say - CoinDesk](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOW83WFJBbFFyVlR3MEFpME9EdFN6b2ZTTjlxNUEwaHJVRWVRelpESTVMcTV2RmZhY2M3MmVnQXBGNXVCeUdXTDhpcTVQQkdaMVFIcEN0NGVhUzYtVXNuWTRVNjhtaURhRWlxZk1ZT2lUSldWTWl5akwzSjlWamlHNFd2Mkp5MlJXempRZU9wcElqd29FdEVPVUVWZXdWcnAyN3lFaC1vSm1Xdi1RWTMtVm16eFczTFpvWm0wZGhTNGxTS3c5ZExacjA0YkhnT0xQRXc?oc=5) (Mon, 18 May 2026 20:21:25 GMT)
 
 <!-- END_dashboard -->
 
