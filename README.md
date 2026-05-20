@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-19 02:33:13 (UTC)*
+*Last Updated: 2026-05-20 02:33:38 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,890,611,268** | 🔴 -0.01% | 🔴 -0.16% |
+| **$300,678,978,166** | 🔴 -0.07% | 🔴 -0.12% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Does Payoneer (PAYO)–Upwork Stablecoin Push Reveal a Deeper Shift in Cross-Border Strategy? - simplywall.st](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMzBHMDdGZkdnNm8tT045Qld0aTczS3IzSXhad1AxdDg2Y1dwdlV5THdVVlNKdTlyVjNCcnJFbnhaSGVLMENmOXg4N3U0LUtuWmppZlZMQVhETlA1WUFnRXkxTldMRGhRdWFna3hqYm5XeUFyTFJfekRtcFJpVmFSaFhzajhoakhpeGEzMjZKYTRVT0I1YmE2YTNpTDRvRFlTREw0TXpnLXRvUEhIQzV2N09CZ3NGeXBDTnF3V2hqdGpiMmJxMWlFc3RubzVTSW5sT2s5UjNMaUNEQXF4WjZVcmRB0gHnAUFVX3lxTE5HSmFZUDlIa2JZaC05U0d6Vk0yelBhZ0Vmd1RFUGsyRHN0QnVaRGFjeGQ0bHlVbkxwOGhlbnlqWlY0MXlfeXowY0VIRUZHc1dzZUI5b1ljM3Uxd0NIWmtHcDJsUHFpN2p5d19ra09nOHE2b1p4YVdvSlgwUnMtUmxZTVdHbHBvcmJ0R1JmTzBqVDBlcjQzYklVVHB4cUctN3RMcmxXY2NFOXRTTGJIYTRFTVRub2ZwS1diZmJJMFlwY1U3LWJSRWZUN05LWlVVckg2eUpVWk1ZRkVmYUZIeDVUdnlGQWxBQQ?oc=5) (Tue, 19 May 2026 01:34:47 GMT)
-- [LemFi: Tether Invests To Expand Stablecoin-Powered Remittances Across Emerging Markets - Pulse 2.0](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNazVxd3U2YWx1NXNmNVFUR1FPLXFCbkRzMDdvMkMwVkozUlZUZ0hfNEljZlZRTmxpM1E4d09rOHczNWg0QkJLMzRUNDRuM3JDOG9XU01YZlYyVDVJV3laSDZ4bTFibkZZdlRCZ3k4eWhBc2RHdWFlbERjMU5JbTRKX1BLa1dZczd3cVVrOUtZUG9YdmVBekI0ME1jWjh2YVA3UlExRlJ5NEPSAa4BQVVfeXFMT3RjbW1uVG5qRHJ4RTdwXzF0WWlxcEtlVkhqVFNwSnZRaVlVckhMc3ZmenVtdkFITlJTMFRjUEpwR1BWSnBIcjRodjR3Y2pMNTEzcW9oWnpqNDFWU3BhMkZHdHJrb1ZEdDN1S3VhQnJ1YUVKS3JBNV9MMWNiT2NOVDNPM2c1dmVFeS1Icm9vWWFvRzh0bWViOUZhclA5dzNKY09Dd2Jrd3hRclJXc0NR?oc=5) (Tue, 19 May 2026 01:31:19 GMT)
-- [Stablecoin And AI Race Intensifies Pressure To Lift Credit Union CUSO Investment Cap - CU Today](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVDZoV1hSdV9hcl9ZRU5xUkpUQV9YMU9IYnFGUXBxMVlvWDVyQ1UtOTVSVGxPNUlkQVFEM3ZwaU1yMHlXcUFpZUtIX29BYk5scEVJWmd5YmpVTk9GM0tLSC1lWDNCQjRNa0Z1VzVYZHpuZEFSS1J4d1V2R0hxTjNSbUViRDQtQXV3Ml9kRmRNTE9Gd051bk52MmIxSEt2cU1POE9NcjFiNWhfODhCQ2J1MmR3X3MxNWpGUGloQl93?oc=5) (Mon, 18 May 2026 23:01:28 GMT)
-- [Tempo Expands Beyond Payments With Morpho Integration - PYMNTS.com](https://news.google.com/rss/articles/CBMingFBVV95cUxPYVlITE5QZ2tvY1BOdU1iQmMyb0xLUUUtWldyRHVDdzFZUmM5TFhtYVk4V2tUR1hXWXdGLWNCYTFMSnpBMElvMFA1T3Q2NHFoYlNndlRPbXVYNnZTOVltUWl5cUF0ZmI1YjBkYXh1R3ZOcHc5X3VlclNQOENOSHNXQXBYRHJrdndwb05PQ1FRa2lJZzdEb19pdFlwMVhxZw?oc=5) (Mon, 18 May 2026 22:40:12 GMT)
-- [Hyperliquid&#x27;s USDC deal could supercharge HYPE, pressure Circle, Coinbase margins, analysts say - CoinDesk](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOW83WFJBbFFyVlR3MEFpME9EdFN6b2ZTTjlxNUEwaHJVRWVRelpESTVMcTV2RmZhY2M3MmVnQXBGNXVCeUdXTDhpcTVQQkdaMVFIcEN0NGVhUzYtVXNuWTRVNjhtaURhRWlxZk1ZT2lUSldWTWl5akwzSjlWamlHNFd2Mkp5MlJXempRZU9wcElqd29FdEVPVUVWZXdWcnAyN3lFaC1vSm1Xdi1RWTMtVm16eFczTFpvWm0wZGhTNGxTS3c5ZExacjA0YkhnT0xQRXc?oc=5) (Mon, 18 May 2026 20:21:25 GMT)
+- [Blockchain Association warns FDIC against favoring big banks in stablecoin rules - AMBCrypto](https://news.google.com/rss/articles/CBMipgFBVV95cUxPRHZ5OTBacWZXMjExeUZoQUtOcHRSVHFBWmtUeVBKTjktcUNPOTFCd0RxOXFVWlB5M2RKTm80R3Rsa3hwemdUVWJCMEpVYlp3Vmd5X3dJRUFRVkk0cllMMGdrMTEtUHE4NExrOHFzX3R0YWdhR3ZpcWdwa215MzJ2Y2JJcEloZG9VRU9LbXgwb3J0TEUteVFKSWp2dlVOZUVfWFJFbURR0gGrAUFVX3lxTFBYUDhJTVNUeGludlNsZ0JrUWV1bUNGeDNRSlAtT21tc2dmVjdWOVk2Q3RXT1c0c19ueEZ1eW5JcjYzRy1rcXNYdkJWdjM1NXhrcHExS0FyaWpXam1qMWdDVUdHdDh2aDM4LW45OUpEY2tybjljcXQyMVlFaXg4YnRhT0VwYmhJeWNFa0JRMHl3ZVA2REh5eE9oR1hqSDdNVlNOekZwUnVtVFpmSQ?oc=5) (Tue, 19 May 2026 19:22:55 GMT)
+- [What the Hyperliquid Stablecoin Deal Was Really About - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMWFva0hqTWZnd2FuUlhaTnVBd0tOU2MwVkhuQXhkSlRnR1ZzaTF1dUdMNTNwcXk3NVkwTGYzR0M2SURldUgwSE85SXBDR21Cc0c5MnBBOXI1NG5xU05mYjJyS3R2YS04bE1iS1p4d0dxTU5FaDh1ZndtYmlxOGZFYkI5M1EwamJQV1BHWm1JSnJYTmF0ZmZrcXNYbl9vYTVG?oc=5) (Tue, 19 May 2026 19:22:23 GMT)
+- [Stablecoins As the Missing Link in B2B Marketplaces - Circle Internet Financial, LLC](https://news.google.com/rss/articles/CBMihgFBVV95cUxOeWgtamVHV0lPRWo5bzVnZE5nTVBickYtQW9UOFFHRDhXMmtLaGxURHBycmpGQXhCYkdNUEFXaTZsWmpGV3VrS0JjX1hKV2NOT0FDdnVBdUlORzE0bjVsRVVtTHU0a1pDbE9PTFJVX0dQZzEwVVFVQmNTancyUEFwTy1IVWw2UQ?oc=5) (Tue, 19 May 2026 18:18:22 GMT)
+- [BoJ Deputy Governor asks how much ‘singleness of money’ stablecoins need - ledgerinsights.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxORElMb19vWVpEMWxtRl9wOEYxV2JjZ0ZUdUJ5SzN1S0JUcUFtRkx4TFZFeVo2RXY2bFhmNjFJNTBlWVptLTJ0SUtabUZUeVh4ak5UUnNFYVotbW10Sk51ajk3a3BuczhveGFOcWY2dmN2TG9UWWtiRXVCTUZFbjRWY0hBRWNNQWJIWEo1VE1JTVVoMS1CSWl3ZTV1enItYzBXb0RuYg?oc=5) (Tue, 19 May 2026 18:15:19 GMT)
+- [Checker raises $8M from Galaxy Ventures and others to build stablecoin infrastructure - Crypto Briefing](https://news.google.com/rss/articles/CBMie0FVX3lxTE1jdUNVQVlLODVKdXpSelV0c3lKSHpkb29IaXJ1VUlSbGIyOEJGQmd4ZzhmRmFVMUYzQkJZUmhQNTQ4dFBIYnRGY21SWDNuOWlKZDFNa21MTi1hQ0JtRFpRekxIZVVuT0FTUEpiOU4tYVBMd1hRSTBQclVlYw?oc=5) (Tue, 19 May 2026 17:55:15 GMT)
 
 <!-- END_dashboard -->
 
