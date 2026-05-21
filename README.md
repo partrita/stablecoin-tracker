@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-20 02:33:38 (UTC)*
+*Last Updated: 2026-05-21 02:35:03 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,678,978,166** | 🔴 -0.07% | 🔴 -0.12% |
+| **$299,929,243,177** | 🔴 -0.25% | 🔴 -0.21% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Blockchain Association warns FDIC against favoring big banks in stablecoin rules - AMBCrypto](https://news.google.com/rss/articles/CBMipgFBVV95cUxPRHZ5OTBacWZXMjExeUZoQUtOcHRSVHFBWmtUeVBKTjktcUNPOTFCd0RxOXFVWlB5M2RKTm80R3Rsa3hwemdUVWJCMEpVYlp3Vmd5X3dJRUFRVkk0cllMMGdrMTEtUHE4NExrOHFzX3R0YWdhR3ZpcWdwa215MzJ2Y2JJcEloZG9VRU9LbXgwb3J0TEUteVFKSWp2dlVOZUVfWFJFbURR0gGrAUFVX3lxTFBYUDhJTVNUeGludlNsZ0JrUWV1bUNGeDNRSlAtT21tc2dmVjdWOVk2Q3RXT1c0c19ueEZ1eW5JcjYzRy1rcXNYdkJWdjM1NXhrcHExS0FyaWpXam1qMWdDVUdHdDh2aDM4LW45OUpEY2tybjljcXQyMVlFaXg4YnRhT0VwYmhJeWNFa0JRMHl3ZVA2REh5eE9oR1hqSDdNVlNOekZwUnVtVFpmSQ?oc=5) (Tue, 19 May 2026 19:22:55 GMT)
-- [What the Hyperliquid Stablecoin Deal Was Really About - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMWFva0hqTWZnd2FuUlhaTnVBd0tOU2MwVkhuQXhkSlRnR1ZzaTF1dUdMNTNwcXk3NVkwTGYzR0M2SURldUgwSE85SXBDR21Cc0c5MnBBOXI1NG5xU05mYjJyS3R2YS04bE1iS1p4d0dxTU5FaDh1ZndtYmlxOGZFYkI5M1EwamJQV1BHWm1JSnJYTmF0ZmZrcXNYbl9vYTVG?oc=5) (Tue, 19 May 2026 19:22:23 GMT)
-- [Stablecoins As the Missing Link in B2B Marketplaces - Circle Internet Financial, LLC](https://news.google.com/rss/articles/CBMihgFBVV95cUxOeWgtamVHV0lPRWo5bzVnZE5nTVBickYtQW9UOFFHRDhXMmtLaGxURHBycmpGQXhCYkdNUEFXaTZsWmpGV3VrS0JjX1hKV2NOT0FDdnVBdUlORzE0bjVsRVVtTHU0a1pDbE9PTFJVX0dQZzEwVVFVQmNTancyUEFwTy1IVWw2UQ?oc=5) (Tue, 19 May 2026 18:18:22 GMT)
-- [BoJ Deputy Governor asks how much ‘singleness of money’ stablecoins need - ledgerinsights.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxORElMb19vWVpEMWxtRl9wOEYxV2JjZ0ZUdUJ5SzN1S0JUcUFtRkx4TFZFeVo2RXY2bFhmNjFJNTBlWVptLTJ0SUtabUZUeVh4ak5UUnNFYVotbW10Sk51ajk3a3BuczhveGFOcWY2dmN2TG9UWWtiRXVCTUZFbjRWY0hBRWNNQWJIWEo1VE1JTVVoMS1CSWl3ZTV1enItYzBXb0RuYg?oc=5) (Tue, 19 May 2026 18:15:19 GMT)
-- [Checker raises $8M from Galaxy Ventures and others to build stablecoin infrastructure - Crypto Briefing](https://news.google.com/rss/articles/CBMie0FVX3lxTE1jdUNVQVlLODVKdXpSelV0c3lKSHpkb29IaXJ1VUlSbGIyOEJGQmd4ZzhmRmFVMUYzQkJZUmhQNTQ4dFBIYnRGY21SWDNuOWlKZDFNa21MTi1hQ0JtRFpRekxIZVVuT0FTUEpiOU4tYVBMd1hRSTBQclVlYw?oc=5) (Tue, 19 May 2026 17:55:15 GMT)
+- [AllUnity preps Swedish krona-backed stablecoin - Finextra Research](https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1dCMUFCZVBwajNha3dLeldNVjY2eUg5blhMbVBfRDNxTmI3NnJwd0hnaWZZX1RCTFVRYXlVeWtodXQ5c2lnemRHTHh2RkJRZzFCdkV3b0RBSVRjTHZjYTEyTVY3SmdadTRnODBTMGVNWmlTVXlldDlUMXU4Ym9NdzVUQzkxdXM1bHM1SFF5aHRjVmc?oc=5) (Thu, 21 May 2026 00:01:00 GMT)
+- [Flipcash Taps Coinbase to Launch USDF Stablecoin on Solana - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxPcVBJVHo5NlhyLWRMVzY0WHlQTDV2TUlxMzJSN3NIZEl2ZjlnRVl3RWNJSzVEdkxJMTV2Vmt2UHNLSVdRVERfU2tjeWZjMFllTlM4VTdVZ2FoYzhvYVctdTZoVHNHb2dsNm5Zdk1ON2pVNU5kV0ROSTNDZWRCa1BmYTZYMXhKVjVOc2kydVFvMC1SMlM1c1B6TVhaYmlpbFFQ?oc=5) (Wed, 20 May 2026 23:36:00 GMT)
+- [LATEST: 25 banks join plan to launch Euro stablecoin - AML Intelligence](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNE5ZaUVveVlQR2FRZnVUOGNNOC1KdUwtZm9iVmMwanJuV1I1cjl5ZU1TdzFxTC11ZF9YWjRYbHRZVVp0dHpNQzZYclpQOWdNSVlkTDlWcS1MeU9ISkVxb0M4ZHhVbjRRSXFzWlMyTkhDYnZXcjgyckFDeTI2R0ZTcllmNkc5VnNEN2FieVFEYkVqOUhodXlV?oc=5) (Wed, 20 May 2026 22:13:51 GMT)
+- [Sui Launches Gasless Stablecoin Transfers With Support From Fireblocks By Chainwire - Investing.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQndaQURFMmNuYWJIOWYwaUF1UFhsdGd0bHh1Z29JVDk2eHhjelNva1NnTTVZU1VrUkRSRWNaMUMwX3lSZTVJaE03dkZKaVp3SWhSbGE2MVYwOXQ4V1k3a3N4NnRfOHlUYVFCOUg2ZmkwbjE0aFNuWnZmUjI3VVV5eUp0RjM5M3dMM0RmaEdUZnJUa0txazVoZU5xVlZsN2l3MEsyRDUzSHF0LXNjTkhrczlwMUtsNDZOci03ZGlXY0tBY0xtMDVvRg?oc=5) (Wed, 20 May 2026 22:00:38 GMT)
+- [Coinbase expands branded stablecoin infrastructure business with Flipcash USDF launch - TradingView](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQjhzMjFSdmp4eHpEU0lVSnYxZXZoZVpfZ21rTmxvYk13R3pXdm5MSFVRZzVvRXl0YkJCcHdpU0Q3MmpTM2ZkN3llLXp5QzZMTzBkbjEwZTE4MDktTURhdE54YlBtVVlnbXpheURBWGwzamh3TFppSEZZZmh4YTR0TnRrRkFXalAwVG43dGVvSDk0bXJfTFoybWNEMlk2YTVGNERoSGVKOTJVUDBFdk5kVElXS1lCT0F3Ukw3bzBNNzZvakVGVUNlODZDQ1dPNlZORmhSOC1Yc1hyakVrVmJvUzZ6bw?oc=5) (Wed, 20 May 2026 21:37:09 GMT)
 
 <!-- END_dashboard -->
 
