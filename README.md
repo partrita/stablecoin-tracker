@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-21 02:35:03 (UTC)*
+*Last Updated: 2026-05-22 02:36:36 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$299,929,243,177** | 🔴 -0.25% | 🔴 -0.21% |
+| **$300,247,154,967** | 🟢 +0.11% | 🔴 -0.14% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [AllUnity preps Swedish krona-backed stablecoin - Finextra Research](https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1dCMUFCZVBwajNha3dLeldNVjY2eUg5blhMbVBfRDNxTmI3NnJwd0hnaWZZX1RCTFVRYXlVeWtodXQ5c2lnemRHTHh2RkJRZzFCdkV3b0RBSVRjTHZjYTEyTVY3SmdadTRnODBTMGVNWmlTVXlldDlUMXU4Ym9NdzVUQzkxdXM1bHM1SFF5aHRjVmc?oc=5) (Thu, 21 May 2026 00:01:00 GMT)
-- [Flipcash Taps Coinbase to Launch USDF Stablecoin on Solana - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxPcVBJVHo5NlhyLWRMVzY0WHlQTDV2TUlxMzJSN3NIZEl2ZjlnRVl3RWNJSzVEdkxJMTV2Vmt2UHNLSVdRVERfU2tjeWZjMFllTlM4VTdVZ2FoYzhvYVctdTZoVHNHb2dsNm5Zdk1ON2pVNU5kV0ROSTNDZWRCa1BmYTZYMXhKVjVOc2kydVFvMC1SMlM1c1B6TVhaYmlpbFFQ?oc=5) (Wed, 20 May 2026 23:36:00 GMT)
-- [LATEST: 25 banks join plan to launch Euro stablecoin - AML Intelligence](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNE5ZaUVveVlQR2FRZnVUOGNNOC1KdUwtZm9iVmMwanJuV1I1cjl5ZU1TdzFxTC11ZF9YWjRYbHRZVVp0dHpNQzZYclpQOWdNSVlkTDlWcS1MeU9ISkVxb0M4ZHhVbjRRSXFzWlMyTkhDYnZXcjgyckFDeTI2R0ZTcllmNkc5VnNEN2FieVFEYkVqOUhodXlV?oc=5) (Wed, 20 May 2026 22:13:51 GMT)
-- [Sui Launches Gasless Stablecoin Transfers With Support From Fireblocks By Chainwire - Investing.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQndaQURFMmNuYWJIOWYwaUF1UFhsdGd0bHh1Z29JVDk2eHhjelNva1NnTTVZU1VrUkRSRWNaMUMwX3lSZTVJaE03dkZKaVp3SWhSbGE2MVYwOXQ4V1k3a3N4NnRfOHlUYVFCOUg2ZmkwbjE0aFNuWnZmUjI3VVV5eUp0RjM5M3dMM0RmaEdUZnJUa0txazVoZU5xVlZsN2l3MEsyRDUzSHF0LXNjTkhrczlwMUtsNDZOci03ZGlXY0tBY0xtMDVvRg?oc=5) (Wed, 20 May 2026 22:00:38 GMT)
-- [Coinbase expands branded stablecoin infrastructure business with Flipcash USDF launch - TradingView](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQjhzMjFSdmp4eHpEU0lVSnYxZXZoZVpfZ21rTmxvYk13R3pXdm5MSFVRZzVvRXl0YkJCcHdpU0Q3MmpTM2ZkN3llLXp5QzZMTzBkbjEwZTE4MDktTURhdE54YlBtVVlnbXpheURBWGwzamh3TFppSEZZZmh4YTR0TnRrRkFXalAwVG43dGVvSDk0bXJfTFoybWNEMlk2YTVGNERoSGVKOTJVUDBFdk5kVElXS1lCT0F3Ukw3bzBNNzZvakVGVUNlODZDQ1dPNlZORmhSOC1Yc1hyakVrVmJvUzZ6bw?oc=5) (Wed, 20 May 2026 21:37:09 GMT)
+- [Deel Adds Stablecoin Salary Payouts - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTnBGRE9vZk1SYjZkeDhJUGlnQm5zUlZ3WmJXMjdRNnFrLWdnWWE0SHlBSk52eDBtOGJxdUFvYzd5RFZzY2p3bXl0clJjdjE5WWZ0aTJDbXJRY1BPdjJBMC03X3BWTHd4WHdMTGhyakVzZ05peXF5MTVac0tpTjQ3d2N5MlhueWpOMTR4aDhsLUhwVnBSSFdlZDFRQWFCR0lnVFE?oc=5) (Fri, 22 May 2026 02:13:00 GMT)
+- [Deel launches stablecoin salary payouts via Solana - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMikgFBVV95cUxORzc5Mlp6T3FpOWJKbmZ0Q0I3Unp1aDlkbnNEaV9xNmZhcEhoLXNVUVVYeEFtc2NRVXBlNzZpRHdveUZMTWlJSjhJanZGZDd1YkRCZzl2cjFrY0VyeENDTVZ1Um9iRnljaTE1bS1LbzB1eVozRFhycWJhSTh5WWhSc0FJcmRyRnZIclBBdDJxYVdXQQ?oc=5) (Fri, 22 May 2026 00:01:00 GMT)
+- [Sui Eliminates Crypto’s Biggest Friction Point with Gasless Stablecoin Transfers - Bitcoin News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWtXU2lZZmhoemZrZV81eHVwRHJmTUhvbjZtTnY4a21QMnFrTnZJMEhWc2E1VVktQ1NkS1Z5a3hwTXZyNGtoemE4cVhtYmhraF96c1NWUlRDYkt3LU1TNHFkOFlMMFd6U2N4UTJfRHgzWk05QTYya09GVnJZMDM4M214WWhtMzg5Y0RsbjdabzF0dkJWRlpMeE1HZVh1d3VYVVFGTTNxTXc?oc=5) (Thu, 21 May 2026 23:05:05 GMT)
+- [What the GENIUS Act PPSI Rule Means for Stablecoin Issuers - TRM Labs](https://news.google.com/rss/articles/CBMingFBVV95cUxPblpPOXdDVE4ya2UwaXlJNDRzbGN4VV80ajFUcm4zaklTcVpkZl9Da3Bmbm03WTI4RVc4TkNBNElFNEJmTGdKNzcxd3JDb3FJdDRzRGZKOW1sSWJrY1AtU2RVNjRjWEVsdFlYM1dLR1NTblhZTXRfQmQ5WkpUVTJyQWZwb19DMHJ0d216d3NxVzNzR3Zud0N0WnpuUkFfQQ?oc=5) (Thu, 21 May 2026 20:32:49 GMT)
+- [JPMorgan says tokenized money market funds unlikely to grow beyond 15% of stablecoin market - The Block](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGFYVjFiNHczdnJxOE5FNUl5WGExZ1dCX2FPZVVZeE5wUEo4dVNrd1RGR3JkTmdia3VDdkRmc0lzVVp0RWRJUFAwWFlpNlJyaExldzRCRUZldEowdzBQM1lrQzVXbHNOZjMydnJGUWlycUhLdG1ZaWdwbktyYmZSeGc0bVMzRHZNc1c5c2tn?oc=5) (Thu, 21 May 2026 16:48:08 GMT)
 
 <!-- END_dashboard -->
 
