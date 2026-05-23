@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-22 02:36:36 (UTC)*
+*Last Updated: 2026-05-23 02:12:51 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,247,154,967** | 🟢 +0.11% | 🔴 -0.14% |
+| **$300,613,143,450** | 🟢 +0.12% | 🔴 -0.07% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Deel Adds Stablecoin Salary Payouts - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTnBGRE9vZk1SYjZkeDhJUGlnQm5zUlZ3WmJXMjdRNnFrLWdnWWE0SHlBSk52eDBtOGJxdUFvYzd5RFZzY2p3bXl0clJjdjE5WWZ0aTJDbXJRY1BPdjJBMC03X3BWTHd4WHdMTGhyakVzZ05peXF5MTVac0tpTjQ3d2N5MlhueWpOMTR4aDhsLUhwVnBSSFdlZDFRQWFCR0lnVFE?oc=5) (Fri, 22 May 2026 02:13:00 GMT)
-- [Deel launches stablecoin salary payouts via Solana - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMikgFBVV95cUxORzc5Mlp6T3FpOWJKbmZ0Q0I3Unp1aDlkbnNEaV9xNmZhcEhoLXNVUVVYeEFtc2NRVXBlNzZpRHdveUZMTWlJSjhJanZGZDd1YkRCZzl2cjFrY0VyeENDTVZ1Um9iRnljaTE1bS1LbzB1eVozRFhycWJhSTh5WWhSc0FJcmRyRnZIclBBdDJxYVdXQQ?oc=5) (Fri, 22 May 2026 00:01:00 GMT)
-- [Sui Eliminates Crypto’s Biggest Friction Point with Gasless Stablecoin Transfers - Bitcoin News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWtXU2lZZmhoemZrZV81eHVwRHJmTUhvbjZtTnY4a21QMnFrTnZJMEhWc2E1VVktQ1NkS1Z5a3hwTXZyNGtoemE4cVhtYmhraF96c1NWUlRDYkt3LU1TNHFkOFlMMFd6U2N4UTJfRHgzWk05QTYya09GVnJZMDM4M214WWhtMzg5Y0RsbjdabzF0dkJWRlpMeE1HZVh1d3VYVVFGTTNxTXc?oc=5) (Thu, 21 May 2026 23:05:05 GMT)
-- [What the GENIUS Act PPSI Rule Means for Stablecoin Issuers - TRM Labs](https://news.google.com/rss/articles/CBMingFBVV95cUxPblpPOXdDVE4ya2UwaXlJNDRzbGN4VV80ajFUcm4zaklTcVpkZl9Da3Bmbm03WTI4RVc4TkNBNElFNEJmTGdKNzcxd3JDb3FJdDRzRGZKOW1sSWJrY1AtU2RVNjRjWEVsdFlYM1dLR1NTblhZTXRfQmQ5WkpUVTJyQWZwb19DMHJ0d216d3NxVzNzR3Zud0N0WnpuUkFfQQ?oc=5) (Thu, 21 May 2026 20:32:49 GMT)
-- [JPMorgan says tokenized money market funds unlikely to grow beyond 15% of stablecoin market - The Block](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGFYVjFiNHczdnJxOE5FNUl5WGExZ1dCX2FPZVVZeE5wUEo4dVNrd1RGR3JkTmdia3VDdkRmc0lzVVp0RWRJUFAwWFlpNlJyaExldzRCRUZldEowdzBQM1lrQzVXbHNOZjMydnJGUWlycUhLdG1ZaWdwbktyYmZSeGc0bVMzRHZNc1c5c2tn?oc=5) (Thu, 21 May 2026 16:48:08 GMT)
+- [FDIC Proposes AML, Sanctions Rule For Stablecoin Issuers - Law360](https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2NISGM1dUlWYTlkdWJkZ205Zl83VUp2dUt3RjMwdlFKUDdxRHpPOGV4bUR4TkxCV3BSZFlVZzlZODNvbVJfSkFULUR0N29yaHdrVlJwTy1ZN1duS2E4MzFNZnJZVmQ2TUJhQllwaXZnU2YtMEhwVi1VdmYxZnJCd0ZGd2F3RzlnaHhkeFVwUlhhZDIyalN4cGdLRdIBVkFVX3lxTFBJSFo0M1U5TmVMWC1VWEtjZEN2ZFZ1dTFDdmU5aFZGOTNLcDl2VTQxVlVzSk9jc0ZENEFjUE1zSUxYb3NQTERKTHNfTzJfWkpseVVQSVFn?oc=5) (Sat, 23 May 2026 01:39:00 GMT)
+- [FDIC Establishes Bank Secrecy Act Standards for Stablecoin Issuers - PYMNTS.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3dHMnRkeGZfdWxIT1hHQmFzS19ibUlRRHpic05XQmpmWTFFQTNsMjB3V0EtMk9LQ0liSHpIY19iTmNFQnF0cFZoOHpQMXUwUktud2FEQzJOR0RrcVkxdHFfT1l1RlhVNWo3eVBUTHhzUGFObHBwZ0hIZVIwcU9xVEZiRUdPMjR1Q3hxVi1Ldk5YZko2UlJCU0ZRVXhzMkhnbVFMZ1FqZXBiNS1qUXFUSQ?oc=5) (Fri, 22 May 2026 23:21:39 GMT)
+- [Before You Add Stablecoin Checkout, Fix These 5 Trust Gaps First - entrepreneur.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWU1TelhFWENQV2pRQTVIVjUwN3pTSVM2aUlHTHZCUWR0MWtZZjVDYzdod0tXS1QwWFlZVkhrY2luQ2pZMVd1dFZKN3lVMzY1NzJzNmYxcEljVFI1bk53TnBBalpIdHY0dnZWdll3MmJ2aW5HMG1ZVnlZQXVJSTYwSFVFTzRURFBja3d4Zmd4dWZzZjhOUFZ6clNhLWtvaXNNRE9Udk5RMlNZQTg?oc=5) (Fri, 22 May 2026 21:32:08 GMT)
+- [SoFi Stablecoin And Mastercard Link Reframe Fee Driven Growth Story - simplywall.st](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPakI1SjMtbGQ5ZWdjWnY3WjR3M2M1X3k0eGxRdUVCUmlic1NBYXJGQ2pYT1NYdUlldWFweE9lLU9qWk5ESU0tU1ZoeGcxLXZpMFE3aVpRbHdSNHZrMi1tbDBDajlvOFVIYUJBYlZybXFBaGQzaVZoSDI0cEd3RFh5SmlIRHFfWTMwWnA4Y29hbGRDMDJBalBaQVVJNlNQMEtIN2JiaUwtUjg4a3ZhWloyak1HaW8xQ0xJOVRIVE0yWVdMNWVFbGlRTUVLbG9uQl9MSktuUkxtOVNpdERiVlpES0FjdHjSAeoBQVVfeXFMT3Fialg1WXZwVndaR29JcWVXYVJSc1BwYTRvbUpLMUdaSzN4NzE3ZjMwYy14OXNvQW5NN1ZlYTk0dEZpSFRUZnJJYzhCcUVDcWVrcmZGNU1Eb0RTYmxZbm9KOTkwdHFSeHczZXVTNTUzYklPZzZJTnVyaDNnbjFlY0NpYWlQVUhUbVllOVBsbFpHSFdPY3ZMaEtsWDlZR1BVaWN3UHd3VVJYTzhHRVVfX0kxWnJibl9HSFlRYTRNa3hTWEE5WlRXWlZ0VEQ0S1dfMUxVSDZNMWRJVm1QYWNzU0tucjBnVmtPSkZR?oc=5) (Fri, 22 May 2026 20:57:28 GMT)
+- [US FDIC proposes rules to carry out BSA standards for bank stablecoin issuers - MLex](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yQ3NFcndDUmJ3cmstdThqd24zSmk0OUQ2MEF6QnpNNjk5aWtjQlQzZUpKUXhhcU5LQXBXSGdBbGMtWEhSMzNuOVZCZkQ1RENFZnZUMnBqYWJNQdIBWkFVX3lxTE4yQ3NFcndDUmJ3cmstdThqd24zSmk0OUQ2MEF6QnpNNjk5aWtjQlQzZUpKUXhhcU5LQXBXSGdBbGMtWEhSMzNuOVZCZkQ1RENFZnZUMnBqYWJNQQ?oc=5) (Fri, 22 May 2026 20:16:00 GMT)
 
 <!-- END_dashboard -->
 
