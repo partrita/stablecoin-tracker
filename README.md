@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-23 02:12:51 (UTC)*
+*Last Updated: 2026-05-24 02:31:35 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,613,143,450** | 🟢 +0.12% | 🔴 -0.07% |
+| **$300,552,497,573** | 🔴 -0.02% | 🔴 -0.14% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [ECB warns EU finance ministers that easing euro stablecoin rules would weaken banks: Reuters - The Block](https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2puaDAtZlUtRGNVaUtJbHhTM2ZMUzlpeEkyS083NkJ4VzU4Z01jRUt0bFFEazM5REY2QzNXMDlnMHhHUzlMZ1BQQjFfOVc5c3FHTWtIX1NUVXpkYW0zWWJ2T2RBOEZhanRVOGsyRWI0bFVwaGhqcDJjRmlicTFSb0k0eTBpWEk3NlZQVm4zQ3lyOUwyaUZjNzdaNlcwejNVTkQxQkhhRS1fRDAtbDd2bF9qb2JyU0ZLSXpIVF8xQk1WQ2xiZlE?oc=5) (Sat, 23 May 2026 20:21:18 GMT)
+- [How FDIC’s new stablecoin plan can change crypto transfers forever - AMBCrypto](https://news.google.com/rss/articles/CBMikgFBVV95cUxQM3hCQ01LZEUxNG9YVWhyUGFJMThZZGktRndiSFhyT09WNXRJZU9aZ0I5TWl2UGFyRTZCTlU0ejFTUkZVbFJmUjZTUEh0VXVsVVJNWUprNVEyQVhsVDFTd2VYVXJDUzJVbHZsYzRmWjNSRXhzSW8wRU1kSXhUMkprRVh1enJ2OUpKbDgzUVd1QVN1d9IBlwFBVV95cUxOSWZaM1JMeUNiUHB0akwzRl92SkF5WEJWZGo0N0hreFhXd2lFSWJNUy1FLWtvMU8tSU0xck1FbnFFQ1RCcjRWX0FDb2tLSl9UanBERFJlUDRET3B3b1lJUHFYWmZNTEE2dC1DWWFMUW8tREpHdG04enF0MU8wcXhWQUhOY19HeDh4ZUJQT3JuYjNLZjJxWjRv?oc=5) (Sat, 23 May 2026 13:00:57 GMT)
 - [FDIC Proposes AML, Sanctions Rule For Stablecoin Issuers - Law360](https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2NISGM1dUlWYTlkdWJkZ205Zl83VUp2dUt3RjMwdlFKUDdxRHpPOGV4bUR4TkxCV3BSZFlVZzlZODNvbVJfSkFULUR0N29yaHdrVlJwTy1ZN1duS2E4MzFNZnJZVmQ2TUJhQllwaXZnU2YtMEhwVi1VdmYxZnJCd0ZGd2F3RzlnaHhkeFVwUlhhZDIyalN4cGdLRdIBVkFVX3lxTFBJSFo0M1U5TmVMWC1VWEtjZEN2ZFZ1dTFDdmU5aFZGOTNLcDl2VTQxVlVzSk9jc0ZENEFjUE1zSUxYb3NQTERKTHNfTzJfWkpseVVQSVFn?oc=5) (Sat, 23 May 2026 01:39:00 GMT)
-- [FDIC Establishes Bank Secrecy Act Standards for Stablecoin Issuers - PYMNTS.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3dHMnRkeGZfdWxIT1hHQmFzS19ibUlRRHpic05XQmpmWTFFQTNsMjB3V0EtMk9LQ0liSHpIY19iTmNFQnF0cFZoOHpQMXUwUktud2FEQzJOR0RrcVkxdHFfT1l1RlhVNWo3eVBUTHhzUGFObHBwZ0hIZVIwcU9xVEZiRUdPMjR1Q3hxVi1Ldk5YZko2UlJCU0ZRVXhzMkhnbVFMZ1FqZXBiNS1qUXFUSQ?oc=5) (Fri, 22 May 2026 23:21:39 GMT)
-- [Before You Add Stablecoin Checkout, Fix These 5 Trust Gaps First - entrepreneur.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWU1TelhFWENQV2pRQTVIVjUwN3pTSVM2aUlHTHZCUWR0MWtZZjVDYzdod0tXS1QwWFlZVkhrY2luQ2pZMVd1dFZKN3lVMzY1NzJzNmYxcEljVFI1bk53TnBBalpIdHY0dnZWdll3MmJ2aW5HMG1ZVnlZQXVJSTYwSFVFTzRURFBja3d4Zmd4dWZzZjhOUFZ6clNhLWtvaXNNRE9Udk5RMlNZQTg?oc=5) (Fri, 22 May 2026 21:32:08 GMT)
-- [SoFi Stablecoin And Mastercard Link Reframe Fee Driven Growth Story - simplywall.st](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPakI1SjMtbGQ5ZWdjWnY3WjR3M2M1X3k0eGxRdUVCUmlic1NBYXJGQ2pYT1NYdUlldWFweE9lLU9qWk5ESU0tU1ZoeGcxLXZpMFE3aVpRbHdSNHZrMi1tbDBDajlvOFVIYUJBYlZybXFBaGQzaVZoSDI0cEd3RFh5SmlIRHFfWTMwWnA4Y29hbGRDMDJBalBaQVVJNlNQMEtIN2JiaUwtUjg4a3ZhWloyak1HaW8xQ0xJOVRIVE0yWVdMNWVFbGlRTUVLbG9uQl9MSktuUkxtOVNpdERiVlpES0FjdHjSAeoBQVVfeXFMT3Fialg1WXZwVndaR29JcWVXYVJSc1BwYTRvbUpLMUdaSzN4NzE3ZjMwYy14OXNvQW5NN1ZlYTk0dEZpSFRUZnJJYzhCcUVDcWVrcmZGNU1Eb0RTYmxZbm9KOTkwdHFSeHczZXVTNTUzYklPZzZJTnVyaDNnbjFlY0NpYWlQVUhUbVllOVBsbFpHSFdPY3ZMaEtsWDlZR1BVaWN3UHd3VVJYTzhHRVVfX0kxWnJibl9HSFlRYTRNa3hTWEE5WlRXWlZ0VEQ0S1dfMUxVSDZNMWRJVm1QYWNzU0tucjBnVmtPSkZR?oc=5) (Fri, 22 May 2026 20:57:28 GMT)
-- [US FDIC proposes rules to carry out BSA standards for bank stablecoin issuers - MLex](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yQ3NFcndDUmJ3cmstdThqd24zSmk0OUQ2MEF6QnpNNjk5aWtjQlQzZUpKUXhhcU5LQXBXSGdBbGMtWEhSMzNuOVZCZkQ1RENFZnZUMnBqYWJNQdIBWkFVX3lxTE4yQ3NFcndDUmJ3cmstdThqd24zSmk0OUQ2MEF6QnpNNjk5aWtjQlQzZUpKUXhhcU5LQXBXSGdBbGMtWEhSMzNuOVZCZkQ1RENFZnZUMnBqYWJNQQ?oc=5) (Fri, 22 May 2026 20:16:00 GMT)
+- [FDIC Proposes AML, Sanctions Rule For Stablecoin Issuers - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJSFo0M1U5TmVMWC1VWEtjZEN2ZFZ1dTFDdmU5aFZGOTNLcDl2VTQxVlVzSk9jc0ZENEFjUE1zSUxYb3NQTERKTHNfTzJfWkpseVVQSVFn0gFWQVVfeXFMUElIWjQzVTlOZUxYLVVYS2NkQ3ZkVnV1MUN2ZTloVkY5M0twOXZVNDFWVXNKT2NzRkQ0QWNQTXNJTFhvc1BMREpMc19PMl9aSmx5VVBJUWc?oc=5) (Sat, 23 May 2026 01:39:00 GMT)
+- [FDIC Establishes Bank Secrecy Act Standards for Stablecoin Issuers - PYMNTS.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3dHMnRkeGZfdWxIT1hHQmFzS19ibUlRRHpic05XQmpmWTFFQTNsMjB3V0EtMk9LQ0liSHpIY19iTmNFQnF0cFZoOHpQMXUwUktud2FEQzJOR0RrcVkxdHFfT1l1RlhVNWo3eVBUTHhzUGFObHBwZ0hIZVIwcU9xVEZiRUdPMjR1Q3hxVi1Ldk5YZko2UlJCU0ZRVXhzMkhnbVFMZ1FqZXBiNS1qUXFUSQ?oc=5) (Fri, 22 May 2026 23:24:31 GMT)
 
 <!-- END_dashboard -->
 
