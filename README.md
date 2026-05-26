@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-25 02:40:09 (UTC)*
+*Last Updated: 2026-05-26 02:29:57 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,406,114,370** | 🔴 -0.05% | 🔴 -0.17% |
+| **$300,357,724,028** | 🔴 -0.02% | 🔴 -0.18% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Coinbase Cuts Staff While Deepening Cross Chain Security And Stablecoin Focus - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2ZJVS1QYl8zT2lMd0J1NnJBdlRnTHRHM2htS05iWGMzeFduWlR6MXpUSkNhTWFGS3p4QVpIbVNlVzlUVlFOckRqNTBDZHkzVk0wdVBuTkE4N25iWWI1Y0hOMFNxa0xHbzY3bjVhOFBCVmJrSWFmWV9TejU2Q1RtS3NIcGtIRmxUdHdVckk5WWFFbUh6cW9RTlVYcnBZYUZwWmc?oc=5) (Sun, 24 May 2026 14:14:14 GMT)
-- [ECB Pushes Back on Euro Stablecoin Proposals, Citing Bank Lending Risks - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcGlWUmdvZEc4UmpIcHlaTVczbGN0c3hrdVVjX25kekZ2bW9vYUUzVkZNUnF1X1h1Z0xlQzJnLUZpdlpxLUJ3U0VwUGVHT0hLVFlwV0NPbXRqXzFTYlZGX2RqSHFwMXo3dTNMTEs1bnM3LWI0NUttNENubWM5MERlU19xVkhHdzVpYkJZOTV2WVk2UTBicHB0LTBKZlA?oc=5) (Sun, 24 May 2026 08:00:00 GMT)
-- [FDIC Board Advances Proposed Bank Secrecy Act Rule for Stablecoin Issuers - Bitcoin News](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWl9wX2VIc3pxSWkzWGJ2WVliNEZfaEozT05XTzBFU296MGdqaWlHOG5Hc0ZRODFMTXA2WEVrVEhMVG1maVZ3czdHY2x6VlRwUVBzOV84SnZodmllZVN1MlMtMTRxWkhkS3g5QmF6VDNJTGtacUxlbXNBaDhVbU5TTjZFTDlMQUptOFFJUVc3T0puel9fd01vaEF5Tl9yNU80?oc=5) (Sun, 24 May 2026 02:35:39 GMT)
-- [StablR stablecoin contracts potentially exploited for more than $3 million in EURR and USDR - Crypto Briefing](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTzByd0ExRl9OQlotc2FobmdHMUxMR0Vsb080NG9HME1qclNJLUoxSDFyTjJsRUx4QlhFQjU0Um1hNHZJdkZhdDNIRkphZHdyd0tFVmxReGlFLVk0RE9DOWloZWEtQ0dGN2FNWlNXcDRpX3QwbnlxVFQ0N0luZTZFUVBoZjRlQ2tuS2VCUkYtT2VpSWR4OXA2dUhwQ3pNVWFEa3c?oc=5) (Sun, 24 May 2026 02:15:12 GMT)
-- [ECB warns EU finance ministers that easing euro stablecoin rules would weaken banks: Reuters - The Block](https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2puaDAtZlUtRGNVaUtJbHhTM2ZMUzlpeEkyS083NkJ4VzU4Z01jRUt0bFFEazM5REY2QzNXMDlnMHhHUzlMZ1BQQjFfOVc5c3FHTWtIX1NUVXpkYW0zWWJ2T2RBOEZhanRVOGsyRWI0bFVwaGhqcDJjRmlicTFSb0k0eTBpWEk3NlZQVm4zQ3lyOUwyaUZjNzdaNlcwejNVTkQxQkhhRS1fRDAtbDd2bF9qb2JyU0ZLSXpIVF8xQk1WQ2xiZlE?oc=5) (Sat, 23 May 2026 20:21:18 GMT)
+- [Circle CEO discusses stablecoin rewards amid GENIUS Act constraints - Crypto Briefing](https://news.google.com/rss/articles/CBMid0FVX3lxTFBLZFp5c2ZNTThRdjl5ZFBZek5MUWRrQTN1SHJOcDY1cUJESHpSZHh0eGlYU1hZYWVRRzl6bHhpaU0yQXliaDVCT3o0OWxiRGotRDc2UGd3VlFTYVVJSmhQN3FCaUd1dk05djI2NzEyQzRUallqbldJ?oc=5) (Mon, 25 May 2026 21:13:40 GMT)
+- [Tether Aims to Help Georgia Launch National Stablecoin - PYMNTS.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzNHRXMtdl9fMjliRzFCQXJxcjYxaEt6b3hRWXU0THZNaU1FczZvTWJxSmstWGZKZ1I5cVF1eG9xb0xhZXh2a0hLU19hQ1NrODdoc25jdzg2d2E2aVJTVzNsV1V2WHRUZzJXMlJpYlhjUzNKcmZnTVhEZjRLSWZoMTNROVppOGJDY284cTdVQlFGb0RyY3N3Z1BnX2g2NGc?oc=5) (Mon, 25 May 2026 20:54:31 GMT)
+- [Tether’s Georgia stablecoin plan moves early on national payment rails - CryptoSlate](https://news.google.com/rss/articles/CBMiZkFVX3lxTE90WXoyeWNwNzktdWxMcUhZOTVneGZrYWYtUUtkRW0tVms5ZVMtZ1RwYjJwUVBuMlUweVd4V21hZzN0RDVBcXA5M2lVV0dUaUxwLVkwUFNuMDhjdnNqX3RSWmhnb1VJUQ?oc=5) (Mon, 25 May 2026 20:21:28 GMT)
+- [With Central Bank’s Blessing, Georgia Taps Tether for &#x27;Official&#x27; Stablecoin - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaW1KTnczS1A5SUJTZlVaclNhaUFxT1NmUDUybGFOYUNFdlgxMHNzTUdiTnVndzFvSUNCM29FWEpZR25NanBDNWlZRTlEUVVEWVpUSzlOa1l1dnllVkMwT19PWGV0RDFUWTkybGVmcy1hRjJvVDJVTEYxWThBcndKVlh4UGVxMG51eUhJaEd6MEF0YWJfQjNCU1pOYnRmQTlO?oc=5) (Mon, 25 May 2026 18:06:03 GMT)
+- [FDIC proposes AML, BSA, sanctions rules for stablecoin issuers, deferring to Treasury - ledgerinsights.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUFdNaklIODdpRnREVG9ITXdTNkQxdWxMQk9ZcnBqODUxaDJFa1lYa212djdLblpsU1B4YXJnRWNDMXZ1RFZLU3htOGV3eHhyNTZFTFZZUDY3OTA0dXEtMDlEQjRoOENNbXJDSVd1VURWSEN6X2REUnB3SkdHLV84U3Nyb3dzN1dOeTZMeEhOdXBiVU9IckNLM0gyNTFENnpzU29TUURUOVRRcjNjc3dIMkEwX3E?oc=5) (Mon, 25 May 2026 17:41:04 GMT)
 
 <!-- END_dashboard -->
 
