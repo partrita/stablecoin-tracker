@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-26 02:29:57 (UTC)*
+*Last Updated: 2026-05-27 02:39:29 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,357,724,028** | 🔴 -0.02% | 🔴 -0.18% |
+| **$300,238,686,148** | 🔴 -0.04% | 🔴 -0.15% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Circle CEO discusses stablecoin rewards amid GENIUS Act constraints - Crypto Briefing](https://news.google.com/rss/articles/CBMid0FVX3lxTFBLZFp5c2ZNTThRdjl5ZFBZek5MUWRrQTN1SHJOcDY1cUJESHpSZHh0eGlYU1hZYWVRRzl6bHhpaU0yQXliaDVCT3o0OWxiRGotRDc2UGd3VlFTYVVJSmhQN3FCaUd1dk05djI2NzEyQzRUallqbldJ?oc=5) (Mon, 25 May 2026 21:13:40 GMT)
-- [Tether Aims to Help Georgia Launch National Stablecoin - PYMNTS.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzNHRXMtdl9fMjliRzFCQXJxcjYxaEt6b3hRWXU0THZNaU1FczZvTWJxSmstWGZKZ1I5cVF1eG9xb0xhZXh2a0hLU19hQ1NrODdoc25jdzg2d2E2aVJTVzNsV1V2WHRUZzJXMlJpYlhjUzNKcmZnTVhEZjRLSWZoMTNROVppOGJDY284cTdVQlFGb0RyY3N3Z1BnX2g2NGc?oc=5) (Mon, 25 May 2026 20:54:31 GMT)
-- [Tether’s Georgia stablecoin plan moves early on national payment rails - CryptoSlate](https://news.google.com/rss/articles/CBMiZkFVX3lxTE90WXoyeWNwNzktdWxMcUhZOTVneGZrYWYtUUtkRW0tVms5ZVMtZ1RwYjJwUVBuMlUweVd4V21hZzN0RDVBcXA5M2lVV0dUaUxwLVkwUFNuMDhjdnNqX3RSWmhnb1VJUQ?oc=5) (Mon, 25 May 2026 20:21:28 GMT)
-- [With Central Bank’s Blessing, Georgia Taps Tether for &#x27;Official&#x27; Stablecoin - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaW1KTnczS1A5SUJTZlVaclNhaUFxT1NmUDUybGFOYUNFdlgxMHNzTUdiTnVndzFvSUNCM29FWEpZR25NanBDNWlZRTlEUVVEWVpUSzlOa1l1dnllVkMwT19PWGV0RDFUWTkybGVmcy1hRjJvVDJVTEYxWThBcndKVlh4UGVxMG51eUhJaEd6MEF0YWJfQjNCU1pOYnRmQTlO?oc=5) (Mon, 25 May 2026 18:06:03 GMT)
-- [FDIC proposes AML, BSA, sanctions rules for stablecoin issuers, deferring to Treasury - ledgerinsights.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUFdNaklIODdpRnREVG9ITXdTNkQxdWxMQk9ZcnBqODUxaDJFa1lYa212djdLblpsU1B4YXJnRWNDMXZ1RFZLU3htOGV3eHhyNTZFTFZZUDY3OTA0dXEtMDlEQjRoOENNbXJDSVd1VURWSEN6X2REUnB3SkdHLV84U3Nyb3dzN1dOeTZMeEhOdXBiVU9IckNLM0gyNTFENnpzU29TUURUOVRRcjNjc3dIMkEwX3E?oc=5) (Mon, 25 May 2026 17:41:04 GMT)
+- [Deel Announces Stablecoin Salary Payouts, New Head of Crypto - CPA Practice Advisor](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY3UzUEJwX2YySWlnbURsMkZMU0pBRUREeXBqcE5xLXJPRWt5Z2hNa0tZYWVySEsxRjdvRm0zZmNkQVJXNTU4RUlKX3dUVjRuT2ZUUTFMd0pyWHdHN3ZMMmhXT0JpSU03blZaa1VHVkVtd1VHdHVzejF6bHQ0YjdwdVlEMWZ5Zll3S1J3X1dJQ0lKZTlEblFsNEpfWVFOMW16MUVlaGowVmEtSjZrU3pRVlIyRQ?oc=5) (Tue, 26 May 2026 20:46:34 GMT)
+- [FDIC proposes preclearing stablecoin AML actions with Fincen - American Banker](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlVQcDRHSGZjZU9palg0T09YSFg0UVdjUG1wd3hhMHRNZ19zT2pkbkhfdFpLVS1lbU1qUHdfaWJvM1NjYVlWV3VBd3ZDa2dfU2JzLWVRSXA0d1JmWUplYWFpRHlud0RaUWdfc1pOWl82cmprb3ZKc2JkQTIwTUdHWlVtTVVmbnZ1bWFSU002QjRDWjdIS2MzdUR2d0RFS0lVeUNRZjVadEM?oc=5) (Tue, 26 May 2026 19:09:00 GMT)
+- [Stablecoin market value now exceeds the reserves of 95 countries - Yahoo Finance UK](https://news.google.com/rss/articles/CBMijgFBVV95cUxQUzV2TTZTcl9mQkxoY1RWcG1Ob0R0REMtU3B0alB1ZUNOOHVUUjU2RUdSaThTcF9DZUZtWEgyLWpRS3U2MDFfNGhBSmQzVFZyMGNXR0RjdVk5QkhnX2FJZWY0eG9sN1A4akRxU1dzcXJjQVp4M0w4QzUyd2VDWW14TF9FX0VYSHJ6dDlMbWF3?oc=5) (Tue, 26 May 2026 18:30:35 GMT)
+- [Stablecoin market value now exceeds the reserves of 95 countries - Yahoo Finance](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWlFzbDNuT29qMkRTSlk3UExSSnVyeFdKdDk3M2ZpSEZVbnhjSG9Tc2ZTNENnYmNsSGQzeWhSUmJYZV9Jcy1fdUY5cDF0dmtjcWFrSGFuNXczby13bkFqU2NPREx4SmlXYmF6OTU5NjZnamlBYmxRSXFGZy1GUGJxMjZVeWlPZ1BMdHc?oc=5) (Tue, 26 May 2026 18:30:35 GMT)
+- [Tether and Georgia Pilot Lari-Backed Stablecoin Model - PaymentsJournal](https://news.google.com/rss/articles/CBMilAFBVV95cUxOSFFqZDJxRVhvY3g1MXp1VmhpUTJLSjQ3YVFteVZsZVV4ME4wSm5YN0JZY2pJeXFTOGlUdE82Z3V5Snh2UWhNN1VKQVVyajJtWlFUYXhjUjk1NjVCQWphaldXcm42enZ3WTZPSXpDWmFNVEczSy1TQ3YyajJ6SVVWUUJXbTE3WS16SXZqWDhrWWM4UlpO0gGUAUFVX3lxTE5IUWpkMnFFWG9jeDUxenVWaGlRMktKNDdhUW15VmxlVXgwTjBKblg3Qlljakl5cVM4aVR0TzZndXlKeHZRaE03VUpBVXJqMm1aUVRheGNSOTU2NUJBamFqV1dybjZ6dndZNk9JekNaYU1URzNLLVNDdjJqMnpJVVZRQldtMTdZLXpJdmpYOGtZYzhSWk4?oc=5) (Tue, 26 May 2026 17:39:22 GMT)
 
 <!-- END_dashboard -->
 
