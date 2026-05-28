@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-27 02:39:29 (UTC)*
+*Last Updated: 2026-05-28 02:26:16 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,238,686,148** | 🔴 -0.04% | 🔴 -0.15% |
+| **$299,836,212,081** | 🔴 -0.13% | 🔴 -0.03% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Deel Announces Stablecoin Salary Payouts, New Head of Crypto - CPA Practice Advisor](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY3UzUEJwX2YySWlnbURsMkZMU0pBRUREeXBqcE5xLXJPRWt5Z2hNa0tZYWVySEsxRjdvRm0zZmNkQVJXNTU4RUlKX3dUVjRuT2ZUUTFMd0pyWHdHN3ZMMmhXT0JpSU03blZaa1VHVkVtd1VHdHVzejF6bHQ0YjdwdVlEMWZ5Zll3S1J3X1dJQ0lKZTlEblFsNEpfWVFOMW16MUVlaGowVmEtSjZrU3pRVlIyRQ?oc=5) (Tue, 26 May 2026 20:46:34 GMT)
-- [FDIC proposes preclearing stablecoin AML actions with Fincen - American Banker](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlVQcDRHSGZjZU9palg0T09YSFg0UVdjUG1wd3hhMHRNZ19zT2pkbkhfdFpLVS1lbU1qUHdfaWJvM1NjYVlWV3VBd3ZDa2dfU2JzLWVRSXA0d1JmWUplYWFpRHlud0RaUWdfc1pOWl82cmprb3ZKc2JkQTIwTUdHWlVtTVVmbnZ1bWFSU002QjRDWjdIS2MzdUR2d0RFS0lVeUNRZjVadEM?oc=5) (Tue, 26 May 2026 19:09:00 GMT)
-- [Stablecoin market value now exceeds the reserves of 95 countries - Yahoo Finance UK](https://news.google.com/rss/articles/CBMijgFBVV95cUxQUzV2TTZTcl9mQkxoY1RWcG1Ob0R0REMtU3B0alB1ZUNOOHVUUjU2RUdSaThTcF9DZUZtWEgyLWpRS3U2MDFfNGhBSmQzVFZyMGNXR0RjdVk5QkhnX2FJZWY0eG9sN1A4akRxU1dzcXJjQVp4M0w4QzUyd2VDWW14TF9FX0VYSHJ6dDlMbWF3?oc=5) (Tue, 26 May 2026 18:30:35 GMT)
-- [Stablecoin market value now exceeds the reserves of 95 countries - Yahoo Finance](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWlFzbDNuT29qMkRTSlk3UExSSnVyeFdKdDk3M2ZpSEZVbnhjSG9Tc2ZTNENnYmNsSGQzeWhSUmJYZV9Jcy1fdUY5cDF0dmtjcWFrSGFuNXczby13bkFqU2NPREx4SmlXYmF6OTU5NjZnamlBYmxRSXFGZy1GUGJxMjZVeWlPZ1BMdHc?oc=5) (Tue, 26 May 2026 18:30:35 GMT)
-- [Tether and Georgia Pilot Lari-Backed Stablecoin Model - PaymentsJournal](https://news.google.com/rss/articles/CBMilAFBVV95cUxOSFFqZDJxRVhvY3g1MXp1VmhpUTJLSjQ3YVFteVZsZVV4ME4wSm5YN0JZY2pJeXFTOGlUdE82Z3V5Snh2UWhNN1VKQVVyajJtWlFUYXhjUjk1NjVCQWphaldXcm42enZ3WTZPSXpDWmFNVEczSy1TQ3YyajJ6SVVWUUJXbTE3WS16SXZqWDhrWWM4UlpO0gGUAUFVX3lxTE5IUWpkMnFFWG9jeDUxenVWaGlRMktKNDdhUW15VmxlVXgwTjBKblg3Qlljakl5cVM4aVR0TzZndXlKeHZRaE03VUpBVXJqMm1aUVRheGNSOTU2NUJBamFqV1dybjZ6dndZNk9JekNaYU1URzNLLVNDdjJqMnpJVVZRQldtMTdZLXpJdmpYOGtZYzhSWk4?oc=5) (Tue, 26 May 2026 17:39:22 GMT)
+- [Banking Groups Urge Regulators to Consider Stablecoin Risks - Banking Exchange](https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFBuOWdGcGpYMlpKMTVqdDBxbmlVWTlkR3BuMDBYTUsydXA0d01XcDY0b2lCWDVQMnJ0aVE4X1ppZjBtWXdMOXRHblBHWnF0VnY5UUtQNFo3UUdvWFdjeHhlRU56bmdBZEVaMDZkVE5SRWF5M0VCNE5RdWgxSVBYRk05RHJCWG0wVkpiOXRYcVhRNHpJVUVucjlwVThpVnpBUnAxQTF6d2ZaZVk3Q2pOTjNn?oc=5) (Wed, 27 May 2026 20:55:57 GMT)
+- [The $4 Trillion Stablecoin Play You Haven’t Heard Of - Weiss Ratings](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYjJhNzh1Ymp4U0hsNVdUZm1NR05ES2JCNlIwaGhVZUV2THpqT011VFdQdUx1dklFWERXRXBxYnVJd3ZoZmhNUmR3bnhFaUl4Wl9COUJiRzFpV0tJQXNmVEJkeFRBOXM0aC1MNURoZTJ0QV9RVWhuRmFpbjVhalVpNDVqN0lyeGc2elVzS3JtVzZveEZkaU1ZRXZCeVlMemM?oc=5) (Wed, 27 May 2026 20:09:18 GMT)
+- [Falcon Finance taps Anchorage to issue new GENIUS-compliant payments stablecoin fUSD - The Block](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzNYX1d4WFJ1VmJONENUa0hZZmV4Vk9HMElvd3VEOWtMZXRfUjd3M09KbDY5cU1zVmZ6SWtEVXJVSkFCQ1FtSWE1TzA0cmZaZEpjbU5maU80V3Nsd0ViYWs0Y0VBLW5iWExreUNNVVMzZ1JFb1hZM2dKd0dlbnhJdkhXdzlTY3JQcmpfTWpzcVlYYmVtYWwwY1Foc0c3ZlJ1aUlIM044dEtYTmp6UGtLdmk0OVc1UWp5Y3owcw?oc=5) (Wed, 27 May 2026 20:00:11 GMT)
+- [RegFi Episode 91: Regulating Stablecoins: The OCC’s Proposed GENIUS Act Rulemaking - JD Supra](https://news.google.com/rss/articles/CBMiigFBVV95cUxPSXNzQ3Z4SjQ0OS1BM1BXNmhUdng5RWRDLWw0RVdWZW5GWUxCSXhIbFozRmFRd0VraFdCdngxSDVWa25tSkhXMWoyWWJfUVNFNUV2bUdsVk5HLVhqNk9KdjdFUGR2b1g5Rk1lbFhuNGV2WjR1ZHRVUFh3am1DbnV4TkRHZ3h2enlJR0E?oc=5) (Wed, 27 May 2026 19:57:18 GMT)
+- [Mastercard Snags Crypto License as Stablecoin Race Becomes Compliance War - PYMNTS.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2swNTF3SDhsWnJvQkxWUkdiV1IzZVFhZ2hUblpySnZpd1Z4M2M2aDJzaklXcmhGR2FVUEF0Ukx0eXBEN3A2OVhieDlHVUpZTnZ0bkhWMG9GLXR6ckpPMHV6VXJBSXEzbmtTYzItcHAyN1RfcGxjRk9qeXY2NXYtOFVMaEZIckFQU0NuSlpKZ2JCeWhqZjEyT251ZURObTJTeWlnRDRyR1NMSWJxanp3aHFyUk1rcmVZ?oc=5) (Wed, 27 May 2026 19:50:26 GMT)
 
 <!-- END_dashboard -->
 
