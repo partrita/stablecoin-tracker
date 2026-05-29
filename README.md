@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-28 02:26:16 (UTC)*
+*Last Updated: 2026-05-29 02:31:02 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$299,836,212,081** | 🔴 -0.13% | 🔴 -0.03% |
+| **$299,341,398,551** | 🔴 -0.17% | 🔴 -0.30% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Banking Groups Urge Regulators to Consider Stablecoin Risks - Banking Exchange](https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFBuOWdGcGpYMlpKMTVqdDBxbmlVWTlkR3BuMDBYTUsydXA0d01XcDY0b2lCWDVQMnJ0aVE4X1ppZjBtWXdMOXRHblBHWnF0VnY5UUtQNFo3UUdvWFdjeHhlRU56bmdBZEVaMDZkVE5SRWF5M0VCNE5RdWgxSVBYRk05RHJCWG0wVkpiOXRYcVhRNHpJVUVucjlwVThpVnpBUnAxQTF6d2ZaZVk3Q2pOTjNn?oc=5) (Wed, 27 May 2026 20:55:57 GMT)
-- [The $4 Trillion Stablecoin Play You Haven’t Heard Of - Weiss Ratings](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYjJhNzh1Ymp4U0hsNVdUZm1NR05ES2JCNlIwaGhVZUV2THpqT011VFdQdUx1dklFWERXRXBxYnVJd3ZoZmhNUmR3bnhFaUl4Wl9COUJiRzFpV0tJQXNmVEJkeFRBOXM0aC1MNURoZTJ0QV9RVWhuRmFpbjVhalVpNDVqN0lyeGc2elVzS3JtVzZveEZkaU1ZRXZCeVlMemM?oc=5) (Wed, 27 May 2026 20:09:18 GMT)
-- [Falcon Finance taps Anchorage to issue new GENIUS-compliant payments stablecoin fUSD - The Block](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzNYX1d4WFJ1VmJONENUa0hZZmV4Vk9HMElvd3VEOWtMZXRfUjd3M09KbDY5cU1zVmZ6SWtEVXJVSkFCQ1FtSWE1TzA0cmZaZEpjbU5maU80V3Nsd0ViYWs0Y0VBLW5iWExreUNNVVMzZ1JFb1hZM2dKd0dlbnhJdkhXdzlTY3JQcmpfTWpzcVlYYmVtYWwwY1Foc0c3ZlJ1aUlIM044dEtYTmp6UGtLdmk0OVc1UWp5Y3owcw?oc=5) (Wed, 27 May 2026 20:00:11 GMT)
-- [RegFi Episode 91: Regulating Stablecoins: The OCC’s Proposed GENIUS Act Rulemaking - JD Supra](https://news.google.com/rss/articles/CBMiigFBVV95cUxPSXNzQ3Z4SjQ0OS1BM1BXNmhUdng5RWRDLWw0RVdWZW5GWUxCSXhIbFozRmFRd0VraFdCdngxSDVWa25tSkhXMWoyWWJfUVNFNUV2bUdsVk5HLVhqNk9KdjdFUGR2b1g5Rk1lbFhuNGV2WjR1ZHRVUFh3am1DbnV4TkRHZ3h2enlJR0E?oc=5) (Wed, 27 May 2026 19:57:18 GMT)
-- [Mastercard Snags Crypto License as Stablecoin Race Becomes Compliance War - PYMNTS.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2swNTF3SDhsWnJvQkxWUkdiV1IzZVFhZ2hUblpySnZpd1Z4M2M2aDJzaklXcmhGR2FVUEF0Ukx0eXBEN3A2OVhieDlHVUpZTnZ0bkhWMG9GLXR6ckpPMHV6VXJBSXEzbmtTYzItcHAyN1RfcGxjRk9qeXY2NXYtOFVMaEZIckFQU0NuSlpKZ2JCeWhqZjEyT251ZURObTJTeWlnRDRyR1NMSWJxanp3aHFyUk1rcmVZ?oc=5) (Wed, 27 May 2026 19:50:26 GMT)
+- [SoFi Technologies Launches First U.S. National Bank Stablecoin To Challenge Digital Finance Rivals - foreignpolicyjournal.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNek90bS1leUdLektsLXFCQkt2QVpPeHZFUHpFWE5PcXJ4QnhfYW12b2VXMXljZXlMaTFNSlVxZ0dYWENCNXBwam82QmpjVUJMd0VJeU9tOEo2VUxMb1BNUjZTajRET1lfbllKa3J3cHg5MlNMWFBJNl9JWXhxcm5vdHppZFpPb1VBcF8xc1hLcUZyZ3Q3cHF0aUk2ZGZrLVNLdzNQWjN5bzFBVUNTN1ZEcWtlQ2dVYXlKTWc0QmhXWXlyYndHY19kQkZtaE1Bc0NLYjNWblg4MnRxbHdPSkZR?oc=5) (Thu, 28 May 2026 20:18:51 GMT)
+- [SoFi Expands Stablecoin Access To Nearly 15 Million Banking Customers - CUToday](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWctdzQ4U1ZkZUxLSXJ6SWc0eHpBN1I1MnAtSVNvV3pjcTFtR0RuTnFTX1RRUGc0SzhPNWlQdzQ0ZlVSQ3o1M3FkOGpwWnNDWHJuTkxaTWtTaDUwUkxkVEtpNDVySzNQS1VMR3RuazdrNUdBcGN4NUxTY0VVbWRWYWZkS3UzSUpwOTU3SnNzLVdiT0UtSmdGcGJ5OEpqUWF3N2lWanRRcUNLUQ?oc=5) (Thu, 28 May 2026 20:04:17 GMT)
+- [Tether&#x27;s U.S.-focused stablecoin grows over 500% in a month, but still lags main rivals - CoinDesk](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTjFRaDBIRGRhajdVbnEtcnZEMTJCcmVfMmVKXy1YOUNwQVVXem5rNEtQVlFjejEtTm80MldJeWZmbFl0SmxTa2o4X2U4MDEzNGRoSl9KZlR6c1VybGRJQzRhcTJfTDI5NWRROUhaYUhrODM4LTgtLVgzdVYyRElGZVN2SV9aYW9adl9UdXJpTDR2R2ZFVDJzbkJnbEYxWndYdzJqLUJMQmhWY0JkRWtPaUUwNnVPWmJlRE1PMm1TVndTdUtyaklfTA?oc=5) (Thu, 28 May 2026 18:55:04 GMT)
+- [Cash App Now Facilitates Stablecoin Transactions, But Keeps Stablecoins Invisible - Finovate](https://news.google.com/rss/articles/CBMipAFBVV95cUxPM1BRYlItVk81M0JuZFE1SDZWQjd6REpGUXo0bUI3dlEzZC1Zc0tPVVBLWjFfNGw2RzY1X29zY0xGd3RNSjZmS1NsYTRvN1RFbTBmWklRcjJDZWdRZTl3UU5UWEdVcTFILUF4RGJjeEw3OHY5YXJjcFNQVTlZRUNjTlljLVJNTGxkMkdkOU5hemljbmVjWnJYbHNyek1UWlYwQVF5aA?oc=5) (Thu, 28 May 2026 18:54:49 GMT)
+- [Why it&#x27;s worth it for Jack Dorsey to make nice with stablecoins - American Banker](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjdlbnBwVnlWcTRZNU85dW1USTFCaXRtb0xzTzFmWXgzV0dhWTNqdFlRdE16NFVlZzljNzVrOHptdmhsZzR1bkRDek9zZ205X0sxNGtKVHB4QU1yaWNDVm9Mek1udDlFdWgwbE5tMlJ2b3BiLW9FWmxqcXpxS294UjdsbUdiS0NSLVpKNHVFcTRFZnNlV1Bn?oc=5) (Thu, 28 May 2026 18:44:00 GMT)
 
 <!-- END_dashboard -->
 
