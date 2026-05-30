@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-29 02:31:02 (UTC)*
+*Last Updated: 2026-05-30 02:14:58 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$299,341,398,551** | 🔴 -0.17% | 🔴 -0.30% |
+| **$297,906,504,637** | 🔴 -0.48% | 🔴 -0.90% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [SoFi Technologies Launches First U.S. National Bank Stablecoin To Challenge Digital Finance Rivals - foreignpolicyjournal.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNek90bS1leUdLektsLXFCQkt2QVpPeHZFUHpFWE5PcXJ4QnhfYW12b2VXMXljZXlMaTFNSlVxZ0dYWENCNXBwam82QmpjVUJMd0VJeU9tOEo2VUxMb1BNUjZTajRET1lfbllKa3J3cHg5MlNMWFBJNl9JWXhxcm5vdHppZFpPb1VBcF8xc1hLcUZyZ3Q3cHF0aUk2ZGZrLVNLdzNQWjN5bzFBVUNTN1ZEcWtlQ2dVYXlKTWc0QmhXWXlyYndHY19kQkZtaE1Bc0NLYjNWblg4MnRxbHdPSkZR?oc=5) (Thu, 28 May 2026 20:18:51 GMT)
-- [SoFi Expands Stablecoin Access To Nearly 15 Million Banking Customers - CUToday](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWctdzQ4U1ZkZUxLSXJ6SWc0eHpBN1I1MnAtSVNvV3pjcTFtR0RuTnFTX1RRUGc0SzhPNWlQdzQ0ZlVSQ3o1M3FkOGpwWnNDWHJuTkxaTWtTaDUwUkxkVEtpNDVySzNQS1VMR3RuazdrNUdBcGN4NUxTY0VVbWRWYWZkS3UzSUpwOTU3SnNzLVdiT0UtSmdGcGJ5OEpqUWF3N2lWanRRcUNLUQ?oc=5) (Thu, 28 May 2026 20:04:17 GMT)
-- [Tether&#x27;s U.S.-focused stablecoin grows over 500% in a month, but still lags main rivals - CoinDesk](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTjFRaDBIRGRhajdVbnEtcnZEMTJCcmVfMmVKXy1YOUNwQVVXem5rNEtQVlFjejEtTm80MldJeWZmbFl0SmxTa2o4X2U4MDEzNGRoSl9KZlR6c1VybGRJQzRhcTJfTDI5NWRROUhaYUhrODM4LTgtLVgzdVYyRElGZVN2SV9aYW9adl9UdXJpTDR2R2ZFVDJzbkJnbEYxWndYdzJqLUJMQmhWY0JkRWtPaUUwNnVPWmJlRE1PMm1TVndTdUtyaklfTA?oc=5) (Thu, 28 May 2026 18:55:04 GMT)
-- [Cash App Now Facilitates Stablecoin Transactions, But Keeps Stablecoins Invisible - Finovate](https://news.google.com/rss/articles/CBMipAFBVV95cUxPM1BRYlItVk81M0JuZFE1SDZWQjd6REpGUXo0bUI3dlEzZC1Zc0tPVVBLWjFfNGw2RzY1X29zY0xGd3RNSjZmS1NsYTRvN1RFbTBmWklRcjJDZWdRZTl3UU5UWEdVcTFILUF4RGJjeEw3OHY5YXJjcFNQVTlZRUNjTlljLVJNTGxkMkdkOU5hemljbmVjWnJYbHNyek1UWlYwQVF5aA?oc=5) (Thu, 28 May 2026 18:54:49 GMT)
-- [Why it&#x27;s worth it for Jack Dorsey to make nice with stablecoins - American Banker](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjdlbnBwVnlWcTRZNU85dW1USTFCaXRtb0xzTzFmWXgzV0dhWTNqdFlRdE16NFVlZzljNzVrOHptdmhsZzR1bkRDek9zZ205X0sxNGtKVHB4QU1yaWNDVm9Mek1udDlFdWgwbE5tMlJ2b3BiLW9FWmxqcXpxS294UjdsbUdiS0NSLVpKNHVFcTRFZnNlV1Bn?oc=5) (Thu, 28 May 2026 18:44:00 GMT)
+- [Cash App enables USDC for P2P - eMarketer](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRlhqSGJjU1B5OUhCeVlQZmJMRFpvY3VsUllDYVpFbko1S0ppZzgzTXdlVFlkZDFVNE9SN0ZQM055TWFlTWxzQ1FkdmlmbFY1TVJhMk9nT1dIY1RPZnhseEo0c2Q4QmJiTjZ0dWR0Wm1pVWwxRWlwOEJEOWd6MWlraw?oc=5) (Fri, 29 May 2026 20:46:12 GMT)
+- [‘The banks will not accept it’: Dimon escalates battle over stablecoin rewards in CLARITY Act debate - CoinDesk](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeTFCMU8xem1iU2FmRVE0ckJyUXFFU2RZNU9qZnhmLTBGX3VCSTl4V2dod0JSWlpaLWFwaG4xNFNtcENudG1Zb3ZnSWRnSkpDWW5DUE00QmFkTTFkN3dUQ0o4cUFCY1dxQ1ZHbkxyR1c5TjRNT1ZJNEU0X3RFMmJoMnJrVVhraEhKSThpWE9aQVpKMTZDNktKQ2xsRUtPRVJDWnpJWW9mRGJwNkRqVWJ2LWtkSmR4cVR4aWE5ZFc1Z3g4QVRNQ2p2Z3hCclI5dXdfTTZRbkdDUQ?oc=5) (Fri, 29 May 2026 20:05:07 GMT)
+- [Crypto Brief - Lowenstein Crypto Newsletter - May 28, 2026 - JD Supra](https://news.google.com/rss/articles/CBMifkFVX3lxTFBRdXFfa0R4OVpqWlM1LXZVVTdQaW4xZGNiVDFlS2JQMUVGN3Zob2UxQXR4X09PYkVCc2VyQmxGNFB5aGQ2Uk5qU0o4RU5GdHhTdTdtWGpJc294Q1pzd0Y0azZhZDlBazBPVTg5bHZvZm13WXotb19Nem1DLWNMQQ?oc=5) (Fri, 29 May 2026 19:26:28 GMT)
+- [Stablecoin Settlement Is Here, but Seamless Off-Chain Money Movement Is Not - PYMNTS.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNQWpGNmRBR0hKeHdnTFl1cVlraWtlQm5yazNDZElCb3NlaEIwX2JtbFA0ZEk3WDVYLVVxMTZCTS1nSHgyV1Y2RTNvVVFmdmZKR1hKcnhhV3NGS09iOVplMzJwbUhhQXBVN3lTei1lcEZ0am5DbF9ka1N5RjR5YW52UmxSTmctUng3czhxdU5TVFM3NV9aNnlFQWNpWkREWnQtLVVmNFd2WlUxX1ItaE5LNUUzcmNrWnNseUE?oc=5) (Fri, 29 May 2026 17:54:02 GMT)
+- [Payments Stocks in the Stablecoin Era: 3 to Buy and 1 to Avoid - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxPT0h0Z0FfNG5KZzhoT0p1WkgycmZNcjhRaFFLZEgzaGN6aXR4STIxS2JucXlMV25QblVJTGt4RGtIYk1IQnR2UEIzalFqVVNnYlpVLUFZdzQ3UWdtcEh2UzlHb083MlVITWdRd1VodURsT2kzdnlJSDY5aVBMa0s0M1FLamh3Z2hfLURFRW9GYmIzYzhVdUd5b2pwbUFpZw?oc=5) (Fri, 29 May 2026 17:40:00 GMT)
 
 <!-- END_dashboard -->
 
