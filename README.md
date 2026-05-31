@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-05-30 02:14:58 (UTC)*
+*Last Updated: 2026-05-31 02:41:04 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$297,906,504,637** | 🔴 -0.48% | 🔴 -0.90% |
+| **$297,689,336,449** | 🔴 -0.07% | 🔴 -0.95% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [BPInsights: May 30, 2026 - Bank Policy Institute](https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxWU5Bb0l3VlVuSmc0MVg2azdfbEM0N2o1Qld3Zko4WkFVVGs2TkF1dXQ4MzFxZmZyLWw1el9nSUVDMkdfQnRCNDNJOGZ6UXR2?oc=5) (Sat, 30 May 2026 11:00:00 GMT)
 - [Cash App enables USDC for P2P - eMarketer](https://news.google.com/rss/articles/CBMigAFBVV95cUxQRlhqSGJjU1B5OUhCeVlQZmJMRFpvY3VsUllDYVpFbko1S0ppZzgzTXdlVFlkZDFVNE9SN0ZQM055TWFlTWxzQ1FkdmlmbFY1TVJhMk9nT1dIY1RPZnhseEo0c2Q4QmJiTjZ0dWR0Wm1pVWwxRWlwOEJEOWd6MWlraw?oc=5) (Fri, 29 May 2026 20:46:12 GMT)
+- [SOFI Stock Pops Following SoFi&#x27;s Stablecoin Announcement. What to Know. - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHBTM1J6bTFRMTVCWXZmbVBGVkZGalhGUzVsWDkwcGVZNjBCWVdqZGtIcWNqVUhySndZRTlvaGRJZmhjZHM4NC1HQ1QwMk1VNVh0VDRYdERHMXIwTXFoVms1cE9qU3EwRm1sMTFGbURMdVFzOVZQUm5aaUgwc0RvTmUzNTlNcjJId3llTjU3SGU2QWFjYUZIWkRtN08?oc=5) (Fri, 29 May 2026 20:07:19 GMT)
 - [‘The banks will not accept it’: Dimon escalates battle over stablecoin rewards in CLARITY Act debate - CoinDesk](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeTFCMU8xem1iU2FmRVE0ckJyUXFFU2RZNU9qZnhmLTBGX3VCSTl4V2dod0JSWlpaLWFwaG4xNFNtcENudG1Zb3ZnSWRnSkpDWW5DUE00QmFkTTFkN3dUQ0o4cUFCY1dxQ1ZHbkxyR1c5TjRNT1ZJNEU0X3RFMmJoMnJrVVhraEhKSThpWE9aQVpKMTZDNktKQ2xsRUtPRVJDWnpJWW9mRGJwNkRqVWJ2LWtkSmR4cVR4aWE5ZFc1Z3g4QVRNQ2p2Z3hCclI5dXdfTTZRbkdDUQ?oc=5) (Fri, 29 May 2026 20:05:07 GMT)
 - [Crypto Brief - Lowenstein Crypto Newsletter - May 28, 2026 - JD Supra](https://news.google.com/rss/articles/CBMifkFVX3lxTFBRdXFfa0R4OVpqWlM1LXZVVTdQaW4xZGNiVDFlS2JQMUVGN3Zob2UxQXR4X09PYkVCc2VyQmxGNFB5aGQ2Uk5qU0o4RU5GdHhTdTdtWGpJc294Q1pzd0Y0azZhZDlBazBPVTg5bHZvZm13WXotb19Nem1DLWNMQQ?oc=5) (Fri, 29 May 2026 19:26:28 GMT)
-- [Stablecoin Settlement Is Here, but Seamless Off-Chain Money Movement Is Not - PYMNTS.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNQWpGNmRBR0hKeHdnTFl1cVlraWtlQm5yazNDZElCb3NlaEIwX2JtbFA0ZEk3WDVYLVVxMTZCTS1nSHgyV1Y2RTNvVVFmdmZKR1hKcnhhV3NGS09iOVplMzJwbUhhQXBVN3lTei1lcEZ0am5DbF9ka1N5RjR5YW52UmxSTmctUng3czhxdU5TVFM3NV9aNnlFQWNpWkREWnQtLVVmNFd2WlUxX1ItaE5LNUUzcmNrWnNseUE?oc=5) (Fri, 29 May 2026 17:54:02 GMT)
-- [Payments Stocks in the Stablecoin Era: 3 to Buy and 1 to Avoid - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxPT0h0Z0FfNG5KZzhoT0p1WkgycmZNcjhRaFFLZEgzaGN6aXR4STIxS2JucXlMV25QblVJTGt4RGtIYk1IQnR2UEIzalFqVVNnYlpVLUFZdzQ3UWdtcEh2UzlHb083MlVITWdRd1VodURsT2kzdnlJSDY5aVBMa0s0M1FLamh3Z2hfLURFRW9GYmIzYzhVdUd5b2pwbUFpZw?oc=5) (Fri, 29 May 2026 17:40:00 GMT)
 
 <!-- END_dashboard -->
 
