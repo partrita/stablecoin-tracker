@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-01 02:50:21 (UTC)*
+*Last Updated: 2026-06-02 02:47:14 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$297,396,808,115** | 🔴 -0.10% | 🔴 -1.00% |
+| **$297,546,158,196** | 🟢 +0.05% | 🔴 -0.94% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Rising stablecoin use could cement dollar dominance, ECB&#x27;s Schnabel says - Yahoo! Finance Canada](https://news.google.com/rss/articles/CBMijwFBVV95cUxOM01lSlVobkxlVDY5b0FFbzNPUmI0NGFobmFmR1Q3cWlYV0VPZEdaSHNucEFFa0NvSXpEMGk1eU1NMVFzNTJ5LVRPVXJCbWQ1eW95SC1JcW9aYmVjOUhPNkVLaENTOXRTQU5iWTNxZ2VFem1IeEdwa1QyR1Vha0tOTUNEQ3FqelVhRkJ6a2d0Zw?oc=5) (Mon, 01 Jun 2026 00:15:00 GMT)
-- [From money market funds to stablecoins: lessons for central banks - European Central Bank](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWpBLUxCb0JzalYyTXNRSTB1MTlreEVoaDhxTnJtWHgyNmxUTU9odWVLUHlIMlpybFlfNkpvZzBIOFlobjVqdTZPckptcDV1QXIyR3ZvMmhkX25OeG95dk5fWEpKdlEtcm52a3dpcFh2UDJpUXNKTUY0R1hjNHVtT05GY1VMdHRmQlFj?oc=5) (Mon, 01 Jun 2026 00:10:32 GMT)
-- [Stablecoin demand may soon fade, BoE&#x27;s Greene says - Reuters](https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2RKY1lIZEwtYzlBSXN2Mkx2RU9YYXVqZmlFaWZ5V2piVTRyWWtud0E4UXByUzh2RU94WGZ2R3RVallTTmhkakFVQ21scXI4X3hMOThkT3BxSHp3UzBjaV8tLUFvcEUzbUpRX1JMNkMtTmpyeEZvWFFjQmR5R2ZXc21MejVHZGV5cFVyZVpUclRudkdOWkhQV1hoODdnZ2tNTHF3?oc=5) (Sun, 31 May 2026 15:30:09 GMT)
-- [Stablecoin demand may soon fade, BoE&#x27;s Greene says - Yahoo! Finance Canada](https://news.google.com/rss/articles/CBMihwFBVV95cUxPU1gxUE9iMXo5TXBEUENFbWtiVjZPYzZzT2VCTWQxRDNvakxONTdvYXRQeWhDVXdSOXc5Zkhjd2ltbHVsYmxFVGNkVGttSGd2LS1WdUpheERGdXhwa0k2ME5FSlc5NnBxRXRuTDFoT2p2ZGlzVXBZVnAyaHZxWC1xdFRaN3FxNFk?oc=5) (Sun, 31 May 2026 15:29:56 GMT)
-- [Fed’s Waller Says Stablecoins to Broaden Reach of US Policy - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxOekgzVVJDc3lqSGJlNmhha0pPWXhqbzAtMVNCZHNzdVN6SDRPWEM5dnJicURReTZ4bnJNYVIwTzdDWjRjemNPeWxjMDI3Y1hjWC1aM3IwTEc1SUpXTTdERHBIMUEwZ3NIVy1ybmtnZW9yWkRhT2ZaX2tlVHd3Y0NCaFRtMGZBYVFqNllpZnVOY1lmX3V6X2VKbVdWdU83bTRfV0E?oc=5) (Sun, 31 May 2026 13:59:47 GMT)
+- [Who Is Who in the Banks vs. Stablecoin-Yield Battle - PYMNTS.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxPamhmbzZYNWJodkJ6aGNPZEVBaHZJQllURUlCYnZ5OF9ZSkpyTEFGdDRtQjJ3b2RjMFdZek8xeDlTX25vWkFLZ2tzNk1VTEdIVm5FNnVhVmdsREwxQU0taDlwNU55RDRfTlVTb0Q4b2MxbXpxRHFHS3ZPYlNOSFQtVWlLRU81c0xEcDFndVNIeVdKR3h0Y0duRWJn?oc=5) (Tue, 02 Jun 2026 00:21:21 GMT)
+- [GENIUS Act &amp; Stablecoin Regulation FAQ: What Broker-Dealers and Banks Need to Know - Nasdaq](https://news.google.com/rss/articles/CBMizAFBVV95cUxQM203amVKWFFCU2ZmNFNDcWlkYnZHYVpfNk9iMjR1VmNtTENFT3hoTEFUMk9FSEhkMTVBd3FGWU9MZmRBMXBTZnZsSjdDbUhvdDVTM2FxV1A5TnpBeGZFRVlRTEk1UnU5TnVOcF9fTVQ4VUxvUlp4bkU1Slp0NnVPM3FXVnZHWjZqcDI2UmQ5WFJ2WC11WjF5bFBuQTQ3bUlIWmdvVG0yS2NiZVQ0VlBVcFk0SWYxaC01UXpIaWpZRFJWcXF0RlptSDVJamQ?oc=5) (Mon, 01 Jun 2026 22:42:34 GMT)
+- [Agentic AI has holes. Circle and Nium are trying to fill them - American Banker](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSVllM09aNE9zdHRNdWcwdWVpUmhlb2Y1c3VfbzEzMlI3bi14T3liNnlBZ2RZOHFydVZiaVNZSi11ZDdqamF6bGhaa2NoUllKNzdHU0VwWjJST2Q2QlkwdEFRUVVYcFF1NUd3Z0xock1neUhrY0JZR3FUNThwaUZYdzVvcnpWNEZjVFU0ZXRyT3pJT1hDa3NN?oc=5) (Mon, 01 Jun 2026 19:17:00 GMT)
+- [SoFi Launches First Bank-Issued Stablecoin (SoFiUSD) on Consumer Banking App - Loeb &amp; Loeb LLP](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ3lncWI4akNBeEJfU18wTVJtQkRER2RBMVEtUm1YWl9nREpDTFlFQ2dlODctLXNFSkVKekpNUGFfR19WOGxLdGdYeDE5TXVaWkljQVUtOWpRaGdNR0FkTVA3THZ1dW5qSUNRQ2FFcldMOUZIdDBYQ25JSnctV1pYX3MwMGN1eW94a29oRXFDc3FnYjlNNnZxbXphYW41N0tlWjdaNkRpeTJvVkJrb1BQT2k4MHMybVJDUDJYaWl3?oc=5) (Mon, 01 Jun 2026 18:23:06 GMT)
+- [Stablecoin rewards: JP Morgan’s Dimon says Coinbase CEO is full of s!!t - ledgerinsights.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUFQaXZMazIzUDFFeFh4alcwX2RUNFh6Mm9hak0tTWRWOVd2UTVxeW1GcUFuR2dsODg4WWpGS0k2NUtvb21RdHExd0R0Qi01N0ltWDlFcEhvZU1MSjhJTE41X3RUd09qZzJWUU9TSHlwNHMwWkdEcmtyWUdJVFF4OGE3VmVVMi1SVktmUl84Y2xKeGZ4bVhmTG5jS3BFMVZa?oc=5) (Mon, 01 Jun 2026 15:15:00 GMT)
 
 <!-- END_dashboard -->
 
