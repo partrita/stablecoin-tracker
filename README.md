@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-02 02:47:14 (UTC)*
+*Last Updated: 2026-06-03 02:55:52 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$297,546,158,196** | 🟢 +0.05% | 🔴 -0.94% |
+| **$297,324,631,269** | 🔴 -0.07% | 🔴 -0.97% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Who Is Who in the Banks vs. Stablecoin-Yield Battle - PYMNTS.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxPamhmbzZYNWJodkJ6aGNPZEVBaHZJQllURUlCYnZ5OF9ZSkpyTEFGdDRtQjJ3b2RjMFdZek8xeDlTX25vWkFLZ2tzNk1VTEdIVm5FNnVhVmdsREwxQU0taDlwNU55RDRfTlVTb0Q4b2MxbXpxRHFHS3ZPYlNOSFQtVWlLRU81c0xEcDFndVNIeVdKR3h0Y0duRWJn?oc=5) (Tue, 02 Jun 2026 00:21:21 GMT)
-- [GENIUS Act &amp; Stablecoin Regulation FAQ: What Broker-Dealers and Banks Need to Know - Nasdaq](https://news.google.com/rss/articles/CBMizAFBVV95cUxQM203amVKWFFCU2ZmNFNDcWlkYnZHYVpfNk9iMjR1VmNtTENFT3hoTEFUMk9FSEhkMTVBd3FGWU9MZmRBMXBTZnZsSjdDbUhvdDVTM2FxV1A5TnpBeGZFRVlRTEk1UnU5TnVOcF9fTVQ4VUxvUlp4bkU1Slp0NnVPM3FXVnZHWjZqcDI2UmQ5WFJ2WC11WjF5bFBuQTQ3bUlIWmdvVG0yS2NiZVQ0VlBVcFk0SWYxaC01UXpIaWpZRFJWcXF0RlptSDVJamQ?oc=5) (Mon, 01 Jun 2026 22:42:34 GMT)
-- [Agentic AI has holes. Circle and Nium are trying to fill them - American Banker](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSVllM09aNE9zdHRNdWcwdWVpUmhlb2Y1c3VfbzEzMlI3bi14T3liNnlBZ2RZOHFydVZiaVNZSi11ZDdqamF6bGhaa2NoUllKNzdHU0VwWjJST2Q2QlkwdEFRUVVYcFF1NUd3Z0xock1neUhrY0JZR3FUNThwaUZYdzVvcnpWNEZjVFU0ZXRyT3pJT1hDa3NN?oc=5) (Mon, 01 Jun 2026 19:17:00 GMT)
-- [SoFi Launches First Bank-Issued Stablecoin (SoFiUSD) on Consumer Banking App - Loeb &amp; Loeb LLP](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ3lncWI4akNBeEJfU18wTVJtQkRER2RBMVEtUm1YWl9nREpDTFlFQ2dlODctLXNFSkVKekpNUGFfR19WOGxLdGdYeDE5TXVaWkljQVUtOWpRaGdNR0FkTVA3THZ1dW5qSUNRQ2FFcldMOUZIdDBYQ25JSnctV1pYX3MwMGN1eW94a29oRXFDc3FnYjlNNnZxbXphYW41N0tlWjdaNkRpeTJvVkJrb1BQT2k4MHMybVJDUDJYaWl3?oc=5) (Mon, 01 Jun 2026 18:23:06 GMT)
-- [Stablecoin rewards: JP Morgan’s Dimon says Coinbase CEO is full of s!!t - ledgerinsights.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUFQaXZMazIzUDFFeFh4alcwX2RUNFh6Mm9hak0tTWRWOVd2UTVxeW1GcUFuR2dsODg4WWpGS0k2NUtvb21RdHExd0R0Qi01N0ltWDlFcEhvZU1MSjhJTE41X3RUd09qZzJWUU9TSHlwNHMwWkdEcmtyWUdJVFF4OGE3VmVVMi1SVktmUl84Y2xKeGZ4bVhmTG5jS3BFMVZa?oc=5) (Mon, 01 Jun 2026 15:15:00 GMT)
+- [Rigid stablecoin reserve rules can increase default risk, BIS paper finds - ledgerinsights.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFFrd1dEd2JyUU1RbVVKNmVLMUZtWXV1bml3aFFEWldfNUp4QkdfREdaWlhoaGpsdDJwd2FBRDB1NkhIYWI1WmRZTUptd3FoRVlCS2EyVFhhTGd0MXZYU1VLX1Bpcy1ObWd6RmViN1F3eUxPNkxEdlNodlFhclN0OXp3bEtfN0RFamZvNXBWMHVaOVBDOUpuMTJacHZSZ2thZksyaUNKaw?oc=5) (Wed, 03 Jun 2026 00:31:20 GMT)
+- [Lords committee urges looser UK stablecoin regime - TheBanker.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE94ZUpZR0JudTEwZTZBMG9GZzJ3aklUQ2psZDU4WkFYazE1XzY5LXNSSjdabXlCYi04ZkxjMUwwSnNzbXBiOHJ3aTFzRnV5OVEtQ2RIQzFFVFdpMXlWU0VfSEtiS2gzYVFBbmd1NExrRkdCbVJZdm5jeGlB?oc=5) (Wed, 03 Jun 2026 00:09:23 GMT)
+- [Bank of England faces calls from UK lawmakers to ease stablecoin plans - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxQYW50VU96bkRsQWRkS1gtdnBySjB0SkhaYi1MdUowQ1VneW5GS010elNfQ00zYmNuNjcwOXlnZEdTU1YxUHNjdmU4Sl85T0tYQWptTS02eXhxMW9Kelc3T2VCamVFTC1LLTZpbUVxcGhrQ08wOEROZkFBSlFwa1VsZGowRGVJMWtySks0U2ZvVHZFNTQ0OUVTM0lqb2NhczI2UEdGVkR6dFJEekN3Vk1RcDNB?oc=5) (Tue, 02 Jun 2026 23:12:12 GMT)
+- [Financial Services Regulation Committee publishes report on regulation of stablecoins - UK Parliament](https://news.google.com/rss/articles/CBMikwJBVV95cUxNXzgzeVVveS16Y2ktZHFnUXJnZ0x0VXJkSjZaN0pUS2lUUzBIZ0ZDNUJ4WlFtZFlVUWFrc3pvTVZFaDFZYm5tenlhZVBvY05jYnVNWFp4SnlsTGI1MTBqTTJXMER5aXBId18tdWRIMUZvSDFyeUlKZW9xQ09aNFdGNTlwZ2c3TTM0ZF9rVF96YXlTQmZ6WU9BZmFkUmlSMFlwTTg1RE0zLUR2eGZlSG9fYzdVOFdaM0puR0VDc2d0cFlURU9EeTBiWHg4VkFBVmZ0SEVibk01RHFtdUdVUm5sN2lLTk96Y0sxTHh4VVRuUy1TYmpwa2VZVzVlc3JuNjU3UUlKTnBFWkRheTMzQVdmTG9BVQ?oc=5) (Tue, 02 Jun 2026 23:08:48 GMT)
+- [UK House of Lords committee calls on Bank of England to reconsider proposed stablecoin restrictions - CoinDesk](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc3hEVTBZaWlSSkpRaHJjbS0tT1pteXNrXzA2TmpPNUNsOHJKVDhJdXRQYjliZGVKTE4wTi1vWHFiVHdqeXVpbGRxNE5hREJ4T211YmVzelBsMklxSjFBZFowUkZYQ2E0ZDh2VDlGbTVYTEpvSkY3aDNCRDFQWGF3YWE5RlU0eDFqMm0wcWE0cGo1WnZ6bUdYWEJkTlh2ZjZweEZFbzV3LVc0dzNfUU9XOFhGZVBQWWVtUGJIbS0waVVQVTBKX3FpWlEwUG5Pc0R1c2hERlpvVVFfZw?oc=5) (Tue, 02 Jun 2026 23:03:08 GMT)
 
 <!-- END_dashboard -->
 
