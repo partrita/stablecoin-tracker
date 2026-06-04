@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-03 02:55:52 (UTC)*
+*Last Updated: 2026-06-04 02:51:38 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$297,324,631,269** | 🔴 -0.07% | 🔴 -0.97% |
+| **$296,541,259,457** | 🔴 -0.26% | 🔴 -1.10% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Rigid stablecoin reserve rules can increase default risk, BIS paper finds - ledgerinsights.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFFrd1dEd2JyUU1RbVVKNmVLMUZtWXV1bml3aFFEWldfNUp4QkdfREdaWlhoaGpsdDJwd2FBRDB1NkhIYWI1WmRZTUptd3FoRVlCS2EyVFhhTGd0MXZYU1VLX1Bpcy1ObWd6RmViN1F3eUxPNkxEdlNodlFhclN0OXp3bEtfN0RFamZvNXBWMHVaOVBDOUpuMTJacHZSZ2thZksyaUNKaw?oc=5) (Wed, 03 Jun 2026 00:31:20 GMT)
-- [Lords committee urges looser UK stablecoin regime - TheBanker.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE94ZUpZR0JudTEwZTZBMG9GZzJ3aklUQ2psZDU4WkFYazE1XzY5LXNSSjdabXlCYi04ZkxjMUwwSnNzbXBiOHJ3aTFzRnV5OVEtQ2RIQzFFVFdpMXlWU0VfSEtiS2gzYVFBbmd1NExrRkdCbVJZdm5jeGlB?oc=5) (Wed, 03 Jun 2026 00:09:23 GMT)
-- [Bank of England faces calls from UK lawmakers to ease stablecoin plans - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxQYW50VU96bkRsQWRkS1gtdnBySjB0SkhaYi1MdUowQ1VneW5GS010elNfQ00zYmNuNjcwOXlnZEdTU1YxUHNjdmU4Sl85T0tYQWptTS02eXhxMW9Kelc3T2VCamVFTC1LLTZpbUVxcGhrQ08wOEROZkFBSlFwa1VsZGowRGVJMWtySks0U2ZvVHZFNTQ0OUVTM0lqb2NhczI2UEdGVkR6dFJEekN3Vk1RcDNB?oc=5) (Tue, 02 Jun 2026 23:12:12 GMT)
-- [Financial Services Regulation Committee publishes report on regulation of stablecoins - UK Parliament](https://news.google.com/rss/articles/CBMikwJBVV95cUxNXzgzeVVveS16Y2ktZHFnUXJnZ0x0VXJkSjZaN0pUS2lUUzBIZ0ZDNUJ4WlFtZFlVUWFrc3pvTVZFaDFZYm5tenlhZVBvY05jYnVNWFp4SnlsTGI1MTBqTTJXMER5aXBId18tdWRIMUZvSDFyeUlKZW9xQ09aNFdGNTlwZ2c3TTM0ZF9rVF96YXlTQmZ6WU9BZmFkUmlSMFlwTTg1RE0zLUR2eGZlSG9fYzdVOFdaM0puR0VDc2d0cFlURU9EeTBiWHg4VkFBVmZ0SEVibk01RHFtdUdVUm5sN2lLTk96Y0sxTHh4VVRuUy1TYmpwa2VZVzVlc3JuNjU3UUlKTnBFWkRheTMzQVdmTG9BVQ?oc=5) (Tue, 02 Jun 2026 23:08:48 GMT)
-- [UK House of Lords committee calls on Bank of England to reconsider proposed stablecoin restrictions - CoinDesk](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc3hEVTBZaWlSSkpRaHJjbS0tT1pteXNrXzA2TmpPNUNsOHJKVDhJdXRQYjliZGVKTE4wTi1vWHFiVHdqeXVpbGRxNE5hREJ4T211YmVzelBsMklxSjFBZFowUkZYQ2E0ZDh2VDlGbTVYTEpvSkY3aDNCRDFQWGF3YWE5RlU0eDFqMm0wcWE0cGo1WnZ6bUdYWEJkTlh2ZjZweEZFbzV3LVc0dzNfUU9XOFhGZVBQWWVtUGJIbS0waVVQVTBKX3FpWlEwUG5Pc0R1c2hERlpvVVFfZw?oc=5) (Tue, 02 Jun 2026 23:03:08 GMT)
+- [FDIC Issues Proposal on Illicit Finance Standards under GENIUS Act - fintechanddigitalassets.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPbC13SDdzU1pRNzlsZzc0VkptM1p1VGpraHlUTEFSQnYxVkdqbV9KVl9faVJJTUcyRDg0NW50enJpZHUyNWtTOEhNdDI1Sk5jUUg1aW1ENm8yRHdYbnM5b0JvOFJZZnNzVDc3aHBFNHNmeThUMmd3NW42X0NnYjlEcXlnekdhNGhxOFU1clh3SzlFNmdERHhlMUhzNE5VVzZqb1N1SFVrUW1jSmZnZ1ZoUHJMU2xEQQ?oc=5) (Wed, 03 Jun 2026 22:18:45 GMT)
+- [Stablecoins Are Just Wildcat Banking With Better Wi-Fi - PYMNTS.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxNajJDbjhpN1VBWGJKV3Y0TGNxbjFfMERRR0Z3UkVFUVIyWVRFNGFfSTdKLThfdDlUVFZQa2RlZXcxbG8yNW1vdVVVdHEtYWhRVjctS3ZKNzc0QzdNVFRjd0hnQnJJUUYwWDZ0YldMUXYzVE9KbHNScUlQcEFkXzR0WGNzNkdDRjNNbDdyYzRyd1FFa1ZnUjk3dkNwZTBVMXpLYWVWMFZmWEJNU05z?oc=5) (Wed, 03 Jun 2026 21:13:56 GMT)
+- [Tether Debuts Tokenized Gold Stablecoin Visa Card That Pays Out Crypto Rewards - Yahoo Finance](https://news.google.com/rss/articles/CBMipwFBVV95cUxPWHVzaEltNURpWThuaFJGQVJ0c3kzRFV4QlByLUFDb3ZnQkZCdzd3dXdvWUc2MGRpcUN2TC1vMHN3Ylp2Y1l0Y01WdjF5bWp2UTBqNm5RLUJ0Q0hrZm5IVk9icXM2dThMbWE2VU9OWVhTMGpnWHJuSjRyZGljS1NxSDFfR24xSkN6SlZodGkwa2lmZFZnaklKN2FZczRaQ1BsVTRqdnpkVQ?oc=5) (Wed, 03 Jun 2026 21:03:50 GMT)
+- [GENIUS Act &amp; Stablecoin Regulation FAQ: What Broker-Dealers and Banks Need to Know - Nasdaq](https://news.google.com/rss/articles/CBMizAFBVV95cUxQM203amVKWFFCU2ZmNFNDcWlkYnZHYVpfNk9iMjR1VmNtTENFT3hoTEFUMk9FSEhkMTVBd3FGWU9MZmRBMXBTZnZsSjdDbUhvdDVTM2FxV1A5TnpBeGZFRVlRTEk1UnU5TnVOcF9fTVQ4VUxvUlp4bkU1Slp0NnVPM3FXVnZHWjZqcDI2UmQ5WFJ2WC11WjF5bFBuQTQ3bUlIWmdvVG0yS2NiZVQ0VlBVcFk0SWYxaC01UXpIaWpZRFJWcXF0RlptSDVJamQ?oc=5) (Wed, 03 Jun 2026 20:35:10 GMT)
+- [LATEST: US stablecoin issuers to fall under BSA and AML rules - AML Intelligence](https://news.google.com/rss/articles/CBMiowFBVV95cUxOb2pPWU5XRTdjd1Zxa2M2VjFxLUtBUnlVOVZIeDBHay1KbEtQWUF0aXBwV0hPbEpWN3UtSThPQk1Zbi0xeUt2ZTJPRkRhTWNZV3VZMmgyUHRuVElGZXJDenNmbVBvZUZ3bjNVSk1MUi14R2pWSzh6cTNqdGhRNmU3VjgyeWZ3ODc3MnNDZGpRRE9RZjlDTzFWRW1tMVM2SjJwRzU4?oc=5) (Wed, 03 Jun 2026 20:31:57 GMT)
 
 <!-- END_dashboard -->
 
