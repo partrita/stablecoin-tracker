@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-04 02:51:38 (UTC)*
+*Last Updated: 2026-06-05 02:38:35 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$296,541,259,457** | 🔴 -0.26% | 🔴 -1.10% |
+| **$296,028,648,113** | 🔴 -0.17% | 🔴 -1.11% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [FDIC Issues Proposal on Illicit Finance Standards under GENIUS Act - fintechanddigitalassets.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPbC13SDdzU1pRNzlsZzc0VkptM1p1VGpraHlUTEFSQnYxVkdqbV9KVl9faVJJTUcyRDg0NW50enJpZHUyNWtTOEhNdDI1Sk5jUUg1aW1ENm8yRHdYbnM5b0JvOFJZZnNzVDc3aHBFNHNmeThUMmd3NW42X0NnYjlEcXlnekdhNGhxOFU1clh3SzlFNmdERHhlMUhzNE5VVzZqb1N1SFVrUW1jSmZnZ1ZoUHJMU2xEQQ?oc=5) (Wed, 03 Jun 2026 22:18:45 GMT)
-- [Stablecoins Are Just Wildcat Banking With Better Wi-Fi - PYMNTS.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxNajJDbjhpN1VBWGJKV3Y0TGNxbjFfMERRR0Z3UkVFUVIyWVRFNGFfSTdKLThfdDlUVFZQa2RlZXcxbG8yNW1vdVVVdHEtYWhRVjctS3ZKNzc0QzdNVFRjd0hnQnJJUUYwWDZ0YldMUXYzVE9KbHNScUlQcEFkXzR0WGNzNkdDRjNNbDdyYzRyd1FFa1ZnUjk3dkNwZTBVMXpLYWVWMFZmWEJNU05z?oc=5) (Wed, 03 Jun 2026 21:13:56 GMT)
-- [Tether Debuts Tokenized Gold Stablecoin Visa Card That Pays Out Crypto Rewards - Yahoo Finance](https://news.google.com/rss/articles/CBMipwFBVV95cUxPWHVzaEltNURpWThuaFJGQVJ0c3kzRFV4QlByLUFDb3ZnQkZCdzd3dXdvWUc2MGRpcUN2TC1vMHN3Ylp2Y1l0Y01WdjF5bWp2UTBqNm5RLUJ0Q0hrZm5IVk9icXM2dThMbWE2VU9OWVhTMGpnWHJuSjRyZGljS1NxSDFfR24xSkN6SlZodGkwa2lmZFZnaklKN2FZczRaQ1BsVTRqdnpkVQ?oc=5) (Wed, 03 Jun 2026 21:03:50 GMT)
-- [GENIUS Act &amp; Stablecoin Regulation FAQ: What Broker-Dealers and Banks Need to Know - Nasdaq](https://news.google.com/rss/articles/CBMizAFBVV95cUxQM203amVKWFFCU2ZmNFNDcWlkYnZHYVpfNk9iMjR1VmNtTENFT3hoTEFUMk9FSEhkMTVBd3FGWU9MZmRBMXBTZnZsSjdDbUhvdDVTM2FxV1A5TnpBeGZFRVlRTEk1UnU5TnVOcF9fTVQ4VUxvUlp4bkU1Slp0NnVPM3FXVnZHWjZqcDI2UmQ5WFJ2WC11WjF5bFBuQTQ3bUlIWmdvVG0yS2NiZVQ0VlBVcFk0SWYxaC01UXpIaWpZRFJWcXF0RlptSDVJamQ?oc=5) (Wed, 03 Jun 2026 20:35:10 GMT)
-- [LATEST: US stablecoin issuers to fall under BSA and AML rules - AML Intelligence](https://news.google.com/rss/articles/CBMiowFBVV95cUxOb2pPWU5XRTdjd1Zxa2M2VjFxLUtBUnlVOVZIeDBHay1KbEtQWUF0aXBwV0hPbEpWN3UtSThPQk1Zbi0xeUt2ZTJPRkRhTWNZV3VZMmgyUHRuVElGZXJDenNmbVBvZUZ3bjNVSk1MUi14R2pWSzh6cTNqdGhRNmU3VjgyeWZ3ODc3MnNDZGpRRE9RZjlDTzFWRW1tMVM2SjJwRzU4?oc=5) (Wed, 03 Jun 2026 20:31:57 GMT)
+- [Big Banks Launch Tokenized Deposit Network to Fight Off Stablecoin Threat - PYMNTS.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWHlzTFJERHUtYjBwcnJkNHJVRVRSM0s0eDk5a3lSeXF4R3BVUHdDdWhsbnVjM25BQnhoclBGOHJrUE1rQnZzam5aNGhCc3NwekJGM3NzdXYtOVFhSTdRTWhIWWZ5QjdXaUhKZ094d2VycXQtajBhdnBiM3NDT0ZUYktRSU5mUnJVakU2bWk4anRWUmozV3NXNUI1aXdMMi1uVVI3OEl0TE83a1FkSEozS0lyVQ?oc=5) (Fri, 05 Jun 2026 01:54:13 GMT)
+- [Bank Regulators Push Stablecoin Rules While Warning on AI Risks - PYMNTS.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNODdERmRjdXhrbVlTYkprY0gtT3JrbXZ1bzlJcmxncnJOR1VKcFV0VzNKOHl3R0l2aV9BR3ZJT0FJN1ZKN3RkUHVfWHM0bTVnYTg5Wm1LNzhEb0V4Ym5nTEMwVF9ZQXZFQXFDYXZTbmFVdVd6OUZ2WDNTY29RZUpldWRsVkFRb3Vla2JIdUZlSm8wUVF2UC16V3U4X1lBaU9xX1E4S2x1S3pHNG8?oc=5) (Fri, 05 Jun 2026 00:46:23 GMT)
+- [Visa tests private stablecoin settlement on Canton with Brale. The question is why? - ledgerinsights.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVnlNZkZJY1pVSW5KNWUyZmNaYTBNSXlMX0d4MGFlaE53WVdjcGNyQkRINmNtcG9Jb1JONmdyWl96RW9qX2VmZXdoVjIyeEQ5aEpMeFExNGVFX1V1UEFpaWNHSkNqUGtCbWpxMXBMVVBSM1A2VmhLbWRYRk9JZkxkQlNqUGtBRjd6WUNwUFk5VmlkNWMwR3B0MkRCeWNnNklNSDVocFpqMDdPM3BMcnlzSXdhNA?oc=5) (Thu, 04 Jun 2026 23:44:09 GMT)
+- [Aptos powers a new stablecoin payment corridor between the Middle East and Africa - Yahoo Finance](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0dfZGFrTE9hXy1FYk9sV0dRV0g3OU5pSnFMMXZUV3VoaFJaaGM4Wm9LaDhxR1FuYkhTU1lCQzJWVHplY0JnUnEzTjdMckgyZDctb1V5OHNLby1meU1wei1pa0RVamJHMWdiOFZXeGF0eEkzWTM5cjRXTzA5YUtyR2FWOW4ydXZla0hHemloTUVqY0xPTE9GTjhDdWM2ZlZBanhSclR3dFY?oc=5) (Thu, 04 Jun 2026 22:10:49 GMT)
+- [Checkout.com and Fireblocks partner to provide stablecoin settlement capabilities - qz.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxNS29BbWRfWl9sbUlIZlFOUGdjbHUtQmM0OUVXQ21QUXpoTGdMa2hXWmtMTGYyRzR2Zi1FRll3LUJzOU43X2NjNE1COENFSEYyR0NicG1tRTVkdGxIci1iYjNRdnVjNmVSTXU3b3dpTS04QmFfdEM0VDdZTDJJcnY4QW01dTlOY1NZUEdlSTB6WDJhT0l5b1E?oc=5) (Thu, 04 Jun 2026 21:27:46 GMT)
 
 <!-- END_dashboard -->
 
