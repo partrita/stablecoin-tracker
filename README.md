@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-05 02:38:35 (UTC)*
+*Last Updated: 2026-06-06 02:27:04 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$296,028,648,113** | 🔴 -0.17% | 🔴 -1.11% |
+| **$295,786,018,346** | 🔴 -0.08% | 🔴 -0.71% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Big Banks Launch Tokenized Deposit Network to Fight Off Stablecoin Threat - PYMNTS.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWHlzTFJERHUtYjBwcnJkNHJVRVRSM0s0eDk5a3lSeXF4R3BVUHdDdWhsbnVjM25BQnhoclBGOHJrUE1rQnZzam5aNGhCc3NwekJGM3NzdXYtOVFhSTdRTWhIWWZ5QjdXaUhKZ094d2VycXQtajBhdnBiM3NDT0ZUYktRSU5mUnJVakU2bWk4anRWUmozV3NXNUI1aXdMMi1uVVI3OEl0TE83a1FkSEozS0lyVQ?oc=5) (Fri, 05 Jun 2026 01:54:13 GMT)
-- [Bank Regulators Push Stablecoin Rules While Warning on AI Risks - PYMNTS.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNODdERmRjdXhrbVlTYkprY0gtT3JrbXZ1bzlJcmxncnJOR1VKcFV0VzNKOHl3R0l2aV9BR3ZJT0FJN1ZKN3RkUHVfWHM0bTVnYTg5Wm1LNzhEb0V4Ym5nTEMwVF9ZQXZFQXFDYXZTbmFVdVd6OUZ2WDNTY29RZUpldWRsVkFRb3Vla2JIdUZlSm8wUVF2UC16V3U4X1lBaU9xX1E4S2x1S3pHNG8?oc=5) (Fri, 05 Jun 2026 00:46:23 GMT)
-- [Visa tests private stablecoin settlement on Canton with Brale. The question is why? - ledgerinsights.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVnlNZkZJY1pVSW5KNWUyZmNaYTBNSXlMX0d4MGFlaE53WVdjcGNyQkRINmNtcG9Jb1JONmdyWl96RW9qX2VmZXdoVjIyeEQ5aEpMeFExNGVFX1V1UEFpaWNHSkNqUGtCbWpxMXBMVVBSM1A2VmhLbWRYRk9JZkxkQlNqUGtBRjd6WUNwUFk5VmlkNWMwR3B0MkRCeWNnNklNSDVocFpqMDdPM3BMcnlzSXdhNA?oc=5) (Thu, 04 Jun 2026 23:44:09 GMT)
-- [Aptos powers a new stablecoin payment corridor between the Middle East and Africa - Yahoo Finance](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0dfZGFrTE9hXy1FYk9sV0dRV0g3OU5pSnFMMXZUV3VoaFJaaGM4Wm9LaDhxR1FuYkhTU1lCQzJWVHplY0JnUnEzTjdMckgyZDctb1V5OHNLby1meU1wei1pa0RVamJHMWdiOFZXeGF0eEkzWTM5cjRXTzA5YUtyR2FWOW4ydXZla0hHemloTUVqY0xPTE9GTjhDdWM2ZlZBanhSclR3dFY?oc=5) (Thu, 04 Jun 2026 22:10:49 GMT)
-- [Checkout.com and Fireblocks partner to provide stablecoin settlement capabilities - qz.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxNS29BbWRfWl9sbUlIZlFOUGdjbHUtQmM0OUVXQ21QUXpoTGdMa2hXWmtMTGYyRzR2Zi1FRll3LUJzOU43X2NjNE1COENFSEYyR0NicG1tRTVkdGxIci1iYjNRdnVjNmVSTXU3b3dpTS04QmFfdEM0VDdZTDJJcnY4QW01dTlOY1NZUEdlSTB6WDJhT0l5b1E?oc=5) (Thu, 04 Jun 2026 21:27:46 GMT)
+- [State regulators object to Treasury imposing OCC stablecoin rules on states - ledgerinsights.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWUhNUEFqYlR3V1JiQlM0VGo2dl9OcDV1VmEwQzQ5T1FYWEg4dVpyMXN0Mm00YldYdm4xcEhub3NrTEI1V2FmVTJzUjB2Nm9sVlRNU0lqT0RtOEx3cDBfY3VZSk5TRmxpb0ZnME5hVUU5NDBXdGZLTkl2cG1JY1NRTWtwUGtCTXNfMG9JWXVKcWZtMFU0NlBzaldpbnFfNTg0TjBiR1dpWjk1Q1E?oc=5) (Fri, 05 Jun 2026 18:23:01 GMT)
+- [This Week in Stablecoins: Ignoring the Crypto Market Rout - PYMNTS.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0plTUdqUnFlajFvWGM1aTRKcHBpODVJN3Nza1laZGRXa09mbnd3M2d0cVlpRHl6LXNnbU1DZzR3WEZsV25iVHl4dm9BZ2lLWER2SW93ZTVfRE0wclVScFU5d2FLN25TRFVDV3JoMnVJWDJKTmNKRFNXWXZycFV2UmNsVk12LVRBdmZfU21hYXNjbVhldXltSA?oc=5) (Fri, 05 Jun 2026 18:06:45 GMT)
+- [Government Stablecoin Payments Would Fuel &#x27;Tax Evasion Economy,&#x27; Lawmaker Warns - Yahoo Finance](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXNSd2drT2tfNzdwV0liRzBpT3I5MkdQRVh3SmNxYndVOWNlUVZaY01tQWtYZmRKR21sRzJldm50akNueTg1WTRlaTdyVy1vOUU0THhGSnNtRHJBSVBLRFNaczlneU9KS21GQmtSWGxSYnB5UkZlMTRfS0UwUEJ4Y09ONWlEWTZ2ZDltNHFKMHVnTXl3NlFnM2RtTXRFMHQ2Qzh2YXZyRQ?oc=5) (Fri, 05 Jun 2026 15:52:15 GMT)
+- [States aim to keep stablecoin purview - Payments Dive](https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjNCMVNsb0ZjMjI4dmRpOG4tek9XRzV1U1Q0ZXNHV1cwWFEtZUtYUGFWSmkxR0xXQ19WUU04ajI0cXpLelJoVTlKQ0RTMUotWHdOZDlUNHJoV3NPZU5yZE1YdnB0R3NmX0NBOUtEbmdZVHZqM1ZXbktZb2xEUlg1QVFkR3h5eGRzTWVva2xyazVoT1NhMjdr?oc=5) (Fri, 05 Jun 2026 15:35:01 GMT)
+- [Bitcoin ETFs Hit Record Outflow Streak, Polymarket&#x27;s Bad Call, and the Stablecoin Freeze Dilemma - galaxy.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxOajdlc1V1UnJrQThVSnlPUFA5czJoUUU1Y0VYSFFCbU8tWTh4Z2RsdU05U3dQQ283RDFKem15b2V6WFZ2Z2wxb1ZQbFhDekt1dVRCWjhqb0paSzhCS1ZMeDFzN0pRdk5IYjN2Mk9FbDFXY2w0VlEyeTdub3V2X0s1RmtEQ0dUWVpUeDV1WjZwS0U2Z1pOd1FDRnduV2VyS2RRSC1EY0VnY1VOQ1NzblJJTTlheWNUWXJKS3NIWk9kemVhMF9OZElSX0VQTFBMQQ?oc=5) (Fri, 05 Jun 2026 15:24:54 GMT)
 
 <!-- END_dashboard -->
 
