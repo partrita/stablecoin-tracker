@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-06 02:27:04 (UTC)*
+*Last Updated: 2026-06-07 02:44:41 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$295,786,018,346** | 🔴 -0.08% | 🔴 -0.71% |
+| **$295,053,847,922** | 🔴 -0.25% | 🔴 -0.89% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [Meta is paying creators in Stablecoins. Spending them is someone else&#x27;s problem - CoinDesk](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbk1POXctUlR2RVNaUk0zYm8xdzhiRTQ4cjczb2xMaGM5aVN1UjMzVE9JX3BZcGM2NklxeklGSDRCQ2l1UU5oV1pTdDBKQmJicWh0a2tmTS1OSTZoSWhESldBUlFDVFphT1Y0REdSdU42UWtmUjUzUGR4X09aUXYyMFlVLUYxdHRPTVV1QnQwZldxY19HaWVoaFo3ZFV5dVpvTkFMalMzTFVEeUtxTXRrbmp0V3R6YjhuVE41eHQzSQ?oc=5) (Sat, 06 Jun 2026 16:32:26 GMT)
+- [Zebec Network scales real-time stablecoin payroll and payouts with USDC and EURC - Circle Internet Financial](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4T3ktOVhGaTVUbjluZ09jUTA4Z1lpRXRyeXN4Q1JCMHo2emxxTVoyaXRwQW1yNEtqeldxUjEtMzZNMGxucG5zN3N0VUNiRktkakdLcXp2MC1lVVpVZlE?oc=5) (Sat, 06 Jun 2026 06:48:03 GMT)
 - [State regulators object to Treasury imposing OCC stablecoin rules on states - ledgerinsights.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWUhNUEFqYlR3V1JiQlM0VGo2dl9OcDV1VmEwQzQ5T1FYWEg4dVpyMXN0Mm00YldYdm4xcEhub3NrTEI1V2FmVTJzUjB2Nm9sVlRNU0lqT0RtOEx3cDBfY3VZSk5TRmxpb0ZnME5hVUU5NDBXdGZLTkl2cG1JY1NRTWtwUGtCTXNfMG9JWXVKcWZtMFU0NlBzaldpbnFfNTg0TjBiR1dpWjk1Q1E?oc=5) (Fri, 05 Jun 2026 18:23:01 GMT)
 - [This Week in Stablecoins: Ignoring the Crypto Market Rout - PYMNTS.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0plTUdqUnFlajFvWGM1aTRKcHBpODVJN3Nza1laZGRXa09mbnd3M2d0cVlpRHl6LXNnbU1DZzR3WEZsV25iVHl4dm9BZ2lLWER2SW93ZTVfRE0wclVScFU5d2FLN25TRFVDV3JoMnVJWDJKTmNKRFNXWXZycFV2UmNsVk12LVRBdmZfU21hYXNjbVhldXltSA?oc=5) (Fri, 05 Jun 2026 18:06:45 GMT)
 - [Government Stablecoin Payments Would Fuel &#x27;Tax Evasion Economy,&#x27; Lawmaker Warns - Yahoo Finance](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXNSd2drT2tfNzdwV0liRzBpT3I5MkdQRVh3SmNxYndVOWNlUVZaY01tQWtYZmRKR21sRzJldm50akNueTg1WTRlaTdyVy1vOUU0THhGSnNtRHJBSVBLRFNaczlneU9KS21GQmtSWGxSYnB5UkZlMTRfS0UwUEJ4Y09ONWlEWTZ2ZDltNHFKMHVnTXl3NlFnM2RtTXRFMHQ2Qzh2YXZyRQ?oc=5) (Fri, 05 Jun 2026 15:52:15 GMT)
-- [States aim to keep stablecoin purview - Payments Dive](https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjNCMVNsb0ZjMjI4dmRpOG4tek9XRzV1U1Q0ZXNHV1cwWFEtZUtYUGFWSmkxR0xXQ19WUU04ajI0cXpLelJoVTlKQ0RTMUotWHdOZDlUNHJoV3NPZU5yZE1YdnB0R3NmX0NBOUtEbmdZVHZqM1ZXbktZb2xEUlg1QVFkR3h5eGRzTWVva2xyazVoT1NhMjdr?oc=5) (Fri, 05 Jun 2026 15:35:01 GMT)
-- [Bitcoin ETFs Hit Record Outflow Streak, Polymarket&#x27;s Bad Call, and the Stablecoin Freeze Dilemma - galaxy.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxOajdlc1V1UnJrQThVSnlPUFA5czJoUUU1Y0VYSFFCbU8tWTh4Z2RsdU05U3dQQ283RDFKem15b2V6WFZ2Z2wxb1ZQbFhDekt1dVRCWjhqb0paSzhCS1ZMeDFzN0pRdk5IYjN2Mk9FbDFXY2w0VlEyeTdub3V2X0s1RmtEQ0dUWVpUeDV1WjZwS0U2Z1pOd1FDRnduV2VyS2RRSC1EY0VnY1VOQ1NzblJJTTlheWNUWXJKS3NIWk9kemVhMF9OZElSX0VQTFBMQQ?oc=5) (Fri, 05 Jun 2026 15:24:54 GMT)
 
 <!-- END_dashboard -->
 
