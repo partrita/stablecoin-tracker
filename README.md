@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-07 02:44:41 (UTC)*
+*Last Updated: 2026-06-08 02:48:03 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$295,053,847,922** | 🔴 -0.25% | 🔴 -0.89% |
+| **$295,179,330,325** | 🟢 +0.04% | 🔴 -0.75% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Meta is paying creators in Stablecoins. Spending them is someone else&#x27;s problem - CoinDesk](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbk1POXctUlR2RVNaUk0zYm8xdzhiRTQ4cjczb2xMaGM5aVN1UjMzVE9JX3BZcGM2NklxeklGSDRCQ2l1UU5oV1pTdDBKQmJicWh0a2tmTS1OSTZoSWhESldBUlFDVFphT1Y0REdSdU42UWtmUjUzUGR4X09aUXYyMFlVLUYxdHRPTVV1QnQwZldxY19HaWVoaFo3ZFV5dVpvTkFMalMzTFVEeUtxTXRrbmp0V3R6YjhuVE41eHQzSQ?oc=5) (Sat, 06 Jun 2026 16:32:26 GMT)
-- [Zebec Network scales real-time stablecoin payroll and payouts with USDC and EURC - Circle Internet Financial](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4T3ktOVhGaTVUbjluZ09jUTA4Z1lpRXRyeXN4Q1JCMHo2emxxTVoyaXRwQW1yNEtqeldxUjEtMzZNMGxucG5zN3N0VUNiRktkakdLcXp2MC1lVVpVZlE?oc=5) (Sat, 06 Jun 2026 06:48:03 GMT)
-- [State regulators object to Treasury imposing OCC stablecoin rules on states - ledgerinsights.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWUhNUEFqYlR3V1JiQlM0VGo2dl9OcDV1VmEwQzQ5T1FYWEg4dVpyMXN0Mm00YldYdm4xcEhub3NrTEI1V2FmVTJzUjB2Nm9sVlRNU0lqT0RtOEx3cDBfY3VZSk5TRmxpb0ZnME5hVUU5NDBXdGZLTkl2cG1JY1NRTWtwUGtCTXNfMG9JWXVKcWZtMFU0NlBzaldpbnFfNTg0TjBiR1dpWjk1Q1E?oc=5) (Fri, 05 Jun 2026 18:23:01 GMT)
-- [This Week in Stablecoins: Ignoring the Crypto Market Rout - PYMNTS.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0plTUdqUnFlajFvWGM1aTRKcHBpODVJN3Nza1laZGRXa09mbnd3M2d0cVlpRHl6LXNnbU1DZzR3WEZsV25iVHl4dm9BZ2lLWER2SW93ZTVfRE0wclVScFU5d2FLN25TRFVDV3JoMnVJWDJKTmNKRFNXWXZycFV2UmNsVk12LVRBdmZfU21hYXNjbVhldXltSA?oc=5) (Fri, 05 Jun 2026 18:06:45 GMT)
-- [Government Stablecoin Payments Would Fuel &#x27;Tax Evasion Economy,&#x27; Lawmaker Warns - Yahoo Finance](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXNSd2drT2tfNzdwV0liRzBpT3I5MkdQRVh3SmNxYndVOWNlUVZaY01tQWtYZmRKR21sRzJldm50akNueTg1WTRlaTdyVy1vOUU0THhGSnNtRHJBSVBLRFNaczlneU9KS21GQmtSWGxSYnB5UkZlMTRfS0UwUEJ4Y09ONWlEWTZ2ZDltNHFKMHVnTXl3NlFnM2RtTXRFMHQ2Qzh2YXZyRQ?oc=5) (Fri, 05 Jun 2026 15:52:15 GMT)
+- [Paymentology CTO Says Meta Program Shows Limits of Stablecoin Payouts - PYMNTS.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVnNmM2UxMFRVNkJxQXFtRHpUT1lOU1R6RmxMTnFlTnhSVF8zWGptRXpGQXJRdl9CbWVBR0hYenpEOXNWVGJyYnpxUFdCaHJTQmVKSFhwUWVpMTFOM2VMd1JjQXg0ckVUVUVrcE5WSDhIVHg5OVR5d3hMb3ZtaTN2cU1YbXE5YktBbHJZMl80Ri1mUERjNUIzRktwb2o5UFBseXMxQlNuU1hSOFRmcjFBb0lwWQ?oc=5) (Sun, 07 Jun 2026 23:36:08 GMT)
+- [WasabiCard Raises Nearly $10 Million In Pre-A Funding To Expand Stablecoin Payment Infrastructure - Pulse 2.0](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUI5U0tIWjF1bGxIbERYNWN0ZGFsTnlLNVRydHNzNmRHcThXOHVIU1BGVzItal9CdFBJZjN6ZUdKTTRZS0xFQnp1Nmt4Z1FKNXpnMDdWYWg0Z1pJelE1eG9BOFAyTFBjTkRyazNKS2d3aEpTendaLW13N0JpQnoyOUFtSnIwakE5aXprWC1ydE1pU2Z6RmRCUTl0bExaczA2SWljRUNYcEZfT0RaV2YzRS1GQU9BOXPSAbwBQVVfeXFMTjg5OU5xZjhnWGR0dlR1Wkx4RGFfbmZaWkI2bXpycGpVV0plLV8yZW5KdUVDb3RrbHhkNjM3bzhMd3lXRlpKYnpONjNRbGtjWDNDZXlXRTdlbTI2UHd5QklfRXNkbHBJd05rTFgxYUx5d0c5RDBYbDh5UERsMVhrMjN6RmFvaVhfNTRqLVduNmZWYktCTTdVcHhNb2xZQXM5WWh5UXVTek5uV3B1a2VhbFVrRkZzWC1Qa2NpaXQ?oc=5) (Sun, 07 Jun 2026 19:46:55 GMT)
+- [Checkout.com and Fireblocks partner to provide stablecoin settlement capabilities - qz.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxNS29BbWRfWl9sbUlIZlFOUGdjbHUtQmM0OUVXQ21QUXpoTGdMa2hXWmtMTGYyRzR2Zi1FRll3LUJzOU43X2NjNE1COENFSEYyR0NicG1tRTVkdGxIci1iYjNRdnVjNmVSTXU3b3dpTS04QmFfdEM0VDdZTDJJcnY4QW01dTlOY1NZUEdlSTB6WDJhT0l5b1E?oc=5) (Sun, 07 Jun 2026 15:44:10 GMT)
+- [Does Fiserv’s Devin-Powered AI Push and FIUSD Stablecoin Bet Change The Bull Case For FISV? - Yahoo Finance](https://news.google.com/rss/articles/CBMimAFBVV95cUxOUzJlNDY5YVVXV0xLRHJaQmJyMmNxTktLNFJIR2hBYW9lYUc3c3ItNGRiQVhWLXBZNTFIX1VnRVNvOTNKNGlrZTRoVkJGcWJpYnZVYnI4WWNpZ1Zrc1d6N2ZVaDd4UjQtODFDODBwNmtOUlNSdU90YVVVY2VoT2xCMFRDU2dEMEoxZWdVWGlkZ0IzbWFKTVo3QQ?oc=5) (Sun, 07 Jun 2026 15:12:31 GMT)
+- [‘Safer Than Palantir’—The Startup Building Stablecoins For Governments - Forbes](https://news.google.com/rss/articles/CBMivgFBVV95cUxONG9yQVdEWnZzaEpFbloycnA0TERKX1FaZ2tpRGtFSVRTaFE0SkNpY3RPeDdoOEtTR0toX2RMazlvUFRjNkxKYlI0Zm1sbERMZ1RqeWUyUzUxaFJpcUVnOVRieEliMEhHeUVuNG9Kd0RjMjEyWVNlZG9vOWt5aXVLUWV3LWpZU3k2ZzFqeTd1V3h1V0FrVXloNXJneEp1YzBQR0VpcGktdXh4ZWxRMlF3OVlJSlRNc002YVRHdGhR?oc=5) (Sun, 07 Jun 2026 01:19:15 GMT)
 
 <!-- END_dashboard -->
 
