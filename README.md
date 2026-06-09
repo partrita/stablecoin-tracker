@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-08 02:48:03 (UTC)*
+*Last Updated: 2026-06-09 02:25:58 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$295,179,330,325** | 🟢 +0.04% | 🔴 -0.75% |
+| **$295,312,640,923** | 🟢 +0.05% | 🔴 -0.75% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Paymentology CTO Says Meta Program Shows Limits of Stablecoin Payouts - PYMNTS.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVnNmM2UxMFRVNkJxQXFtRHpUT1lOU1R6RmxMTnFlTnhSVF8zWGptRXpGQXJRdl9CbWVBR0hYenpEOXNWVGJyYnpxUFdCaHJTQmVKSFhwUWVpMTFOM2VMd1JjQXg0ckVUVUVrcE5WSDhIVHg5OVR5d3hMb3ZtaTN2cU1YbXE5YktBbHJZMl80Ri1mUERjNUIzRktwb2o5UFBseXMxQlNuU1hSOFRmcjFBb0lwWQ?oc=5) (Sun, 07 Jun 2026 23:36:08 GMT)
-- [WasabiCard Raises Nearly $10 Million In Pre-A Funding To Expand Stablecoin Payment Infrastructure - Pulse 2.0](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUI5U0tIWjF1bGxIbERYNWN0ZGFsTnlLNVRydHNzNmRHcThXOHVIU1BGVzItal9CdFBJZjN6ZUdKTTRZS0xFQnp1Nmt4Z1FKNXpnMDdWYWg0Z1pJelE1eG9BOFAyTFBjTkRyazNKS2d3aEpTendaLW13N0JpQnoyOUFtSnIwakE5aXprWC1ydE1pU2Z6RmRCUTl0bExaczA2SWljRUNYcEZfT0RaV2YzRS1GQU9BOXPSAbwBQVVfeXFMTjg5OU5xZjhnWGR0dlR1Wkx4RGFfbmZaWkI2bXpycGpVV0plLV8yZW5KdUVDb3RrbHhkNjM3bzhMd3lXRlpKYnpONjNRbGtjWDNDZXlXRTdlbTI2UHd5QklfRXNkbHBJd05rTFgxYUx5d0c5RDBYbDh5UERsMVhrMjN6RmFvaVhfNTRqLVduNmZWYktCTTdVcHhNb2xZQXM5WWh5UXVTek5uV3B1a2VhbFVrRkZzWC1Qa2NpaXQ?oc=5) (Sun, 07 Jun 2026 19:46:55 GMT)
-- [Checkout.com and Fireblocks partner to provide stablecoin settlement capabilities - qz.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxNS29BbWRfWl9sbUlIZlFOUGdjbHUtQmM0OUVXQ21QUXpoTGdMa2hXWmtMTGYyRzR2Zi1FRll3LUJzOU43X2NjNE1COENFSEYyR0NicG1tRTVkdGxIci1iYjNRdnVjNmVSTXU3b3dpTS04QmFfdEM0VDdZTDJJcnY4QW01dTlOY1NZUEdlSTB6WDJhT0l5b1E?oc=5) (Sun, 07 Jun 2026 15:44:10 GMT)
-- [Does Fiserv’s Devin-Powered AI Push and FIUSD Stablecoin Bet Change The Bull Case For FISV? - Yahoo Finance](https://news.google.com/rss/articles/CBMimAFBVV95cUxOUzJlNDY5YVVXV0xLRHJaQmJyMmNxTktLNFJIR2hBYW9lYUc3c3ItNGRiQVhWLXBZNTFIX1VnRVNvOTNKNGlrZTRoVkJGcWJpYnZVYnI4WWNpZ1Zrc1d6N2ZVaDd4UjQtODFDODBwNmtOUlNSdU90YVVVY2VoT2xCMFRDU2dEMEoxZWdVWGlkZ0IzbWFKTVo3QQ?oc=5) (Sun, 07 Jun 2026 15:12:31 GMT)
-- [‘Safer Than Palantir’—The Startup Building Stablecoins For Governments - Forbes](https://news.google.com/rss/articles/CBMivgFBVV95cUxONG9yQVdEWnZzaEpFbloycnA0TERKX1FaZ2tpRGtFSVRTaFE0SkNpY3RPeDdoOEtTR0toX2RMazlvUFRjNkxKYlI0Zm1sbERMZ1RqeWUyUzUxaFJpcUVnOVRieEliMEhHeUVuNG9Kd0RjMjEyWVNlZG9vOWt5aXVLUWV3LWpZU3k2ZzFqeTd1V3h1V0FrVXloNXJneEp1YzBQR0VpcGktdXh4ZWxRMlF3OVlJSlRNc002YVRHdGhR?oc=5) (Sun, 07 Jun 2026 01:19:15 GMT)
+- [Why Banks Should Pay Attention to a Visa–Mastercard–Stripe–Coinbase Stablecoin Alliance - Finovate](https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3ZRckM1S2hVOS1BMndGZ055Z25nb2h3YldBSnRodGhSbFI3YWJiaXNUanZGX3FhVVBNQW5HNG93MTRIdFpub2dBenNwYzRQbFdtaFZUdFhtMDh4RFdRSk1PMl9Rb3JJejV1Sk12VWhGWnFYOEhWbVQxcDZuWldzVzR3UWNlY0piTkx1RHZqMjZpdVYxWXJVeDAySkhydlRkSVFzemtvY29pd3VsY0E?oc=5) (Mon, 08 Jun 2026 21:57:14 GMT)
+- [NYDFS and European Banking Authority agree to share stablecoin supervisory information - JD Supra](https://news.google.com/rss/articles/CBMihgFBVV95cUxNWlVvV29sX1hkQjhDSEE3UGRuZzNNdXpMMy1xSkJPZTk1MTRFVS1pd3BNOElrY1VuWVlsU3lPV29Gd2VaN3U1TEVUVWFJSldWVVkyUmlRb0FsMlROOXJ6eE1GVFp5bHFEWC1OTVN1UVNIaUQ1MlJvNGUtdF9Hak9ZYnpuemhIdw?oc=5) (Mon, 08 Jun 2026 20:31:32 GMT)
+- [FDIC proposes BSA/AML and sanctions compliance standards for stablecoin issuers under the GENIUS Act - JD Supra](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSFRvREhfNGpCcG1vQkFjdldDd2s3V3JWYWhoSWdxYlN5cEp4S0FmUGhmaTF3SFBwUVQydnBTa05xMkFEQVZSeloxSWpmaVdmZ0FuSDJrT2hqT3VtdDJVMExZQ185cjN1YXhyYk5RQVRxbFRQc2VKZ3lVWjVnWTlmb2VqSlQ?oc=5) (Mon, 08 Jun 2026 20:06:32 GMT)
+- [Stablecoin Rulemaking Comments Expose Payments Industry Fault Lines - PYMNTS.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZC1oenRrNmxmZHBqSndIYU55VHBJN3p2cU9RTVJheTlWdUQ3NHpVMjBmaGpfbG9MNlFwUzBlX09RWWxoWmdSRDlrOFJQOHZyWUk1a2RJZDlockRwYjctYWxzM3VLLTJIQ2xrZzFIY3VmVUxSLTZyUDBHM0JDTkd1eWc4bS1KcldIc0RZRUR2OFNYN0Z3RWlLN1NqUXFlY1hITzFudUJ5UExYNWpGOFgwRw?oc=5) (Mon, 08 Jun 2026 19:57:21 GMT)
+- [Zebec Network scales real-time stablecoin payroll and payouts with USDC and EURC - Circle Internet Financial](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4T3ktOVhGaTVUbjluZ09jUTA4Z1lpRXRyeXN4Q1JCMHo2emxxTVoyaXRwQW1yNEtqeldxUjEtMzZNMGxucG5zN3N0VUNiRktkakdLcXp2MC1lVVpVZlE?oc=5) (Mon, 08 Jun 2026 19:38:59 GMT)
 
 <!-- END_dashboard -->
 
