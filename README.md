@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-09 02:25:58 (UTC)*
+*Last Updated: 2026-06-10 02:38:47 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$295,312,640,923** | 🟢 +0.05% | 🔴 -0.75% |
+| **$294,185,986,361** | 🔴 -0.38% | 🔴 -1.06% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Why Banks Should Pay Attention to a Visa–Mastercard–Stripe–Coinbase Stablecoin Alliance - Finovate](https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3ZRckM1S2hVOS1BMndGZ055Z25nb2h3YldBSnRodGhSbFI3YWJiaXNUanZGX3FhVVBNQW5HNG93MTRIdFpub2dBenNwYzRQbFdtaFZUdFhtMDh4RFdRSk1PMl9Rb3JJejV1Sk12VWhGWnFYOEhWbVQxcDZuWldzVzR3UWNlY0piTkx1RHZqMjZpdVYxWXJVeDAySkhydlRkSVFzemtvY29pd3VsY0E?oc=5) (Mon, 08 Jun 2026 21:57:14 GMT)
-- [NYDFS and European Banking Authority agree to share stablecoin supervisory information - JD Supra](https://news.google.com/rss/articles/CBMihgFBVV95cUxNWlVvV29sX1hkQjhDSEE3UGRuZzNNdXpMMy1xSkJPZTk1MTRFVS1pd3BNOElrY1VuWVlsU3lPV29Gd2VaN3U1TEVUVWFJSldWVVkyUmlRb0FsMlROOXJ6eE1GVFp5bHFEWC1OTVN1UVNIaUQ1MlJvNGUtdF9Hak9ZYnpuemhIdw?oc=5) (Mon, 08 Jun 2026 20:31:32 GMT)
-- [FDIC proposes BSA/AML and sanctions compliance standards for stablecoin issuers under the GENIUS Act - JD Supra](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSFRvREhfNGpCcG1vQkFjdldDd2s3V3JWYWhoSWdxYlN5cEp4S0FmUGhmaTF3SFBwUVQydnBTa05xMkFEQVZSeloxSWpmaVdmZ0FuSDJrT2hqT3VtdDJVMExZQ185cjN1YXhyYk5RQVRxbFRQc2VKZ3lVWjVnWTlmb2VqSlQ?oc=5) (Mon, 08 Jun 2026 20:06:32 GMT)
-- [Stablecoin Rulemaking Comments Expose Payments Industry Fault Lines - PYMNTS.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZC1oenRrNmxmZHBqSndIYU55VHBJN3p2cU9RTVJheTlWdUQ3NHpVMjBmaGpfbG9MNlFwUzBlX09RWWxoWmdSRDlrOFJQOHZyWUk1a2RJZDlockRwYjctYWxzM3VLLTJIQ2xrZzFIY3VmVUxSLTZyUDBHM0JDTkd1eWc4bS1KcldIc0RZRUR2OFNYN0Z3RWlLN1NqUXFlY1hITzFudUJ5UExYNWpGOFgwRw?oc=5) (Mon, 08 Jun 2026 19:57:21 GMT)
-- [Zebec Network scales real-time stablecoin payroll and payouts with USDC and EURC - Circle Internet Financial](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4T3ktOVhGaTVUbjluZ09jUTA4Z1lpRXRyeXN4Q1JCMHo2emxxTVoyaXRwQW1yNEtqeldxUjEtMzZNMGxucG5zN3N0VUNiRktkakdLcXp2MC1lVVpVZlE?oc=5) (Mon, 08 Jun 2026 19:38:59 GMT)
+- [NY Floats Rule To Align Its Stablecoin Regs With Genius Act - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpYWlNWTJ4LUNqTE56T2dsVElvN1c2TFRPNXRIX3ROWDlaSHVfT01QandYd0wwYzNCMkFNTWNIZ3BaSm1tOU1fLWtCUWdQRTJzS2Iyb1ZB0gFWQVVfeXFMUGlhaU1ZMngtQ2pMTnpPZ2xUSW83VzZMVE81dEhfdE5YOVpIdV9PTVBqd1h3TDBjM0IyQU1NY0hncFpKbW05TV8ta0JRZ1BFMnNLYjJvVkE?oc=5) (Wed, 10 Jun 2026 00:16:00 GMT)
+- [Japan’s Megabanks Plan Joint Stablecoin as Bank-Issued Tokens Go Global - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxOREQtNU1EOTZyUnVGd1lrR3QtWEtiVG1rU1RkdVgySVRTalpYMElETk4yQldaa0VwMjdYZFBDRDdkNXV4Y2tVTzRHanJIVkNteTdxYTVkcURJN1gyTXJxalNNX212Szh4RHk3Y0ZmQU00clUxaFRzamRieDNLcHV3QUhNeGdtVHhBQW52MEdaSDYyZEpZam9xdm80RW1rWlZCVzdGNQ?oc=5) (Tue, 09 Jun 2026 23:30:00 GMT)
+- [Banking Circle to Power Money Movement for Bridge - Finovate](https://news.google.com/rss/articles/CBMie0FVX3lxTFBKNnNyZktjbW1veWtFOG5fR1VoVmhMSmhBZzY4QW90bWZtb1g0X2gwOUVISGxzSnJJOFotQlNzNWxQdGlrcUM4b18yNG5TTEVMcmU5N04xOXk3Q05KTUducy1ET1V1ZlhlYVhpTnNxbnJyNnJtNmx2cEdsMA?oc=5) (Tue, 09 Jun 2026 21:24:55 GMT)
+- [Stablecoins still struggle to live up to their name - thebanker.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE1BMnZ1dmFyUUljX1lwb2d0eFd2czBsYXNGSk5GTTN2OHRiRW1NbENMRVB0REY5LS1jTjB2dkhzZUpZdTdWQ0VIbDI5dC1LRkk3dlpVVHotOVpoOXdieU5YQng4SXJaZzd3aDZwVzk5elhwZFZ1LWtRT2hn?oc=5) (Tue, 09 Jun 2026 21:15:05 GMT)
+- [Fiserv stablecoin will launch in July - eMarketer](https://news.google.com/rss/articles/CBMiggFBVV95cUxPUHM2VmZrazR4Ym80T05YekNzMHpacFhId0txVTM0bGdIbFVKU01SUVh0N1czVjdsem1SdHJ5Y0xKczhTemU5cGVTTEVZWlRQRDRxUTZGYUtnQTBDQ0haNEl1bkswQUdUMDFLNnhRUFJmV2RrLUNIUUtqa05fQ3dIdVlR?oc=5) (Tue, 09 Jun 2026 20:33:48 GMT)
 
 <!-- END_dashboard -->
 
