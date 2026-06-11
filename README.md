@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-10 02:38:47 (UTC)*
+*Last Updated: 2026-06-11 02:48:27 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$294,185,986,361** | 🔴 -0.38% | 🔴 -1.06% |
+| **$293,957,425,388** | 🔴 -0.08% | 🔴 -0.87% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [NY Floats Rule To Align Its Stablecoin Regs With Genius Act - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpYWlNWTJ4LUNqTE56T2dsVElvN1c2TFRPNXRIX3ROWDlaSHVfT01QandYd0wwYzNCMkFNTWNIZ3BaSm1tOU1fLWtCUWdQRTJzS2Iyb1ZB0gFWQVVfeXFMUGlhaU1ZMngtQ2pMTnpPZ2xUSW83VzZMVE81dEhfdE5YOVpIdV9PTVBqd1h3TDBjM0IyQU1NY0hncFpKbW05TV8ta0JRZ1BFMnNLYjJvVkE?oc=5) (Wed, 10 Jun 2026 00:16:00 GMT)
-- [Japan’s Megabanks Plan Joint Stablecoin as Bank-Issued Tokens Go Global - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxOREQtNU1EOTZyUnVGd1lrR3QtWEtiVG1rU1RkdVgySVRTalpYMElETk4yQldaa0VwMjdYZFBDRDdkNXV4Y2tVTzRHanJIVkNteTdxYTVkcURJN1gyTXJxalNNX212Szh4RHk3Y0ZmQU00clUxaFRzamRieDNLcHV3QUhNeGdtVHhBQW52MEdaSDYyZEpZam9xdm80RW1rWlZCVzdGNQ?oc=5) (Tue, 09 Jun 2026 23:30:00 GMT)
-- [Banking Circle to Power Money Movement for Bridge - Finovate](https://news.google.com/rss/articles/CBMie0FVX3lxTFBKNnNyZktjbW1veWtFOG5fR1VoVmhMSmhBZzY4QW90bWZtb1g0X2gwOUVISGxzSnJJOFotQlNzNWxQdGlrcUM4b18yNG5TTEVMcmU5N04xOXk3Q05KTUducy1ET1V1ZlhlYVhpTnNxbnJyNnJtNmx2cEdsMA?oc=5) (Tue, 09 Jun 2026 21:24:55 GMT)
-- [Stablecoins still struggle to live up to their name - thebanker.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE1BMnZ1dmFyUUljX1lwb2d0eFd2czBsYXNGSk5GTTN2OHRiRW1NbENMRVB0REY5LS1jTjB2dkhzZUpZdTdWQ0VIbDI5dC1LRkk3dlpVVHotOVpoOXdieU5YQng4SXJaZzd3aDZwVzk5elhwZFZ1LWtRT2hn?oc=5) (Tue, 09 Jun 2026 21:15:05 GMT)
-- [Fiserv stablecoin will launch in July - eMarketer](https://news.google.com/rss/articles/CBMiggFBVV95cUxPUHM2VmZrazR4Ym80T05YekNzMHpacFhId0txVTM0bGdIbFVKU01SUVh0N1czVjdsem1SdHJ5Y0xKczhTemU5cGVTTEVZWlRQRDRxUTZGYUtnQTBDQ0haNEl1bkswQUdUMDFLNnhRUFJmV2RrLUNIUUtqa05fQ3dIdVlR?oc=5) (Tue, 09 Jun 2026 20:33:48 GMT)
+- [Visa Launches AI and Stablecoin Tools to Power Agentic Commerce - PYMNTS.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOVlhYOEtQdWdVV0ZQU1pLN2E1bFh3ekM3VXFhZmFscmJ1bkVVQXFxRWxCLWpsNUMzZ3Q0ZnBOX2dnZHJLQ1luYmRlU3hIanR1X2xsVXhyRXpyYWs3aFhXb0t1QmJzSmllWS1LV2tZSXRRd1RqOV93UkgwaWs3TkFlV1Q3Y2ZVSFdzV1BiaWcyYzdzdHZjcUFfSzV2bW1Tdw?oc=5) (Thu, 11 Jun 2026 01:38:10 GMT)
+- [FINANCIAL TECHNOLGY—Proposed New York stablecoin regulation to harmonize with GENIUS Act requirements - VitalLaw.com](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOa1ZGVVNPOEhlRFlwNWZFdWxEeTlieVV6ZHZBWlRJdGM0N3ozdHhCVU41cUM2VGt6dDdJOURJUkFzaXZOeFpjTXlkUUZPd1dTNThENWNNeVFURmlDU2kwTHk1c3BCRDVMbmVZcnBCX3VjMmR5ZGxEaVUwWDBiMk9yMTktODU5T2xWMXFyRFNjanU1aFk0bVVmVXBrVXRZa3lUbWVOaVFaTVJTT1ROYW9qV1dqdUdPYzZXYW9sNGI1NEFkUXl4ZjlDMUhpN3JXdnljUDUzWUh1QzhBRUkwczdoVW9oSWQwSjFfcXFjY29tTG0tQWhxR041TDBKbTZvdw?oc=5) (Thu, 11 Jun 2026 00:01:14 GMT)
+- [Paradigm and Hyperliquid Policy Center Push Back on GENIUS Act Stablecoin Rule - Yahoo Finance](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdm9GTHkwWS1oZlZYaTZkanpsM0hvYm1lTmljTVlNdWZCbjJ3TzU2SVNoZzM3VkEtV0ZSeGxiQklzM2ZWUjJwVnpKNzZfaGY4UVN1al9jQU9GcG5LQi1WQmh1NjNkdWtJNV9PUk1nNWdrQkdubHRyWkNGaDllckltWUlPZG1VcTNlOXNFLWwzdHZOX2NvZGNjMnN1MXVZRW1raHUzc0U3SQ?oc=5) (Wed, 10 Jun 2026 23:14:00 GMT)
+- [Visa Adds AI Agent Payments and Stablecoin Settlement Tools for Programmable Commerce - Yahoo Finance](https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGxaRkc5Z0JEZHVQcTJwVC1wM0tSMERXeG5VS3BTdjRKU1k0b0J0eFpqTkE0YnBrdnR3WUFOZzNCSzlhSkl2b1hxY1dqZ1NHQVRaNjBxTl9Va0ZJcXkzNU9iUTd2d2pXbDR4clA4Uk1iREhvYkJUVFhPYjNXNnlxZWNnQ0dwZkluZENnZUY4bmpWbkxQVTdB?oc=5) (Wed, 10 Jun 2026 22:19:00 GMT)
+- [Netomi CEO says $5 trillion AI customer experience market could boost stablecoin demand - CoinDesk](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYi01V0JjWFN1TVFOV1FEUWpNMDBfX0VEOGZuSGlBaHdiclFlOWY0YWZoNVZJN1FNQ3ZSS0lHLXNiTVhNMmY1elFpLUZUVHNzX1BMZGNybDBnaGpIcDk3WDJQRS12X01MZ0RqN3dSTWN1S3VWXzRId0lPR19CTmRSRGM1UERLM3o5S2Y5bXE1QkhrQUI2aEU5cDR6Wnhtb2ZKV3RJcWhFcWNYekQzX3lZQm5pSElsSW9Pd2MwcFVpZFYyTWNfZjh2cUNCdWZWUVk?oc=5) (Wed, 10 Jun 2026 21:51:13 GMT)
 
 <!-- END_dashboard -->
 
