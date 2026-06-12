@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-11 02:48:27 (UTC)*
+*Last Updated: 2026-06-12 02:44:48 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,957,425,388** | 🔴 -0.08% | 🔴 -0.87% |
+| **$293,533,622,025** | 🔴 -0.14% | 🔴 -0.84% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Visa Launches AI and Stablecoin Tools to Power Agentic Commerce - PYMNTS.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOVlhYOEtQdWdVV0ZQU1pLN2E1bFh3ekM3VXFhZmFscmJ1bkVVQXFxRWxCLWpsNUMzZ3Q0ZnBOX2dnZHJLQ1luYmRlU3hIanR1X2xsVXhyRXpyYWs3aFhXb0t1QmJzSmllWS1LV2tZSXRRd1RqOV93UkgwaWs3TkFlV1Q3Y2ZVSFdzV1BiaWcyYzdzdHZjcUFfSzV2bW1Tdw?oc=5) (Thu, 11 Jun 2026 01:38:10 GMT)
-- [FINANCIAL TECHNOLGY—Proposed New York stablecoin regulation to harmonize with GENIUS Act requirements - VitalLaw.com](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOa1ZGVVNPOEhlRFlwNWZFdWxEeTlieVV6ZHZBWlRJdGM0N3ozdHhCVU41cUM2VGt6dDdJOURJUkFzaXZOeFpjTXlkUUZPd1dTNThENWNNeVFURmlDU2kwTHk1c3BCRDVMbmVZcnBCX3VjMmR5ZGxEaVUwWDBiMk9yMTktODU5T2xWMXFyRFNjanU1aFk0bVVmVXBrVXRZa3lUbWVOaVFaTVJTT1ROYW9qV1dqdUdPYzZXYW9sNGI1NEFkUXl4ZjlDMUhpN3JXdnljUDUzWUh1QzhBRUkwczdoVW9oSWQwSjFfcXFjY29tTG0tQWhxR041TDBKbTZvdw?oc=5) (Thu, 11 Jun 2026 00:01:14 GMT)
-- [Paradigm and Hyperliquid Policy Center Push Back on GENIUS Act Stablecoin Rule - Yahoo Finance](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdm9GTHkwWS1oZlZYaTZkanpsM0hvYm1lTmljTVlNdWZCbjJ3TzU2SVNoZzM3VkEtV0ZSeGxiQklzM2ZWUjJwVnpKNzZfaGY4UVN1al9jQU9GcG5LQi1WQmh1NjNkdWtJNV9PUk1nNWdrQkdubHRyWkNGaDllckltWUlPZG1VcTNlOXNFLWwzdHZOX2NvZGNjMnN1MXVZRW1raHUzc0U3SQ?oc=5) (Wed, 10 Jun 2026 23:14:00 GMT)
-- [Visa Adds AI Agent Payments and Stablecoin Settlement Tools for Programmable Commerce - Yahoo Finance](https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGxaRkc5Z0JEZHVQcTJwVC1wM0tSMERXeG5VS3BTdjRKU1k0b0J0eFpqTkE0YnBrdnR3WUFOZzNCSzlhSkl2b1hxY1dqZ1NHQVRaNjBxTl9Va0ZJcXkzNU9iUTd2d2pXbDR4clA4Uk1iREhvYkJUVFhPYjNXNnlxZWNnQ0dwZkluZENnZUY4bmpWbkxQVTdB?oc=5) (Wed, 10 Jun 2026 22:19:00 GMT)
-- [Netomi CEO says $5 trillion AI customer experience market could boost stablecoin demand - CoinDesk](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYi01V0JjWFN1TVFOV1FEUWpNMDBfX0VEOGZuSGlBaHdiclFlOWY0YWZoNVZJN1FNQ3ZSS0lHLXNiTVhNMmY1elFpLUZUVHNzX1BMZGNybDBnaGpIcDk3WDJQRS12X01MZ0RqN3dSTWN1S3VWXzRId0lPR19CTmRSRGM1UERLM3o5S2Y5bXE1QkhrQUI2aEU5cDR6Wnhtb2ZKV3RJcWhFcWNYekQzX3lZQm5pSElsSW9Pd2MwcFVpZFYyTWNfZjh2cUNCdWZWUVk?oc=5) (Wed, 10 Jun 2026 21:51:13 GMT)
+- [Bank, Crypto Groups Seek Limits In Stablecoin AML Regs - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2LUVTTXRoWE5CUmxMemJkQlFwdHlyVmNyQ2NGWW9YbmhFV2xCQS1sUjllVnJHX3VHcUZmTi10NGUtRUxELWF0aHhyQ2hSVXVaRGRIUlh30gFWQVVfeXFMUDYtRVNNdGhYTkJSbEx6YmRCUXB0eXJWY3JDY0ZZb1huaEVXbEJBLWxSOWVWckdfdUdxRmZOLXQ0ZS1FTEQtYXRoeHJDaFJVdVpEZEhSWHc?oc=5) (Fri, 12 Jun 2026 01:52:00 GMT)
+- [FDIC Stablecoin Rulemaking Highlights Fight Over Fees, Deposits and Custody - PYMNTS.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHpsVXhoM3lobl9lSGxwNzI2el9ZTlA4RjlfeGlnWHZWQmhWZkhTOVlVR0pObTBXV01qLVpWU0NXYmE1RTJtOXNZVjVCTEpkX2lpeGVidXVTLVhzZURzTHhfclcxSnQ0X2pwTjFFalk5T3F3S3M1dVhmeW01dVNRckVLTVpmWlVWUHc3UldablE5cVMwaFdFb1BKdGdybllpOFhUZU9EcnRqSXBaZTFPbkdLRERFWWlsalE?oc=5) (Thu, 11 Jun 2026 23:17:12 GMT)
+- [Fiserv stablecoin set for July launch - The Business Journals](https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzZZai1qbmtOejJGbUVmd0lOU0pqLU1Idk5HT3puUTB2djIxa2dmTG1ycHZNNU1NNEhDNHpzLWVjN0Nmb3FxSFctUzZpRXh4WkMxdUFYdnRnb0RVZVNLTEhJT3U0aElhZFVxeDU0SGVMeUJwZ2JMZHBtcXExc2F0ajZmNmZvSDdRenU2M0J1SUxZa29zNW5URmNn?oc=5) (Thu, 11 Jun 2026 20:02:00 GMT)
+- [Big banks are ditching private blockchains to build tokenized cash networks on public infrastructure - CoinDesk](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTnBjbV9JYWRTZkhsLXZ1Ym1VdDRBU09RV255RkR3bnR5aG5XTlB5emhUaW9QVU1HNWNCaVJZVUNBZ0IyM2V0eEEwU2hWTDRPaVNkV2ZmSTR6UTZtR3RaRk0yTEpSM1p2SDlFLXJBOFloM2tJTTFNSVpLQUFXUWNxaU9yS1R2OGk2TFhzWTROX2I4TE5kenlVeC1OTmwtZ1BXSUlxaXo0RkhqQUpxdnZFVGsxQU1iazAxcG9hSDdDcWM4akN6ckNCUWZwV19QTGM5d2RubVFTSi00RVA4aHc?oc=5) (Thu, 11 Jun 2026 16:54:54 GMT)
+- [Zelle Plans Expansion Into India, with a Stablecoin in Tow - PaymentsJournal](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeURFUG1adE51MVZXZnNKbnhPN0J4M0RSQkxNODlOTlFyNGJWS3BhOHduZzR5VVJPWXdWdmhJQ0JhUEp0alhMY2ZmRGVWZFJXZGI4NlVJVzhoeHVGc1ZBR3ZwYUJhT0dPeWJHalRxVGZrYTBBT3hPNU85WlAyMjdFWklIbmxvdXBaVzJMZWxtSUItVHE10gGaAUFVX3lxTFBqdmhVZlZ4R0wxbHNDRV9zZEV5WEkzYUc5LU5YRDh2NWNPLXpDaWJ3Nm5RRFpXRURSVWJJTXl5YlpHcXJrbE02NXlIWTM3amJZTk53ckFkTzhVQ2s3SHItM1lqOFFOMmJZSnFJaU5ScmpPMkcyYWJVSVU5T053VnpUM3QtbGRQVlpTOTl6UXB4Rk5JVVpSWmg3eXc?oc=5) (Thu, 11 Jun 2026 16:47:22 GMT)
 
 <!-- END_dashboard -->
 
