@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-12 02:44:48 (UTC)*
+*Last Updated: 2026-06-13 02:37:25 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,533,622,025** | 🔴 -0.14% | 🔴 -0.84% |
+| **$293,421,567,055** | 🔴 -0.04% | 🔴 -0.80% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Bank, Crypto Groups Seek Limits In Stablecoin AML Regs - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2LUVTTXRoWE5CUmxMemJkQlFwdHlyVmNyQ2NGWW9YbmhFV2xCQS1sUjllVnJHX3VHcUZmTi10NGUtRUxELWF0aHhyQ2hSVXVaRGRIUlh30gFWQVVfeXFMUDYtRVNNdGhYTkJSbEx6YmRCUXB0eXJWY3JDY0ZZb1huaEVXbEJBLWxSOWVWckdfdUdxRmZOLXQ0ZS1FTEQtYXRoeHJDaFJVdVpEZEhSWHc?oc=5) (Fri, 12 Jun 2026 01:52:00 GMT)
-- [FDIC Stablecoin Rulemaking Highlights Fight Over Fees, Deposits and Custody - PYMNTS.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHpsVXhoM3lobl9lSGxwNzI2el9ZTlA4RjlfeGlnWHZWQmhWZkhTOVlVR0pObTBXV01qLVpWU0NXYmE1RTJtOXNZVjVCTEpkX2lpeGVidXVTLVhzZURzTHhfclcxSnQ0X2pwTjFFalk5T3F3S3M1dVhmeW01dVNRckVLTVpmWlVWUHc3UldablE5cVMwaFdFb1BKdGdybllpOFhUZU9EcnRqSXBaZTFPbkdLRERFWWlsalE?oc=5) (Thu, 11 Jun 2026 23:17:12 GMT)
-- [Fiserv stablecoin set for July launch - The Business Journals](https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzZZai1qbmtOejJGbUVmd0lOU0pqLU1Idk5HT3puUTB2djIxa2dmTG1ycHZNNU1NNEhDNHpzLWVjN0Nmb3FxSFctUzZpRXh4WkMxdUFYdnRnb0RVZVNLTEhJT3U0aElhZFVxeDU0SGVMeUJwZ2JMZHBtcXExc2F0ajZmNmZvSDdRenU2M0J1SUxZa29zNW5URmNn?oc=5) (Thu, 11 Jun 2026 20:02:00 GMT)
-- [Big banks are ditching private blockchains to build tokenized cash networks on public infrastructure - CoinDesk](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTnBjbV9JYWRTZkhsLXZ1Ym1VdDRBU09RV255RkR3bnR5aG5XTlB5emhUaW9QVU1HNWNCaVJZVUNBZ0IyM2V0eEEwU2hWTDRPaVNkV2ZmSTR6UTZtR3RaRk0yTEpSM1p2SDlFLXJBOFloM2tJTTFNSVpLQUFXUWNxaU9yS1R2OGk2TFhzWTROX2I4TE5kenlVeC1OTmwtZ1BXSUlxaXo0RkhqQUpxdnZFVGsxQU1iazAxcG9hSDdDcWM4akN6ckNCUWZwV19QTGM5d2RubVFTSi00RVA4aHc?oc=5) (Thu, 11 Jun 2026 16:54:54 GMT)
-- [Zelle Plans Expansion Into India, with a Stablecoin in Tow - PaymentsJournal](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeURFUG1adE51MVZXZnNKbnhPN0J4M0RSQkxNODlOTlFyNGJWS3BhOHduZzR5VVJPWXdWdmhJQ0JhUEp0alhMY2ZmRGVWZFJXZGI4NlVJVzhoeHVGc1ZBR3ZwYUJhT0dPeWJHalRxVGZrYTBBT3hPNU85WlAyMjdFWklIbmxvdXBaVzJMZWxtSUItVHE10gGaAUFVX3lxTFBqdmhVZlZ4R0wxbHNDRV9zZEV5WEkzYUc5LU5YRDh2NWNPLXpDaWJ3Nm5RRFpXRURSVWJJTXl5YlpHcXJrbE02NXlIWTM3amJZTk53ckFkTzhVQ2s3SHItM1lqOFFOMmJZSnFJaU5ScmpPMkcyYWJVSVU5T053VnpUM3QtbGRQVlpTOTl6UXB4Rk5JVVpSWmg3eXc?oc=5) (Thu, 11 Jun 2026 16:47:22 GMT)
+- [Wall Street&#x27;s biggest stablecoin IPO, makes a sudden $4.4 billion move - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ1ROZ1NNTXVocDdhRkE0c1VUVkluNVNmazdzSFhqdG0xNXVXVVVOSlpNaE9uVWJFRk5FV1lHaGxKTjFNamRZMWY3RHVzbXR1NnZxekhiaXc5aXVxM0hLMTFjVHdtSGhVVkdoOVpwcVF3N0t2ZE9YeHlYRFc5OEhlNlc3UTlJdl9WTUhCag?oc=5) (Fri, 12 Jun 2026 17:58:33 GMT)
+- [Wall Street&#x27;s biggest stablecoin IPO, makes a sudden $4.4 billion move - thestreet.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3Y2T1pOWU1PNGhkdzc3Sm5FRUh4RnByaFprUThpbnNrUjE1UUptZkQ3XzF1U09WRzJkd3RUanNnMkZzYXYtX0Nja1U4RGZEQU9sY3FpcGRTaE9hTWRIRktrcGZBc3ZrMGI3dWxjdTZjV3BCTnFsbG1aLTBYbHdtRGdhcmNhY0k?oc=5) (Fri, 12 Jun 2026 17:19:10 GMT)
+- [Bankers association urges consistency between FDIC, OCC stablecoin rules - ledgerinsights.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcmJCdHFiU3JTTWRqcjM5RWFTYkVBTGM3azc2bE05M3VELXhtRVY0VmNyYUV2bHIzM0o3NkhFUFBDNWNvdGUwSi1uUjFTWmNOcVNvcWhpbkgxY0ZUaEFlOXZfLXhmSDZ1TkpqTXBLd3ZaV0RXMWxHM01nOU55d2VDdlk1LVo3MlBkbU8wa2daaGxLZEViMjJtZ2ZJTnZDYmFUMmVVdkN3?oc=5) (Fri, 12 Jun 2026 16:18:14 GMT)
+- [Zelle heads to India; preps stablecoin for global expansion - Finextra Research](https://news.google.com/rss/articles/CBMiowFBVV95cUxOWHZVeFp2b19YaGFDdXZUMHlCQ3hMdGRKczVYUUNMS18xUDFLRHU5VEE5aGF2ZkllNGJVczR4alB3eFBLd0tmVDlFMVpxYWhKS1F5QWF5S0dBTE4tTVZjUkJwQWRVNjcyelVicGltNndKWFBpTUdzUU1iaUtUQXFmZmU2OEFCVm5FZ1RlVDNKTnM0SXU2QmJLd0pqeUNMQ0tRRGhB?oc=5) (Fri, 12 Jun 2026 15:12:00 GMT)
+- [SIFMA makes recommendations for FinCEN on AML proposal for stablecoin issuers - Financial Regulation News -](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHJnNWdpSlFOX1RZd0ZlRlZSdnVaZmszWVNLcF9IenhRRUo5MVhOSFFKejc0Vzd0eUxjM2M2LXlqaE00STZ3RWFOejlob1VfNkJaMTFsSDJfSW1FVGw1cUZucjlaOEpQRlkydTJuSVY4YmJ5a1Z5UXdTajR1OUZpWnduZ1RLTXQ0Y3I2Zzhyb3VDUTlMMWxjMU9kdTU0Z2hCenZybzE2d0N0ZG8?oc=5) (Fri, 12 Jun 2026 14:55:24 GMT)
 
 <!-- END_dashboard -->
 
