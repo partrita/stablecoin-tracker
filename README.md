@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-13 02:37:25 (UTC)*
+*Last Updated: 2026-06-14 02:49:08 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,421,567,055** | 🔴 -0.04% | 🔴 -0.80% |
+| **$293,429,182,320** | 🟢 +0.00% | 🔴 -0.55% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Wall Street&#x27;s biggest stablecoin IPO, makes a sudden $4.4 billion move - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ1ROZ1NNTXVocDdhRkE0c1VUVkluNVNmazdzSFhqdG0xNXVXVVVOSlpNaE9uVWJFRk5FV1lHaGxKTjFNamRZMWY3RHVzbXR1NnZxekhiaXc5aXVxM0hLMTFjVHdtSGhVVkdoOVpwcVF3N0t2ZE9YeHlYRFc5OEhlNlc3UTlJdl9WTUhCag?oc=5) (Fri, 12 Jun 2026 17:58:33 GMT)
-- [Wall Street&#x27;s biggest stablecoin IPO, makes a sudden $4.4 billion move - thestreet.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3Y2T1pOWU1PNGhkdzc3Sm5FRUh4RnByaFprUThpbnNrUjE1UUptZkQ3XzF1U09WRzJkd3RUanNnMkZzYXYtX0Nja1U4RGZEQU9sY3FpcGRTaE9hTWRIRktrcGZBc3ZrMGI3dWxjdTZjV3BCTnFsbG1aLTBYbHdtRGdhcmNhY0k?oc=5) (Fri, 12 Jun 2026 17:19:10 GMT)
-- [Bankers association urges consistency between FDIC, OCC stablecoin rules - ledgerinsights.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcmJCdHFiU3JTTWRqcjM5RWFTYkVBTGM3azc2bE05M3VELXhtRVY0VmNyYUV2bHIzM0o3NkhFUFBDNWNvdGUwSi1uUjFTWmNOcVNvcWhpbkgxY0ZUaEFlOXZfLXhmSDZ1TkpqTXBLd3ZaV0RXMWxHM01nOU55d2VDdlk1LVo3MlBkbU8wa2daaGxLZEViMjJtZ2ZJTnZDYmFUMmVVdkN3?oc=5) (Fri, 12 Jun 2026 16:18:14 GMT)
-- [Zelle heads to India; preps stablecoin for global expansion - Finextra Research](https://news.google.com/rss/articles/CBMiowFBVV95cUxOWHZVeFp2b19YaGFDdXZUMHlCQ3hMdGRKczVYUUNMS18xUDFLRHU5VEE5aGF2ZkllNGJVczR4alB3eFBLd0tmVDlFMVpxYWhKS1F5QWF5S0dBTE4tTVZjUkJwQWRVNjcyelVicGltNndKWFBpTUdzUU1iaUtUQXFmZmU2OEFCVm5FZ1RlVDNKTnM0SXU2QmJLd0pqeUNMQ0tRRGhB?oc=5) (Fri, 12 Jun 2026 15:12:00 GMT)
-- [SIFMA makes recommendations for FinCEN on AML proposal for stablecoin issuers - Financial Regulation News -](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHJnNWdpSlFOX1RZd0ZlRlZSdnVaZmszWVNLcF9IenhRRUo5MVhOSFFKejc0Vzd0eUxjM2M2LXlqaE00STZ3RWFOejlob1VfNkJaMTFsSDJfSW1FVGw1cUZucjlaOEpQRlkydTJuSVY4YmJ5a1Z5UXdTajR1OUZpWnduZ1RLTXQ0Y3I2Zzhyb3VDUTlMMWxjMU9kdTU0Z2hCenZybzE2d0N0ZG8?oc=5) (Fri, 12 Jun 2026 14:55:24 GMT)
+- [Clarity Act Stablecoin Yield Clause: The $20B Bank vs Crypto Exchange Battle - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxONXBKZzdBakU2cFlWRW9RMHhUU25YNmNKQVp1aDhrZVNFbUF6MWpYZGE3ODR5TVNZZ3VhYmJNTExHR2ExMmVPOGtNVnRZbU9aN3JUQndCdnRsREpfUzdNQnZTX0ltWnh1Y2RGODdneTZEZkQ3R3A1ejVYNHhzQTQ0QlBGOXppbDIzMkRZRkRCVDZkcnYyaHhJcW5FbmtWcFRLMkE?oc=5) (Sat, 13 Jun 2026 22:08:07 GMT)
+- [Visa (V) Expands AI Commerce Push, Unveils Stablecoin and Tokenization Capabilities - Yahoo Finance](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZU8ySk5aZWpJYWVmM012MDlCb0dleHc1RmhmRXBtTG5XREc5bmJDVllMSEFrQVliY2taQ1llZjU1eDQ5VVRQX2NVYnB3d2xQS3RHRm5mcVNHWjlSa0lqb3dqSkVhTURselZCOVh3N2ZsTDNlNjdET0tIcVVjZGdPWVF6NmZzRlFVcE1tZTlLbDh2Rk5pR2VFTk5kSQ?oc=5) (Sat, 13 Jun 2026 17:59:56 GMT)
+- [Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash. - CoinDesk](https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXRqMmYwUW5yMTZscmFaU0xEYWROSzhMNkhLVG0wQkhicEY3aml0b0Q3R3J4a0VTMkg1SzV2QWYxRjY3ekVodjBPNXRMcGZQY1FUZW91Y3B5R1p2dUlVSHlQOTkxLVljZUpwcDBaY3Jtd0ZnWHpULXpVVTc1XzFwREZiQUZjSktwV0h5MjFOMWgxaURzS3ZUNTJhME92WmpGZG5aaG93VEowM2pTem84Q3daaHo3UQ?oc=5) (Sat, 13 Jun 2026 16:53:46 GMT)
+- [Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC - CoinDesk](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV1FnQnhiNkY5ZW04TmR6Vk02VjFvZzF4RlFkZmVQQzR4M3hRZzlpbXVZMEgzRkp1a3BhdXctY3JOTFhrRzR2THpHUmRXdWxBZUNSUnhJNkRHN05TTGVoYVdWWVdKakFzLXhiYkZRUUVPLVVlWmlFRWFkR2Z4bFZDZDlUSDc1amphQ3BheUxZTlU1MFJPSzJpNTZmZkstNlB0SmF1SEpyWFk5Q1pYbC1xaEktclZ0YkxtV3l3?oc=5) (Sat, 13 Jun 2026 11:30:37 GMT)
+- [BPInsights: June 13, 2026 - Bank Policy Institute](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CM01TYkJncTl4WHpYVW94MzB3TVZMenAxRU9jVTU3MjVEN1FueDlUcjBpNTQxb2tGdnBCck93R0RIQ09hTGNnWExid2pkY0Y4VEE?oc=5) (Sat, 13 Jun 2026 11:00:00 GMT)
 
 <!-- END_dashboard -->
 
