@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-14 02:49:08 (UTC)*
+*Last Updated: 2026-06-15 02:53:35 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,429,182,320** | 🟢 +0.00% | 🔴 -0.55% |
+| **$293,392,377,456** | 🔴 -0.01% | 🔴 -0.61% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Clarity Act Stablecoin Yield Clause: The $20B Bank vs Crypto Exchange Battle - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxONXBKZzdBakU2cFlWRW9RMHhUU25YNmNKQVp1aDhrZVNFbUF6MWpYZGE3ODR5TVNZZ3VhYmJNTExHR2ExMmVPOGtNVnRZbU9aN3JUQndCdnRsREpfUzdNQnZTX0ltWnh1Y2RGODdneTZEZkQ3R3A1ejVYNHhzQTQ0QlBGOXppbDIzMkRZRkRCVDZkcnYyaHhJcW5FbmtWcFRLMkE?oc=5) (Sat, 13 Jun 2026 22:08:07 GMT)
-- [Visa (V) Expands AI Commerce Push, Unveils Stablecoin and Tokenization Capabilities - Yahoo Finance](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZU8ySk5aZWpJYWVmM012MDlCb0dleHc1RmhmRXBtTG5XREc5bmJDVllMSEFrQVliY2taQ1llZjU1eDQ5VVRQX2NVYnB3d2xQS3RHRm5mcVNHWjlSa0lqb3dqSkVhTURselZCOVh3N2ZsTDNlNjdET0tIcVVjZGdPWVF6NmZzRlFVcE1tZTlLbDh2Rk5pR2VFTk5kSQ?oc=5) (Sat, 13 Jun 2026 17:59:56 GMT)
-- [Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash. - CoinDesk](https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXRqMmYwUW5yMTZscmFaU0xEYWROSzhMNkhLVG0wQkhicEY3aml0b0Q3R3J4a0VTMkg1SzV2QWYxRjY3ekVodjBPNXRMcGZQY1FUZW91Y3B5R1p2dUlVSHlQOTkxLVljZUpwcDBaY3Jtd0ZnWHpULXpVVTc1XzFwREZiQUZjSktwV0h5MjFOMWgxaURzS3ZUNTJhME92WmpGZG5aaG93VEowM2pTem84Q3daaHo3UQ?oc=5) (Sat, 13 Jun 2026 16:53:46 GMT)
-- [Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC - CoinDesk](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV1FnQnhiNkY5ZW04TmR6Vk02VjFvZzF4RlFkZmVQQzR4M3hRZzlpbXVZMEgzRkp1a3BhdXctY3JOTFhrRzR2THpHUmRXdWxBZUNSUnhJNkRHN05TTGVoYVdWWVdKakFzLXhiYkZRUUVPLVVlWmlFRWFkR2Z4bFZDZDlUSDc1amphQ3BheUxZTlU1MFJPSzJpNTZmZkstNlB0SmF1SEpyWFk5Q1pYbC1xaEktclZ0YkxtV3l3?oc=5) (Sat, 13 Jun 2026 11:30:37 GMT)
-- [BPInsights: June 13, 2026 - Bank Policy Institute](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CM01TYkJncTl4WHpYVW94MzB3TVZMenAxRU9jVTU3MjVEN1FueDlUcjBpNTQxb2tGdnBCck93R0RIQ09hTGNnWExid2pkY0Y4VEE?oc=5) (Sat, 13 Jun 2026 11:00:00 GMT)
+- [CPI &#124; Banking Groups Pitch Anti-Money Laundering Rules for Stablecoins - PYMNTS.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUE4X0l0YS0wQm56cG9lZUVfQnYtT1FGMjRjY3AwdjBJSEhqVjFkSl93WFJIalF3NWpuemJQVjFfVjFIMkNjNXpBTmNJdF8tMjdJVXp2NzNPN04tOXA3eTl5bnBGT2M3OWhHbzhhMUNSTjFMTUw1OVlsWFc5NHo3RVdjVFc5a01TakVwRlExVVh2aWdKLUE5T1E3Y0VyOWc?oc=5) (Sun, 14 Jun 2026 17:53:54 GMT)
+- [SoFi Stablecoin And AI Coach Put Valuation And Growth In Focus - Yahoo Finance](https://news.google.com/rss/articles/CBMimAFBVV95cUxORDdyR3ZBMTlHQnFIbDJ6OGtlVWhJRzI5bjVWNHdVdUIyZy1ReXVQMmQtbEJ2d0hESk5OZVZFeXVJQkhRdnFSemV1RDk3cTcxdDJiSGxlRWhTZENJcGJiVWdnT2t4M283S3c3aHQxdEo4OUJDU2NPSUVOX2lCckRkZERhUUttUnZtam9DaGtVMmNWaXZNN3REbQ?oc=5) (Sun, 14 Jun 2026 16:10:26 GMT)
+- [Mitsubishi UFJ Joins Major Banks To Launch Yen Stablecoin By 2027 - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxPU1dkNUl1U1VoSXh3Q0RPb0xoTUV2OE5FVi1laHhHYXVFbzF2QkpkcG1ocjhuVnN5cG1aRkRsTG5temp4aU02OHJBWWVQU3NjcWJ5Yl9aUnk5MXY2Sl9STENYcEZ0dndiQUNPNEdNdG9tbEx2SzZOVFBOZWtvQXpfb1JUckN5dHpPYnhHUS1ELVg5c1N4Nm52RTY5WjR0UQ?oc=5) (Sun, 14 Jun 2026 16:10:11 GMT)
+- [Trump-backed World Liberty Financial to fund UFC fighter bonuses in USD1 stablecoin at White House event - The Block](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaTh4MkIzQnhRUS1Pc0pFVHlMeHR3V195Y2E2OEUtQjBqbTBhSUotRm9nZUtmSHZHaG9YUmZoRUZQRTJEVS04NXV6ZVROckVoT1d4SWxuYmdIekdXMkNNMmJ2T1A4ZmRRWEROTVpqd2FTX3RLQ1pOdk1sWFc5ZU9HWS1QS0YtMGZ6U2pVby1oS0hRNnV4RFllVElYYXBZQU1tU01CQnZOODR1aHpCZlNvTnRQa2FmV0gzT3l4VklNNnlTNnBac1ZtRGtNQVdnTDRQYThMLUJ0MA?oc=5) (Sun, 14 Jun 2026 15:44:41 GMT)
+- [UFC to pay White House fighters in crypto issued by Trump company - The Guardian](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVHhCa0diS0hxYk1YUmQ3NHNYTTNnNnRlU0FrZ0pSdGhEWUtYcTg3RHZRWGxEUEx5UEQwVVRVNHFxY0dnbzZiM29xMUduN3FUOGE4VlRSOENaYnBXdFRTZ2FMRkRuZmd3RlRzckJrNW8teWp0X1d3RU15ZFRRVW9aQTBQT1VjUQ?oc=5) (Sun, 14 Jun 2026 12:20:00 GMT)
 
 <!-- END_dashboard -->
 
