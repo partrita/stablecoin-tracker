@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-15 02:53:35 (UTC)*
+*Last Updated: 2026-06-16 02:55:17 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,392,377,456** | 🔴 -0.01% | 🔴 -0.61% |
+| **$293,699,509,869** | 🟢 +0.10% | 🔴 -0.55% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [CPI &#124; Banking Groups Pitch Anti-Money Laundering Rules for Stablecoins - PYMNTS.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUE4X0l0YS0wQm56cG9lZUVfQnYtT1FGMjRjY3AwdjBJSEhqVjFkSl93WFJIalF3NWpuemJQVjFfVjFIMkNjNXpBTmNJdF8tMjdJVXp2NzNPN04tOXA3eTl5bnBGT2M3OWhHbzhhMUNSTjFMTUw1OVlsWFc5NHo3RVdjVFc5a01TakVwRlExVVh2aWdKLUE5T1E3Y0VyOWc?oc=5) (Sun, 14 Jun 2026 17:53:54 GMT)
-- [SoFi Stablecoin And AI Coach Put Valuation And Growth In Focus - Yahoo Finance](https://news.google.com/rss/articles/CBMimAFBVV95cUxORDdyR3ZBMTlHQnFIbDJ6OGtlVWhJRzI5bjVWNHdVdUIyZy1ReXVQMmQtbEJ2d0hESk5OZVZFeXVJQkhRdnFSemV1RDk3cTcxdDJiSGxlRWhTZENJcGJiVWdnT2t4M283S3c3aHQxdEo4OUJDU2NPSUVOX2lCckRkZERhUUttUnZtam9DaGtVMmNWaXZNN3REbQ?oc=5) (Sun, 14 Jun 2026 16:10:26 GMT)
-- [Mitsubishi UFJ Joins Major Banks To Launch Yen Stablecoin By 2027 - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxPU1dkNUl1U1VoSXh3Q0RPb0xoTUV2OE5FVi1laHhHYXVFbzF2QkpkcG1ocjhuVnN5cG1aRkRsTG5temp4aU02OHJBWWVQU3NjcWJ5Yl9aUnk5MXY2Sl9STENYcEZ0dndiQUNPNEdNdG9tbEx2SzZOVFBOZWtvQXpfb1JUckN5dHpPYnhHUS1ELVg5c1N4Nm52RTY5WjR0UQ?oc=5) (Sun, 14 Jun 2026 16:10:11 GMT)
-- [Trump-backed World Liberty Financial to fund UFC fighter bonuses in USD1 stablecoin at White House event - The Block](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaTh4MkIzQnhRUS1Pc0pFVHlMeHR3V195Y2E2OEUtQjBqbTBhSUotRm9nZUtmSHZHaG9YUmZoRUZQRTJEVS04NXV6ZVROckVoT1d4SWxuYmdIekdXMkNNMmJ2T1A4ZmRRWEROTVpqd2FTX3RLQ1pOdk1sWFc5ZU9HWS1QS0YtMGZ6U2pVby1oS0hRNnV4RFllVElYYXBZQU1tU01CQnZOODR1aHpCZlNvTnRQa2FmV0gzT3l4VklNNnlTNnBac1ZtRGtNQVdnTDRQYThMLUJ0MA?oc=5) (Sun, 14 Jun 2026 15:44:41 GMT)
-- [UFC to pay White House fighters in crypto issued by Trump company - The Guardian](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVHhCa0diS0hxYk1YUmQ3NHNYTTNnNnRlU0FrZ0pSdGhEWUtYcTg3RHZRWGxEUEx5UEQwVVRVNHFxY0dnbzZiM29xMUduN3FUOGE4VlRSOENaYnBXdFRTZ2FMRkRuZmd3RlRzckJrNW8teWp0X1d3RU15ZFRRVW9aQTBQT1VjUQ?oc=5) (Sun, 14 Jun 2026 12:20:00 GMT)
+- [MassPay and Coinbase Ink Strategic Stablecoin Partnership - Finovate](https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0VJeV9tR2FtaG15T0FQcU10NzhkVnFVNUVFT1NUOXhZQTZWam14R0dNaHRrVEw0UjlqZmFmSFJSUTlkcDdrbGhuOHZ3UFZtVjQyLUJHWUt0bXM2UDNXeFZ6TW5IbmJobEVobUlfVWRCaXZFR3B3LU9vSUEtODNMei0xNkJoUQ?oc=5) (Mon, 15 Jun 2026 22:47:28 GMT)
+- [Nuvei to buy Payoneer for $2.75bn, combining stablecoin receipts, payouts - ledgerinsights.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXVxOXM4dUNjcVJtQ183eWNwOHZ3WW1UME5JLWRvNXpOQWZqellYZ0tOWVBsQ0RQeWpsUEMwTU1rZHVjTWgxakI4R0hjVUpHYU4wanJmSUFvYTJXSXBTbGFqX3pibW5GSHN1djg1dnBIVjhmQ2tFMmVMUmRVZHFlUlZVTlNpRFVxYmZCSjUybUc2RFRISEs2Ny12QUVZSW5KUmdWQg?oc=5) (Mon, 15 Jun 2026 22:46:21 GMT)
+- [UFC fighters at the White House got Trump family stablecoins—and a legal gap makes it possible - Fortune](https://news.google.com/rss/articles/CBMilAFBVV95cUxNZUV4dmQ1QXh0Rmw4VjRiazFmMUYyX3QtS2tZQzZqVldHLU52ZEZic09UdjZxWmJWZ3hrLXU1aU9WMmh1Q1FqazBCU05BT3BKbHE5RFBWUWN5OEgxN0JnN2Jjakt4Z3VnTjQ1ZHRVeEV3NlpZUWplS24ySWxBTVUxSFcyUmQtdk95UTNuSkdyM3BGRDNq?oc=5) (Mon, 15 Jun 2026 22:24:00 GMT)
+- [Bitso Reports Stablecoin Usage Volume Up By 81% - Crowdfund Insider](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbDVPQlRfMFR2Nk1XTVVKNjVSQW53YVpmbFNJSTBTN2JSSWFybUl4WDc0YThUeVNvQjhEdU5tUGxXd05NZ1hJVU0wRy1VVVZGc24tSlBhdUFLdFF1SnZrQzVacUpoU3NFTHJGV0MxUUFtUGYtT09KT1czS01tbmFUeTlCSV9Uckl4N20wZHdPNFBHS0RJd21nMTJYWQ?oc=5) (Mon, 15 Jun 2026 20:14:16 GMT)
+- [Rain Debuts Native Loyalty for Stablecoin Card Programs - PYMNTS.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPUTZQanVtU25VenF1MjdIbFJvdmxLR2tOVDNpX3Q5bnFscF9SWExuMmMzUGJ1cXczWHlQTElqUUFxeWJJQmY1RXlMZWtwQjVYQWdGa1paR3dCSlhoRV8tREROaWFWTUxhU25rT1Z3UVBXNFBPZUp3VTBzZ1p0ZmlLaVhzemFhRWt4OElFVjlVYVctN1E4NjU3V3FELW5fOUNGTE9MZy0ycC1TczRHTlRz?oc=5) (Mon, 15 Jun 2026 19:53:03 GMT)
 
 <!-- END_dashboard -->
 
