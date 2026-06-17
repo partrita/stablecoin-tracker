@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-16 02:55:17 (UTC)*
+*Last Updated: 2026-06-17 02:52:01 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,699,509,869** | 🟢 +0.10% | 🔴 -0.55% |
+| **$293,718,343,846** | 🟢 +0.01% | 🔴 -0.16% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [MassPay and Coinbase Ink Strategic Stablecoin Partnership - Finovate](https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0VJeV9tR2FtaG15T0FQcU10NzhkVnFVNUVFT1NUOXhZQTZWam14R0dNaHRrVEw0UjlqZmFmSFJSUTlkcDdrbGhuOHZ3UFZtVjQyLUJHWUt0bXM2UDNXeFZ6TW5IbmJobEVobUlfVWRCaXZFR3B3LU9vSUEtODNMei0xNkJoUQ?oc=5) (Mon, 15 Jun 2026 22:47:28 GMT)
-- [Nuvei to buy Payoneer for $2.75bn, combining stablecoin receipts, payouts - ledgerinsights.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXVxOXM4dUNjcVJtQ183eWNwOHZ3WW1UME5JLWRvNXpOQWZqellYZ0tOWVBsQ0RQeWpsUEMwTU1rZHVjTWgxakI4R0hjVUpHYU4wanJmSUFvYTJXSXBTbGFqX3pibW5GSHN1djg1dnBIVjhmQ2tFMmVMUmRVZHFlUlZVTlNpRFVxYmZCSjUybUc2RFRISEs2Ny12QUVZSW5KUmdWQg?oc=5) (Mon, 15 Jun 2026 22:46:21 GMT)
-- [UFC fighters at the White House got Trump family stablecoins—and a legal gap makes it possible - Fortune](https://news.google.com/rss/articles/CBMilAFBVV95cUxNZUV4dmQ1QXh0Rmw4VjRiazFmMUYyX3QtS2tZQzZqVldHLU52ZEZic09UdjZxWmJWZ3hrLXU1aU9WMmh1Q1FqazBCU05BT3BKbHE5RFBWUWN5OEgxN0JnN2Jjakt4Z3VnTjQ1ZHRVeEV3NlpZUWplS24ySWxBTVUxSFcyUmQtdk95UTNuSkdyM3BGRDNq?oc=5) (Mon, 15 Jun 2026 22:24:00 GMT)
-- [Bitso Reports Stablecoin Usage Volume Up By 81% - Crowdfund Insider](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbDVPQlRfMFR2Nk1XTVVKNjVSQW53YVpmbFNJSTBTN2JSSWFybUl4WDc0YThUeVNvQjhEdU5tUGxXd05NZ1hJVU0wRy1VVVZGc24tSlBhdUFLdFF1SnZrQzVacUpoU3NFTHJGV0MxUUFtUGYtT09KT1czS01tbmFUeTlCSV9Uckl4N20wZHdPNFBHS0RJd21nMTJYWQ?oc=5) (Mon, 15 Jun 2026 20:14:16 GMT)
-- [Rain Debuts Native Loyalty for Stablecoin Card Programs - PYMNTS.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPUTZQanVtU25VenF1MjdIbFJvdmxLR2tOVDNpX3Q5bnFscF9SWExuMmMzUGJ1cXczWHlQTElqUUFxeWJJQmY1RXlMZWtwQjVYQWdGa1paR3dCSlhoRV8tREROaWFWTUxhU25rT1Z3UVBXNFBPZUp3VTBzZ1p0ZmlLaVhzemFhRWt4OElFVjlVYVctN1E4NjU3V3FELW5fOUNGTE9MZy0ycC1TczRHTlRz?oc=5) (Mon, 15 Jun 2026 19:53:03 GMT)
+- [NYDFS releases new stablecoin regulatory framework - State Affairs](https://news.google.com/rss/articles/CBMie0FVX3lxTE96bXBucGladEdNN3Nsb2dNWDBOdEZHdExxbEdwajQwS2VBUEI2blRWbWRYWjJ5bGhReV9xSzdSZDFIZnJOcnU1TlEyRjdRRUVCdHI4aVFqbXBZU1lHbE9uY1ZaeUJ4NmhCWEZZN3JtREtjaFVyLTRTZ3RuQQ?oc=5) (Wed, 17 Jun 2026 00:17:09 GMT)
+- [Visa’s AI Agent and Stablecoin Push Could Be A Game Changer For Visa (V) - Yahoo Finance](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMG80N0lhWmVHdG5YSHhybmFqOEZ1VDEwNGFsQlcyOVFfNThpYU4wZ2ZRMVJLUUhhamRJb0hPdmt1ME56NUtfTmQ1Rm9xd3NBM2gybnRZTXdubUhLS0NxV1lTNUlONVNkcUEwTnhwQUZ3ZTc4dkgtYUs0Ti1XeU8zX2x1ZnY1ZjRSMDgwUE1sVlFUQU5CbURySQ?oc=5) (Tue, 16 Jun 2026 22:13:02 GMT)
+- [234-year-old bank launches stablecoin fund - thestreet.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGtBbks3UmlsM096Ty1pNTJOYVplSXJNcEcxSlBaUWJYT1REdWt4eGdWU1hlMmRVQmpNVzFXbEJ5QTZCWDRsQ3ZxQ0xzMWVBWFE0THVpWmZjMDRiY1ZLeURYM0czR2tMcXk4VlhSNnY3SmdhNDBic3VDNERvSjRUT0dvM0NLSVplaDI4?oc=5) (Tue, 16 Jun 2026 22:05:45 GMT)
+- [U.S. senators urge Treasury not to leave states out of GENIUS Act stablecoin process - CoinDesk](https://news.google.com/rss/articles/CBMixAFBVV95cUxNT1lNM0w2ajlQWUhWLU55ZDB4MEZSZzFlckNWOFBuSVJBTHZYS0ZnMTBkUWxkMnFZbUo3WmY1RHFmeGVXUkduWjloeFVqdmZTU2dLbWFpVURGdUE2RGdzN0F3VHdjanZqeExCT2hWdXdYQl9vSDNHMU9vUnNSQWVuaVY4Tkh2eEdHX3MyUFNQUjNnRjBQbWczV0Fjbm5YcjBvLVQ4OHNtXzlQcFJBVHFKSzA0OGVraVZXN29qakZXTW5iMzcw?oc=5) (Tue, 16 Jun 2026 20:37:22 GMT)
+- [Cryptocurrency banking, stablecoins regulation proposed - The Center Square](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbUVJcmxnYUJTbkdFdWxqSDZXRWJDei1sM3pGcG1nei0zcVhCbDFiTmhlcmcyYkFwYmJnSVNuV0oyUjlzMnpBUHB0TmJjb0RiWldlc0ZOTl9NVm9xWjhWaTNyZlZYVnF2aElQWWdFdVFRaUpyU1M1TUl4dkVVNXY3c1BWaG9Wc1ZKbzJVZE41eENDRmZvNnZ1OWxfb3DSAaIBQVVfeXFMUHNUakl5ZVdTaWRac2JMZlZudlZWbUQyWnJkbTVSNzBRQmFUMHVSY1FVOTZTeVVSRzVrb0dlRDhrZFVuQkx0Z3NyT19JaGJpYk1Jd3M4akVKRzFaUE0tUm0tWWRtOERDdmdKalBFTVRtVXpfMzQwQldEVGdzWTlyQWlSNjRLbWZQOTQyU0tUaWJ4OHA5TUJoNFFDVUdyREltenRB?oc=5) (Tue, 16 Jun 2026 19:03:00 GMT)
 
 <!-- END_dashboard -->
 
