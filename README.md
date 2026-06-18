@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-17 02:52:01 (UTC)*
+*Last Updated: 2026-06-18 02:47:27 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,718,343,846** | 🟢 +0.01% | 🔴 -0.16% |
+| **$293,270,694,722** | 🔴 -0.15% | 🔴 -0.23% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [NYDFS releases new stablecoin regulatory framework - State Affairs](https://news.google.com/rss/articles/CBMie0FVX3lxTE96bXBucGladEdNN3Nsb2dNWDBOdEZHdExxbEdwajQwS2VBUEI2blRWbWRYWjJ5bGhReV9xSzdSZDFIZnJOcnU1TlEyRjdRRUVCdHI4aVFqbXBZU1lHbE9uY1ZaeUJ4NmhCWEZZN3JtREtjaFVyLTRTZ3RuQQ?oc=5) (Wed, 17 Jun 2026 00:17:09 GMT)
-- [Visa’s AI Agent and Stablecoin Push Could Be A Game Changer For Visa (V) - Yahoo Finance](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMG80N0lhWmVHdG5YSHhybmFqOEZ1VDEwNGFsQlcyOVFfNThpYU4wZ2ZRMVJLUUhhamRJb0hPdmt1ME56NUtfTmQ1Rm9xd3NBM2gybnRZTXdubUhLS0NxV1lTNUlONVNkcUEwTnhwQUZ3ZTc4dkgtYUs0Ti1XeU8zX2x1ZnY1ZjRSMDgwUE1sVlFUQU5CbURySQ?oc=5) (Tue, 16 Jun 2026 22:13:02 GMT)
-- [234-year-old bank launches stablecoin fund - thestreet.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGtBbks3UmlsM096Ty1pNTJOYVplSXJNcEcxSlBaUWJYT1REdWt4eGdWU1hlMmRVQmpNVzFXbEJ5QTZCWDRsQ3ZxQ0xzMWVBWFE0THVpWmZjMDRiY1ZLeURYM0czR2tMcXk4VlhSNnY3SmdhNDBic3VDNERvSjRUT0dvM0NLSVplaDI4?oc=5) (Tue, 16 Jun 2026 22:05:45 GMT)
-- [U.S. senators urge Treasury not to leave states out of GENIUS Act stablecoin process - CoinDesk](https://news.google.com/rss/articles/CBMixAFBVV95cUxNT1lNM0w2ajlQWUhWLU55ZDB4MEZSZzFlckNWOFBuSVJBTHZYS0ZnMTBkUWxkMnFZbUo3WmY1RHFmeGVXUkduWjloeFVqdmZTU2dLbWFpVURGdUE2RGdzN0F3VHdjanZqeExCT2hWdXdYQl9vSDNHMU9vUnNSQWVuaVY4Tkh2eEdHX3MyUFNQUjNnRjBQbWczV0Fjbm5YcjBvLVQ4OHNtXzlQcFJBVHFKSzA0OGVraVZXN29qakZXTW5iMzcw?oc=5) (Tue, 16 Jun 2026 20:37:22 GMT)
-- [Cryptocurrency banking, stablecoins regulation proposed - The Center Square](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbUVJcmxnYUJTbkdFdWxqSDZXRWJDei1sM3pGcG1nei0zcVhCbDFiTmhlcmcyYkFwYmJnSVNuV0oyUjlzMnpBUHB0TmJjb0RiWldlc0ZOTl9NVm9xWjhWaTNyZlZYVnF2aElQWWdFdVFRaUpyU1M1TUl4dkVVNXY3c1BWaG9Wc1ZKbzJVZE41eENDRmZvNnZ1OWxfb3DSAaIBQVVfeXFMUHNUakl5ZVdTaWRac2JMZlZudlZWbUQyWnJkbTVSNzBRQmFUMHVSY1FVOTZTeVVSRzVrb0dlRDhrZFVuQkx0Z3NyT19JaGJpYk1Jd3M4akVKRzFaUE0tUm0tWWRtOERDdmdKalBFTVRtVXpfMzQwQldEVGdzWTlyQWlSNjRLbWZQOTQyU0tUaWJ4OHA5TUJoNFFDVUdyREltenRB?oc=5) (Tue, 16 Jun 2026 19:03:00 GMT)
+- [Stablecoin development CEO Kazley sells $26,944 in common stock - Investing.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUG9aNW5SdGFGSUtuRXFNY203RDRYcnNDQ2RJUndmM09GY2RnQUNHYUZ2YmpnRHdLUWI3WTF4QWF3QTA1VF9nWENNdE9FM291a0ZKbnpYSUhQbWx4dE9hR1hnN3R5RGVRTnBPSElOc0gwNDhhR21kb2hxN0tOMGNfRHRtNnhKYzdfdGZSYTRoVExHZTN3czdUQzJSRDg1bmF1NlVadE5YS3dTd3VxaE5ESWtqMWNzaURyQV9hTE9WTXhicGRf?oc=5) (Thu, 18 Jun 2026 01:00:32 GMT)
+- [Stablecoin development CEO Michael Kazley sells $26,944 in stock - Investing.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckhCZUMyVUphUm9RMC1ObllxZWl5TXQ0Q240a0twdUJjU0VoNDFQeFBHbmxxTHdNNUhMblNVcU1tQnVvMHFJNEc4Nm0zRGlxdHpGWHpqSmxlenlKSDlwYWxPQ3MxVnFYN01pQTdOZHh5UXdJMzVwbUJLQzZzUW1nNmRWVjk3ZjNSLWZ6M3NCRUdtSzdmMUhsUTZsS3AyRXRIaVA4cHhUcnRvWnJjRmJNSVMtWnE2YmxfODJsM0FlUXAwaTIzREFybjdkTkhaYy1J?oc=5) (Thu, 18 Jun 2026 00:32:00 GMT)
+- [State Street (STT) Is Up 5.7% After Launching GENIUS-Compliant Stablecoin Reserves Fund – Has The Bull Case Changed? - Yahoo Finance](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNWFGc29ZSmgzUWJfZ3pPVnZkSkM3SjFBOEVvOUtRR1F5MnBmRklKZzJOTUdpc21vLXlzX3VjMGJYNkxYN3FzTm1tRUp6ZjZpcVZwOXV0SXJlOERJbFFiYUtPWGZCODR6N2dZcnlKTkNtbXhqcUYwd2hEMndKSWRwTEZZR3lQamttZFZMWUxn?oc=5) (Wed, 17 Jun 2026 23:21:51 GMT)
+- [Brazilian stablecoin infrastructure firm Trace Finance raises $32m - Finextra Research](https://news.google.com/rss/articles/CBMirAFBVV95cUxQTDR6SHRuakkyMzZzc2NTSnpONVBHMU90U2UxS0dKcHFFaHc3RUREM3NMSzlvX1F1bEFNZXFjLXlZSnBYSG9YSzFuVEUtYkJ4bDlTeE1XNEl3VzlzdWFzVjZHUWtadENGeTZsN3BnMG53czRjdkdWcXJJeWl3a1pDaWx0bWVVVTVmREwyNnZVWEtoMFZIamZXYXhoYm0xbEpaSFE1d2NzZ1lvc3FI?oc=5) (Wed, 17 Jun 2026 23:02:23 GMT)
+- [Fintech Trace Finance Raises $32 Million Series A, Targets Stablecoin Payments - Crowdfund Insider](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNnljTXA5eTNJNG5wRlNwU2Z6eEhXMDZjX3FpelRLM2poNHZpeUh3OEd2dWNnUDh2UG1iRkJEdE9xSFpVR2xmdElScXA2aTNWOGZRMkJpUWtFRDdPbDI2UGxxdzVIZTY5LURXai1Udm5CeDN4R0Zvc3ZqOXdkOEU1azlVdm40VFBzVTVHQU5jZWRXcURxd1ZoeDMwQTF4eVNJUmZhQTVzaWxZeDRPQVdnWllWLThYN0JUcnF3NU0xQUhiQzA?oc=5) (Wed, 17 Jun 2026 21:32:32 GMT)
 
 <!-- END_dashboard -->
 
