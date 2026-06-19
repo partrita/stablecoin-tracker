@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-18 02:47:27 (UTC)*
+*Last Updated: 2026-06-19 03:32:16 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,270,694,722** | 🔴 -0.15% | 🔴 -0.23% |
+| **$293,546,874,507** | 🟢 +0.09% | 🟢 +0.00% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoin development CEO Kazley sells $26,944 in common stock - Investing.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUG9aNW5SdGFGSUtuRXFNY203RDRYcnNDQ2RJUndmM09GY2RnQUNHYUZ2YmpnRHdLUWI3WTF4QWF3QTA1VF9nWENNdE9FM291a0ZKbnpYSUhQbWx4dE9hR1hnN3R5RGVRTnBPSElOc0gwNDhhR21kb2hxN0tOMGNfRHRtNnhKYzdfdGZSYTRoVExHZTN3czdUQzJSRDg1bmF1NlVadE5YS3dTd3VxaE5ESWtqMWNzaURyQV9hTE9WTXhicGRf?oc=5) (Thu, 18 Jun 2026 01:00:32 GMT)
-- [Stablecoin development CEO Michael Kazley sells $26,944 in stock - Investing.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckhCZUMyVUphUm9RMC1ObllxZWl5TXQ0Q240a0twdUJjU0VoNDFQeFBHbmxxTHdNNUhMblNVcU1tQnVvMHFJNEc4Nm0zRGlxdHpGWHpqSmxlenlKSDlwYWxPQ3MxVnFYN01pQTdOZHh5UXdJMzVwbUJLQzZzUW1nNmRWVjk3ZjNSLWZ6M3NCRUdtSzdmMUhsUTZsS3AyRXRIaVA4cHhUcnRvWnJjRmJNSVMtWnE2YmxfODJsM0FlUXAwaTIzREFybjdkTkhaYy1J?oc=5) (Thu, 18 Jun 2026 00:32:00 GMT)
-- [State Street (STT) Is Up 5.7% After Launching GENIUS-Compliant Stablecoin Reserves Fund – Has The Bull Case Changed? - Yahoo Finance](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNWFGc29ZSmgzUWJfZ3pPVnZkSkM3SjFBOEVvOUtRR1F5MnBmRklKZzJOTUdpc21vLXlzX3VjMGJYNkxYN3FzTm1tRUp6ZjZpcVZwOXV0SXJlOERJbFFiYUtPWGZCODR6N2dZcnlKTkNtbXhqcUYwd2hEMndKSWRwTEZZR3lQamttZFZMWUxn?oc=5) (Wed, 17 Jun 2026 23:21:51 GMT)
-- [Brazilian stablecoin infrastructure firm Trace Finance raises $32m - Finextra Research](https://news.google.com/rss/articles/CBMirAFBVV95cUxQTDR6SHRuakkyMzZzc2NTSnpONVBHMU90U2UxS0dKcHFFaHc3RUREM3NMSzlvX1F1bEFNZXFjLXlZSnBYSG9YSzFuVEUtYkJ4bDlTeE1XNEl3VzlzdWFzVjZHUWtadENGeTZsN3BnMG53czRjdkdWcXJJeWl3a1pDaWx0bWVVVTVmREwyNnZVWEtoMFZIamZXYXhoYm0xbEpaSFE1d2NzZ1lvc3FI?oc=5) (Wed, 17 Jun 2026 23:02:23 GMT)
-- [Fintech Trace Finance Raises $32 Million Series A, Targets Stablecoin Payments - Crowdfund Insider](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNnljTXA5eTNJNG5wRlNwU2Z6eEhXMDZjX3FpelRLM2poNHZpeUh3OEd2dWNnUDh2UG1iRkJEdE9xSFpVR2xmdElScXA2aTNWOGZRMkJpUWtFRDdPbDI2UGxxdzVIZTY5LURXai1Udm5CeDN4R0Zvc3ZqOXdkOEU1azlVdm40VFBzVTVHQU5jZWRXcURxd1ZoeDMwQTF4eVNJUmZhQTVzaWxZeDRPQVdnWllWLThYN0JUcnF3NU0xQUhiQzA?oc=5) (Wed, 17 Jun 2026 21:32:32 GMT)
+- [Bank Regulators Float Joint Stablecoin Customer ID Rule - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Wb1dPcGpmLXV5R01YQV9xNmhEdW1NZjEycnMycjhHZy1HTmxzc2YyQ1ZPaXpPMEs4RVBST2IxazBpbllLR1NnZDlLVTlqMFV4bW9BYi1B0gFWQVVfeXFMTlZvV09wamYtdXlHTVhBX3E2aER1bU1mMTJyczJyOEdnLUdObHNzZjJDVk9pek8wSzhFUFJPYjFrMGluWUtHU2dkOUtVOWowVXhtb0FiLUE?oc=5) (Fri, 19 Jun 2026 00:24:00 GMT)
+- [FINANCIAL TECHNOLOGY—FinCEN, other... - VitalLaw.com](https://news.google.com/rss/articles/CBMihwJBVV95cUxPbEQzYVBGR0hZazZlRHFXNk5LYXZqaWUyUnhLTXZ2LUxSa0hocmVhQ1MwcE1tTUx4bm1MQlV1Nm0wd0hVMi1aSGJTZjgzX2FES3RfQ0NfU19LVmVRTG9HQ25xZlVnbkJiVWxRRlVuNmt2Ti1CcnFNMk1RaFMyYmNFanlvbXpPaGJIcGNYbFRvaVhUVDNJbkVyOWFpaEMwdzM4THZSR2RXLURrTzlzaXFIMFkzS2lWMTc0WTdMYlBJTm52RnY4SnNqMjhrRHRwWFlLVU9KZlpWZXBXbmhDYU1NSlFnbktaWFJQVDBjSklZVWFYb3l5LV9RRWZuaGVseHVadjg4T1hGcw?oc=5) (Fri, 19 Jun 2026 00:19:09 GMT)
+- [New stablecoin-powered fintech Sovra raises USD 2 mn in pre-seed funding - EnterpriseAM](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmFXQWNBbzhudTB5QnlWb3VsQjhDVXlha3JnbV9zek53NVB3bHdqejZWTkU2b0dCZFd2QUlFUzEwaThTaXdkR0k2UE84OTk5ZUhHLXg4aG5HZzZfdzVSVkhycy1NOTVnbmtWNGl5MlBrZWFIbFJ2a2ZoRmY0aWdHa2lzdjhtV1BVaE9YbGtxZ0JZYW9KSmljS05VNGprWDZsREZCU2RneHBOMTU3TWF6TUdnVQ?oc=5) (Fri, 19 Jun 2026 00:00:00 GMT)
+- [Trace Finance Raises $32M To Expand Stablecoin Settlement Rails - TradingView](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMlZNeWdRaHNPMXJEclNWWi1wcGtadWNsMkQ0eEtFVlY4aVZ2SG1HYm1fYjZ1bXRoS0lYOEpfYzJZSWo5T2lucGJZc3cwckh3OVBRNC0wTGJOTjhKN1hVMWJCalg3SnUwclRjSjZ5OTM0bnFOdHRUZ21NZHdidFVLamxXenE2QU5Oa21wMkxhaVR3bjlLbENEMkppbjNCSnBxaWlOSjJ2emRFVmt3bklCeHFwbWNHVjUwalJsTQ?oc=5) (Thu, 18 Jun 2026 21:30:36 GMT)
+- [Fed seeks tighter stablecoin issuer oversight, proposes bank-style ID requirements - FXStreet](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaTVpWTB4UjRwX2xfaGxUUkxLbno2Q0p2U0NBNmR2V25qelNyXzl5RmNTM3JmMjBwdjdZZEY4bXk3MmN6Zy03Vms2eTJZWWZndk9TYjdFQmdDOEtiNGdQaUJFTXkzQlRIMzg1Y1dGcDZKd050dnNwbnM5SWxTc3htV2RsZGFMaWZpdlpTUnhrVjVlaHhlQlRTWFJmbnVPQ2poa2kwbmV0R210ZUZ5ZFVMXzc4d3RSQUhsR3lBWmpPZEZuME1COWFIbHFsdE5ZZVlYeVpmTENWOU4?oc=5) (Thu, 18 Jun 2026 21:22:04 GMT)
 
 <!-- END_dashboard -->
 
