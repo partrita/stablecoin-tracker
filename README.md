@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-19 03:32:16 (UTC)*
+*Last Updated: 2026-06-20 02:36:53 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,546,874,507** | 🟢 +0.09% | 🟢 +0.00% |
+| **$293,480,521,863** | 🔴 -0.02% | 🟢 +0.02% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Bank Regulators Float Joint Stablecoin Customer ID Rule - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Wb1dPcGpmLXV5R01YQV9xNmhEdW1NZjEycnMycjhHZy1HTmxzc2YyQ1ZPaXpPMEs4RVBST2IxazBpbllLR1NnZDlLVTlqMFV4bW9BYi1B0gFWQVVfeXFMTlZvV09wamYtdXlHTVhBX3E2aER1bU1mMTJyczJyOEdnLUdObHNzZjJDVk9pek8wSzhFUFJPYjFrMGluWUtHU2dkOUtVOWowVXhtb0FiLUE?oc=5) (Fri, 19 Jun 2026 00:24:00 GMT)
-- [FINANCIAL TECHNOLOGY—FinCEN, other... - VitalLaw.com](https://news.google.com/rss/articles/CBMihwJBVV95cUxPbEQzYVBGR0hZazZlRHFXNk5LYXZqaWUyUnhLTXZ2LUxSa0hocmVhQ1MwcE1tTUx4bm1MQlV1Nm0wd0hVMi1aSGJTZjgzX2FES3RfQ0NfU19LVmVRTG9HQ25xZlVnbkJiVWxRRlVuNmt2Ti1CcnFNMk1RaFMyYmNFanlvbXpPaGJIcGNYbFRvaVhUVDNJbkVyOWFpaEMwdzM4THZSR2RXLURrTzlzaXFIMFkzS2lWMTc0WTdMYlBJTm52RnY4SnNqMjhrRHRwWFlLVU9KZlpWZXBXbmhDYU1NSlFnbktaWFJQVDBjSklZVWFYb3l5LV9RRWZuaGVseHVadjg4T1hGcw?oc=5) (Fri, 19 Jun 2026 00:19:09 GMT)
-- [New stablecoin-powered fintech Sovra raises USD 2 mn in pre-seed funding - EnterpriseAM](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmFXQWNBbzhudTB5QnlWb3VsQjhDVXlha3JnbV9zek53NVB3bHdqejZWTkU2b0dCZFd2QUlFUzEwaThTaXdkR0k2UE84OTk5ZUhHLXg4aG5HZzZfdzVSVkhycy1NOTVnbmtWNGl5MlBrZWFIbFJ2a2ZoRmY0aWdHa2lzdjhtV1BVaE9YbGtxZ0JZYW9KSmljS05VNGprWDZsREZCU2RneHBOMTU3TWF6TUdnVQ?oc=5) (Fri, 19 Jun 2026 00:00:00 GMT)
-- [Trace Finance Raises $32M To Expand Stablecoin Settlement Rails - TradingView](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMlZNeWdRaHNPMXJEclNWWi1wcGtadWNsMkQ0eEtFVlY4aVZ2SG1HYm1fYjZ1bXRoS0lYOEpfYzJZSWo5T2lucGJZc3cwckh3OVBRNC0wTGJOTjhKN1hVMWJCalg3SnUwclRjSjZ5OTM0bnFOdHRUZ21NZHdidFVLamxXenE2QU5Oa21wMkxhaVR3bjlLbENEMkppbjNCSnBxaWlOSjJ2emRFVmt3bklCeHFwbWNHVjUwalJsTQ?oc=5) (Thu, 18 Jun 2026 21:30:36 GMT)
-- [Fed seeks tighter stablecoin issuer oversight, proposes bank-style ID requirements - FXStreet](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaTVpWTB4UjRwX2xfaGxUUkxLbno2Q0p2U0NBNmR2V25qelNyXzl5RmNTM3JmMjBwdjdZZEY4bXk3MmN6Zy03Vms2eTJZWWZndk9TYjdFQmdDOEtiNGdQaUJFTXkzQlRIMzg1Y1dGcDZKd050dnNwbnM5SWxTc3htV2RsZGFMaWZpdlpTUnhrVjVlaHhlQlRTWFJmbnVPQ2poa2kwbmV0R210ZUZ5ZFVMXzc4d3RSQUhsR3lBWmpPZEZuME1COWFIbHFsdE5ZZVlYeVpmTENWOU4?oc=5) (Thu, 18 Jun 2026 21:22:04 GMT)
+- [What is a stablecoin? USDC, USDT, RLUSD, and how they hold a dollar - Cryptonews.net](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nMXZ3SWJ4TFFXQTFkV0tHb1Y1YUJIMUJYNlZlTGpleDZLOENsNnZXLU8tMnhXMTNjWjNjUWg3SEZKc0VrYWM0VVZWeUdUTmVTSlQ5TW9kTjlRQQ?oc=5) (Fri, 19 Jun 2026 22:32:10 GMT)
+- [BIS maps stablecoin yield models. Do interest bans target the right one? - ledgerinsights.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjlwTjJnemx1VE1iTzVQbjFYYTQwRFJtMUMyU0NTdVhHVWNCbXFIeHRlbzBiSTRDUkdndXdULWRXNWh5REdQZnRFNU83Ml9mZ1hTUkQySFdkMHRwQUw0cG9MR0hQYW95aTNva1lmMkJ3djJzazBnNGdrUldYWW1PNVp3Y3Z2THVSelVUZWlTRXFuNkw4U21KODFtckdGeGhTbTU4NA?oc=5) (Fri, 19 Jun 2026 17:52:45 GMT)
+- [US stablecoin rules could accelerate adoption of digital identity credentials - Biometric Update](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRXFQb1Mxb1ptcUQ4MjNKMk44czJ4dTN3bFgwRklwUmxnWXczcnZybGh1VTR6cEVncVhYemtEWWZlaEFfSm1TaVo5M0JEd0lJWnRZdm5EZFBCUzBHZ0xPalA3ZERTVDh3UEJ2VVlBVlBuaUcwYzlLS2NqTENBT0E4NHBwZTRGWlZjbHhOakJHQWU2dUh3NDNjQ29qUHktZF9DUDVUOXBxNVZhVlRrOFJoUkM3enVMSHM?oc=5) (Fri, 19 Jun 2026 17:07:00 GMT)
+- [FinCEN and Banking Agencies Propose Customer Identification Program Rule for Stablecoin Issuers - The National Law Review](https://news.google.com/rss/articles/CBMitwFBVV95cUxQMGF5NFZ0R05FUDVhRXRDay1SNXFscEhRRzZhVU5IdUl1WlVmbzhuLVdEVlprNm5jVkhuUXNydFJtS3UwbVJYS2ZWbWVGWkNZWFljU1hucWkxSFp1UlFBTzNXeFk0U1MweWJYWGdLMEZHQ0I1RDFVSm9aQS1BdkhEQVk0aDJmRzFXb3lGX1Y0QmUtVjhtRlJPZ3RLd2lNZmlwSHZlVUhYaUZWQ2FseldIaDVXQVczcmvSAbwBQVVfeXFMTkUwcG5ZYnNPZkF2NGM5aVdBT29oOGFGdGk3TFVqVFdaaklHSGRVc0xRWDhjRE9LeVJCaHdXYXBCbkJ2Z19HWlVVbFlER1ZDT1hORnN3WmRmcFpPWFo4THYycGp6V0VYa0lQWGt0Wk5ISV9iTGdtMThwQUlxMzAzT3Y0dmFPSk9TVU9aYno2RGtFZTNFcFBHY3lOMGlTQVJKLWl5aWhRcG95N0Ffa3hlMVJRU3k5bG1rTnNaLUw?oc=5) (Fri, 19 Jun 2026 16:58:02 GMT)
+- [OSL Group Secures Australian Financial Services Licence, Strengthening Regulated Stablecoin and Payments Infrastructure in Australia - The Block](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYnhYWldieFo2MmNsR3EzcURDRG9zUTlyNzhZa2FVZDNLYkx6VmtUdGotaU8xY1NXX3Q2aWhPaUtiOHdLTGdVNXNkcGNsYTc2Z2JFQjN4dVZTbURkTmRTTTRrclptSnlDV2V5NHpnMVZKMkFBeWRwTXpqSXM5dU52MGVWMXoxNkE1dzYxUnNLQ0ZjZ3J6Yl9rRWtVTFV0dGZVUnhHT0ZHLTE5dzMzZ0ZYRHh5NUpiLURNNkZCRXhpYXJNTllDY0JpNmZNVnVMNlVZRW4ydU1sY2tIMkdxbk1kbEhoeDF1SmJwLVhWME9nMWlvc2RBMi1USFoxOA?oc=5) (Fri, 19 Jun 2026 16:45:33 GMT)
 
 <!-- END_dashboard -->
 
