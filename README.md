@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-21 02:52:50 (UTC)*
+*Last Updated: 2026-06-22 02:55:26 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,580,251,633** | 🟢 +0.03% | 🟢 +0.05% |
+| **$293,559,416,041** | 🔴 -0.01% | 🟢 +0.06% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Circle (CRCL) Faces New Fed Stablecoin Rules As USDC Oversight Tightens - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxNLVJqcElTejBDeEJVUnFaeE9QTC1URVpLMkl2RVU5cWI2enh5XzhOOHNNelJxdXRZNDNZSkEtM204MU14djNFaVMwbC1ZWTdEWHZzN1pkblBWcFk2TDNCWno4MGtlcDh1MEpIUDJmaGhYNFAyRU1YaERtZFpCZ1hEMnh1emhDMDNzVnlkN0V0S1EweGZ4VkxVM1FyUmR2QQ?oc=5) (Sun, 21 Jun 2026 01:09:00 GMT)
-- [Main Street msUSD Stablecoin Loses Dollar Peg and Crashes 90% - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnhDVmVzcW5vN1RXbFNPS2VaVERpZFVXbktUZXA4R2NmSUJQbU5MRldyN2xVcWVPWTVKRXF2X2lGMVhIa3VSOG51UW5ZWGJ5b3FLbGZIQWZEcENYdGRkcEpSeEJSNUVtSkVueXM3aU5LVEFHMGl6bWFRYkxTX0hIdk5fVGdWaEx2OVpJOHMzU1dFTktTTUlzZ3ZTektPUTR6?oc=5) (Sat, 20 Jun 2026 20:12:16 GMT)
-- [Stablecoin bill passes House with bipartisan support - The North State Journal](https://news.google.com/rss/articles/CBMilgFBVV95cUxNc0RwaDNOd2ZzVnk5Ry16eEFidTQzd0VDUkY3NDFYdXJkZDlFeTMtbDl6cTd6Mk9yclZkUTBCMHcxelRvUWZCWF8waVo3WERickNhM0RtdVV5Q1BIZ2hoNlhPcU51dEZ1TXQzVzJ6aEF4Z3JOTE1WeDY4UVNSSnZfUGh3MVdZc1BCTS02V2d3ZFEwdkdTMnc?oc=5) (Sat, 20 Jun 2026 11:55:24 GMT)
-- [DFS builds on stablecoin framework - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTVvT3hFc2xzUUZuMFN0aUkweXR3WFljczcyQTNLdC1BQVJtOWNYcUltTVZIYVB3bzVRWEdEcWxGVWwwUS1HaGFoVkI1YnNUZVJhWFlTdGcxV3VnanBncmQ1eWJWYmcyVi1xUU1OMXlOMjFKeThad0Y2RlhrX3NpdGJxSTNDRTF3SlozZHdyc1ZpdHpzdi1PUnB3NVA?oc=5) (Sat, 20 Jun 2026 11:36:00 GMT)
-- [Stablecoin issuers face new customer verification requirements under the US GENIUS Act - Digital Watch Observatory](https://news.google.com/rss/articles/CBMigAFBVV95cUxQYkFSMDlmREV4LUFZQ1RORjJvZlZWN0ZvUVlOeXl3WnBxWlVFSWVhTmltRUFJY1hzdm02aFBiTGtrcEVOTmFkdWhDa0F1NTlpZEhaLVZabFc3QWRXamR4M3RWbmhRaklheUd0T2taQ1JLUVJWSjR4enFPazVGVHNrTg?oc=5) (Sat, 20 Jun 2026 10:00:00 GMT)
+- [Stablecoin regulation converts issuers into psuedo-banks while adding a barrier to entry for smaller players - CryptoRank](https://news.google.com/rss/articles/CBMigAFBVV95cUxQOHByVmJJUjdSN2pBcUhUUDZ4Q29FTUJVb2Fzak5QelBuMWJTZjZVRzdLMU1zdXZ0bGZDZVJ2S3MxVUF1N0JjcmdEdkxIQkVMWjZCeDlIaVRsTzd3ZU4xelVHeUMtU3VWR3hGWC1DV1VBV3I5RlY1cGphbzdHYVFQRA?oc=5) (Sun, 21 Jun 2026 18:35:20 GMT)
+- [Federal Regulators Want Stablecoins to Keep Working Without ID Checks - Gizmodo](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZGNnMkpIN2xZbWUxS25rNG02ZGhhRktURzBxWDFLcThxYkNRbTB5SmJjRUJGcDc5YmJCazdRaTZuSVJGcFYzdUFvWmtxRWRuaW5EX016WXQtZ191aTNJWk1WTEdaeEVfTkE4Q2l3aW5oLVRKMUt3UHRVUkFPdG9hWEJ2bXQ4Y1V3RTh4X3ZrQktiejFwYS1fN044MEU2M1hJQVE?oc=5) (Sun, 21 Jun 2026 17:12:32 GMT)
+- [Stablecoin regulation converts issuers into psuedo-banks while adding a barrier to entry for smaller players - CryptoSlate](https://news.google.com/rss/articles/CBMib0FVX3lxTE1zekE0empGYk9wcmEwZXRuLWwzeWsyOHV6VXZ6R0hjNHVfSjlaTTREejN1emVGTnBPQ05GYVB1dmZDSzZkb1dxNTNEd1RnV195bkYxWVJidUd0RUtYRllPeklRUE5FZ2RxWDZGV1dlRQ?oc=5) (Sun, 21 Jun 2026 13:10:09 GMT)
+- [Stablecoin Regulation Is Becoming a Major Theme - Moomoo](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmM2bGFUNE5Oc3FHNUxJTnpEMy1tVnB0bUtTYmZVVDFtd3hJaHlzeU5RUXQwSzFUaG13aXd5YzRiNEVCQm5sMUhZOUtkNGduVExEWHFyM3J4aWZ2YWlIT2Vmd09OVE1xTXBET2VMSy1lMmlSSmZUSWpfUURhMW1sZWRfTVplb0M5ejdtdGxxU1phTnd3UURtajhBTk15TC1tLXc?oc=5) (Sun, 21 Jun 2026 12:18:13 GMT)
+- [A single vendor termination just wiped 88% off a stablecoin that called itself institutional-grade - Startup Fortune](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaThhTkdwSjZkU2ZhQUYxMURZR3ZLb1dzMm84bkRsVFhXM0hwSDZTN21SZXNia2Z2OG9tbnR1eG9Db2xLQk1KSl9uX2gyYTY4eDRtaGtGZ1llQmRYNXdUY0tmbzZ3NHZ2UkFmTWxISFp5WVRHYlF3d2t2ZUUwSnZVcTVwOXA4SUlHV2t6TlRZM1Q3aGU0Q0RYem1laTlQYkEwY3J5bjczeHZYZ1M3a2VTRGpPdnlfUmJVSzhQc0NmNTBDaUk?oc=5) (Sun, 21 Jun 2026 05:48:53 GMT)
 
 <!-- END_dashboard -->
 
