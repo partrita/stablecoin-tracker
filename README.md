@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-22 02:55:26 (UTC)*
+*Last Updated: 2026-06-23 02:30:37 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,559,416,041** | 🔴 -0.01% | 🟢 +0.06% |
+| **$293,482,824,919** | 🔴 -0.03% | 🔴 -0.07% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoin regulation converts issuers into psuedo-banks while adding a barrier to entry for smaller players - CryptoRank](https://news.google.com/rss/articles/CBMigAFBVV95cUxQOHByVmJJUjdSN2pBcUhUUDZ4Q29FTUJVb2Fzak5QelBuMWJTZjZVRzdLMU1zdXZ0bGZDZVJ2S3MxVUF1N0JjcmdEdkxIQkVMWjZCeDlIaVRsTzd3ZU4xelVHeUMtU3VWR3hGWC1DV1VBV3I5RlY1cGphbzdHYVFQRA?oc=5) (Sun, 21 Jun 2026 18:35:20 GMT)
-- [Federal Regulators Want Stablecoins to Keep Working Without ID Checks - Gizmodo](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZGNnMkpIN2xZbWUxS25rNG02ZGhhRktURzBxWDFLcThxYkNRbTB5SmJjRUJGcDc5YmJCazdRaTZuSVJGcFYzdUFvWmtxRWRuaW5EX016WXQtZ191aTNJWk1WTEdaeEVfTkE4Q2l3aW5oLVRKMUt3UHRVUkFPdG9hWEJ2bXQ4Y1V3RTh4X3ZrQktiejFwYS1fN044MEU2M1hJQVE?oc=5) (Sun, 21 Jun 2026 17:12:32 GMT)
-- [Stablecoin regulation converts issuers into psuedo-banks while adding a barrier to entry for smaller players - CryptoSlate](https://news.google.com/rss/articles/CBMib0FVX3lxTE1zekE0empGYk9wcmEwZXRuLWwzeWsyOHV6VXZ6R0hjNHVfSjlaTTREejN1emVGTnBPQ05GYVB1dmZDSzZkb1dxNTNEd1RnV195bkYxWVJidUd0RUtYRllPeklRUE5FZ2RxWDZGV1dlRQ?oc=5) (Sun, 21 Jun 2026 13:10:09 GMT)
-- [Stablecoin Regulation Is Becoming a Major Theme - Moomoo](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmM2bGFUNE5Oc3FHNUxJTnpEMy1tVnB0bUtTYmZVVDFtd3hJaHlzeU5RUXQwSzFUaG13aXd5YzRiNEVCQm5sMUhZOUtkNGduVExEWHFyM3J4aWZ2YWlIT2Vmd09OVE1xTXBET2VMSy1lMmlSSmZUSWpfUURhMW1sZWRfTVplb0M5ejdtdGxxU1phTnd3UURtajhBTk15TC1tLXc?oc=5) (Sun, 21 Jun 2026 12:18:13 GMT)
-- [A single vendor termination just wiped 88% off a stablecoin that called itself institutional-grade - Startup Fortune](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaThhTkdwSjZkU2ZhQUYxMURZR3ZLb1dzMm84bkRsVFhXM0hwSDZTN21SZXNia2Z2OG9tbnR1eG9Db2xLQk1KSl9uX2gyYTY4eDRtaGtGZ1llQmRYNXdUY0tmbzZ3NHZ2UkFmTWxISFp5WVRHYlF3d2t2ZUUwSnZVcTVwOXA4SUlHV2t6TlRZM1Q3aGU0Q0RYem1laTlQYkEwY3J5bjczeHZYZ1M3a2VTRGpPdnlfUmJVSzhQc0NmNTBDaUk?oc=5) (Sun, 21 Jun 2026 05:48:53 GMT)
+- [British pound stablecoins capped to $53B ceiling as Bank of England sets out stablecoin rules - CryptoSlate](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lbFp2OUt1MndiVk1sdzV2VVpmUVJSV3J6dnExNG1MbkNRTlZibzBfTlZxaFJMVkp5SXQwbmJtazFIbDVnenE3ZA?oc=5) (Tue, 23 Jun 2026 01:25:28 GMT)
+- [OCC Pitches Anti-Illicit Finance Rules For Stablecoin Issuers - Law360](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXdqN0RuQ2Jhak1ReEpIdC1IRXZ5MFhmdnVzNno2SDZmb0h4eURSSmMtS3VlWmxGWWtNRDVuV2NMMndPaXMzc0NubTlCZWgzUzAtZC03YnE1dk9EZGZaVFVmUkM2eTc5SHE0b2Q3bUt2NllQLTlRRm5vekdUeC1ZZ3hZc282ZldIUVhSMENfMzcwNko5NlBlWWdnUXN6eXBrV2Jn0gFWQVVfeXFMUEsxbWlqWTFsdmRWazh4Y2xFMkdIM21BUmxnYVZsM01INmdHQzhQV1RTdmNreDJHcHRUVVF6VVFyb0o3SGVGby13eVROb0o4OVpDczhjN2c?oc=5) (Tue, 23 Jun 2026 00:08:00 GMT)
+- [U.K. proposes systemic stablecoin rules - Investment Executive](https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0dsTm9WVXFpX3hwRGV2Vmx1MG5jTXJWVzdEd21iQjMtbEhmRVRaMF9VamxQb1Y3NnhGWFZydEM1OGcxdGNCM2ViRDZEc3dqa0pUU0tDRy1EaGJWVjg5V3pGSExVOUxpUTNfU0stUm1EZnFJbG56YlFnYTNqdkdyUmtDRUVOMkNGWGlLUWcybEE5cXVLY1E?oc=5) (Mon, 22 Jun 2026 21:21:03 GMT)
+- [Regulators Propose Customer-ID Rules for Stablecoin Issuers - Law.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPMlJYWGZJTEo0MzE2QjRicFRyX2MxMEZFbEVKVm14OHhVaDdablhiWDBIRExCc21tb0FTaE40Z2ZTdGNrWGlIc09DMGxPY1h6UDF0c043Snk0b2dwS3lhQUhHNjhHNjJjbWZOMWZuZDJ2bko3Y2hVY251WmFwV3B1cURvRVFHa3hIWTZYaGJCLTNFc0ZUNUlBUURUd0NraEpKaER1dGZXNTFtckdsVG5N?oc=5) (Mon, 22 Jun 2026 21:03:00 GMT)
+- [OCC Applying Bank Secrecy Act to Stablecoin Issuers - PYMNTS.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNUXY2YzdtRHNkQTF2eTdXNVNfZU1QZW9JMkhvVDhZU3RudHBZR2Nvbl9KNlUzUV9rZUtNbWNBY0VrVDdlRUpiaGpteUVSZUVlU09kRlJZSW9QZi1pWENidFEyQVMyS3dEOFVieWZHdDJlanppY0xTNU5LSDVmcmlQclZvNnFDLWxEVFZQN3Btb05PZ0c1TzgzWjAtOA?oc=5) (Mon, 22 Jun 2026 20:04:28 GMT)
 
 <!-- END_dashboard -->
 
