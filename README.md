@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-23 02:30:37 (UTC)*
+*Last Updated: 2026-06-24 02:31:14 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,482,824,919** | 🔴 -0.03% | 🔴 -0.07% |
+| **$293,135,640,401** | 🔴 -0.12% | 🔴 -0.20% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [British pound stablecoins capped to $53B ceiling as Bank of England sets out stablecoin rules - CryptoSlate](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lbFp2OUt1MndiVk1sdzV2VVpmUVJSV3J6dnExNG1MbkNRTlZibzBfTlZxaFJMVkp5SXQwbmJtazFIbDVnenE3ZA?oc=5) (Tue, 23 Jun 2026 01:25:28 GMT)
-- [OCC Pitches Anti-Illicit Finance Rules For Stablecoin Issuers - Law360](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXdqN0RuQ2Jhak1ReEpIdC1IRXZ5MFhmdnVzNno2SDZmb0h4eURSSmMtS3VlWmxGWWtNRDVuV2NMMndPaXMzc0NubTlCZWgzUzAtZC03YnE1dk9EZGZaVFVmUkM2eTc5SHE0b2Q3bUt2NllQLTlRRm5vekdUeC1ZZ3hZc282ZldIUVhSMENfMzcwNko5NlBlWWdnUXN6eXBrV2Jn0gFWQVVfeXFMUEsxbWlqWTFsdmRWazh4Y2xFMkdIM21BUmxnYVZsM01INmdHQzhQV1RTdmNreDJHcHRUVVF6VVFyb0o3SGVGby13eVROb0o4OVpDczhjN2c?oc=5) (Tue, 23 Jun 2026 00:08:00 GMT)
-- [U.K. proposes systemic stablecoin rules - Investment Executive](https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0dsTm9WVXFpX3hwRGV2Vmx1MG5jTXJWVzdEd21iQjMtbEhmRVRaMF9VamxQb1Y3NnhGWFZydEM1OGcxdGNCM2ViRDZEc3dqa0pUU0tDRy1EaGJWVjg5V3pGSExVOUxpUTNfU0stUm1EZnFJbG56YlFnYTNqdkdyUmtDRUVOMkNGWGlLUWcybEE5cXVLY1E?oc=5) (Mon, 22 Jun 2026 21:21:03 GMT)
-- [Regulators Propose Customer-ID Rules for Stablecoin Issuers - Law.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPMlJYWGZJTEo0MzE2QjRicFRyX2MxMEZFbEVKVm14OHhVaDdablhiWDBIRExCc21tb0FTaE40Z2ZTdGNrWGlIc09DMGxPY1h6UDF0c043Snk0b2dwS3lhQUhHNjhHNjJjbWZOMWZuZDJ2bko3Y2hVY251WmFwV3B1cURvRVFHa3hIWTZYaGJCLTNFc0ZUNUlBUURUd0NraEpKaER1dGZXNTFtckdsVG5N?oc=5) (Mon, 22 Jun 2026 21:03:00 GMT)
-- [OCC Applying Bank Secrecy Act to Stablecoin Issuers - PYMNTS.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNUXY2YzdtRHNkQTF2eTdXNVNfZU1QZW9JMkhvVDhZU3RudHBZR2Nvbl9KNlUzUV9rZUtNbWNBY0VrVDdlRUpiaGpteUVSZUVlU09kRlJZSW9QZi1pWENidFEyQVMyS3dEOFVieWZHdDJlanppY0xTNU5LSDVmcmlQclZvNnFDLWxEVFZQN3Btb05PZ0c1TzgzWjAtOA?oc=5) (Mon, 22 Jun 2026 20:04:28 GMT)
+- [Global banking body issues blunt warning on stablecoin boom - thestreet.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZko0OVVuSkl6MXZIRldkMmFFU2FYZUprTThFaVR3RHJGcUZ3QlFMbEFtWGtCM1ROaHZ5eGJtekJTY0dZVnM3R2pidkl5VmNaUVlxR0FETnNQTlp6WnU3Y1Q2WDUteHRDSGVnWW5sc3ZocHAwbV9icWZ3VFkzT3o0N21aOXlJazRxdXFScXd6OXpUeGM2NzFaaWxVOVc3RkVXNEE?oc=5) (Wed, 24 Jun 2026 01:30:00 GMT)
+- [Breaking News: FinCEN and Banking Agencies Propose New Customer Identification Program Rules for Stablecoin Issuers (AML / FCTM) - Lowenstein Sandler LLP](https://news.google.com/rss/articles/CBMimwJBVV95cUxNX2Q4SV9VVE9ST3NlNURydkYxSHotOERxQ3dnMlkzd0NWY0JUbUQyd0VTMEJ1WWt3T2d4ZnVHdlJtbGxFeUJkYVJuREswU0VHZElqMVVuUHJDZzNJbW42RFBNaWFucHV0bWFTYUthcENPazhPVFRJRy1jb2g4Z1JFTlQ3cEZKNU9INkdoOVQtem5QYy1TRktBOUU3VGNORTVqRjRXWkFLOUM1eVdzemZ2OEJ1OExEeTlhNWFaTmN6MWN4cGNGWjB5MXBVaDNpNG9NN19uZDl3T1BrU1Nzc1BPM01vaFhBWTVsMFh0NndFYUNkdUNKa1pyUXB4aWxhdU91ZEdKMU9wQjBfQll1Y29JN0Q2VVNrb1pHZHhF?oc=5) (Tue, 23 Jun 2026 23:51:00 GMT)
+- [Chainlink Helping Banks Launch Cross-Border Stablecoin Trades - PYMNTS.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnN4eDRwRG1RS0VRbHpXM0ZjVS1FdWM0eWJOc3B4d01id0ZmcHNST0l4TVUwQUsyb1h1QkNWdVdMYU9nbUJ2Mmp6eWpoa0djdnY2dGF0TG0xU3RmeGhTSEZ3LVZpVGxQUzc5bkZNVXd1YjNuLW12NDV3QkRkdnduY3puTjdBcGJqOUFFS3lwWjdjeVVNb1h4RExSam5pRDFnLTQ1Y0RRcHAyQkt2WS1MOFkzOWdnODdY?oc=5) (Tue, 23 Jun 2026 20:33:55 GMT)
+- [Agencies ask for public comment on proposed stablecoin regulations - Financial Regulation News -](https://news.google.com/rss/articles/CBMinAFBVV95cUxOTy1aUzZDVkk3Q0w2UDZ1NmUtYXNEVEc0MEtfU3dpRThuM3dBemFOQmVCYy13V3dKOUlmYVZDSzVIbk9teE9jUFhDd1AxVDc0c2JlZ000X2owVWlTY01CYnU1SXhyU0JKdFBmQ3VKRjc3cnVTSEFaV19SNlo2X3ZrQTZhSFh2OTJkNFRoaFBYN3NQNFNhSkswbGtpUlc?oc=5) (Tue, 23 Jun 2026 16:39:28 GMT)
+- [Global Payments: How Stablecoins Are Reshaping Payments - FinTech Magazine](https://news.google.com/rss/articles/CBMikAFBVV95cUxOWld4WFNmRnA4NTJzbmZvVWtWZ3YzdkFlVHVVbnJOWThrcXhkNjdzYldpblFuSXJVVTdJZXBsdGlRR25EUzgtWTJCS3Fyclk5UjRsN05iZkRreUlwN2hSczA0bWtOQmh5dmJiaE55QUFEbVdKSkVCT3V4UDV0cV9NTkxGM1RzR3Fybks4eng0aW4?oc=5) (Tue, 23 Jun 2026 16:22:35 GMT)
 
 <!-- END_dashboard -->
 
