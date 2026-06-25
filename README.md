@@ -3,7 +3,7 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-25 06:49:42 (UTC)*
+*Last Updated: 2026-06-25 06:51:35 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
