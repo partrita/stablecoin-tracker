@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-24 02:31:14 (UTC)*
+*Last Updated: 2026-06-25 02:33:12 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$293,135,640,401** | 🔴 -0.12% | 🔴 -0.20% |
+| **$292,709,881,636** | 🔴 -0.15% | 🔴 -0.19% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Global banking body issues blunt warning on stablecoin boom - thestreet.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZko0OVVuSkl6MXZIRldkMmFFU2FYZUprTThFaVR3RHJGcUZ3QlFMbEFtWGtCM1ROaHZ5eGJtekJTY0dZVnM3R2pidkl5VmNaUVlxR0FETnNQTlp6WnU3Y1Q2WDUteHRDSGVnWW5sc3ZocHAwbV9icWZ3VFkzT3o0N21aOXlJazRxdXFScXd6OXpUeGM2NzFaaWxVOVc3RkVXNEE?oc=5) (Wed, 24 Jun 2026 01:30:00 GMT)
-- [Breaking News: FinCEN and Banking Agencies Propose New Customer Identification Program Rules for Stablecoin Issuers (AML / FCTM) - Lowenstein Sandler LLP](https://news.google.com/rss/articles/CBMimwJBVV95cUxNX2Q4SV9VVE9ST3NlNURydkYxSHotOERxQ3dnMlkzd0NWY0JUbUQyd0VTMEJ1WWt3T2d4ZnVHdlJtbGxFeUJkYVJuREswU0VHZElqMVVuUHJDZzNJbW42RFBNaWFucHV0bWFTYUthcENPazhPVFRJRy1jb2g4Z1JFTlQ3cEZKNU9INkdoOVQtem5QYy1TRktBOUU3VGNORTVqRjRXWkFLOUM1eVdzemZ2OEJ1OExEeTlhNWFaTmN6MWN4cGNGWjB5MXBVaDNpNG9NN19uZDl3T1BrU1Nzc1BPM01vaFhBWTVsMFh0NndFYUNkdUNKa1pyUXB4aWxhdU91ZEdKMU9wQjBfQll1Y29JN0Q2VVNrb1pHZHhF?oc=5) (Tue, 23 Jun 2026 23:51:00 GMT)
-- [Chainlink Helping Banks Launch Cross-Border Stablecoin Trades - PYMNTS.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnN4eDRwRG1RS0VRbHpXM0ZjVS1FdWM0eWJOc3B4d01id0ZmcHNST0l4TVUwQUsyb1h1QkNWdVdMYU9nbUJ2Mmp6eWpoa0djdnY2dGF0TG0xU3RmeGhTSEZ3LVZpVGxQUzc5bkZNVXd1YjNuLW12NDV3QkRkdnduY3puTjdBcGJqOUFFS3lwWjdjeVVNb1h4RExSam5pRDFnLTQ1Y0RRcHAyQkt2WS1MOFkzOWdnODdY?oc=5) (Tue, 23 Jun 2026 20:33:55 GMT)
-- [Agencies ask for public comment on proposed stablecoin regulations - Financial Regulation News -](https://news.google.com/rss/articles/CBMinAFBVV95cUxOTy1aUzZDVkk3Q0w2UDZ1NmUtYXNEVEc0MEtfU3dpRThuM3dBemFOQmVCYy13V3dKOUlmYVZDSzVIbk9teE9jUFhDd1AxVDc0c2JlZ000X2owVWlTY01CYnU1SXhyU0JKdFBmQ3VKRjc3cnVTSEFaV19SNlo2X3ZrQTZhSFh2OTJkNFRoaFBYN3NQNFNhSkswbGtpUlc?oc=5) (Tue, 23 Jun 2026 16:39:28 GMT)
-- [Global Payments: How Stablecoins Are Reshaping Payments - FinTech Magazine](https://news.google.com/rss/articles/CBMikAFBVV95cUxOWld4WFNmRnA4NTJzbmZvVWtWZ3YzdkFlVHVVbnJOWThrcXhkNjdzYldpblFuSXJVVTdJZXBsdGlRR25EUzgtWTJCS3Fyclk5UjRsN05iZkRreUlwN2hSczA0bWtOQmh5dmJiaE55QUFEbVdKSkVCT3V4UDV0cV9NTkxGM1RzR3Fybks4eng0aW4?oc=5) (Tue, 23 Jun 2026 16:22:35 GMT)
+- [Stablecore launches stablecoin and digital asset programme for credit unions - Finextra Research](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkdaZml2VkYzaFFtRlpOQXF6X0FXY2hQODZja2FvY2xROFA4eWdSb0N5TlZlb1RGWFNTZWtKU2ZUbDg2OHE3dlR6SzRyU3J3dVFmZUFUYm5TQ2FJSlBpY2VuYXpPQl9KYm5nTHV0VjVFb2h0T29zazc2amk2a19FUHRlNTdmMGtNOVJNN3RQQllfTHRablRXRTNrcldaTDhhQ3ZFMkRJMl9rYU00N0dlNzdwTjI3d3hneHl3?oc=5) (Thu, 25 Jun 2026 00:01:00 GMT)
+- [The real cowboys of crypto: Wyoming ropes a $1 stablecoin - Pittsburgh Post-Gazette](https://news.google.com/rss/articles/CBMitAFBVV95cUxPY2wwclRYeVIySVdldTdsaVFubXFmRUxicUkzSkFLdjV3d1ZYRE5YcFdNVTFDNVFnOGh2aDlOVFFQZzVibUNPVGZqVnR4dW5lZmsxbzloWmpIY0VLM05aWGZPSVBEVm9zaXV4ZmZmMDdkdnRhSHVhZ3NTT2FBUGpTNmxGMjJLWVJxcVVVY1hJUVlmNzZ1ZTl5a2x1UGJLMnVnWTNUdzN0VU01bFhWbjhtRGFwVHo?oc=5) (Wed, 24 Jun 2026 21:58:51 GMT)
+- [XRP Is Down 50%, and a $785 Million Stablecoin May Be Part of the Problem - Yahoo Finance](https://news.google.com/rss/articles/CBMikgFBVV95cUxOWDJlckdFNkxZcDA0LTBGanZTcUN4bUM4dXhWbG4wVW5PVV92Q1RFWmM5VHBpcnVjNElhb29pNkt5LU1pdWJYcXFnMXBrYnFpVDk4M1FpcGFCakVsbi1ramJ0WlBVMXBwUm9nZFFsRktKS1ZwT3lxdjdxM1VLeDFOaFQxWHliZmM5a1BwdFJLTG5Rdw?oc=5) (Wed, 24 Jun 2026 20:00:00 GMT)
+- [Stablecore, Circuit launch digital asset and stablecoin program for credit unions - ledgerinsights.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQcVhHLVNvUzd1YTIzNnZyemxpZ2dkclZrQXVxUnBqX0J4SjF1MFlfdkZtZGxhM1FiVUpWLVRPbm9hbHlVWFVWcnpfOWd3M1d6NUh6N1ZWQTBsSm5EbDl3Skc1Z3RGOV9YVEo2a21RZFlOM1lxQ1hveFFoT0R6Nk1naXdWa3JFNlZhRVJWVFhldF9mQkNUR1cwTWdpeVlGUS01Qng5TF90eHF3MEdQamxhWERB?oc=5) (Wed, 24 Jun 2026 18:26:11 GMT)
+- [Bank Of England Publishes Stablecoin Rules - Yahoo Finance](https://news.google.com/rss/articles/CBMipwFBVV95cUxOeGRYd2JtNHFCQ1JYNy1HT09IUEYwOXU4OERxMjRkS1VjU2dMcmF5aGNudUw0bUwtT1hfcmI2RDN0Ym5paFdabXlJQWpWNGs1RVctZk9BNWQzSEZ1ZFdaRGs5WE1SbVZsdHpZclVpUmd4bFh5Q0VDdTVnS1VYNFBFYlcwN0NRQTY3REhHeG0tTUVZblo2VmgzblZ2RjNJc0poX0I1b1k3SQ?oc=5) (Wed, 24 Jun 2026 16:23:00 GMT)
 
 <!-- END_dashboard -->
 
