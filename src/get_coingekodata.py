@@ -58,13 +58,17 @@ def save_coin_data(output):
 
                 response.raise_for_status()
 
-                MAX_SIZE = 10 * 1024 * 1024  # 10 MB limit for JSON (as historical data can be slightly larger)
+                MAX_SIZE = (
+                    10 * 1024 * 1024
+                )  # 10 MB limit for JSON (as historical data can be slightly larger)
                 downloaded_size = 0
                 chunks = []
                 for chunk in response.iter_content(chunk_size=8192):
                     downloaded_size += len(chunk)
                     if downloaded_size > MAX_SIZE:
-                        raise ValueError("Response exceeds maximum allowed size of 10MB")
+                        raise ValueError(
+                            "Response exceeds maximum allowed size of 10MB"
+                        )
                     chunks.append(chunk)
 
                 data = json.loads(b"".join(chunks))
@@ -78,11 +82,15 @@ def save_coin_data(output):
                         df = pd.DataFrame(
                             stats_data, columns=["timestamp", "market_cap"]
                         )
-                        df["date"] = pd.to_datetime(df["timestamp"], unit="ms", errors="coerce")
+                        df["date"] = pd.to_datetime(
+                            df["timestamp"], unit="ms", errors="coerce"
+                        )
                         df.dropna(subset=["date"], inplace=True)
                         df["coin_name"] = name
                         # Security: Enforce numeric conversion to prevent formula injection
-                        df["market_cap"] = pd.to_numeric(df["market_cap"], errors="coerce")
+                        df["market_cap"] = pd.to_numeric(
+                            df["market_cap"], errors="coerce"
+                        )
 
                         all_dfs.append(df[["date", "coin_name", "market_cap"]])
 

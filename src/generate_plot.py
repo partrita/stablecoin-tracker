@@ -3,11 +3,12 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
+
 def generate_plot():
     # File paths
-    csv_path = 'data/stablecoin_marketcap.csv'
-    output_path = 'data/stablecoin_marketcap_plot.png'
-    pie_output_path = 'data/stablecoin_dominance_plot.png'
+    csv_path = "data/stablecoin_marketcap.csv"
+    output_path = "data/stablecoin_marketcap_plot.png"
+    pie_output_path = "data/stablecoin_dominance_plot.png"
 
     # Check if data file exists
     if not os.path.exists(csv_path):
@@ -18,12 +19,12 @@ def generate_plot():
     df = pd.read_csv(csv_path)
 
     # Convert date to datetime
-    df['date'] = pd.to_datetime(df['date'], errors='coerce')
+    df["date"] = pd.to_datetime(df["date"], errors="coerce")
 
     # Security: Enforce explicit numeric conversion for market_cap to prevent ValueError during plot generation
-    df['market_cap'] = pd.to_numeric(df['market_cap'], errors='coerce')
+    df["market_cap"] = pd.to_numeric(df["market_cap"], errors="coerce")
 
-    df = df.dropna(subset=['date', 'market_cap'])
+    df = df.dropna(subset=["date", "market_cap"])
 
     if df.empty:
         print("Error: No valid date data found in CSV.")
@@ -36,14 +37,14 @@ def generate_plot():
     plt.figure(figsize=(12, 6))
 
     # Create line plot
-    sns.lineplot(data=df, x='date', y='market_cap', hue='coin_name')
+    sns.lineplot(data=df, x="date", y="market_cap", hue="coin_name")
 
     # Customize plot
-    plt.title('Stablecoin Market Cap Over Time')
-    plt.xlabel('Date')
-    plt.ylabel('Market Cap (USD)')
+    plt.title("Stablecoin Market Cap Over Time")
+    plt.xlabel("Date")
+    plt.ylabel("Market Cap (USD)")
     plt.xticks(rotation=45)
-    plt.legend(title='Coin Name', bbox_to_anchor=(1.05, 1), loc='upper left')
+    plt.legend(title="Coin Name", bbox_to_anchor=(1.05, 1), loc="upper left")
     plt.tight_layout()
 
     # Save plot
@@ -53,22 +54,28 @@ def generate_plot():
 
     # --- Pie Chart ---
     # Get latest date
-    latest_date = df['date'].max()
-    latest_df = df[df['date'] == latest_date].copy()
+    latest_date = df["date"].max()
+    latest_df = df[df["date"] == latest_date].copy()
 
     # Sort by market cap descending
-    latest_df = latest_df.sort_values(by='market_cap', ascending=False)
+    latest_df = latest_df.sort_values(by="market_cap", ascending=False)
 
     plt.figure(figsize=(10, 8))
 
     # Create pie chart
-    plt.pie(latest_df['market_cap'], labels=latest_df['coin_name'], autopct='%1.1f%%', startangle=140)
-    plt.title(f'Stablecoin Market Cap Dominance ({latest_date.strftime("%Y-%m-%d")})')
+    plt.pie(
+        latest_df["market_cap"],
+        labels=latest_df["coin_name"],
+        autopct="%1.1f%%",
+        startangle=140,
+    )
+    plt.title(f"Stablecoin Market Cap Dominance ({latest_date.strftime('%Y-%m-%d')})")
     plt.tight_layout()
 
     plt.savefig(pie_output_path)
     print(f"Pie chart saved to {pie_output_path}")
     plt.close()
+
 
 if __name__ == "__main__":
     generate_plot()

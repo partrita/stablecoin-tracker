@@ -39,7 +39,7 @@ def sanitize_csv_value(value):
     Strips leading whitespaces to prevent bypass.
     """
     val_str = str(value).lstrip()
-    if val_str.startswith(('=', '+', '-', '@')):
+    if val_str.startswith(("=", "+", "-", "@")):
         return f"'{val_str}"
     return val_str
 
@@ -64,7 +64,9 @@ def fetch_data():
                     raise ValueError("Response exceeds maximum allowed size of 5MB")
                 chunks.append(chunk)
 
-            html_content = b"".join(chunks).decode(response.encoding or 'utf-8', errors='replace')
+            html_content = b"".join(chunks).decode(
+                response.encoding or "utf-8", errors="replace"
+            )
     except Exception as e:
         print(f"Error fetching URL: {e}")
         sys.exit(1)
@@ -98,7 +100,9 @@ def fetch_data():
         try:
             props = json.loads(props_str)
             if not isinstance(props, dict):
-                print(f"Warning: Expected dict but got {type(props).__name__} for row properties")
+                print(
+                    f"Warning: Expected dict but got {type(props).__name__} for row properties"
+                )
                 continue
             slug = props.get("coin_name")
         except json.JSONDecodeError as e:
@@ -110,11 +114,13 @@ def fetch_data():
             continue
 
         if not slug:
-            print(f"Warning: Missing coin_name in row properties")
+            print("Warning: Missing coin_name in row properties")
             continue
 
         if not isinstance(slug, str):
-            print(f"Warning: Expected string for coin_name but got {type(slug).__name__}")
+            print(
+                f"Warning: Expected string for coin_name but got {type(slug).__name__}"
+            )
             continue
 
         coin_name = sanitize_csv_value(normalize_name(slug))
@@ -130,7 +136,7 @@ def fetch_data():
 
         try:
             market_cap = float(mc_value_str)
-        except (ValueError, TypeError):
+        except ValueError, TypeError:
             print(
                 f"Warning: Could not parse market cap for {coin_name} from '{mc_value_str}'"
             )
