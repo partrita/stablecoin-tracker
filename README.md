@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-25 06:51:35 (UTC)*
+*Last Updated: 2026-06-26 02:35:37 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,670,934,996** | 🔴 -0.16% | 🔴 -0.20% |
+| **$292,569,657,624** | 🔴 -66.68% | 🔴 -0.33% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Ripple&#x27;s RLUSD stablecoin goes live in Japan after regulatory approval - CoinDesk](https://news.google.com/rss/articles/CBMitAFBVV95cUxQT083TUdEWnRoVDdRUGRPRzU4VWY0UElja1hPcHFObUt1bXhfc2dxSWFYTlFPZ1lJcnllOUYwbWxLQzFQT1hSZHQ4dzVmeXF4UWdubE1BOU5YSkpxcnl2WTBuenE3MlpLNXlzdUVQRnRhajhHTUpyckNYYzQ4RlhmVjFSYm1rbEZPSW9PaDFOcnN6cUR0a2lYNzNRTlJQb09zZlFBOW8wNjVjRWxkZklrRV80VmI?oc=5) (Thu, 25 Jun 2026 05:03:45 GMT)
-- [Circle Internet Group (CRCL) Could Be 98% Overvalued As BIS Stablecoin Warnings Draw Focus - simplywall.st](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONENmMHRubnBMNk93RENEY0FTTG95VkhJUVNhbUxWclplTGlCa3MtM3UzcFQ0ZGsxMXBackJpbXpkUHgzdVpYQ2Npcy1sczh5dE5nMGRZckNCa2JMeEN5ZlVoSU1vYzdQeDV1bmJwX25UM1doNmVUd2pkV1VEc1k2dHQ5M3NPVlNtc2xIdTJCeDEtWVR5aFR5Snp6MXZGLTdXWGx0TEpHU0tOVjgxMWxNbFk4bFh2UFJ5STE2WVdlMENWTzBCajh6Rm5MZV9LSDlxREFKd9IB2gFBVV95cUxOTHBmTllSU3dUbFQxY1lSLW1Fck51LWl1X2pWYTV3ZTZaX3dhaGR3N0NOUllMX2xCZVZ4dThMV1g4RHlOdjJNeHhOX3h5Q1ZZa25SVmVqQlJMM1BVVXRSSWxlSlluOUVXSmdXcjN1dWNPWmJKR2RwRmhnbU91VW1nQU1zZUlzRnVmVnpzRk9iR0FtZWM2eDFPcFRQeVNkaUZnSVVkY3FzZEQ4cUdyaThIUUl3dWxkNkhxTml5djhmM0F4ckxkMl9laGdKVHdMNWlROXMtS2UyUjc1dw?oc=5) (Thu, 25 Jun 2026 04:52:09 GMT)
-- [Ripple launches RLUSD stablecoin in Japan after regulatory approval - The Block](https://news.google.com/rss/articles/CBMif0FVX3lxTE5rWjYzMlgxTi1XTGtvOWFVcnlXdnBURjFxZU5FYzBzRUctb21vcFdQeGRVdnI0OWlRTVh4NHFBTGs0eWh6TFdyY0dob21sUHBFQWNkZXpOSGNsTXlnUExFYUE0cjJ2dTNsMnZNalE1R0JZZ2RyRk5UeDhPNjc5dVU?oc=5) (Thu, 25 Jun 2026 03:26:12 GMT)
-- [Letter: BoE’s over-cautious regime may choke stablecoin innovation - Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE5hM290QlNCTnowZzlBeFctQnhhQkh1NkstaktMOEVLSmZEYmR2aFNhSTVtdlREVmRVX0dlYTIyTjJ6OENmY01JSS03Rm9fUG9nZjBDSWl0WWlTZjdlaWVzYmxlTzJ5cVBTSFFIUWNvZ0g?oc=5) (Thu, 25 Jun 2026 00:47:14 GMT)
-- [Stablecore launches stablecoin and digital asset programme for credit unions - Finextra Research](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkdaZml2VkYzaFFtRlpOQXF6X0FXY2hQODZja2FvY2xROFA4eWdSb0N5TlZlb1RGWFNTZWtKU2ZUbDg2OHE3dlR6SzRyU3J3dVFmZUFUYm5TQ2FJSlBpY2VuYXpPQl9KYm5nTHV0VjVFb2h0T29zazc2amk2a19FUHRlNTdmMGtNOVJNN3RQQllfTHRablRXRTNrcldaTDhhQ3ZFMkRJMl9rYU00N0dlNzdwTjI3d3hneHl3?oc=5) (Thu, 25 Jun 2026 00:01:00 GMT)
+- [Nomura Agreed Strategic Partnership With Stablecoin Network Operator Circle Internet Group To Provide Global Financial Services Including Collateral Management And Fund Transfers Backed By Stablecoins - TradingView](https://news.google.com/rss/articles/CBMihANBVV95cUxNR0cyWlQya0p1T2k0VUl6bGlUY0IwTndwNUNnU3NVQm0td0RvWkZkSHc3MjdXeWVTRXBqWTBZV2ZDc0RVbk5kQl9wS2RUM3FHdzVZb1dBem5wM1FHaHNSZTBVZlQtbGQ0ZmtwQ2JoRHJIY29FQ2tUN2diNDFERGk2eERVcmp1ZmczLXZ5QXVKMEZFT1hRY2NNOElGOUVhZGl3Rm9TaFRudjR0MndlQjU4VXRwVWZfMjM4d1VybEZqNUR0dDhDbUsycFM5dzBUQy1PVG1VcFlkaHZ2Tlc5aXYtUGV3M29CYjdWYW9pUkZxbU1QWnZZMW1tMl9mOWFCaTJXSldDSm40QXdnNk81TGZzUU5LQ2tucnBjQ0g4Qno2T014a2EydXBORUkyNHYyRDhxY3NqRnEtQzFOdFl2SEYza1NZam1lVnJtRTI3OHFfdlRnamZ0dGdHbDhqbWVLTGNWekNVOEpGeFp0MWotY1llLUJBMmxWbVdoNWd6cUtmTVVtcjFW?oc=5) (Fri, 26 Jun 2026 00:17:00 GMT)
+- [BIS warns of stablecoin &#x27;structural flaws&#x27; - Finextra Research](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbm90MGNHb183eVVSdjg3ek9nYUJhb0VYQmxoQ2N2TXVYLVZ3YnY1VkRMSloxdDFkYnA3NXRtR09lYWk0R2xYLVRPNUZ5MTYxdWNxWTlWeFdtTWFvMlRtQWJhSlRaYzFBOTNNTzZVUkhsWERVQ21NS1FvMFNPMEdVU1hhaG50YmVqSHIw?oc=5) (Thu, 25 Jun 2026 23:02:42 GMT)
+- [Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market - CoinDesk](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZTVTb2c2XzZDU003OEsyY1dnSnlxS0U0cERPdDhDUWdOSU91NmJibmRSb3pzbjF3Mk43a0JjNWdtOFY4NG1GU202OG85bUxsUGg2bEhpYmNhcnA5OHY4aE1rSl9QclpWWFJMYXNORDBiNkdnRmZ1bS1maHpHcmY0UlRIN1VIQm5VSTJUeEdyamV4cUdQLXRzZFRmY202TU5ZcDVMczNwMThsS21ZcmZRd1RISWI4Q1RHR2VyVXU2eVZPZVZsMEJSalB3STN5QzFybmc?oc=5) (Thu, 25 Jun 2026 20:56:06 GMT)
+- [Invesco Files for Tokenized Stablecoin-Reserve Money Market Fund Built on Superstate Rails - thedefiant.io](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXE4ZjBKRTBDeW9fT2JadElDa0NVc0hPSGlqUE5zRWY2MnExazNYXy1RWnBxYW01U2MtUkl0MGhQZnBKaHpPLThnZzBiSEREQ3lfd2R5a24yWWI4MlRpUW52WUpNRVpaQXU2ekEwbXlMRTlTWUV3UVp2Tk1velBXYTc1TTVzdU9JV2c0R21OVW1EQUtfWTU2X1JvbmY0SEVCT0lXX0FaTzdYSFlrR3lqV0VBMFVKR1NUX2xTZ3VNM2c0UjFrblh4UGRqSEprT1dmdVB0R3VTMA?oc=5) (Thu, 25 Jun 2026 20:51:13 GMT)
+- [Trillion-dollar asset manager Invesco looks to plant a flag in tokenized stablecoin reserve sector - The Block](https://news.google.com/rss/articles/CBMivAFBVV95cUxNcHZ2dEhWbmdzdVJpSVREXzNTR1pVUDFHQjVINFJrNl9YcVY5UEdrZEo5cXRpSkgtUFJCWUFmNl92VFVmd0ZBV05tUnNmTUZvcGMxcEtTME5kZGdreU04b3ZXMksyeXhKczFDRmF5RGpfNWxPQnJOV2FtakFnWGdIVzhkRk9RaXl5S0hVZDN5cVFEMkdqbXJHd0d6VkdaWGtNYjIwUUFXbHYtTUh4LWhvM0RmdEJ4V1lITUpwdw?oc=5) (Thu, 25 Jun 2026 20:11:28 GMT)
 
 <!-- END_dashboard -->
 
