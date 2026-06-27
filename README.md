@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-26 02:35:37 (UTC)*
+*Last Updated: 2026-06-27 02:28:46 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,569,657,624** | 🔴 -66.68% | 🔴 -0.33% |
+| **$292,626,112,718** | 🟢 +0.02% | 🔴 -0.29% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Nomura Agreed Strategic Partnership With Stablecoin Network Operator Circle Internet Group To Provide Global Financial Services Including Collateral Management And Fund Transfers Backed By Stablecoins - TradingView](https://news.google.com/rss/articles/CBMihANBVV95cUxNR0cyWlQya0p1T2k0VUl6bGlUY0IwTndwNUNnU3NVQm0td0RvWkZkSHc3MjdXeWVTRXBqWTBZV2ZDc0RVbk5kQl9wS2RUM3FHdzVZb1dBem5wM1FHaHNSZTBVZlQtbGQ0ZmtwQ2JoRHJIY29FQ2tUN2diNDFERGk2eERVcmp1ZmczLXZ5QXVKMEZFT1hRY2NNOElGOUVhZGl3Rm9TaFRudjR0MndlQjU4VXRwVWZfMjM4d1VybEZqNUR0dDhDbUsycFM5dzBUQy1PVG1VcFlkaHZ2Tlc5aXYtUGV3M29CYjdWYW9pUkZxbU1QWnZZMW1tMl9mOWFCaTJXSldDSm40QXdnNk81TGZzUU5LQ2tucnBjQ0g4Qno2T014a2EydXBORUkyNHYyRDhxY3NqRnEtQzFOdFl2SEYza1NZam1lVnJtRTI3OHFfdlRnamZ0dGdHbDhqbWVLTGNWekNVOEpGeFp0MWotY1llLUJBMmxWbVdoNWd6cUtmTVVtcjFW?oc=5) (Fri, 26 Jun 2026 00:17:00 GMT)
-- [BIS warns of stablecoin &#x27;structural flaws&#x27; - Finextra Research](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbm90MGNHb183eVVSdjg3ek9nYUJhb0VYQmxoQ2N2TXVYLVZ3YnY1VkRMSloxdDFkYnA3NXRtR09lYWk0R2xYLVRPNUZ5MTYxdWNxWTlWeFdtTWFvMlRtQWJhSlRaYzFBOTNNTzZVUkhsWERVQ21NS1FvMFNPMEdVU1hhaG50YmVqSHIw?oc=5) (Thu, 25 Jun 2026 23:02:42 GMT)
-- [Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market - CoinDesk](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZTVTb2c2XzZDU003OEsyY1dnSnlxS0U0cERPdDhDUWdOSU91NmJibmRSb3pzbjF3Mk43a0JjNWdtOFY4NG1GU202OG85bUxsUGg2bEhpYmNhcnA5OHY4aE1rSl9QclpWWFJMYXNORDBiNkdnRmZ1bS1maHpHcmY0UlRIN1VIQm5VSTJUeEdyamV4cUdQLXRzZFRmY202TU5ZcDVMczNwMThsS21ZcmZRd1RISWI4Q1RHR2VyVXU2eVZPZVZsMEJSalB3STN5QzFybmc?oc=5) (Thu, 25 Jun 2026 20:56:06 GMT)
-- [Invesco Files for Tokenized Stablecoin-Reserve Money Market Fund Built on Superstate Rails - thedefiant.io](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXE4ZjBKRTBDeW9fT2JadElDa0NVc0hPSGlqUE5zRWY2MnExazNYXy1RWnBxYW01U2MtUkl0MGhQZnBKaHpPLThnZzBiSEREQ3lfd2R5a24yWWI4MlRpUW52WUpNRVpaQXU2ekEwbXlMRTlTWUV3UVp2Tk1velBXYTc1TTVzdU9JV2c0R21OVW1EQUtfWTU2X1JvbmY0SEVCT0lXX0FaTzdYSFlrR3lqV0VBMFVKR1NUX2xTZ3VNM2c0UjFrblh4UGRqSEprT1dmdVB0R3VTMA?oc=5) (Thu, 25 Jun 2026 20:51:13 GMT)
-- [Trillion-dollar asset manager Invesco looks to plant a flag in tokenized stablecoin reserve sector - The Block](https://news.google.com/rss/articles/CBMivAFBVV95cUxNcHZ2dEhWbmdzdVJpSVREXzNTR1pVUDFHQjVINFJrNl9YcVY5UEdrZEo5cXRpSkgtUFJCWUFmNl92VFVmd0ZBV05tUnNmTUZvcGMxcEtTME5kZGdreU04b3ZXMksyeXhKczFDRmF5RGpfNWxPQnJOV2FtakFnWGdIVzhkRk9RaXl5S0hVZDN5cVFEMkdqbXJHd0d6VkdaWGtNYjIwUUFXbHYtTUh4LWhvM0RmdEJ4V1lITUpwdw?oc=5) (Thu, 25 Jun 2026 20:11:28 GMT)
+- [What Money20/20 confirmed about stablecoins - Marqeta](https://news.google.com/rss/articles/CBMifEFVX3lxTE1GY01EVGJSYTRtaFZYT3FoWWJQSUNXdWE4S3JVZWYwNlZyeHp6X1RsekI4TS1HT3hfM0t4UUxza3poUGRjUUJLTlFDUEVsdEVPQjhfTFJodmFGYXRBU3N0M2ZJWmJFMzBoS3NBekp0SjNqUjlLMEJrZVNYWnA?oc=5) (Sat, 27 Jun 2026 01:12:48 GMT)
+- [This Week in Stablecoins: Building Toward T+0 Settlement - PYMNTS.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxObUFWRXpoT0RHUlhlR2d3aWdhckwzQTROWkFVWnE4X1k0T243YmhqSzhHd09zeWZvN084ZnNIbVVKT253ZUFaWjFrcXpmMTVGNGt1clF6VXlhQkgzVGpXV0xqYTl4OHp2QTJSTnJrWjIxTnA3MkMxUDRjYWNpYlZ1UGlLdEZpOXNBeHBPdE4zdU9kOHc2ZG5MdVFBdFpFcFE?oc=5) (Fri, 26 Jun 2026 20:44:54 GMT)
+- [Stablecoins are going mainstream and this company is building the rails behind it - thestreet.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxOWjhSRlJfaUVUUWZ4UjZEcGdDQ3FZTzcycll3ZlM4LVNkV1JwMUVkY0Q0TEhuQWkxRWhmOTBWNkVaS0tyb0lBS1h3bzZ0SEg3T3dTbFA5VU53a3JVZVJ3R09NM0dYYkRLeVZKSmsxNkJLblhwZUNZaTNhUTl1dURHRnhHVlFFV3U2ZXhVVV84ZFluOF91UTI4SzE5eVFHSWtUbkhSQk45MmI1SU9PXzFhdW1nQkRGbDhQWWlGdkRla2FSV0pq?oc=5) (Fri, 26 Jun 2026 18:29:56 GMT)
+- [Invesco to launch tokenized stablecoin reserve fund - ledgerinsights.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmpiWnVWOG81ME9JakdZdlNhN3lpRUJZc2lSZS1ldXVDcllFUmt4c19pbmVZT2FjQlp1OWxpTWE3ZU9LR0VHLUVYZnJLd1p6WmRCQ05CLVlpVkRUeUhuSnJ4Y0lELXFtTnkxajdFN3o4enV3VV9PUmJ0R3lUZzVPUk44dGxZanNoNjV3?oc=5) (Fri, 26 Jun 2026 17:19:03 GMT)
+- [Stablecoin Crash? - The Big Picture](https://news.google.com/rss/articles/CBMiWkFVX3lxTE00NEcwMWRBU293cm1sSTB2WFRIQU05UndUUUVMbFNRYWhoZm15Y0kxYzdwdU1pWnRpRTRfZXU2TW5sUGg5WXFZNzFBYTJxd3lkbWt1UHA4eW5DUQ?oc=5) (Fri, 26 Jun 2026 16:10:14 GMT)
 
 <!-- END_dashboard -->
 
