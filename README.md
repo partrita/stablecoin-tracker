@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-27 02:28:46 (UTC)*
+*Last Updated: 2026-06-28 02:41:13 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,626,112,718** | 🟢 +0.02% | 🔴 -0.29% |
+| **$292,620,561,880** | 🔴 -0.00% | 🔴 -0.33% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [What Money20/20 confirmed about stablecoins - Marqeta](https://news.google.com/rss/articles/CBMifEFVX3lxTE1GY01EVGJSYTRtaFZYT3FoWWJQSUNXdWE4S3JVZWYwNlZyeHp6X1RsekI4TS1HT3hfM0t4UUxza3poUGRjUUJLTlFDUEVsdEVPQjhfTFJodmFGYXRBU3N0M2ZJWmJFMzBoS3NBekp0SjNqUjlLMEJrZVNYWnA?oc=5) (Sat, 27 Jun 2026 01:12:48 GMT)
-- [This Week in Stablecoins: Building Toward T+0 Settlement - PYMNTS.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxObUFWRXpoT0RHUlhlR2d3aWdhckwzQTROWkFVWnE4X1k0T243YmhqSzhHd09zeWZvN084ZnNIbVVKT253ZUFaWjFrcXpmMTVGNGt1clF6VXlhQkgzVGpXV0xqYTl4OHp2QTJSTnJrWjIxTnA3MkMxUDRjYWNpYlZ1UGlLdEZpOXNBeHBPdE4zdU9kOHc2ZG5MdVFBdFpFcFE?oc=5) (Fri, 26 Jun 2026 20:44:54 GMT)
-- [Stablecoins are going mainstream and this company is building the rails behind it - thestreet.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxOWjhSRlJfaUVUUWZ4UjZEcGdDQ3FZTzcycll3ZlM4LVNkV1JwMUVkY0Q0TEhuQWkxRWhmOTBWNkVaS0tyb0lBS1h3bzZ0SEg3T3dTbFA5VU53a3JVZVJ3R09NM0dYYkRLeVZKSmsxNkJLblhwZUNZaTNhUTl1dURHRnhHVlFFV3U2ZXhVVV84ZFluOF91UTI4SzE5eVFHSWtUbkhSQk45MmI1SU9PXzFhdW1nQkRGbDhQWWlGdkRla2FSV0pq?oc=5) (Fri, 26 Jun 2026 18:29:56 GMT)
-- [Invesco to launch tokenized stablecoin reserve fund - ledgerinsights.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmpiWnVWOG81ME9JakdZdlNhN3lpRUJZc2lSZS1ldXVDcllFUmt4c19pbmVZT2FjQlp1OWxpTWE3ZU9LR0VHLUVYZnJLd1p6WmRCQ05CLVlpVkRUeUhuSnJ4Y0lELXFtTnkxajdFN3o4enV3VV9PUmJ0R3lUZzVPUk44dGxZanNoNjV3?oc=5) (Fri, 26 Jun 2026 17:19:03 GMT)
-- [Stablecoin Crash? - The Big Picture](https://news.google.com/rss/articles/CBMiWkFVX3lxTE00NEcwMWRBU293cm1sSTB2WFRIQU05UndUUUVMbFNRYWhoZm15Y0kxYzdwdU1pWnRpRTRfZXU2TW5sUGg5WXFZNzFBYTJxd3lkbWt1UHA4eW5DUQ?oc=5) (Fri, 26 Jun 2026 16:10:14 GMT)
+- [Gov. DeSantis signs stablecoin framework, new crypto kiosk fraud rules into law - Florida Politics](https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTQybFdOX2hZemRLTl9IdlRKODhyQjFBRk9yY25FN0xFdDdkZ0hkY1JQY0pKaHRlYUFkTFRySUktS0VNM0RqMzFxWW9mWW9nZDZnVXA3NWJyWG13dGt0VFk0VW9TZUhuTm1lVGw0NVVQcDRPZFhDeGJDdmJRME9jWFpyVTBjNHdManFsc1hBS2l5ZHd6TkZlTndzRVR6Q3pzQ2c?oc=5) (Sat, 27 Jun 2026 20:06:43 GMT)
+- [The UK softened stablecoin rules, but may still be capping its own market - CryptoSlate](https://news.google.com/rss/articles/CBMingFBVV95cUxQLUZ4SkhJbi1sUlJmM1BDVDFtaVBGTmNDblBpdzV1ekJkemNFRlJra1Z5LTMxcHhWT1VyYTdOWVhwNlRCS0JKODMzTk9ET0VrNVo1V3ZEbnBPaHRDb0JjcUJzYUhhRi1kMVd2SUhvTlhNQkROMWhkS2ZRUWJRcXVieHlBOGlCdnhpU3R4S2xfYUs4Wkk3X29nMFlxMWRRQQ?oc=5) (Sat, 27 Jun 2026 18:25:33 GMT)
+- [The Stablecoin Founder Map Doesn&#x27;t Match the Stablecoin Volume Map - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjBPNk9ENXI1QUVNX3A0QkZTUE5rbElkTThCUW9RaHRkbl94WUJZUldJMDlqUGRSSDRrcXQyOTFsQ05aeXFXMHRfUlNleHY2cXpnR1BBcVQ0RjhHOF9uMzVjV3JxdVBUZ1A0dno2M3NKZjRVNjNBVmpfbDlURldlM0VyeFFXX1owUlBDc25TLTBpNFhoUkVzbFNNNVJHejhrVnc?oc=5) (Sat, 27 Jun 2026 17:01:04 GMT)
+- [The Stablecoin Founder Map Doesn&#x27;t Match the Stablecoin Volume Map - Decrypt](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRnNlbGhESXZMdXVlQzV6Q0lOSnh0SlRLQ2h4b01Xd2NvSGkxcTNqS2NSTW0zSTA5c3hmMFBCcndWa2hCLUx4bHRkeWtQLTduTkF2ZUY3U1NHcXRxRHh0a0FGV0w3OEJIWkxxT0N0Q1Yzc0JYc01sTFBfUnRJVEhiRG5OcjdFdHV2X1BJ0gGTAUFVX3lxTE9HQTBhTzZVSm1KNWdkMTdrTXpUemNDdUpKbmU4Vk9mbFV5Z3oxREFwX1BCLVJ1UVIyOW1PM0ZBNEw5QXpfd1djNldCSV91YUtuaVRjRTM2RHZMZVkxX1piMHlLMjVkWThqM3NBekFyU19uZk9UZFRpRWZSeW9jdW1NV3VOLU5EQ0pNdEgwakozUVNVYw?oc=5) (Sat, 27 Jun 2026 17:01:04 GMT)
+- [Standard Chartered Says XRP Hits $28 by 2030 but Ripple’s Own Stablecoin May Have Other Plans - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxOdlRRT19WVVB0ZmhuMHJIZmY2ckhEMGZBV3Z2Y0VVMjEzSXVXNy14Vi1nNnZvOUlsLWpObDRXcjJ4bFhPWEowWGdIRFRwYVFNSmY2SDlLYW1wTnE1Q2tkLUg2aEg3b3BOVmEzR1BBUEoxSWc2Q2xYcG1qVjN1Vk04MHdRODlteVZuVE42aWtCdkY4SGZ3T3RKZVpmRDNIdw?oc=5) (Sat, 27 Jun 2026 16:56:01 GMT)
 
 <!-- END_dashboard -->
 
