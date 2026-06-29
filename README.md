@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-28 02:41:13 (UTC)*
+*Last Updated: 2026-06-29 02:41:53 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,620,561,880** | 🔴 -0.00% | 🔴 -0.33% |
+| **$292,534,930,192** | 🔴 -0.03% | 🔴 -0.35% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Gov. DeSantis signs stablecoin framework, new crypto kiosk fraud rules into law - Florida Politics](https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTQybFdOX2hZemRLTl9IdlRKODhyQjFBRk9yY25FN0xFdDdkZ0hkY1JQY0pKaHRlYUFkTFRySUktS0VNM0RqMzFxWW9mWW9nZDZnVXA3NWJyWG13dGt0VFk0VW9TZUhuTm1lVGw0NVVQcDRPZFhDeGJDdmJRME9jWFpyVTBjNHdManFsc1hBS2l5ZHd6TkZlTndzRVR6Q3pzQ2c?oc=5) (Sat, 27 Jun 2026 20:06:43 GMT)
-- [The UK softened stablecoin rules, but may still be capping its own market - CryptoSlate](https://news.google.com/rss/articles/CBMingFBVV95cUxQLUZ4SkhJbi1sUlJmM1BDVDFtaVBGTmNDblBpdzV1ekJkemNFRlJra1Z5LTMxcHhWT1VyYTdOWVhwNlRCS0JKODMzTk9ET0VrNVo1V3ZEbnBPaHRDb0JjcUJzYUhhRi1kMVd2SUhvTlhNQkROMWhkS2ZRUWJRcXVieHlBOGlCdnhpU3R4S2xfYUs4Wkk3X29nMFlxMWRRQQ?oc=5) (Sat, 27 Jun 2026 18:25:33 GMT)
-- [The Stablecoin Founder Map Doesn&#x27;t Match the Stablecoin Volume Map - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjBPNk9ENXI1QUVNX3A0QkZTUE5rbElkTThCUW9RaHRkbl94WUJZUldJMDlqUGRSSDRrcXQyOTFsQ05aeXFXMHRfUlNleHY2cXpnR1BBcVQ0RjhHOF9uMzVjV3JxdVBUZ1A0dno2M3NKZjRVNjNBVmpfbDlURldlM0VyeFFXX1owUlBDc25TLTBpNFhoUkVzbFNNNVJHejhrVnc?oc=5) (Sat, 27 Jun 2026 17:01:04 GMT)
-- [The Stablecoin Founder Map Doesn&#x27;t Match the Stablecoin Volume Map - Decrypt](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRnNlbGhESXZMdXVlQzV6Q0lOSnh0SlRLQ2h4b01Xd2NvSGkxcTNqS2NSTW0zSTA5c3hmMFBCcndWa2hCLUx4bHRkeWtQLTduTkF2ZUY3U1NHcXRxRHh0a0FGV0w3OEJIWkxxT0N0Q1Yzc0JYc01sTFBfUnRJVEhiRG5OcjdFdHV2X1BJ0gGTAUFVX3lxTE9HQTBhTzZVSm1KNWdkMTdrTXpUemNDdUpKbmU4Vk9mbFV5Z3oxREFwX1BCLVJ1UVIyOW1PM0ZBNEw5QXpfd1djNldCSV91YUtuaVRjRTM2RHZMZVkxX1piMHlLMjVkWThqM3NBekFyU19uZk9UZFRpRWZSeW9jdW1NV3VOLU5EQ0pNdEgwakozUVNVYw?oc=5) (Sat, 27 Jun 2026 17:01:04 GMT)
-- [Standard Chartered Says XRP Hits $28 by 2030 but Ripple’s Own Stablecoin May Have Other Plans - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxOdlRRT19WVVB0ZmhuMHJIZmY2ckhEMGZBV3Z2Y0VVMjEzSXVXNy14Vi1nNnZvOUlsLWpObDRXcjJ4bFhPWEowWGdIRFRwYVFNSmY2SDlLYW1wTnE1Q2tkLUg2aEg3b3BOVmEzR1BBUEoxSWc2Q2xYcG1qVjN1Vk04MHdRODlteVZuVE42aWtCdkY4SGZ3T3RKZVpmRDNIdw?oc=5) (Sat, 27 Jun 2026 16:56:01 GMT)
+- [Stablecoin Payments Are Faster. Are They Cheaper? Not Yet. - Forbes](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbXJicnR2TVZsdG1FMlA0NlJPSUlWeE5uXzU2dnBDd2FjUTkwUGZrWU5ZeGRaSDNIcmhVblM3d3R0SUE2bzFNVkUxNmV1MDNOSWE4cnBTWkFVdk9TN1JndWV1VlpZV2RPU2Z1ajQ5b2pGaExzWEtpV0ZJZm9Md2o1ak11anBIajU1OUN0TkZBcGpJR2NaQzZwZS1EYmFzbkRvdHVaOFl1SWU?oc=5) (Mon, 29 Jun 2026 02:21:31 GMT)
+- [BIS says stablecoins fall short as money, warns of emerging-market risks in annual report - The Block](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd25HbEpabzhIaldQNFJfRzY5cnRiTkp6X3NHMjY5Vm41R0YxT3lVei1wWG1zRThicmI3amt1SlB4S3k0Z2ZwNG1JbXZTLXpvRTdXOFNkejdtVjlRUnl3Uzh5RnZFNUNOa0lEZHNoZHp5dTk1TG8wUjdkSnMwczJuRmlIOHRpa3p6YS1CaXVrWmxIdGszNzZDejF4RkR6S1owVEthdDFlZzBCS1BuMW5hY2FjdTNHTm80TzhpUE5lLWNXdw?oc=5) (Sun, 28 Jun 2026 22:04:00 GMT)
+- [The Federal Reserve Has New Rules for Stablecoins. Circle Could Be The Biggest Winner - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxOUEFaRWZjcnBsNGY3M2Q2SGV5WUNDR0pIUVo2VUJDREV6ZW1zR0dROU5jZlV0Z3pZLWN4Z1JGOXdUa18yd1k4U0xLT05MekxLRnoyaWw0ckI5SEdQQWxhcUpfWnJfbmowcklsLWt5QjJNbTd2N0ZQWFJIN01qc2JXQ0MySFA2dEZzQmhYNFFqTlNtNkJDZWVoa2ZEanRpSnUwSUlVeGxn?oc=5) (Sun, 28 Jun 2026 17:44:17 GMT)
+- [‘Crypto v community’: 4,000 local US lenders join forces to fight ‘stablecoins’ law - The Guardian](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1pIZk00eVRlektmc3dIZ1IwcjZOQTZ0ZkhlemplQW9WQTRFZnFUU1MtQ245cnNUcEFFVWlISjMxSk1SYUJraFZMSkE4SndEakJiUXRpMUZ5SnpTMG12SnNtN2tIVnVRc1RJU3cwRmFXSUtxQnZWUFlkWEtzcWFqVDlZMjB4cE1lS0xwWk95N3VGMjRmMUFHYW8xSGY5T2xoNU9SLU5Zcjk?oc=5) (Sun, 28 Jun 2026 17:12:00 GMT)
+- [As Stablecoins Keep Growing, These 2 Stocks Benefit - MarketBeat](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdmREcklRZlVidlpJZW8xR0VJcEtJc2x2bllyQnVTalczZkhVaUJzYWZlSkc1TG1Sd0FhT0I5eHI0MlZZZEdCMU9FejEyeHJMZXZFMnNpU2xyZHlRMkkyX2lmSFZTa0dMaXJVR3BnYlkySHBwNFJBeFFKcTBEREJldDV6b0l4QUViSG9oT0JBcDk?oc=5) (Sun, 28 Jun 2026 15:37:29 GMT)
 
 <!-- END_dashboard -->
 
