@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-29 02:41:53 (UTC)*
+*Last Updated: 2026-06-30 02:36:05 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,534,930,192** | 🔴 -0.03% | 🔴 -0.35% |
+| **$290,882,622,426** | 🔴 -0.56% | 🔴 -0.89% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoin Payments Are Faster. Are They Cheaper? Not Yet. - Forbes](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbXJicnR2TVZsdG1FMlA0NlJPSUlWeE5uXzU2dnBDd2FjUTkwUGZrWU5ZeGRaSDNIcmhVblM3d3R0SUE2bzFNVkUxNmV1MDNOSWE4cnBTWkFVdk9TN1JndWV1VlpZV2RPU2Z1ajQ5b2pGaExzWEtpV0ZJZm9Md2o1ak11anBIajU1OUN0TkZBcGpJR2NaQzZwZS1EYmFzbkRvdHVaOFl1SWU?oc=5) (Mon, 29 Jun 2026 02:21:31 GMT)
-- [BIS says stablecoins fall short as money, warns of emerging-market risks in annual report - The Block](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd25HbEpabzhIaldQNFJfRzY5cnRiTkp6X3NHMjY5Vm41R0YxT3lVei1wWG1zRThicmI3amt1SlB4S3k0Z2ZwNG1JbXZTLXpvRTdXOFNkejdtVjlRUnl3Uzh5RnZFNUNOa0lEZHNoZHp5dTk1TG8wUjdkSnMwczJuRmlIOHRpa3p6YS1CaXVrWmxIdGszNzZDejF4RkR6S1owVEthdDFlZzBCS1BuMW5hY2FjdTNHTm80TzhpUE5lLWNXdw?oc=5) (Sun, 28 Jun 2026 22:04:00 GMT)
-- [The Federal Reserve Has New Rules for Stablecoins. Circle Could Be The Biggest Winner - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxOUEFaRWZjcnBsNGY3M2Q2SGV5WUNDR0pIUVo2VUJDREV6ZW1zR0dROU5jZlV0Z3pZLWN4Z1JGOXdUa18yd1k4U0xLT05MekxLRnoyaWw0ckI5SEdQQWxhcUpfWnJfbmowcklsLWt5QjJNbTd2N0ZQWFJIN01qc2JXQ0MySFA2dEZzQmhYNFFqTlNtNkJDZWVoa2ZEanRpSnUwSUlVeGxn?oc=5) (Sun, 28 Jun 2026 17:44:17 GMT)
-- [‘Crypto v community’: 4,000 local US lenders join forces to fight ‘stablecoins’ law - The Guardian](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1pIZk00eVRlektmc3dIZ1IwcjZOQTZ0ZkhlemplQW9WQTRFZnFUU1MtQ245cnNUcEFFVWlISjMxSk1SYUJraFZMSkE4SndEakJiUXRpMUZ5SnpTMG12SnNtN2tIVnVRc1RJU3cwRmFXSUtxQnZWUFlkWEtzcWFqVDlZMjB4cE1lS0xwWk95N3VGMjRmMUFHYW8xSGY5T2xoNU9SLU5Zcjk?oc=5) (Sun, 28 Jun 2026 17:12:00 GMT)
-- [As Stablecoins Keep Growing, These 2 Stocks Benefit - MarketBeat](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdmREcklRZlVidlpJZW8xR0VJcEtJc2x2bllyQnVTalczZkhVaUJzYWZlSkc1TG1Sd0FhT0I5eHI0MlZZZEdCMU9FejEyeHJMZXZFMnNpU2xyZHlRMkkyX2lmSFZTa0dMaXJVR3BnYlkySHBwNFJBeFFKcTBEREJldDV6b0l4QUViSG9oT0JBcDk?oc=5) (Sun, 28 Jun 2026 15:37:29 GMT)
+- [MGUSD, Explained: How MoneyGram Built a Stablecoin Around Distribution - The Defiant](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWGxZdG1halNnRHVNWmVPVGlKd0Y5cE9xbnhjSmVhNW9NSlBGQzQzd202OWEydmt5dWNsUHFlekhTOUZsaWRzbXZuc3FSZWV6aFh3NXJyQy1HV3cyMnZsYkFoRDZYaDVLOXFyazlnTndIOTI4cFdzQUpGXzhSX3UzV1lPZW10SjNoZFRkaVcwMmtMZ1N2aDBic01oQXMwbFZlQkE?oc=5) (Tue, 30 Jun 2026 00:56:50 GMT)
+- [Ethereum Built Stablecoins. Its Price Drop Reveals Their Biggest Shift Yet - PYMNTS.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY0xsRXBQdXlac1ltMXBhYjdIYl9JMWh1di1nTzBSYnNISS1yNTd0cW82VXQydEZqRF9qbTJ6Z0lsQVNrQTJCY1ZPMEp0RXRuQ0pUMldTaHdUX3pCVmpzUEpZaTIxcG8wRXMwQzZaTG5wdFhDVzZ6ZUk0cVoyZFVqN1JqdGxqVFNxUTlxTlZHUFdvdUt2NHBIRnRmNkhHMFpTRkVBVEFfLTYzamZqUV9lZnlyOEp4ZVps?oc=5) (Mon, 29 Jun 2026 23:14:03 GMT)
+- [UK dilutes stablecoin capital requirement in final crypto rulebook - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHRNOVJFb2lhNGdTdlV6am1nVHVodkNlSkswdERRSi1BN3pieDNIOHo1UnRsZm51WlljeWpoQnc4eEZoZ0taQ1lhWGVVUTZ5RmhMc3ZKVW5WTVVTSnFrSU9UZXExQ0VGUGpDU08tbm1XdGVYMHhVRnNGcWE4RUxVQ2YtRGE0UGNWaEhMTFpLMnFRaldPUU1GZGxsLUZQS3pkUG5mYjc4VlhRNDkxS3dwVmdJTDh6R2M?oc=5) (Mon, 29 Jun 2026 23:09:18 GMT)
+- [UK Regulator Vows to Simplify Stablecoin Capital Requirements - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOV20zd1cwRTBacHI0ekRTR192SDBPMHQ3T3dCWnVhSXhyX2dwN2MyWW5adjRSTVc2NGhTSjdXQkFsN2pMeGQyX2E1WURfd29hNUxMRmg1aGdPbmZYbzJmTlNmS0lHZW15U2doTU9HdHJqVm5IX1Mza2hMNXhDTTdJMjduVDRDNW1OM0ZhVURqS1dhYkU4bjFGN3FtcVlFSGNUYnhiM3I4YVVFTm1YUzRyVGFR?oc=5) (Mon, 29 Jun 2026 23:01:00 GMT)
+- [JPMorgan urges strong safeguards as congress weighs crypto market structure rules - CoinDesk](https://news.google.com/rss/articles/CBMiygFBVV95cUxNR1hQNFBsQjZVemlfNFVhUlZwcHBMUHlXbXF5Z2Jwdzh2WHZXeGFfcFpOVnBsYnA4NnAwTXdlYV9SOURJc0tmYnVmSURsd2Nma0VBVXEySGU1MEhiaGJXclRPdlI1eTBKZjhicDRRZFFSY2lhakFLaDZmMjlVaFBUWXl4c1l0Y2FaaGVxQW1uZTRxSXRDZVZGdnZxS1pEZVVCeUlEeWJWQ0NkMkR4WDczM3kydTQzSkhlNExwdzZBUkhXdHpNZVpHMm9R?oc=5) (Mon, 29 Jun 2026 21:00:00 GMT)
 
 <!-- END_dashboard -->
 
