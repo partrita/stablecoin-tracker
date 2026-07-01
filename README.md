@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-06-30 02:36:05 (UTC)*
+*Last Updated: 2026-07-01 02:41:52 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,882,622,426** | 🔴 -0.56% | 🔴 -0.89% |
+| **$290,020,667,374** | 🔴 -0.30% | 🔴 -1.06% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [MGUSD, Explained: How MoneyGram Built a Stablecoin Around Distribution - The Defiant](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWGxZdG1halNnRHVNWmVPVGlKd0Y5cE9xbnhjSmVhNW9NSlBGQzQzd202OWEydmt5dWNsUHFlekhTOUZsaWRzbXZuc3FSZWV6aFh3NXJyQy1HV3cyMnZsYkFoRDZYaDVLOXFyazlnTndIOTI4cFdzQUpGXzhSX3UzV1lPZW10SjNoZFRkaVcwMmtMZ1N2aDBic01oQXMwbFZlQkE?oc=5) (Tue, 30 Jun 2026 00:56:50 GMT)
-- [Ethereum Built Stablecoins. Its Price Drop Reveals Their Biggest Shift Yet - PYMNTS.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY0xsRXBQdXlac1ltMXBhYjdIYl9JMWh1di1nTzBSYnNISS1yNTd0cW82VXQydEZqRF9qbTJ6Z0lsQVNrQTJCY1ZPMEp0RXRuQ0pUMldTaHdUX3pCVmpzUEpZaTIxcG8wRXMwQzZaTG5wdFhDVzZ6ZUk0cVoyZFVqN1JqdGxqVFNxUTlxTlZHUFdvdUt2NHBIRnRmNkhHMFpTRkVBVEFfLTYzamZqUV9lZnlyOEp4ZVps?oc=5) (Mon, 29 Jun 2026 23:14:03 GMT)
-- [UK dilutes stablecoin capital requirement in final crypto rulebook - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHRNOVJFb2lhNGdTdlV6am1nVHVodkNlSkswdERRSi1BN3pieDNIOHo1UnRsZm51WlljeWpoQnc4eEZoZ0taQ1lhWGVVUTZ5RmhMc3ZKVW5WTVVTSnFrSU9UZXExQ0VGUGpDU08tbm1XdGVYMHhVRnNGcWE4RUxVQ2YtRGE0UGNWaEhMTFpLMnFRaldPUU1GZGxsLUZQS3pkUG5mYjc4VlhRNDkxS3dwVmdJTDh6R2M?oc=5) (Mon, 29 Jun 2026 23:09:18 GMT)
-- [UK Regulator Vows to Simplify Stablecoin Capital Requirements - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOV20zd1cwRTBacHI0ekRTR192SDBPMHQ3T3dCWnVhSXhyX2dwN2MyWW5adjRSTVc2NGhTSjdXQkFsN2pMeGQyX2E1WURfd29hNUxMRmg1aGdPbmZYbzJmTlNmS0lHZW15U2doTU9HdHJqVm5IX1Mza2hMNXhDTTdJMjduVDRDNW1OM0ZhVURqS1dhYkU4bjFGN3FtcVlFSGNUYnhiM3I4YVVFTm1YUzRyVGFR?oc=5) (Mon, 29 Jun 2026 23:01:00 GMT)
-- [JPMorgan urges strong safeguards as congress weighs crypto market structure rules - CoinDesk](https://news.google.com/rss/articles/CBMiygFBVV95cUxNR1hQNFBsQjZVemlfNFVhUlZwcHBMUHlXbXF5Z2Jwdzh2WHZXeGFfcFpOVnBsYnA4NnAwTXdlYV9SOURJc0tmYnVmSURsd2Nma0VBVXEySGU1MEhiaGJXclRPdlI1eTBKZjhicDRRZFFSY2lhakFLaDZmMjlVaFBUWXl4c1l0Y2FaaGVxQW1uZTRxSXRDZVZGdnZxS1pEZVVCeUlEeWJWQ0NkMkR4WDczM3kydTQzSkhlNExwdzZBUkhXdHpNZVpHMm9R?oc=5) (Mon, 29 Jun 2026 21:00:00 GMT)
+- [Stripe and Co. Take On Circle and Tether in Stablecoins - The Information](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbFE2aGF0UDJCWWpTYy10SE9aNEVDWlFlekI0SFBZMzlpek9RVm9zTWk0NzdGTzI4elNZaGJZVGY3cERNVW8zT3NlME9wZWQxN1V1dTNNWUY3Qk5OYWdnYjdraERxVE5UQllLVVNqLW1nVm1DeUxNbDV1WVZld01PWGFaczhrTzhhR0lIOElMQjR5VER5Q1B2U1RCaWc?oc=5) (Wed, 01 Jul 2026 00:01:00 GMT)
+- [Visa, Stripe and 140 others back new Open USD stablecoin to challenge Tether - SiliconANGLE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc3BBa1RoQ2gxZlpfYk5yWUtIREhKUTJ2N2VWc0t0Y3k5NUhMb2tVY3ktVHdHVTFfRVlFaDZtMndrLUN6aGlWaV9tRVpZdWl1dk5OTXdzeldkLVNDVE45RTlCb3FsY3ZKYUNhamtLd18zM1AtZ3ZZa0psTnNzTlpHWmotZFhreEhsWktPeGJiR3lEaU9qTmVMYnNiUFA5dUdSYXlsdlVtaDE?oc=5) (Tue, 30 Jun 2026 22:47:05 GMT)
+- [Open USD Just Turned the Stablecoin Race Into an Ecosystem Battle - PYMNTS.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2NDYU5wMGg5Q1hIQmswMkU1bVRNSHRwYlBYQlJyNGh2U0dWNTJmdlg3eldNdnJlWTNfMkpYbnQxQXpZeWVjZktWT3Q2TE9NRHdkSkdvQ19NaE0wLUhVaENwYmRmVkJfY3NDNGxVel9CaGdvd3RSVnNYTl9BbkNYQ0ctYUs3c3pTOWl5My1TRUltU1NadW9lV19WaDVUdGthT2dMS3hKX1M0SVpZWlE?oc=5) (Tue, 30 Jun 2026 20:56:48 GMT)
+- [How stablecoins reduce the “weekend settlement gap” - Thunes](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSmdBR3hjY3NQMFRkV3dwN21ZT2liTDdVTmJ6TnBuNWI0cmZnUnVEZkJrQ0Q3RFJTazBRajl4YmpBZ2xqVkdLM0FMVGN5VERuOW1GaXRPeEZvVFVIV2xsSElJQzRVUHN5b2d2ZjliYlFwa2R2OXJGdURQb1hucDk5eXU5bFh1QjZpTm9kZVoxLWttQ2hYWS14OVJn?oc=5) (Tue, 30 Jun 2026 20:16:37 GMT)
+- [Financial companies join forces for US dollar stablecoin, keeping reserve earnings - TradingView](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcEdFMTZmUlF1dGNuTVpyZTMtbDJ2QUtxZlZIaHpTVGJHZ3g0bEo1TTJIQWlCZ3pMZXYxME1OREtPdnFrU0FPM3A2YWNseWxFZGpnZ01zVUYydEVmTzRiZFpNMjY3WnNPbHpvc2xldnVuckduUkt6WVlXN0NyS19XaWQ2a2FxTkdOVWJ0WHoxckcxb2hFeVpaVzFvRUlWTGFUOVlUNS1pdmp0SExwS2dIcDZMN1NVWWhSSzBiNVVEa1R0cHBUU3pnWXdIbWZXUHdQeFE3aFgwMW00cHVISmc?oc=5) (Tue, 30 Jun 2026 19:31:41 GMT)
 
 <!-- END_dashboard -->
 
