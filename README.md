@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-01 02:41:52 (UTC)*
+*Last Updated: 2026-07-02 02:31:35 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,020,667,374** | 🔴 -0.30% | 🔴 -1.06% |
+| **$281,502,114,216** | 🔴 -2.94% | 🔴 -67.94% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stripe and Co. Take On Circle and Tether in Stablecoins - The Information](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbFE2aGF0UDJCWWpTYy10SE9aNEVDWlFlekI0SFBZMzlpek9RVm9zTWk0NzdGTzI4elNZaGJZVGY3cERNVW8zT3NlME9wZWQxN1V1dTNNWUY3Qk5OYWdnYjdraERxVE5UQllLVVNqLW1nVm1DeUxNbDV1WVZld01PWGFaczhrTzhhR0lIOElMQjR5VER5Q1B2U1RCaWc?oc=5) (Wed, 01 Jul 2026 00:01:00 GMT)
-- [Visa, Stripe and 140 others back new Open USD stablecoin to challenge Tether - SiliconANGLE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc3BBa1RoQ2gxZlpfYk5yWUtIREhKUTJ2N2VWc0t0Y3k5NUhMb2tVY3ktVHdHVTFfRVlFaDZtMndrLUN6aGlWaV9tRVpZdWl1dk5OTXdzeldkLVNDVE45RTlCb3FsY3ZKYUNhamtLd18zM1AtZ3ZZa0psTnNzTlpHWmotZFhreEhsWktPeGJiR3lEaU9qTmVMYnNiUFA5dUdSYXlsdlVtaDE?oc=5) (Tue, 30 Jun 2026 22:47:05 GMT)
-- [Open USD Just Turned the Stablecoin Race Into an Ecosystem Battle - PYMNTS.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2NDYU5wMGg5Q1hIQmswMkU1bVRNSHRwYlBYQlJyNGh2U0dWNTJmdlg3eldNdnJlWTNfMkpYbnQxQXpZeWVjZktWT3Q2TE9NRHdkSkdvQ19NaE0wLUhVaENwYmRmVkJfY3NDNGxVel9CaGdvd3RSVnNYTl9BbkNYQ0ctYUs3c3pTOWl5My1TRUltU1NadW9lV19WaDVUdGthT2dMS3hKX1M0SVpZWlE?oc=5) (Tue, 30 Jun 2026 20:56:48 GMT)
-- [How stablecoins reduce the “weekend settlement gap” - Thunes](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSmdBR3hjY3NQMFRkV3dwN21ZT2liTDdVTmJ6TnBuNWI0cmZnUnVEZkJrQ0Q3RFJTazBRajl4YmpBZ2xqVkdLM0FMVGN5VERuOW1GaXRPeEZvVFVIV2xsSElJQzRVUHN5b2d2ZjliYlFwa2R2OXJGdURQb1hucDk5eXU5bFh1QjZpTm9kZVoxLWttQ2hYWS14OVJn?oc=5) (Tue, 30 Jun 2026 20:16:37 GMT)
-- [Financial companies join forces for US dollar stablecoin, keeping reserve earnings - TradingView](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcEdFMTZmUlF1dGNuTVpyZTMtbDJ2QUtxZlZIaHpTVGJHZ3g0bEo1TTJIQWlCZ3pMZXYxME1OREtPdnFrU0FPM3A2YWNseWxFZGpnZ01zVUYydEVmTzRiZFpNMjY3WnNPbHpvc2xldnVuckduUkt6WVlXN0NyS19XaWQ2a2FxTkdOVWJ0WHoxckcxb2hFeVpaVzFvRUlWTGFUOVlUNS1pdmp0SExwS2dIcDZMN1NVWWhSSzBiNVVEa1R0cHBUU3pnWXdIbWZXUHdQeFE3aFgwMW00cHVISmc?oc=5) (Tue, 30 Jun 2026 19:31:41 GMT)
+- [Stablecoin Collections: Real-World Applications Driving Fintechs and Crypto Companies - ripple.com](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wdXhadUVMNmo4S3pjdzNsMmx2Q09sSU5kel9rcVkyOEkzZ0RhbEtLZGs3eDkzVng5WEp6Y3JiR3BvMEJXOE1LYXJyWVk4NFdDTzM3OVZyNnFkU0dkWTUzaXlB?oc=5) (Thu, 02 Jul 2026 00:07:39 GMT)
+- [Is Mastercard (MA) Trading At A Premium Despite Stablecoin Moves? - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmRPci0wRElmUEYwRjRSSV9YYTFsd01HSnYxTUxrUzgzUl9qeUtZbjQwT2p3X2JrLVVMZjZzYTdJX19FU2FIeUxkalpYbHJhSWdtbUJmMXlwVzk3YXJpWU9BSkVIR3AtMFF2WXc0TTN0cHc0QkplUHVrRTJyT0ZHenVRbDRXem1YeFlEYnhoLUJVYktFOHhhQVhnT2htdXJsNzNYSw?oc=5) (Wed, 01 Jul 2026 21:16:35 GMT)
+- [FCA Finalises Core Rules for the UK Cryptoasset Regime - Skadden, Arps, Slate, Meagher &amp; Flom LLP](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTVdHdTYzcXVnQW9OenhQWEVzRXZpRHhLaXNZeG5zR0dlNDhPbnBaU2FVR2FOVGFSbjFnTjRFRWpFTE5sbGVIRkdzRzNzcGpkTE9JNnJFSzJVb0UyZC1JbkhzM0ZxelF2aEpCRzE2b0h1TjhGT21YUVBNUC1wZzVCZ0x0MkhfX3hzdXdwZXhSMXpyNXdjcHplTG02YjJBZkJqdFVkV1hPUlNNamcz?oc=5) (Wed, 01 Jul 2026 20:56:19 GMT)
+- [BNY adds Circle USDC stablecoin custody as it expands digital asset services - The Business Journals](https://news.google.com/rss/articles/CBMilgFBVV95cUxPR3ZrTTYwZW9pNERGQm5BOS1oeUhpUmxfZDhhQnhPMDdlcExDdlVYYWRHODlCamlsQVRNcUcyQW1vZlZ0ZVhHcnZmTG5PTUw5U0xEV3llem5fcnhGcF9zcHFvMG5EbXR5aXhqbHg2emJkdnI1aGRUdkVTaERWWkdkZHFrcVBBUnFhaFhDMzh2ZGplbGt3NlE?oc=5) (Wed, 01 Jul 2026 20:32:00 GMT)
+- [Paradigm Files Comment Letter on the FDIC’s GENIUS Act Stablecoin Rulemaking - paradigm.xyz](https://news.google.com/rss/articles/CBMirAFBVV95cUxPM0lEMzlfejBvVU1PdXRaYWRXa3RNYlZFUFlaQjVhVVVsUXRPUVdKbW43S2xDQU5rbWFkWC1zdnZPLUxITFFxM1pFdVFyRUtIMDNUU0ZDRF9RQ0NwRkpsNURhZHZ6MUYxT3NCVjhKQU5rQ0JRSlFaNzVTT3lzc0xja0FXSlo5VjVwVTRoVU5RVmxyTFhZaFhDSGZPSDYxYTlEZGwyMGZQdFAxQVY0?oc=5) (Wed, 01 Jul 2026 19:39:59 GMT)
 
 <!-- END_dashboard -->
 
