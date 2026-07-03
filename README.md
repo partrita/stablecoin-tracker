@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-02 02:31:35 (UTC)*
+*Last Updated: 2026-07-03 02:06:40 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$281,502,114,216** | 🔴 -2.94% | 🔴 -67.94% |
+| **$289,868,741,985** | 🟢 +2.97% | 🔴 -0.92% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoin Collections: Real-World Applications Driving Fintechs and Crypto Companies - ripple.com](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wdXhadUVMNmo4S3pjdzNsMmx2Q09sSU5kel9rcVkyOEkzZ0RhbEtLZGs3eDkzVng5WEp6Y3JiR3BvMEJXOE1LYXJyWVk4NFdDTzM3OVZyNnFkU0dkWTUzaXlB?oc=5) (Thu, 02 Jul 2026 00:07:39 GMT)
-- [Is Mastercard (MA) Trading At A Premium Despite Stablecoin Moves? - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmRPci0wRElmUEYwRjRSSV9YYTFsd01HSnYxTUxrUzgzUl9qeUtZbjQwT2p3X2JrLVVMZjZzYTdJX19FU2FIeUxkalpYbHJhSWdtbUJmMXlwVzk3YXJpWU9BSkVIR3AtMFF2WXc0TTN0cHc0QkplUHVrRTJyT0ZHenVRbDRXem1YeFlEYnhoLUJVYktFOHhhQVhnT2htdXJsNzNYSw?oc=5) (Wed, 01 Jul 2026 21:16:35 GMT)
-- [FCA Finalises Core Rules for the UK Cryptoasset Regime - Skadden, Arps, Slate, Meagher &amp; Flom LLP](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTVdHdTYzcXVnQW9OenhQWEVzRXZpRHhLaXNZeG5zR0dlNDhPbnBaU2FVR2FOVGFSbjFnTjRFRWpFTE5sbGVIRkdzRzNzcGpkTE9JNnJFSzJVb0UyZC1JbkhzM0ZxelF2aEpCRzE2b0h1TjhGT21YUVBNUC1wZzVCZ0x0MkhfX3hzdXdwZXhSMXpyNXdjcHplTG02YjJBZkJqdFVkV1hPUlNNamcz?oc=5) (Wed, 01 Jul 2026 20:56:19 GMT)
-- [BNY adds Circle USDC stablecoin custody as it expands digital asset services - The Business Journals](https://news.google.com/rss/articles/CBMilgFBVV95cUxPR3ZrTTYwZW9pNERGQm5BOS1oeUhpUmxfZDhhQnhPMDdlcExDdlVYYWRHODlCamlsQVRNcUcyQW1vZlZ0ZVhHcnZmTG5PTUw5U0xEV3llem5fcnhGcF9zcHFvMG5EbXR5aXhqbHg2emJkdnI1aGRUdkVTaERWWkdkZHFrcVBBUnFhaFhDMzh2ZGplbGt3NlE?oc=5) (Wed, 01 Jul 2026 20:32:00 GMT)
-- [Paradigm Files Comment Letter on the FDIC’s GENIUS Act Stablecoin Rulemaking - paradigm.xyz](https://news.google.com/rss/articles/CBMirAFBVV95cUxPM0lEMzlfejBvVU1PdXRaYWRXa3RNYlZFUFlaQjVhVVVsUXRPUVdKbW43S2xDQU5rbWFkWC1zdnZPLUxITFFxM1pFdVFyRUtIMDNUU0ZDRF9RQ0NwRkpsNURhZHZ6MUYxT3NCVjhKQU5rQ0JRSlFaNzVTT3lzc0xja0FXSlo5VjVwVTRoVU5RVmxyTFhZaFhDSGZPSDYxYTlEZGwyMGZQdFAxQVY0?oc=5) (Wed, 01 Jul 2026 19:39:59 GMT)
+- [What Payward’s Reap Purchase Says About B2B Stablecoin Cards - PYMNTS.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxOOEtQbGVrM3NSSFNOd1hJdUNHdGphTjhLSzZ0aVdsWEdkZEdmcFFZY05NZHJkQmdFbEZHRUZPc29UdEFxUXBnb1pGNTBaU1JsOEJ0dGkzTVQ1SENRdkdRUmtpSUR1ODNENzRHUXo5aFpjd3N4bHYtcC1KQmZ4Q2UzWVFCalFFZUQ5dDQ2Y2V0dUIzZzg?oc=5) (Fri, 03 Jul 2026 01:52:57 GMT)
+- [Tech, Finance Titans Redraw Stablecoin Map in Threat to Circle - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3lGN3BfdGl1VFFtMlJZblM0RmZPR3dIN1NNQlRkOF9PQXRLXzhteTVsWHoxU2ZoQ05fTTI0b1pMczFKTXp6MnZhZnVBYUVRS2c5RVdQalZoV3pwVGVMMFd6ZzhJeHNsVTRuTVd2Sk1wX2FhT0xCamFQQ25vY3MzVGNPVEY4STJlS3BlSEZWOGNqS3JsTUxBY1J1aVJqRjNTN0J2S0pORy1lVGp1Z2xTZzBR?oc=5) (Thu, 02 Jul 2026 17:10:36 GMT)
+- [Two Big Banks Adopt Circle’s USDC Stablecoin This Week - Yahoo Finance](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkJHaUZucEdlaUxkMUR2WVBJWVRXNnFPSDJZQUNIb0xmbTAzdkMzUk1VcUQ2ejdkbnBzY1pDYjltNEpsS0p1U25HS2lncENRdExJZkN3aTZPTW5uaUtFMXdibnRGSnhZbEQzSHk4eEV5Um9wT0ZpQ3NwSzZxOWR4RGlHVGdQbkJpazFPZjFJa0Y1Rms2eHc?oc=5) (Thu, 02 Jul 2026 17:00:00 GMT)
+- [Look At Who Joined Open USD To Understand Where Money Is Going - Forbes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYzVqMWhsR1BxeW9xa2d5eWUxRnRPVFVPdXlJczd2Nk5tSzFKSFp3bDg1Q19BaWY4UDA3RnEzZ1Y0dDdFQlU1ZzZqNzVsRk5jekNGRjZjN1N2SklGMGYzdXBzNnFJSUhjaEh6NVpLU3V2UktxWC1OcEtqWE9kaU9IeF8wSHNlM0R6MGtYanB2dUFvczUyQkFLN1Z4cjNvM1dtYW5kRHhNa2YwQXhBYXE1ckdReE5Nc3kyU0E?oc=5) (Thu, 02 Jul 2026 14:00:14 GMT)
+- [Credible Surpasses $152M in Stablecoin Payments on Polygon - Polygon Labs](https://news.google.com/rss/articles/CBMikwFBVV95cUxQU3BKVFNpakw1a2MxWlB2YUlFd2pRNWJnUUx4b2dDa2U1c1V1WjYtY1gzc0t2WEMzRGs1cjJmUmFWMTU2YVNOcGhTRTVnVXF4bnQ0RHJ3YkE1S3ViNmpNZXlJaDRYbWlvcUpaLWh2RmVWTVRGYWpRc0NjeV8yWTdoSmxMRlZ3bDltOHFsNDlCUVZLUTQ?oc=5) (Thu, 02 Jul 2026 13:36:40 GMT)
 
 <!-- END_dashboard -->
 
