@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-03 02:06:40 (UTC)*
+*Last Updated: 2026-07-04 02:05:07 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,868,741,985** | 🟢 +2.97% | 🔴 -0.92% |
+| **$289,825,100,587** | 🔴 -0.02% | 🔴 -0.96% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [What Payward’s Reap Purchase Says About B2B Stablecoin Cards - PYMNTS.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxOOEtQbGVrM3NSSFNOd1hJdUNHdGphTjhLSzZ0aVdsWEdkZEdmcFFZY05NZHJkQmdFbEZHRUZPc29UdEFxUXBnb1pGNTBaU1JsOEJ0dGkzTVQ1SENRdkdRUmtpSUR1ODNENzRHUXo5aFpjd3N4bHYtcC1KQmZ4Q2UzWVFCalFFZUQ5dDQ2Y2V0dUIzZzg?oc=5) (Fri, 03 Jul 2026 01:52:57 GMT)
-- [Tech, Finance Titans Redraw Stablecoin Map in Threat to Circle - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3lGN3BfdGl1VFFtMlJZblM0RmZPR3dIN1NNQlRkOF9PQXRLXzhteTVsWHoxU2ZoQ05fTTI0b1pMczFKTXp6MnZhZnVBYUVRS2c5RVdQalZoV3pwVGVMMFd6ZzhJeHNsVTRuTVd2Sk1wX2FhT0xCamFQQ25vY3MzVGNPVEY4STJlS3BlSEZWOGNqS3JsTUxBY1J1aVJqRjNTN0J2S0pORy1lVGp1Z2xTZzBR?oc=5) (Thu, 02 Jul 2026 17:10:36 GMT)
-- [Two Big Banks Adopt Circle’s USDC Stablecoin This Week - Yahoo Finance](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkJHaUZucEdlaUxkMUR2WVBJWVRXNnFPSDJZQUNIb0xmbTAzdkMzUk1VcUQ2ejdkbnBzY1pDYjltNEpsS0p1U25HS2lncENRdExJZkN3aTZPTW5uaUtFMXdibnRGSnhZbEQzSHk4eEV5Um9wT0ZpQ3NwSzZxOWR4RGlHVGdQbkJpazFPZjFJa0Y1Rms2eHc?oc=5) (Thu, 02 Jul 2026 17:00:00 GMT)
-- [Look At Who Joined Open USD To Understand Where Money Is Going - Forbes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYzVqMWhsR1BxeW9xa2d5eWUxRnRPVFVPdXlJczd2Nk5tSzFKSFp3bDg1Q19BaWY4UDA3RnEzZ1Y0dDdFQlU1ZzZqNzVsRk5jekNGRjZjN1N2SklGMGYzdXBzNnFJSUhjaEh6NVpLU3V2UktxWC1OcEtqWE9kaU9IeF8wSHNlM0R6MGtYanB2dUFvczUyQkFLN1Z4cjNvM1dtYW5kRHhNa2YwQXhBYXE1ckdReE5Nc3kyU0E?oc=5) (Thu, 02 Jul 2026 14:00:14 GMT)
-- [Credible Surpasses $152M in Stablecoin Payments on Polygon - Polygon Labs](https://news.google.com/rss/articles/CBMikwFBVV95cUxQU3BKVFNpakw1a2MxWlB2YUlFd2pRNWJnUUx4b2dDa2U1c1V1WjYtY1gzc0t2WEMzRGs1cjJmUmFWMTU2YVNOcGhTRTVnVXF4bnQ0RHJ3YkE1S3ViNmpNZXlJaDRYbWlvcUpaLWh2RmVWTVRGYWpRc0NjeV8yWTdoSmxMRlZ3bDltOHFsNDlCUVZLUTQ?oc=5) (Thu, 02 Jul 2026 13:36:40 GMT)
+- [This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree - CoinDesk](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0M4cVVSSG1uVWNDeXlpLTE0a21sNnBNWThFeW5kUlZTUUktTzVtUXMwcTZpdGNwb0ttT2Z6VHMyaHk1enpSY3pOM0RjcTRDRUV4X2ZqYVQ3VXJJR3h2MzYzN2tHRGNOVDF1YW9Ha0xZMjhhSnpKbTZ2VkFSUElMbmZreXQxcjlQcHBGUkxuLWNlTGl5WnZOZUZqWTUwaHlLbGgwbXprdmE4LWRxbTJTNlNGWmYybTVwc0ptOHhEZC14RlFnYTlZd2VXcEkzMVdHMDBrUU5ZWXM?oc=5) (Fri, 03 Jul 2026 19:21:56 GMT)
+- [Samsung, Dunamu say they were listed as OUSD stablecoin consortium members without official consultation: report - The Block](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOai0xTUZ2aEdUZ2VJRy1yclNuakZZc3FJWEd4cWprSUIxS1k3dXNfa0ctNGtpTVV2N01Ob3lob0RGNmxzTkhhcWFjUzFvSjk0TEJzb190eldOcFp5bFRJNXk5VExtQmFaWk9mcC1LQ3pzTTluSnRHT3UwRXROVVF3TkMtOFdsQS1veHE1MlRhWWxJNVdocmJwZkxQaXVaeWdrZXpTdHZhRFM3TWxHWnBXRHBGQnpZbFlfUHdJbGRJb3VpbjN3dWctVHlpd2oyZ2JJYXhIcHJVZlVNOXhMZ3lN?oc=5) (Fri, 03 Jul 2026 14:32:14 GMT)
+- [State Street (STT) Lands Treasury Default ETF Role And Launches Stablecoin Fund - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXZ2SVpNSHM5RWpTOUVsWGJMNUx6MjVpYmtTbWt2NE4wMndJM20ybTNLaTNSeVZKdkozOGRraElxSHJnRUFOREo0eHRuRDF1Skd5c280bFloYlV2S3hwMkVsazNwRGJqZEhOYnQwZlN3OGtXNV9NTzdmTU5ManQ3LTZodHBfU0NBZ3dpWF9feTB4OUhGUm5ycWp2ZW8?oc=5) (Fri, 03 Jul 2026 13:17:06 GMT)
+- [The one stablecoin to rule them all? - American Banker](https://news.google.com/rss/articles/CBMie0FVX3lxTFA3WDZlclYyN3gtUGlVWUJleUJOQ2Z2ODRmZnczVTNSTWN6UWd3RGxtWmZSVlEtVlJwcmtKZDM4dkJWa3dvSXRmbFk5SHBMTmhPenJIX1dLRkNEUDk4WjBUcFNfM21QZGktYlVja0JEbkhxanQ0MVBTY1RIZw?oc=5) (Fri, 03 Jul 2026 12:35:00 GMT)
+- [What Is USDG? Everything You Need to Know About the Fast-Growing Stablecoin in 2026 - Bitcoin Foundation](https://news.google.com/rss/articles/CBMiswFBVV95cUxOYUcwbnd1M2JlakNZb2JzRnBrRFVHQlcwdGsweFFMRmdZTlZNbFpxUThYX0t4OURQWGlMdTRZNnAxVlE5VHRqX1JPUGlBVUhtTUc4Ml9iSzFoNGdZUXRpTy0tS0tRai0wZjF4a1hkTnJIQ0IxcWdNdFJvWUVrTTdjRGZsOFV6OVpBX08zMl9vQjZNMTZEZm5jM25NR1FUVWE2aTBVak9HREZRNjFEVl9aZThWcw?oc=5) (Fri, 03 Jul 2026 11:02:30 GMT)
 
 <!-- END_dashboard -->
 
