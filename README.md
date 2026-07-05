@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-04 02:05:07 (UTC)*
+*Last Updated: 2026-07-05 02:13:41 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,825,100,587** | 🔴 -0.02% | 🔴 -0.96% |
+| **$289,448,840,077** | 🔴 -0.13% | 🔴 -1.08% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [A New Stablecoin Is Taking Aim at Circle&#x27;s USDC. Here&#x27;s What Investors Need to Know. - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxQamNOVDRya0ZneDhLVzJSR1VGMDE4M25sb1A5ekpTaml5cU1uaWZIZnBmUk1fTHc5SF9WU3pFTVJuQUdSNGF6WTdaVEtRX2FKZE9SczJrU2E4YVlBQUlqektPaDdsY0FyMTdKaHR1N1gtbzkyb3dveVpBeXpUVmFYWU0wZ2FjcFpqR1dra253QWx6TW5zejNNYUR3Z2tMNEsz?oc=5) (Sat, 04 Jul 2026 15:11:00 GMT)
+- [A Huge New Stablecoin Initiative Could Disrupt the Crypto Market. Here&#x27;s What You Need to Know. - The Motley Fool](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVHpJX1g1Z1FFOGtJcU40d1JSci13bkVKbzd0RWQ5TjFMRW5iYmZKUU05S1VoWGhfdkl1aDNmVDI1ejQ5TlFzTTc0MzFKT29XVWFnNGx1c1J0aE53TVgta0lZeEtpZnZIX2pkQUVSdTRSVFVDaVd6NFh0SFN2N2tieTNjTUFNZ0doQmtGTi1KTmxKTHBlZVNn?oc=5) (Sat, 04 Jul 2026 11:30:00 GMT)
 - [This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree - CoinDesk](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0M4cVVSSG1uVWNDeXlpLTE0a21sNnBNWThFeW5kUlZTUUktTzVtUXMwcTZpdGNwb0ttT2Z6VHMyaHk1enpSY3pOM0RjcTRDRUV4X2ZqYVQ3VXJJR3h2MzYzN2tHRGNOVDF1YW9Ha0xZMjhhSnpKbTZ2VkFSUElMbmZreXQxcjlQcHBGUkxuLWNlTGl5WnZOZUZqWTUwaHlLbGgwbXprdmE4LWRxbTJTNlNGWmYybTVwc0ptOHhEZC14RlFnYTlZd2VXcEkzMVdHMDBrUU5ZWXM?oc=5) (Fri, 03 Jul 2026 19:21:56 GMT)
+- [Arival Bank Launches Stablecoin Payments through its network of Bank Partners - EIN News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbUtPQzE4N0ZQMjl0bHliTTRNeFBUZFhzOUpuVDhDODRwSUhzZk4yWF9nRW9xY2piRVhiT1NDcFJJQVN5LU1lMWQ4ZHkxU1ZzaUUyVjJnem9jTnpMbFRWZTROcHM5VUVZY0d1MUpaN3hXSC1xM2d3WnJCMW9nandYNFZ5Ylo4aGdfU0dxMnBoS2tObjBmVG43eG1wNHI0Y0p4Vl9WY3lrdmhkVU43QTVIOXZuWWZSQi1vOEVodVU0MTJoZ9IBwgFBVV95cUxQbUtPQzE4N0ZQMjl0bHliTTRNeFBUZFhzOUpuVDhDODRwSUhzZk4yWF9nRW9xY2piRVhiT1NDcFJJQVN5LU1lMWQ4ZHkxU1ZzaUUyVjJnem9jTnpMbFRWZTROcHM5VUVZY0d1MUpaN3hXSC1xM2d3WnJCMW9nandYNFZ5Ylo4aGdfU0dxMnBoS2tObjBmVG43eG1wNHI0Y0p4Vl9WY3lrdmhkVU43QTVIOXZuWWZSQi1vOEVodVU0MTJoZw?oc=5) (Fri, 03 Jul 2026 18:50:10 GMT)
 - [Samsung, Dunamu say they were listed as OUSD stablecoin consortium members without official consultation: report - The Block](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOai0xTUZ2aEdUZ2VJRy1yclNuakZZc3FJWEd4cWprSUIxS1k3dXNfa0ctNGtpTVV2N01Ob3lob0RGNmxzTkhhcWFjUzFvSjk0TEJzb190eldOcFp5bFRJNXk5VExtQmFaWk9mcC1LQ3pzTTluSnRHT3UwRXROVVF3TkMtOFdsQS1veHE1MlRhWWxJNVdocmJwZkxQaXVaeWdrZXpTdHZhRFM3TWxHWnBXRHBGQnpZbFlfUHdJbGRJb3VpbjN3dWctVHlpd2oyZ2JJYXhIcHJVZlVNOXhMZ3lN?oc=5) (Fri, 03 Jul 2026 14:32:14 GMT)
-- [State Street (STT) Lands Treasury Default ETF Role And Launches Stablecoin Fund - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXZ2SVpNSHM5RWpTOUVsWGJMNUx6MjVpYmtTbWt2NE4wMndJM20ybTNLaTNSeVZKdkozOGRraElxSHJnRUFOREo0eHRuRDF1Skd5c280bFloYlV2S3hwMkVsazNwRGJqZEhOYnQwZlN3OGtXNV9NTzdmTU5ManQ3LTZodHBfU0NBZ3dpWF9feTB4OUhGUm5ycWp2ZW8?oc=5) (Fri, 03 Jul 2026 13:17:06 GMT)
-- [The one stablecoin to rule them all? - American Banker](https://news.google.com/rss/articles/CBMie0FVX3lxTFA3WDZlclYyN3gtUGlVWUJleUJOQ2Z2ODRmZnczVTNSTWN6UWd3RGxtWmZSVlEtVlJwcmtKZDM4dkJWa3dvSXRmbFk5SHBMTmhPenJIX1dLRkNEUDk4WjBUcFNfM21QZGktYlVja0JEbkhxanQ0MVBTY1RIZw?oc=5) (Fri, 03 Jul 2026 12:35:00 GMT)
-- [What Is USDG? Everything You Need to Know About the Fast-Growing Stablecoin in 2026 - Bitcoin Foundation](https://news.google.com/rss/articles/CBMiswFBVV95cUxOYUcwbnd1M2JlakNZb2JzRnBrRFVHQlcwdGsweFFMRmdZTlZNbFpxUThYX0t4OURQWGlMdTRZNnAxVlE5VHRqX1JPUGlBVUhtTUc4Ml9iSzFoNGdZUXRpTy0tS0tRai0wZjF4a1hkTnJIQ0IxcWdNdFJvWUVrTTdjRGZsOFV6OVpBX08zMl9vQjZNMTZEZm5jM25NR1FUVWE2aTBVak9HREZRNjFEVl9aZThWcw?oc=5) (Fri, 03 Jul 2026 11:02:30 GMT)
 
 <!-- END_dashboard -->
 
