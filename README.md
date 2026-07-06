@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-05 02:13:41 (UTC)*
+*Last Updated: 2026-07-06 02:25:19 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,448,840,077** | 🔴 -0.13% | 🔴 -1.08% |
+| **$289,775,492,714** | 🟢 +0.11% | 🔴 -0.94% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [A New Stablecoin Is Taking Aim at Circle&#x27;s USDC. Here&#x27;s What Investors Need to Know. - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxQamNOVDRya0ZneDhLVzJSR1VGMDE4M25sb1A5ekpTaml5cU1uaWZIZnBmUk1fTHc5SF9WU3pFTVJuQUdSNGF6WTdaVEtRX2FKZE9SczJrU2E4YVlBQUlqektPaDdsY0FyMTdKaHR1N1gtbzkyb3dveVpBeXpUVmFYWU0wZ2FjcFpqR1dra253QWx6TW5zejNNYUR3Z2tMNEsz?oc=5) (Sat, 04 Jul 2026 15:11:00 GMT)
-- [A Huge New Stablecoin Initiative Could Disrupt the Crypto Market. Here&#x27;s What You Need to Know. - The Motley Fool](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVHpJX1g1Z1FFOGtJcU40d1JSci13bkVKbzd0RWQ5TjFMRW5iYmZKUU05S1VoWGhfdkl1aDNmVDI1ejQ5TlFzTTc0MzFKT29XVWFnNGx1c1J0aE53TVgta0lZeEtpZnZIX2pkQUVSdTRSVFVDaVd6NFh0SFN2N2tieTNjTUFNZ0doQmtGTi1KTmxKTHBlZVNn?oc=5) (Sat, 04 Jul 2026 11:30:00 GMT)
-- [This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree - CoinDesk](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0M4cVVSSG1uVWNDeXlpLTE0a21sNnBNWThFeW5kUlZTUUktTzVtUXMwcTZpdGNwb0ttT2Z6VHMyaHk1enpSY3pOM0RjcTRDRUV4X2ZqYVQ3VXJJR3h2MzYzN2tHRGNOVDF1YW9Ha0xZMjhhSnpKbTZ2VkFSUElMbmZreXQxcjlQcHBGUkxuLWNlTGl5WnZOZUZqWTUwaHlLbGgwbXprdmE4LWRxbTJTNlNGWmYybTVwc0ptOHhEZC14RlFnYTlZd2VXcEkzMVdHMDBrUU5ZWXM?oc=5) (Fri, 03 Jul 2026 19:21:56 GMT)
-- [Arival Bank Launches Stablecoin Payments through its network of Bank Partners - EIN News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbUtPQzE4N0ZQMjl0bHliTTRNeFBUZFhzOUpuVDhDODRwSUhzZk4yWF9nRW9xY2piRVhiT1NDcFJJQVN5LU1lMWQ4ZHkxU1ZzaUUyVjJnem9jTnpMbFRWZTROcHM5VUVZY0d1MUpaN3hXSC1xM2d3WnJCMW9nandYNFZ5Ylo4aGdfU0dxMnBoS2tObjBmVG43eG1wNHI0Y0p4Vl9WY3lrdmhkVU43QTVIOXZuWWZSQi1vOEVodVU0MTJoZ9IBwgFBVV95cUxQbUtPQzE4N0ZQMjl0bHliTTRNeFBUZFhzOUpuVDhDODRwSUhzZk4yWF9nRW9xY2piRVhiT1NDcFJJQVN5LU1lMWQ4ZHkxU1ZzaUUyVjJnem9jTnpMbFRWZTROcHM5VUVZY0d1MUpaN3hXSC1xM2d3WnJCMW9nandYNFZ5Ylo4aGdfU0dxMnBoS2tObjBmVG43eG1wNHI0Y0p4Vl9WY3lrdmhkVU43QTVIOXZuWWZSQi1vOEVodVU0MTJoZw?oc=5) (Fri, 03 Jul 2026 18:50:10 GMT)
-- [Samsung, Dunamu say they were listed as OUSD stablecoin consortium members without official consultation: report - The Block](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOai0xTUZ2aEdUZ2VJRy1yclNuakZZc3FJWEd4cWprSUIxS1k3dXNfa0ctNGtpTVV2N01Ob3lob0RGNmxzTkhhcWFjUzFvSjk0TEJzb190eldOcFp5bFRJNXk5VExtQmFaWk9mcC1LQ3pzTTluSnRHT3UwRXROVVF3TkMtOFdsQS1veHE1MlRhWWxJNVdocmJwZkxQaXVaeWdrZXpTdHZhRFM3TWxHWnBXRHBGQnpZbFlfUHdJbGRJb3VpbjN3dWctVHlpd2oyZ2JJYXhIcHJVZlVNOXhMZ3lN?oc=5) (Fri, 03 Jul 2026 14:32:14 GMT)
+- [Circle (CRCL) Faces A New Stablecoin Challenge As 140 Partner OUSD Launches - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxObmt0OV9aVWM4clprRktib1FVaU02UHp1LW4yZTlyd2FpUW9uNWlJdGtFcEFsNDNwUXozenlWYVBNNXR6QVZUbFFRTHA1TEYxeTZxeHVHVnZDV0NkUm5zMHdtWEtubXNpT0hqMTRJelM2a1ZndW83b1h2SzN6M0dCUDRVRmZEbFFpNHNGXzRfR012X1J1OEY2c3hURG1ldno3V1hJWkZB?oc=5) (Sun, 05 Jul 2026 14:08:23 GMT)
+- [How big banks plan to capture a quadrillion-dollar market - CoinDesk](https://news.google.com/rss/articles/CBMiywFBVV95cUxPVFRIMnI4UHBRMGxzcEFxakdVd3JPcGVzaFQyVEVLdXJHeXBLekZydDZCNTJtYjZmdEptRUQtdTZFZ29MQlZYMXdWdFFvM1A0dlEzZHNSY19nQnNWY3FCNXE0U09TaG9WVW15aVFNbkNOYVJhR0Y5WFBWOGo5YXNPXy1aMUpEN3BrTHRHd19KRFFzb3lFYXh5M05EOWMycUhHY01PZUg3MzhnTF9wNXpfQjBTX25FaVNBZXowZ19WQm5PQ0U3NzNaWDd0SQ?oc=5) (Sun, 05 Jul 2026 14:00:48 GMT)
+- [Collateral, not yield, will decide which stablecoins win - CoinDesk](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUpzcEdDZTRtN0pGMGVBSGpETy1ZRm1sVXZkSGNPRlJYLWloM1Faa2Eyd0FVYWsyamVJYmQybVNTcVB4OW9xU1lqMlpVbkhyNEhuQ2QtTUVYaTliWU81cUh0cEJUQ1JYSXdsQkpueGhHaTJXVGtfTUg0aFBiTjhSYlZQNEtfR3ZGMHhsbGVkUkxBci0zRmNvZjE3bUVjTGM?oc=5) (Sun, 05 Jul 2026 13:02:27 GMT)
+- [Why Binance’s reported $2B Mesh investment could decide who controls stablecoin payments - CryptoSlate](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWhpZEgwOTRXd3JUV1pNenRzcXh6VzV6elA0d1g5dmRyYm9TQWMxUnQ1Tk9RTjBTb0l0SVl3VUthQXlZVk4yZE8ycDdlRzN1S1RDajFqRUxSczQzZGxNRXNaMVBGSi1VX242bUxnbWdxUEpoSXlDUDlzejB3UkhiUXpBM1Zabmk4WGJfVTRCODNDejhRZEFJ?oc=5) (Sun, 05 Jul 2026 10:00:28 GMT)
+- [Coinbase (COIN) Joins Visa And Mastercard To Launch Open Standard Stablecoin Network - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxQeTItMERYbVkxRHN2cnM0YkZkYXNpNnc0REJaVWZVMGJHcC1VR1NIQVhRNzdFakR3bFZmN0hfTnZxSERrbXpYV29ocmVPQWx0WHJmWnk5czdfdVFKVlBaOERsV2MyRThENmNyUGlTWFB4VWVjcXU1OGl5dWgyRUtwck5yMkM1SG1XWjZ6b2Npd3M5elBja1hDYl9lQzBycXlIUWc?oc=5) (Sun, 05 Jul 2026 06:11:00 GMT)
 
 <!-- END_dashboard -->
 
