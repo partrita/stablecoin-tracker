@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-07 02:13:49 (UTC)*
+*Last Updated: 2026-07-08 01:54:10 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,980,858,934** | 🟢 +0.42% | 🟢 +0.03% |
+| **$291,217,234,335** | 🟢 +0.08% | 🟢 +0.41% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Circle (CRCL) Faces A New Stablecoin Challenge As 140 Partner OUSD Launches - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxObmt0OV9aVWM4clprRktib1FVaU02UHp1LW4yZTlyd2FpUW9uNWlJdGtFcEFsNDNwUXozenlWYVBNNXR6QVZUbFFRTHA1TEYxeTZxeHVHVnZDV0NkUm5zMHdtWEtubXNpT0hqMTRJelM2a1ZndW83b1h2SzN6M0dCUDRVRmZEbFFpNHNGXzRfR012X1J1OEY2c3hURG1ldno3V1hJWkZB?oc=5) (Sun, 05 Jul 2026 14:08:23 GMT)
-- [How big banks plan to capture a quadrillion-dollar market - CoinDesk](https://news.google.com/rss/articles/CBMiywFBVV95cUxPVFRIMnI4UHBRMGxzcEFxakdVd3JPcGVzaFQyVEVLdXJHeXBLekZydDZCNTJtYjZmdEptRUQtdTZFZ29MQlZYMXdWdFFvM1A0dlEzZHNSY19nQnNWY3FCNXE0U09TaG9WVW15aVFNbkNOYVJhR0Y5WFBWOGo5YXNPXy1aMUpEN3BrTHRHd19KRFFzb3lFYXh5M05EOWMycUhHY01PZUg3MzhnTF9wNXpfQjBTX25FaVNBZXowZ19WQm5PQ0U3NzNaWDd0SQ?oc=5) (Sun, 05 Jul 2026 14:00:48 GMT)
-- [Collateral, not yield, will decide which stablecoins win - CoinDesk](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUpzcEdDZTRtN0pGMGVBSGpETy1ZRm1sVXZkSGNPRlJYLWloM1Faa2Eyd0FVYWsyamVJYmQybVNTcVB4OW9xU1lqMlpVbkhyNEhuQ2QtTUVYaTliWU81cUh0cEJUQ1JYSXdsQkpueGhHaTJXVGtfTUg0aFBiTjhSYlZQNEtfR3ZGMHhsbGVkUkxBci0zRmNvZjE3bUVjTGM?oc=5) (Sun, 05 Jul 2026 13:02:27 GMT)
-- [Why Binance’s reported $2B Mesh investment could decide who controls stablecoin payments - CryptoSlate](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWhpZEgwOTRXd3JUV1pNenRzcXh6VzV6elA0d1g5dmRyYm9TQWMxUnQ1Tk9RTjBTb0l0SVl3VUthQXlZVk4yZE8ycDdlRzN1S1RDajFqRUxSczQzZGxNRXNaMVBGSi1VX242bUxnbWdxUEpoSXlDUDlzejB3UkhiUXpBM1Zabmk4WGJfVTRCODNDejhRZEFJ?oc=5) (Sun, 05 Jul 2026 10:00:28 GMT)
-- [Coinbase (COIN) Joins Visa And Mastercard To Launch Open Standard Stablecoin Network - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxQeTItMERYbVkxRHN2cnM0YkZkYXNpNnc0REJaVWZVMGJHcC1VR1NIQVhRNzdFakR3bFZmN0hfTnZxSERrbXpYV29ocmVPQWx0WHJmWnk5czdfdVFKVlBaOERsV2MyRThENmNyUGlTWFB4VWVjcXU1OGl5dWgyRUtwck5yMkM1SG1XWjZ6b2Npd3M5elBja1hDYl9lQzBycXlIUWc?oc=5) (Sun, 05 Jul 2026 06:11:00 GMT)
+- [Open USD pushes Korea to rethink stablecoin model - The Korea Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0V6SzhwOWxDRWF6TWIwa21xTEZXYnZ4WkpYdlRna3Q5Q0pWSWRNVG44YUVlM2hFUFdtZkV5OUVINXBIb3NtTk56UFItUG5GTXdUVWp5Q0NLTEFGejVtbmJKMGZrWEFaQU5yQjduN0plLTdHd1hrWGd2SDBxZkQ2SmwwdHRyWG81NXVlRHI5Yk9JT0JPUkg4Xy0tS3I1VkFzRDQ2a2RvWFl2MmRic0xV0gG0AUFVX3lxTE02amxWOEJUSW9ndjk1U19Wa3U0OE5lRGt0dlUwOV9EMXJjb1B0N0M1SUFKVDNtbG5sSU5KeWlCRGpfWFFVeU03Rmw1T1A3VmxVUHpDWi03ckdKZVVDU2NCVm8ybmI3V2NxV2NMNDVGMzctbFpjYWJJZ3hYWFQtelQ4ZnVKdkYxNW96dHJBYkE3aU0yQmxMYllyRDV4OUNFaTNiUWFfVHdPNjdkX3gyY0R5a0U3TA?oc=5) (Tue, 07 Jul 2026 22:01:00 GMT)
+- [Is Visa (V) Undervalued After Its AI Payments Push And Stablecoin Moves? - Yahoo Finance UK](https://news.google.com/rss/articles/CBMihgFBVV95cUxPbXBaM3R4ZFlvNDBVNVl5VWJRZ2FMZzRwbXc3LUhfd1J3UlEyTmFQZGQ5blp0X3FNUjdpR1pSUl91bnM0MjczbDUxdnBqSERUWVhqMkpjc2pVR3d4X0RwU3pyVkhhZnNpUDU2N1Jxa1VsV28tMGhkbEpmOGNvcWZjRm1JcWNSUQ?oc=5) (Tue, 07 Jul 2026 21:18:13 GMT)
+- [Stablecoins Turn Into Aid Rails After Venezuela Earthquake - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYzhscVF2N3Y5OEF6Y3VHcG5MXzNqbHI3QzcyWE16cnE4c1kwY0VNWXhIMXk3UDRlYmxMYTU5Qkx2U1puV2lsaXl0WmF1YVFrbVlFNUpXVVdBV002bGNlS05ZM2VsQ1JNaldMMHJxcnFWbDd4YVVtcWl4MlBSbmQ2Y3lYZWlZVkVBMFhJN1BKWjlINWl6NVBOeGFGVEU1MlZOZy1fUkdYM2prQ2E5WV9KS0Fn?oc=5) (Tue, 07 Jul 2026 21:00:01 GMT)
+- [Is Coinbase’s Open USD Move a Threat to Circle’s Dominance? - Disruption Banking](https://news.google.com/rss/articles/CBMipAFBVV95cUxQTklDUVBVQ1Yxdk15Q01QUnNzLVV3dUFvQUsyVkhDei0ycDJ4N29HdVF1dWJrZ1d6dFREOVZYQVFoRFhtdUQ3OENkckxUczNwaS16bUZuZW5EMTZ6UkJQcndCdGtyY1dyM2FTVUFTbnZ4LVB0cVpaMGdYREVFSDZqaG1sdFpvMG5SblVoLUlsRnRfUjVoV3BvZTl2TVJtTDRWWVJjSg?oc=5) (Tue, 07 Jul 2026 19:36:32 GMT)
+- [Circle&#x27;s USDC now runs 70% of the stablecoin volume - Yahoo Finance](https://news.google.com/rss/articles/CBMie0FVX3lxTE5jcmZjcDFpZ2QzbHJBcWVZcWpheFZlVF83TnZKdEM0YWcxRXdidHd3Z0ctTUoxZ2pmZ0hXcDEtTFAzQ0FtQ0hMaFZwTkJEUTZGVFJxdVBEanZwZmZxZU5qeDl6ajZWTE5nVEZNX20tbkk3MDBpVHJfai1WQQ?oc=5) (Tue, 07 Jul 2026 18:30:00 GMT)
 
 <!-- END_dashboard -->
 
