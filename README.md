@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-08 01:54:10 (UTC)*
+*Last Updated: 2026-07-09 02:07:34 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$291,217,234,335** | 🟢 +0.08% | 🟢 +0.41% |
+| **$290,778,767,376** | 🔴 -0.15% | 🟢 +3.30% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Open USD pushes Korea to rethink stablecoin model - The Korea Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0V6SzhwOWxDRWF6TWIwa21xTEZXYnZ4WkpYdlRna3Q5Q0pWSWRNVG44YUVlM2hFUFdtZkV5OUVINXBIb3NtTk56UFItUG5GTXdUVWp5Q0NLTEFGejVtbmJKMGZrWEFaQU5yQjduN0plLTdHd1hrWGd2SDBxZkQ2SmwwdHRyWG81NXVlRHI5Yk9JT0JPUkg4Xy0tS3I1VkFzRDQ2a2RvWFl2MmRic0xV0gG0AUFVX3lxTE02amxWOEJUSW9ndjk1U19Wa3U0OE5lRGt0dlUwOV9EMXJjb1B0N0M1SUFKVDNtbG5sSU5KeWlCRGpfWFFVeU03Rmw1T1A3VmxVUHpDWi03ckdKZVVDU2NCVm8ybmI3V2NxV2NMNDVGMzctbFpjYWJJZ3hYWFQtelQ4ZnVKdkYxNW96dHJBYkE3aU0yQmxMYllyRDV4OUNFaTNiUWFfVHdPNjdkX3gyY0R5a0U3TA?oc=5) (Tue, 07 Jul 2026 22:01:00 GMT)
-- [Is Visa (V) Undervalued After Its AI Payments Push And Stablecoin Moves? - Yahoo Finance UK](https://news.google.com/rss/articles/CBMihgFBVV95cUxPbXBaM3R4ZFlvNDBVNVl5VWJRZ2FMZzRwbXc3LUhfd1J3UlEyTmFQZGQ5blp0X3FNUjdpR1pSUl91bnM0MjczbDUxdnBqSERUWVhqMkpjc2pVR3d4X0RwU3pyVkhhZnNpUDU2N1Jxa1VsV28tMGhkbEpmOGNvcWZjRm1JcWNSUQ?oc=5) (Tue, 07 Jul 2026 21:18:13 GMT)
-- [Stablecoins Turn Into Aid Rails After Venezuela Earthquake - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYzhscVF2N3Y5OEF6Y3VHcG5MXzNqbHI3QzcyWE16cnE4c1kwY0VNWXhIMXk3UDRlYmxMYTU5Qkx2U1puV2lsaXl0WmF1YVFrbVlFNUpXVVdBV002bGNlS05ZM2VsQ1JNaldMMHJxcnFWbDd4YVVtcWl4MlBSbmQ2Y3lYZWlZVkVBMFhJN1BKWjlINWl6NVBOeGFGVEU1MlZOZy1fUkdYM2prQ2E5WV9KS0Fn?oc=5) (Tue, 07 Jul 2026 21:00:01 GMT)
-- [Is Coinbase’s Open USD Move a Threat to Circle’s Dominance? - Disruption Banking](https://news.google.com/rss/articles/CBMipAFBVV95cUxQTklDUVBVQ1Yxdk15Q01QUnNzLVV3dUFvQUsyVkhDei0ycDJ4N29HdVF1dWJrZ1d6dFREOVZYQVFoRFhtdUQ3OENkckxUczNwaS16bUZuZW5EMTZ6UkJQcndCdGtyY1dyM2FTVUFTbnZ4LVB0cVpaMGdYREVFSDZqaG1sdFpvMG5SblVoLUlsRnRfUjVoV3BvZTl2TVJtTDRWWVJjSg?oc=5) (Tue, 07 Jul 2026 19:36:32 GMT)
-- [Circle&#x27;s USDC now runs 70% of the stablecoin volume - Yahoo Finance](https://news.google.com/rss/articles/CBMie0FVX3lxTE5jcmZjcDFpZ2QzbHJBcWVZcWpheFZlVF83TnZKdEM0YWcxRXdidHd3Z0ctTUoxZ2pmZ0hXcDEtTFAzQ0FtQ0hMaFZwTkJEUTZGVFJxdVBEanZwZmZxZU5qeDl6ajZWTE5nVEZNX20tbkk3MDBpVHJfai1WQQ?oc=5) (Tue, 07 Jul 2026 18:30:00 GMT)
+- [MiCA Says No Funny Money in Europe’s Stablecoin Basket - PYMNTS.com](https://news.google.com/rss/articles/CBMingFBVV95cUxQZllBckhfUnNaamVMRkpVZzByeGxYNGxyV3FPUC1rRmcxUUxJMUF0MWhDNHRRNFM1Y1d6U0Rtd3UxNE13SFhXYXZYWmx3VXAxLXZZQVJiTDNsNkhKR0w3bG5TWG1ZZ0F5dTNxLWdldUY2OVRTMTF1c1JFTklaTktIYklvMEVVNVpHOWhOVy1JNmRKbE1uZTNsTVU2QkwxUQ?oc=5) (Wed, 08 Jul 2026 21:50:12 GMT)
+- [EU targets MiCA overhaul as US GENIUS Act reshapes stablecoin rules - Crypto News](https://news.google.com/rss/articles/CBMiekFVX3lxTFBReWoyQWpfaEhhTjF1ZUg1cE95ZTJGWmRLc1VEM0ptS1R0dmhsb2xfWm1RbWZmekNXQ0hGOGFKa2lUOU5lVnNnNzh2RWdEZ01IQlBsaHNHU1dUamZaYjE2REdRODRkVVRpRlJscjVJaDc2NHREZzNkR2FB?oc=5) (Wed, 08 Jul 2026 20:27:08 GMT)
+- [AmCU Publishes Guide to Payment Stablecoins - Credit Union Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXpYY1BwNFQ5N3Y2OEFHMHlhVWFsVC1SMGF2MTVET2cxcUxqanVJOXZZNWFvWG1fUXg2QUx0dFRoNk94SVJIOHkzZEU4ekFfcURHQXQwdDBGaVk5SGFLNVBHQkZfUlJvXzZTci1HZXF2QS0zTjhTbFZTclVvWDZrTUs4Zmxydw?oc=5) (Wed, 08 Jul 2026 20:04:28 GMT)
+- [How to Set Up Marketplace Stablecoin Payments - Polygon Labs](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRm1Jc3RzeE5SSks4Y1JzNFR1U3dJNDFiU1E1dE1lenJkRHJpLVBJOVNmUVhBLU1tTTJoWFFWR3luX3V0MVk1a0tXR0w2V3BJTTFCWmdYQ0NseWZwa2IyeFdCYmp3U1JvV01JcnE0YWo3OGw2QkxhTVlxaGxhc2VMb2hnTXZldUNOYWFnQXRlbw?oc=5) (Wed, 08 Jul 2026 19:58:26 GMT)
+- [How Europe Regulated Its Way Out of the Stablecoin Market - HackerNoon](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZV9WcHd5TEVKMFJEUy1ZSVNaR3hmTV9UdlpCSG9qUW9JQ2dBMEdMbEtmNjNDZVZsNVZhWHBGTUpkX2poYzRIdUdkWVM1MXp3VHNpUVYtT3VVVS1BaGZPMjNpOXZpNVhKMTZsZHc1d00tZDI5d0VtNkNXcGhoWjljemRic0FDNm8?oc=5) (Wed, 08 Jul 2026 18:14:28 GMT)
 
 <!-- END_dashboard -->
 
