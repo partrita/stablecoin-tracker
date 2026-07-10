@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-09 02:07:34 (UTC)*
+*Last Updated: 2026-07-10 02:06:10 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,778,767,376** | 🔴 -0.15% | 🟢 +3.30% |
+| **$290,758,712,186** | 🔴 -0.01% | 🟢 +0.31% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [MiCA Says No Funny Money in Europe’s Stablecoin Basket - PYMNTS.com](https://news.google.com/rss/articles/CBMingFBVV95cUxQZllBckhfUnNaamVMRkpVZzByeGxYNGxyV3FPUC1rRmcxUUxJMUF0MWhDNHRRNFM1Y1d6U0Rtd3UxNE13SFhXYXZYWmx3VXAxLXZZQVJiTDNsNkhKR0w3bG5TWG1ZZ0F5dTNxLWdldUY2OVRTMTF1c1JFTklaTktIYklvMEVVNVpHOWhOVy1JNmRKbE1uZTNsTVU2QkwxUQ?oc=5) (Wed, 08 Jul 2026 21:50:12 GMT)
-- [EU targets MiCA overhaul as US GENIUS Act reshapes stablecoin rules - Crypto News](https://news.google.com/rss/articles/CBMiekFVX3lxTFBReWoyQWpfaEhhTjF1ZUg1cE95ZTJGWmRLc1VEM0ptS1R0dmhsb2xfWm1RbWZmekNXQ0hGOGFKa2lUOU5lVnNnNzh2RWdEZ01IQlBsaHNHU1dUamZaYjE2REdRODRkVVRpRlJscjVJaDc2NHREZzNkR2FB?oc=5) (Wed, 08 Jul 2026 20:27:08 GMT)
-- [AmCU Publishes Guide to Payment Stablecoins - Credit Union Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXpYY1BwNFQ5N3Y2OEFHMHlhVWFsVC1SMGF2MTVET2cxcUxqanVJOXZZNWFvWG1fUXg2QUx0dFRoNk94SVJIOHkzZEU4ekFfcURHQXQwdDBGaVk5SGFLNVBHQkZfUlJvXzZTci1HZXF2QS0zTjhTbFZTclVvWDZrTUs4Zmxydw?oc=5) (Wed, 08 Jul 2026 20:04:28 GMT)
-- [How to Set Up Marketplace Stablecoin Payments - Polygon Labs](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRm1Jc3RzeE5SSks4Y1JzNFR1U3dJNDFiU1E1dE1lenJkRHJpLVBJOVNmUVhBLU1tTTJoWFFWR3luX3V0MVk1a0tXR0w2V3BJTTFCWmdYQ0NseWZwa2IyeFdCYmp3U1JvV01JcnE0YWo3OGw2QkxhTVlxaGxhc2VMb2hnTXZldUNOYWFnQXRlbw?oc=5) (Wed, 08 Jul 2026 19:58:26 GMT)
-- [How Europe Regulated Its Way Out of the Stablecoin Market - HackerNoon](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZV9WcHd5TEVKMFJEUy1ZSVNaR3hmTV9UdlpCSG9qUW9JQ2dBMEdMbEtmNjNDZVZsNVZhWHBGTUpkX2poYzRIdUdkWVM1MXp3VHNpUVYtT3VVVS1BaGZPMjNpOXZpNVhKMTZsZHc1d00tZDI5d0VtNkNXcGhoWjljemRic0FDNm8?oc=5) (Wed, 08 Jul 2026 18:14:28 GMT)
+- [Sony Bank Gets Conditional OCC Approval for a US Dollar Stablecoin Trust Bank - unchainedcrypto.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYzhMTlEwUzdQWXFMQVNtek9DdGdiOVItaDBlc0dTRHZVY0pHdGZzcHJ5WXY1Mjd6bTFWZXA1ajBkUTlDOUxyZ0tSZV9GZG00UVpwQmx1clBHUkRGSmxOY05MNFEzUlI3Tnlxc2U0anZOZi15R19mc2xyYzVULWJ6TGNjSENrSk5pSGJNV0ctWk91dFZDa3FTNnVJWlkzZGFTOUdHRG9aUW1pSWwxOG9JQg?oc=5) (Thu, 09 Jul 2026 22:37:10 GMT)
+- [Banks Turn Stablecoin Safety Into a Selling Point - PYMNTS.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0t0c05mVkpFQmNTZmMwSUZRSnF6OXY1SFlKOElTY2MyX3YyQ3dBZUtLVk5yRXBMa1Z1SjRJTjNKQ0E0Qkc3bVFHcC1xX1d0SjJ5dElvN3VZbHJ0eml3Q3F3NU9saEgzUU5VSExNam11T25YaWc1bmN1OV9iR3JZRlFUYlZId3lFWjhpeXlSNjlNc2h5cWxuSA?oc=5) (Thu, 09 Jul 2026 21:05:06 GMT)
+- [PayPal boosts its stablecoin as banks prepare to launch a shared one - American Banker](https://news.google.com/rss/articles/CBMifkFVX3lxTE5Bc1gxZVlHYVNPZmtJWkxTQUVYdWJaRHlVTHhYak1GNDJPVkhCaVdXdVFfS1JielE4SE4xeGY4eUtNVzVkWTNQTFhVN3JoWnpRNkcwclRvU1hobU9yN3RPQTR4MklhTWl6dXZjb2JkYUZxT3B1TVU2OGhsVGdyZw?oc=5) (Thu, 09 Jul 2026 19:56:00 GMT)
+- [Why Standard Chartered, BNY launched stablecoin rails - American Banker](https://news.google.com/rss/articles/CBMikgFBVV95cUxPWUtMUUswYnFXbFdqNTRfYmtnVnZ1ZjlFdmpOUFpyTUktRk5nMTM3OEQwdU9QeDNUb0dTZEk5YlJCQm9xV3RMaTZROUpiSE5UR2ZCcG1jcGxya2VPNnRRaDd0WGM0aG9OQUlVZHlPMU1WTkktUGRYVjNhVmVEcndORTBDR1RvaExPSk1IZ01Wc1VzQQ?oc=5) (Thu, 09 Jul 2026 19:18:00 GMT)
+- [Sony (TSE:6758) Wins OCC Approval To Launch Connectia Trust Stablecoin Bank - Yahoo Finance](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSE5FMEZjNVdXNHFrdzRBWXVZVGFCeHRmUnNpOG8xTHdtUDlITGxjY2FzbktKSTg0X2YwQ3ZGZ3BHWnJJWXllblRoci1xaGY3OVhqTzhLS1daYkNFbW01Ukl6WGFQQmd2dE9tMEhseFpYUW9wWVVoS2N6UFk4WXFmM3lUaTl2YU5GMkRfNXVsOHM?oc=5) (Thu, 09 Jul 2026 19:10:16 GMT)
 
 <!-- END_dashboard -->
 
