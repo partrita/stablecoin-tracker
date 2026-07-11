@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-10 02:06:10 (UTC)*
+*Last Updated: 2026-07-11 01:52:46 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,758,712,186** | 🔴 -0.01% | 🟢 +0.31% |
+| **$290,695,336,723** | 🔴 -0.02% | 🟢 +0.30% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Sony Bank Gets Conditional OCC Approval for a US Dollar Stablecoin Trust Bank - unchainedcrypto.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYzhMTlEwUzdQWXFMQVNtek9DdGdiOVItaDBlc0dTRHZVY0pHdGZzcHJ5WXY1Mjd6bTFWZXA1ajBkUTlDOUxyZ0tSZV9GZG00UVpwQmx1clBHUkRGSmxOY05MNFEzUlI3Tnlxc2U0anZOZi15R19mc2xyYzVULWJ6TGNjSENrSk5pSGJNV0ctWk91dFZDa3FTNnVJWlkzZGFTOUdHRG9aUW1pSWwxOG9JQg?oc=5) (Thu, 09 Jul 2026 22:37:10 GMT)
-- [Banks Turn Stablecoin Safety Into a Selling Point - PYMNTS.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0t0c05mVkpFQmNTZmMwSUZRSnF6OXY1SFlKOElTY2MyX3YyQ3dBZUtLVk5yRXBMa1Z1SjRJTjNKQ0E0Qkc3bVFHcC1xX1d0SjJ5dElvN3VZbHJ0eml3Q3F3NU9saEgzUU5VSExNam11T25YaWc1bmN1OV9iR3JZRlFUYlZId3lFWjhpeXlSNjlNc2h5cWxuSA?oc=5) (Thu, 09 Jul 2026 21:05:06 GMT)
-- [PayPal boosts its stablecoin as banks prepare to launch a shared one - American Banker](https://news.google.com/rss/articles/CBMifkFVX3lxTE5Bc1gxZVlHYVNPZmtJWkxTQUVYdWJaRHlVTHhYak1GNDJPVkhCaVdXdVFfS1JielE4SE4xeGY4eUtNVzVkWTNQTFhVN3JoWnpRNkcwclRvU1hobU9yN3RPQTR4MklhTWl6dXZjb2JkYUZxT3B1TVU2OGhsVGdyZw?oc=5) (Thu, 09 Jul 2026 19:56:00 GMT)
-- [Why Standard Chartered, BNY launched stablecoin rails - American Banker](https://news.google.com/rss/articles/CBMikgFBVV95cUxPWUtMUUswYnFXbFdqNTRfYmtnVnZ1ZjlFdmpOUFpyTUktRk5nMTM3OEQwdU9QeDNUb0dTZEk5YlJCQm9xV3RMaTZROUpiSE5UR2ZCcG1jcGxya2VPNnRRaDd0WGM0aG9OQUlVZHlPMU1WTkktUGRYVjNhVmVEcndORTBDR1RvaExPSk1IZ01Wc1VzQQ?oc=5) (Thu, 09 Jul 2026 19:18:00 GMT)
-- [Sony (TSE:6758) Wins OCC Approval To Launch Connectia Trust Stablecoin Bank - Yahoo Finance](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSE5FMEZjNVdXNHFrdzRBWXVZVGFCeHRmUnNpOG8xTHdtUDlITGxjY2FzbktKSTg0X2YwQ3ZGZ3BHWnJJWXllblRoci1xaGY3OVhqTzhLS1daYkNFbW01Ukl6WGFQQmd2dE9tMEhseFpYUW9wWVVoS2N6UFk4WXFmM3lUaTl2YU5GMkRfNXVsOHM?oc=5) (Thu, 09 Jul 2026 19:10:16 GMT)
+- [Circle highlights mobile money frameworks as foundation for stablecoin adoption - Crypto Briefing](https://news.google.com/rss/articles/CBMidkFVX3lxTFBGcVktZ2lZOU9DQnRhWWVpT2tWWlpVS2IwRUVVWjdYRTAyelY5RVZjb2EzNzQ4OWVQUEFyQzRjY2FZSWZTaDRJOWNnSW11aU9vOWZiLUFma2lGVHotRDlCLV84bnFsQ0VhT0FNTjBZTTkyZHByb1E?oc=5) (Fri, 10 Jul 2026 22:44:34 GMT)
+- [Stablecoin Adoption Runs Into the Treasury Back Office - PYMNTS.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHVsc3REWS1vZnVOREJ2SFJBS19aWDdiS1BBNWtwbF9adjdBRjNPanZKel9STjhYYTkzZWdzNmlrclM3azMxN2xNUEhyTndETEtoaktjeHhwUFU3RjhScTJ6QlJQS3RCdTNWNnJZQWhxbWdUcWRyVUhhSTlubDdidFRVNkgxMHgwa0dQTld1NkJNWEk2QWp4Qk1BRzJ4NHpBUUJr?oc=5) (Fri, 10 Jul 2026 21:05:09 GMT)
+- [Stablecoin-issuer Circle wins approval to operate as a national trust bank - CNBC](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaGh6MWRsMHZ5T2preG5ocTFKdzZINWJCai1ER0l3bllvUGptTU1KNjM1emthOGdPQkt4UTNkZmw3SnlfallNd3dOTE9fZ0Z4VmNVbUMzbVdjUmJxTXNxRGlQdkkzQVBYQk5qLVdPUFUycTJ4V1lKNWVtU1dWYXpXNDUyV3BrWUQ4S29kak9uaWJfVEpzcnJrVFVyU0pUdXlFM1g0X0dIREVpNlBaLWRZRTZPalNia1lM?oc=5) (Fri, 10 Jul 2026 20:17:23 GMT)
+- [Stablecoin Spending Appears to Rise -- Market Talk - Moomoo](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbWpRNE9EZGxPb1lta25kSXpBWmFITzZCeHVMM0lRaDRZN1UyUVpZVHl1RHctbTVXeEhHVlUxOUtQREdmVUpDSlpWOHpFM1dhMUtOaUZZM1dtM05NN0phbEthVmxmLS1UTlBoUjBoWGZDNW1NU0lBd05XX2FDMG4zT0xKQ1kwZjM1bEFBYnhacDJEdGM?oc=5) (Fri, 10 Jul 2026 20:00:00 GMT)
+- [Circle Wins U.S. Trust Bank Approval As Stablecoin Competition Intensifies. Shares Jump After OCC Green Light. - International Business Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNWU3cnd1c29JYXVVQjJyb1hIb0RmUWUxbk5zVlpjc21qTEJ4WlZkb3hxYklpeHhhanF1MThLbndFeU1KVDZ2cVZFUTVoRWMxYV96d3hleTkybE1talBxblAwTVFlWGhGZnZaaVI2RkpBdnJmZXdlZzEwMjQ0b1d6d3Z0aWh3SUNTMlVqYzEwa0x3NHNITHp0b1Q5cy0wbUVSNV8zbVNRTmFubFFGeUN6SjRuMVhZYXMtbF9VcnRoMXI?oc=5) (Fri, 10 Jul 2026 18:45:02 GMT)
 
 <!-- END_dashboard -->
 
