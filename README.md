@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-11 01:52:46 (UTC)*
+*Last Updated: 2026-07-12 01:55:53 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,695,336,723** | 🔴 -0.02% | 🟢 +0.30% |
+| **$290,785,690,538** | 🟢 +0.03% | 🟢 +0.46% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Circle highlights mobile money frameworks as foundation for stablecoin adoption - Crypto Briefing](https://news.google.com/rss/articles/CBMidkFVX3lxTFBGcVktZ2lZOU9DQnRhWWVpT2tWWlpVS2IwRUVVWjdYRTAyelY5RVZjb2EzNzQ4OWVQUEFyQzRjY2FZSWZTaDRJOWNnSW11aU9vOWZiLUFma2lGVHotRDlCLV84bnFsQ0VhT0FNTjBZTTkyZHByb1E?oc=5) (Fri, 10 Jul 2026 22:44:34 GMT)
-- [Stablecoin Adoption Runs Into the Treasury Back Office - PYMNTS.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHVsc3REWS1vZnVOREJ2SFJBS19aWDdiS1BBNWtwbF9adjdBRjNPanZKel9STjhYYTkzZWdzNmlrclM3azMxN2xNUEhyTndETEtoaktjeHhwUFU3RjhScTJ6QlJQS3RCdTNWNnJZQWhxbWdUcWRyVUhhSTlubDdidFRVNkgxMHgwa0dQTld1NkJNWEk2QWp4Qk1BRzJ4NHpBUUJr?oc=5) (Fri, 10 Jul 2026 21:05:09 GMT)
-- [Stablecoin-issuer Circle wins approval to operate as a national trust bank - CNBC](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaGh6MWRsMHZ5T2preG5ocTFKdzZINWJCai1ER0l3bllvUGptTU1KNjM1emthOGdPQkt4UTNkZmw3SnlfallNd3dOTE9fZ0Z4VmNVbUMzbVdjUmJxTXNxRGlQdkkzQVBYQk5qLVdPUFUycTJ4V1lKNWVtU1dWYXpXNDUyV3BrWUQ4S29kak9uaWJfVEpzcnJrVFVyU0pUdXlFM1g0X0dIREVpNlBaLWRZRTZPalNia1lM?oc=5) (Fri, 10 Jul 2026 20:17:23 GMT)
-- [Stablecoin Spending Appears to Rise -- Market Talk - Moomoo](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbWpRNE9EZGxPb1lta25kSXpBWmFITzZCeHVMM0lRaDRZN1UyUVpZVHl1RHctbTVXeEhHVlUxOUtQREdmVUpDSlpWOHpFM1dhMUtOaUZZM1dtM05NN0phbEthVmxmLS1UTlBoUjBoWGZDNW1NU0lBd05XX2FDMG4zT0xKQ1kwZjM1bEFBYnhacDJEdGM?oc=5) (Fri, 10 Jul 2026 20:00:00 GMT)
-- [Circle Wins U.S. Trust Bank Approval As Stablecoin Competition Intensifies. Shares Jump After OCC Green Light. - International Business Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNWU3cnd1c29JYXVVQjJyb1hIb0RmUWUxbk5zVlpjc21qTEJ4WlZkb3hxYklpeHhhanF1MThLbndFeU1KVDZ2cVZFUTVoRWMxYV96d3hleTkybE1talBxblAwTVFlWGhGZnZaaVI2RkpBdnJmZXdlZzEwMjQ0b1d6d3Z0aWh3SUNTMlVqYzEwa0x3NHNITHp0b1Q5cy0wbUVSNV8zbVNRTmFubFFGeUN6SjRuMVhZYXMtbF9VcnRoMXI?oc=5) (Fri, 10 Jul 2026 18:45:02 GMT)
+- [Digital Dollar Banned Until 2031 With Stablecoin Rulemaking One Week Away - InsuranceNewsNet](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWHpGY2psdk9EbTk4TXA3Umx0NTlnUkx2cEM2MDI2dVpHMUxNQlk3RW1EczVhQ3V0WWdFUEItd0tPS2F6Zk5CZTZuWW9nSHNLTkVHUnlMR2cyYTNMNlJEU2pXNVFWRHlOMmt1ZTA1ZV91TkFPczB1bWZKMURNdUxreVVuRTVhd001YmhfSTU5TnB6RUpJZ0dTODdoWUhOY0ZoU2RlU2R1TU5sNmdHN3FyYQ?oc=5) (Sat, 11 Jul 2026 20:07:48 GMT)
+- [Ripple&#x27;s stablecoin is fading away on popular chain, XRP crashes - thestreet.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxQSGxsR1lwR2I5SWVDZ1RBZlF4OXc4elBCRXlIdjVBc2Y0SzBSSWIyOTNNX1daaE9leXZDWXBiN1NrWkt2N2NLMkczSEo5blhZTEQtaGJjdVVZVW9PbEt4RTZWX0NSdnhGZm5tdVBoWk1KQjVGc0xfV2VKVG1PXy1rbkJ3UVo2M0g4amc?oc=5) (Sat, 11 Jul 2026 17:58:54 GMT)
+- [Circle Just Became The Only Licensed Stablecoin Bank. Here&#x27;s Why That Matters (NYSE:CRCL) - Seeking Alpha](https://news.google.com/rss/articles/CBMiywFBVV95cUxNbTRwQXRHS3E4WWFwWmY1b3lYY1dpQWQxbXRvV0h2dl93LUNJTGtZUlpSMm1nYUdTdF8wREhXOFZxbWNJRW5vR3dvcHNPNUdmb1o2VGNadVdoU1NSTGVWUS1xZ3l4T3lfc2NYMldGeUpBODg5NkwtbFRVYndzbkNqRE9lUEJqanZadHlWeEpDQzMtMkhMSktpdGdmNWN4Um1pRjh4MHdXMHdOek1pSG1UYnFMbW1uckVEY3h6aUhCcl9rZkljM3J2UUZobw?oc=5) (Sat, 11 Jul 2026 12:13:25 GMT)
+- [Internet Economy Stablecoins - Trend Hunter](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5ejlYU1RNRU1rV1VfTEhHckZoZlVVSi1FMkJFblFTQ2E4SkZSSmc5YUV4aTluQmcxNUplc0FNY19tb25oMHBWU2VYTTJERzlvaUc1RWprYThIcmfSAVtBVV95cUxQOXo5WFNUTUVNa1dVX0xIR3JGaGZVVUotRTJCRW5RU0NhOEpGUkpnOWFFeGk5bkJnMTVKZXNBTWNfbW9uaDBwVlNlWE0yREc5b2lHNUVqa2E4SHJn?oc=5) (Sat, 11 Jul 2026 12:08:09 GMT)
+- [MILESTONE &#124; TRON Dominates Issuance, Settlement of World’s Largest Stablecoin in H1 2026 - BitKE](https://news.google.com/rss/articles/CBMie0FVX3lxTE9td2EzUHR2MGpCemtaTGR6MWx3cDdYX2FJUUZ5T0JXQ0NRX015OV9Rajd1c1lHd1lrVzR3V19jaHBMY2h5ZXNKR0JxLUhyUmpqTzQ5Sk15SnlPQ3FmdHJvTU92dmxOMUY2ZFdPYnF5NnRMNWg3SjlON1hOVQ?oc=5) (Sat, 11 Jul 2026 06:00:24 GMT)
 
 <!-- END_dashboard -->
 
