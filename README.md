@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-12 01:55:53 (UTC)*
+*Last Updated: 2026-07-13 01:57:58 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,785,690,538** | 🟢 +0.03% | 🟢 +0.46% |
+| **$290,714,419,196** | 🔴 -0.02% | 🟢 +0.32% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Digital Dollar Banned Until 2031 With Stablecoin Rulemaking One Week Away - InsuranceNewsNet](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWHpGY2psdk9EbTk4TXA3Umx0NTlnUkx2cEM2MDI2dVpHMUxNQlk3RW1EczVhQ3V0WWdFUEItd0tPS2F6Zk5CZTZuWW9nSHNLTkVHUnlMR2cyYTNMNlJEU2pXNVFWRHlOMmt1ZTA1ZV91TkFPczB1bWZKMURNdUxreVVuRTVhd001YmhfSTU5TnB6RUpJZ0dTODdoWUhOY0ZoU2RlU2R1TU5sNmdHN3FyYQ?oc=5) (Sat, 11 Jul 2026 20:07:48 GMT)
-- [Ripple&#x27;s stablecoin is fading away on popular chain, XRP crashes - thestreet.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxQSGxsR1lwR2I5SWVDZ1RBZlF4OXc4elBCRXlIdjVBc2Y0SzBSSWIyOTNNX1daaE9leXZDWXBiN1NrWkt2N2NLMkczSEo5blhZTEQtaGJjdVVZVW9PbEt4RTZWX0NSdnhGZm5tdVBoWk1KQjVGc0xfV2VKVG1PXy1rbkJ3UVo2M0g4amc?oc=5) (Sat, 11 Jul 2026 17:58:54 GMT)
-- [Circle Just Became The Only Licensed Stablecoin Bank. Here&#x27;s Why That Matters (NYSE:CRCL) - Seeking Alpha](https://news.google.com/rss/articles/CBMiywFBVV95cUxNbTRwQXRHS3E4WWFwWmY1b3lYY1dpQWQxbXRvV0h2dl93LUNJTGtZUlpSMm1nYUdTdF8wREhXOFZxbWNJRW5vR3dvcHNPNUdmb1o2VGNadVdoU1NSTGVWUS1xZ3l4T3lfc2NYMldGeUpBODg5NkwtbFRVYndzbkNqRE9lUEJqanZadHlWeEpDQzMtMkhMSktpdGdmNWN4Um1pRjh4MHdXMHdOek1pSG1UYnFMbW1uckVEY3h6aUhCcl9rZkljM3J2UUZobw?oc=5) (Sat, 11 Jul 2026 12:13:25 GMT)
-- [Internet Economy Stablecoins - Trend Hunter](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5ejlYU1RNRU1rV1VfTEhHckZoZlVVSi1FMkJFblFTQ2E4SkZSSmc5YUV4aTluQmcxNUplc0FNY19tb25oMHBWU2VYTTJERzlvaUc1RWprYThIcmfSAVtBVV95cUxQOXo5WFNUTUVNa1dVX0xIR3JGaGZVVUotRTJCRW5RU0NhOEpGUkpnOWFFeGk5bkJnMTVKZXNBTWNfbW9uaDBwVlNlWE0yREc5b2lHNUVqa2E4SHJn?oc=5) (Sat, 11 Jul 2026 12:08:09 GMT)
-- [MILESTONE &#124; TRON Dominates Issuance, Settlement of World’s Largest Stablecoin in H1 2026 - BitKE](https://news.google.com/rss/articles/CBMie0FVX3lxTE9td2EzUHR2MGpCemtaTGR6MWx3cDdYX2FJUUZ5T0JXQ0NRX015OV9Rajd1c1lHd1lrVzR3V19jaHBMY2h5ZXNKR0JxLUhyUmpqTzQ5Sk15SnlPQ3FmdHJvTU92dmxOMUY2ZFdPYnF5NnRMNWg3SjlON1hOVQ?oc=5) (Sat, 11 Jul 2026 06:00:24 GMT)
+- [Stablecoin Market Cap Suffers Biggest Decline in 4 Years - PYMNTS.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxOd2w3Q1dvWHZycXF4NUNDTzUyUnZYZDMzZHJyb2h3R09ITy1zT09nR3J1TjN6U1hPSldNU2JnTEV0Z3BKUWxOWnZoWm5JQWF0WmhpamEtSFRMa3A4Z0RSaW1oWFo1N1U3aC1LSjJ2MExPRkFQRHFlSTd1V2kzaVpBSFN6eWJad3RZN2ttSm15STBBNzd6enZRa0h5WGk1ZUV2VGc?oc=5) (Mon, 13 Jul 2026 00:30:13 GMT)
+- [Bank of England eases stablecoin rules after political backlash - MSN](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRUpPNERpSFdVdW9ySTgySUFxQWZWRUQ4TTgxRjdGRldxNl9zUW8zMzBoeVo2cnZWV0NGSG9JaXpsVFJjanJpZUFydlFDQWw2dG95ZkFBeFpJNWJrbGdIUUpKanZ2b3lWSTZ3SmhVcE5ZSkNGOERiNnBhd0MwM0VOOW9nbEJ2WExFdXhONi1Ca1FzdjhPamxobFE4NTdZdXJZZ25BaHdjOURrUURmb29BR0ViNzk0WE1QRFdSZlVZdm05TWVha3dTc2JwYmYxazYwa1pDdVRjMjNPMFI5aGFwV3U5MVI5RGdCQzhLYmRWNkIyOFFvWDUzbg?oc=5) (Sun, 12 Jul 2026 21:54:34 GMT)
+- [Stablecoin Market Drops $10 Billion After USDT and USDC Redemptions Reduce Liquidity - NewsCord](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVmhWdkJmR29UX3NHcDNPTWoyN1A2VFF3ZjNfeU9wcTdHTVN0cVExQjNwU295bjg5Rnh4WmdVQk1OV1Ywd3czaUtNZ1RvRV8tZUZRZ3lvUEZuMDNvWkFxSUZQUTV0TE91Q1NkTXcyTndyRjVlWU5rbE5QbjF6S3VwX084b2k0THVtMmFVemtMeVhTWjE0MEhfVGNValhQbmtBOWpzeU5QczEtYWhmZURLYWhWdkpZWEFSYXZsMzdSM3piZm1EUXluTlFuSlBnVEF1dURVX1NYeFFrenVQRWtvcWR6eTFHbmhlb3c?oc=5) (Sun, 12 Jul 2026 21:50:37 GMT)
+- [Plasma Executive Says Stablecoins&#x27; Biggest Opportunity Is Replacing Banks, Not Cards - CUToday](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT3Z3U3NweVNKSHROenA2QlBNOVQ3cm4zbjl4aG52Ui1VYWotc3YzWTllcFlPZlZURm1vRDFUNVQxdmMzUnlMa1JoSGxPWWpPRTh2dGNKZTBXRWJ3amhxeWRKYl9WZlZOTnB0NktiU190aDVPcTI0T2pSa1RRNm9nZk54NnM0VnBCSlRyLUpJNUxGN1d3aDBNLXU2Z0RPUzRUOHhyTWJSc3JHNnVkWjhoMkQzWTVNRUxIV1BB?oc=5) (Sun, 12 Jul 2026 18:37:09 GMT)
+- [Stablecoin market loses $10B as crypto liquidity quietly contracts - Crypto News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPYl9qYnZrS1JIck1udnVTS2hyUVI0TE12a0ltSWwyRjlfNk9oYXZKaUY4d0JiWFhNVkEtWWZxUlNjSm1UVnp1dEtiUTdfVzB4SloxV3RZQXg0ZmZXajlKOXZzd1lPaGk3clhQdTFhWVlKNnYtWDJPalpLaDZoUzdwRnJwMm16WXRIZXlQdlI2OA?oc=5) (Sun, 12 Jul 2026 16:33:28 GMT)
 
 <!-- END_dashboard -->
 
