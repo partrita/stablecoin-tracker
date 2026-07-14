@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-13 01:57:58 (UTC)*
+*Last Updated: 2026-07-14 01:44:45 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,714,419,196** | 🔴 -0.02% | 🟢 +0.32% |
+| **$289,197,551,118** | 🔴 -0.52% | 🔴 -0.61% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoin Market Cap Suffers Biggest Decline in 4 Years - PYMNTS.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxOd2w3Q1dvWHZycXF4NUNDTzUyUnZYZDMzZHJyb2h3R09ITy1zT09nR3J1TjN6U1hPSldNU2JnTEV0Z3BKUWxOWnZoWm5JQWF0WmhpamEtSFRMa3A4Z0RSaW1oWFo1N1U3aC1LSjJ2MExPRkFQRHFlSTd1V2kzaVpBSFN6eWJad3RZN2ttSm15STBBNzd6enZRa0h5WGk1ZUV2VGc?oc=5) (Mon, 13 Jul 2026 00:30:13 GMT)
-- [Bank of England eases stablecoin rules after political backlash - MSN](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRUpPNERpSFdVdW9ySTgySUFxQWZWRUQ4TTgxRjdGRldxNl9zUW8zMzBoeVo2cnZWV0NGSG9JaXpsVFJjanJpZUFydlFDQWw2dG95ZkFBeFpJNWJrbGdIUUpKanZ2b3lWSTZ3SmhVcE5ZSkNGOERiNnBhd0MwM0VOOW9nbEJ2WExFdXhONi1Ca1FzdjhPamxobFE4NTdZdXJZZ25BaHdjOURrUURmb29BR0ViNzk0WE1QRFdSZlVZdm05TWVha3dTc2JwYmYxazYwa1pDdVRjMjNPMFI5aGFwV3U5MVI5RGdCQzhLYmRWNkIyOFFvWDUzbg?oc=5) (Sun, 12 Jul 2026 21:54:34 GMT)
-- [Stablecoin Market Drops $10 Billion After USDT and USDC Redemptions Reduce Liquidity - NewsCord](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVmhWdkJmR29UX3NHcDNPTWoyN1A2VFF3ZjNfeU9wcTdHTVN0cVExQjNwU295bjg5Rnh4WmdVQk1OV1Ywd3czaUtNZ1RvRV8tZUZRZ3lvUEZuMDNvWkFxSUZQUTV0TE91Q1NkTXcyTndyRjVlWU5rbE5QbjF6S3VwX084b2k0THVtMmFVemtMeVhTWjE0MEhfVGNValhQbmtBOWpzeU5QczEtYWhmZURLYWhWdkpZWEFSYXZsMzdSM3piZm1EUXluTlFuSlBnVEF1dURVX1NYeFFrenVQRWtvcWR6eTFHbmhlb3c?oc=5) (Sun, 12 Jul 2026 21:50:37 GMT)
-- [Plasma Executive Says Stablecoins&#x27; Biggest Opportunity Is Replacing Banks, Not Cards - CUToday](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT3Z3U3NweVNKSHROenA2QlBNOVQ3cm4zbjl4aG52Ui1VYWotc3YzWTllcFlPZlZURm1vRDFUNVQxdmMzUnlMa1JoSGxPWWpPRTh2dGNKZTBXRWJ3amhxeWRKYl9WZlZOTnB0NktiU190aDVPcTI0T2pSa1RRNm9nZk54NnM0VnBCSlRyLUpJNUxGN1d3aDBNLXU2Z0RPUzRUOHhyTWJSc3JHNnVkWjhoMkQzWTVNRUxIV1BB?oc=5) (Sun, 12 Jul 2026 18:37:09 GMT)
-- [Stablecoin market loses $10B as crypto liquidity quietly contracts - Crypto News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPYl9qYnZrS1JIck1udnVTS2hyUVI0TE12a0ltSWwyRjlfNk9oYXZKaUY4d0JiWFhNVkEtWWZxUlNjSm1UVnp1dEtiUTdfVzB4SloxV3RZQXg0ZmZXajlKOXZzd1lPaGk3clhQdTFhWVlKNnYtWDJPalpLaDZoUzdwRnJwMm16WXRIZXlQdlI2OA?oc=5) (Sun, 12 Jul 2026 16:33:28 GMT)
+- [IMF paper explores stablecoin impact on currencies with fixed FX rates - ledgerinsights.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPd290eWFvUTAtUjBwSGFJWTBfSHZuMWxRbGJUOUoxVVlrclZiUkV6eXVMOU5BS0pOTTdFNG5PUzdUNU0zU2hsQXNKWk54OXphU1JLSi1yVVZqY2xNZDB3a3ZrbGtEYkI4VkU3MFgxRTNYdGdZTGlEWUhpbWxLeE1odlRyUHZuTVdhVFNVRk1pQzJybjJSQXdjREtpVWdnM180Q0ZKWg?oc=5) (Tue, 14 Jul 2026 00:47:22 GMT)
+- [Credit Unions Can&#x27;t Afford to Ignore Stablecoins: WOCCU White Paper - Credit Union Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUFDQXZraDZrQkhBbHlHcmRhRzZrZDB2OFVtRmhiNTYyX1RPZ0hSY1VNVlBHOVZCRnNZdDhWRDU0S3RnVDJ0R0RnSlVzczdydzdGRmkwN1JHdkVybHZXeUdqVGc1Sk9uWElnZGtxNDZzTmRpYnF4OTBaRkpyNWNVV0NiZktJbDVpVlg3Q2lfckxBMWRMNlZKWUVmYmVROXp6T0Jn?oc=5) (Mon, 13 Jul 2026 21:45:44 GMT)
+- [Mizuho Details Rising Redemptions and New Stablecoin Rival Pressuring Circle - PYMNTS.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSmJmZW5NSnNxbjZxaFVrczhkaDFxdkJqMjVqNWJzczh0Z2ZsYm1sTWdNSUhBRHRnYUJ6d29yUGRpQW9xTHhITzhVWXdOY1dueEpvQkpIWWN0S2FnVE1GWHBXc2VGYzhiTm1ueEVPZkdaWFZyLTVDNi1CRFhkMDRkdjIyX3ZOZHROS0d6akQ0V3Faa3pmTVh4M0pyMFByV25hSFdITUZ6WFFMV2Y2bDNrRE1YSkt5QXFuN0xQbA?oc=5) (Mon, 13 Jul 2026 20:53:51 GMT)
+- [How Kredete uses stablecoins to make remittances faster, cheaper and more accessible - Mastercard](https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHpzS2pkdEwzLUxzbjh5QUZydDI5Mm1MUjVmOHZLLTlWZC13MmNuS0hYaHFWWHRWZk14TnI3TnlFOFdxVThQVmJIaEZFU2VBNmpSdFJnT1FfblJYd1NueHc0VTUyTjZUcHpnSk9EZUNNcHVUdjBtTXJ2M0R1ZGpsSVR1c21MYzRxaFRKZW1aX2tZc0lESXBqeE1nbzZ5bzZpWndqNQ?oc=5) (Mon, 13 Jul 2026 19:05:24 GMT)
+- [Bolivia Is Considering Adding Tether&#x27;s USDT Stablecoin to National Payments System: Report - Decrypt](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWGdkdU5IeXhhbmVwaGZNWFF2anNRWTZnaHZINy1TcWtYeW9mel9sMUVpT0thMUFLcTBxZkh1RFdZbXh5RTNvZWVRV0pod0J5ZEtPOWtQQzgtUUY4UEJoZ21aSjA1cnhRNFo1Q1JYTDNCbUxPZ196TkdldkNURzJJa1VOUHk0V01CeTBmdTJHS19VTFFwRE50bdIBoAFBVV95cUxQWU0xRFVJcGk1WjVZMXdjdlowMVUwM0pZNDlBRTA0S1J1ZW5GNHE1QXB1RnNrMVo5LU14dlRLUnJPMjRNOC1CSE5lN1k1Ym1uU1NyRUNVV2FtRXhBVDZXb1d1ejhQRVg0ZEZzbVlvWTJITTBoQUNzTXFBeXhWWkxRaFhKY1ZER3hlRk13Tk1BX1NRYVJjNTdxd0tuZ0RXaF9Z?oc=5) (Mon, 13 Jul 2026 18:57:19 GMT)
 
 <!-- END_dashboard -->
 
