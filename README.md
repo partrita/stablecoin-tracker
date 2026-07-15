@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-14 01:44:45 (UTC)*
+*Last Updated: 2026-07-15 01:41:08 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,197,551,118** | 🔴 -0.52% | 🔴 -0.61% |
+| **$289,435,156,914** | 🟢 +0.08% | 🔴 -0.61% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [IMF paper explores stablecoin impact on currencies with fixed FX rates - ledgerinsights.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPd290eWFvUTAtUjBwSGFJWTBfSHZuMWxRbGJUOUoxVVlrclZiUkV6eXVMOU5BS0pOTTdFNG5PUzdUNU0zU2hsQXNKWk54OXphU1JLSi1yVVZqY2xNZDB3a3ZrbGtEYkI4VkU3MFgxRTNYdGdZTGlEWUhpbWxLeE1odlRyUHZuTVdhVFNVRk1pQzJybjJSQXdjREtpVWdnM180Q0ZKWg?oc=5) (Tue, 14 Jul 2026 00:47:22 GMT)
-- [Credit Unions Can&#x27;t Afford to Ignore Stablecoins: WOCCU White Paper - Credit Union Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUFDQXZraDZrQkhBbHlHcmRhRzZrZDB2OFVtRmhiNTYyX1RPZ0hSY1VNVlBHOVZCRnNZdDhWRDU0S3RnVDJ0R0RnSlVzczdydzdGRmkwN1JHdkVybHZXeUdqVGc1Sk9uWElnZGtxNDZzTmRpYnF4OTBaRkpyNWNVV0NiZktJbDVpVlg3Q2lfckxBMWRMNlZKWUVmYmVROXp6T0Jn?oc=5) (Mon, 13 Jul 2026 21:45:44 GMT)
-- [Mizuho Details Rising Redemptions and New Stablecoin Rival Pressuring Circle - PYMNTS.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSmJmZW5NSnNxbjZxaFVrczhkaDFxdkJqMjVqNWJzczh0Z2ZsYm1sTWdNSUhBRHRnYUJ6d29yUGRpQW9xTHhITzhVWXdOY1dueEpvQkpIWWN0S2FnVE1GWHBXc2VGYzhiTm1ueEVPZkdaWFZyLTVDNi1CRFhkMDRkdjIyX3ZOZHROS0d6akQ0V3Faa3pmTVh4M0pyMFByV25hSFdITUZ6WFFMV2Y2bDNrRE1YSkt5QXFuN0xQbA?oc=5) (Mon, 13 Jul 2026 20:53:51 GMT)
-- [How Kredete uses stablecoins to make remittances faster, cheaper and more accessible - Mastercard](https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHpzS2pkdEwzLUxzbjh5QUZydDI5Mm1MUjVmOHZLLTlWZC13MmNuS0hYaHFWWHRWZk14TnI3TnlFOFdxVThQVmJIaEZFU2VBNmpSdFJnT1FfblJYd1NueHc0VTUyTjZUcHpnSk9EZUNNcHVUdjBtTXJ2M0R1ZGpsSVR1c21MYzRxaFRKZW1aX2tZc0lESXBqeE1nbzZ5bzZpWndqNQ?oc=5) (Mon, 13 Jul 2026 19:05:24 GMT)
-- [Bolivia Is Considering Adding Tether&#x27;s USDT Stablecoin to National Payments System: Report - Decrypt](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWGdkdU5IeXhhbmVwaGZNWFF2anNRWTZnaHZINy1TcWtYeW9mel9sMUVpT0thMUFLcTBxZkh1RFdZbXh5RTNvZWVRV0pod0J5ZEtPOWtQQzgtUUY4UEJoZ21aSjA1cnhRNFo1Q1JYTDNCbUxPZ196TkdldkNURzJJa1VOUHk0V01CeTBmdTJHS19VTFFwRE50bdIBoAFBVV95cUxQWU0xRFVJcGk1WjVZMXdjdlowMVUwM0pZNDlBRTA0S1J1ZW5GNHE1QXB1RnNrMVo5LU14dlRLUnJPMjRNOC1CSE5lN1k1Ym1uU1NyRUNVV2FtRXhBVDZXb1d1ejhQRVg0ZEZzbVlvWTJITTBoQUNzTXFBeXhWWkxRaFhKY1ZER3hlRk13Tk1BX1NRYVJjNTdxd0tuZ0RXaF9Z?oc=5) (Mon, 13 Jul 2026 18:57:19 GMT)
+- [US banking groups urge changes to stablecoin rewards in Clarity Act, again - ledgerinsights.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmgtOWt2cW4zRXl5cHJhUGhFSEZ4UXM0ZzNTSkdKaFNyWU85QnZqVW5aZ19XcWVfSGxXQUVyNi02bEc2UVVYUjk1UW15TXdVYWlHUWNPbVZRWjhWSUNoU2tta29FNlRMN3hkUkpsU29xZGhKaUxuRG1RaE9lOEJaZnRGOWJfSFdVUHJFUFB6c1UyNjY0ejdMRFozN0VodXZCWG1tVXVRejI?oc=5) (Wed, 15 Jul 2026 00:27:19 GMT)
+- [Coinbase CEO Brian Armstrong Warns UK Stablecoin Limits Could Compromise London’s Financial Competitiveness - NewsCord](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT3V2TlVUcG8zRmZUWWJpdEtaWUVTeFhLV2NxMG01RkFwM0J4MzFSOFN4YVhOdmFNbjM2LTdVeFJWa0h3WEhrNXRfbUpVdldPdHBscmhRQUI0X2Ric2tBZmhaREw0blRza05DdEpJVUJ5NHpOSEY2MjFGYXNjSDJzWU5zRUNGUmpVNHB1RXZVMHRPcGZiLUZpQnVMTlRyQUVPM3N2MFZUUkdYNWNxSjBya2tfdm9SRFpxVjJQdW1ZdDNTclE5anJVVGJVMlVGUmZZZkZZcEhzNXI5WFdxVTJJT25lU3BUZGx3a2c?oc=5) (Tue, 14 Jul 2026 22:49:34 GMT)
+- [Velocity Raises $38 Million as Stablecoins Reshape Mainstream Business Finance - PYMNTS.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVjY5dTEtci1oblZiS0x5cXR1SjlUV25RWThiTGpiNV9ocFN0VVkyWHBTdGtoZ3pzWG1mTmZUa2FrREdxTnMtMUdwZndUNTdrVGRoOU1zeEZZV25fOVFTcWdFV0tDS25CM1pkcVNyTkpCTkswdG9iZmROTnoycmNaS2prazBXbFZhRGdTUElUS21MRmpubVhyVlhWV1M2QVZIcUUxVVgzNG1aNFNGS2JUZHE2U1VWTWlxd0lVcGs2QTZkQVZD?oc=5) (Tue, 14 Jul 2026 22:04:03 GMT)
+- [Banks Unveil Blockchain Network as Stablecoin Payments Reach $33 Trillion - TradingView](https://news.google.com/rss/articles/CBMizAFBVV95cUxPUEYwNXJ5TG5UMTBlNVNuMGdFNG1xZXc2QldxbGU4bGZQRm1MX3BXd2p0N1BIUmZubmdPSFRrNHI1ckVFSUQ4UTBxVUxaNFE4MElmSkRqR1V2U1BEMzQ5ZnVhYVNWVjNpSDBzZFBncVNZanp5UnlyX1F1dTdxX0xmWnhWOEJQTFdhTTJmMjFNekc4VjZSLXNHMkU5OU9FLVQ3WTlSODJfMF9vNU5PZmY0eWVZYmRyMG4zSWV4UENjblUwVGt0dnh5cC1QaEY?oc=5) (Tue, 14 Jul 2026 21:19:54 GMT)
+- [Velocity raises $38M to build stablecoin treasury infrastructure for enterprises - TradingView](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNamExTUVRSm1SNkVxNGk5WHpxcmhXQXBHYWM4NEMtbWVHU2dDUnVYdzloQ1FVQWtrUWFMNUg5bW5uTnlXMGI4Z0F1S0hncjJYdzJySENqNEFtaElDaTBDTVRzaUE4aFdVaEtlTnpVMFM3U3MwOWRrUV8xdmlrMVZmX0ZmdUxIa055eGNyR0pkaXBBbWpXMV9uZEg2MkFnaWJxNklLa1ljTVNQUXNXTHBtMjJGQ21nR0FTMWVNZjJON1Nhd3RaRDdQb1RCcGdaeVQ0aU5rM3pOdWFBaG8?oc=5) (Tue, 14 Jul 2026 20:04:31 GMT)
 
 <!-- END_dashboard -->
 
