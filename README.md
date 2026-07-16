@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-15 01:41:08 (UTC)*
+*Last Updated: 2026-07-16 01:50:56 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,435,156,914** | 🟢 +0.08% | 🔴 -0.61% |
+| **$289,238,337,300** | 🔴 -0.07% | 🔴 -0.53% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [US banking groups urge changes to stablecoin rewards in Clarity Act, again - ledgerinsights.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmgtOWt2cW4zRXl5cHJhUGhFSEZ4UXM0ZzNTSkdKaFNyWU85QnZqVW5aZ19XcWVfSGxXQUVyNi02bEc2UVVYUjk1UW15TXdVYWlHUWNPbVZRWjhWSUNoU2tta29FNlRMN3hkUkpsU29xZGhKaUxuRG1RaE9lOEJaZnRGOWJfSFdVUHJFUFB6c1UyNjY0ejdMRFozN0VodXZCWG1tVXVRejI?oc=5) (Wed, 15 Jul 2026 00:27:19 GMT)
-- [Coinbase CEO Brian Armstrong Warns UK Stablecoin Limits Could Compromise London’s Financial Competitiveness - NewsCord](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT3V2TlVUcG8zRmZUWWJpdEtaWUVTeFhLV2NxMG01RkFwM0J4MzFSOFN4YVhOdmFNbjM2LTdVeFJWa0h3WEhrNXRfbUpVdldPdHBscmhRQUI0X2Ric2tBZmhaREw0blRza05DdEpJVUJ5NHpOSEY2MjFGYXNjSDJzWU5zRUNGUmpVNHB1RXZVMHRPcGZiLUZpQnVMTlRyQUVPM3N2MFZUUkdYNWNxSjBya2tfdm9SRFpxVjJQdW1ZdDNTclE5anJVVGJVMlVGUmZZZkZZcEhzNXI5WFdxVTJJT25lU3BUZGx3a2c?oc=5) (Tue, 14 Jul 2026 22:49:34 GMT)
-- [Velocity Raises $38 Million as Stablecoins Reshape Mainstream Business Finance - PYMNTS.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVjY5dTEtci1oblZiS0x5cXR1SjlUV25RWThiTGpiNV9ocFN0VVkyWHBTdGtoZ3pzWG1mTmZUa2FrREdxTnMtMUdwZndUNTdrVGRoOU1zeEZZV25fOVFTcWdFV0tDS25CM1pkcVNyTkpCTkswdG9iZmROTnoycmNaS2prazBXbFZhRGdTUElUS21MRmpubVhyVlhWV1M2QVZIcUUxVVgzNG1aNFNGS2JUZHE2U1VWTWlxd0lVcGs2QTZkQVZD?oc=5) (Tue, 14 Jul 2026 22:04:03 GMT)
-- [Banks Unveil Blockchain Network as Stablecoin Payments Reach $33 Trillion - TradingView](https://news.google.com/rss/articles/CBMizAFBVV95cUxPUEYwNXJ5TG5UMTBlNVNuMGdFNG1xZXc2QldxbGU4bGZQRm1MX3BXd2p0N1BIUmZubmdPSFRrNHI1ckVFSUQ4UTBxVUxaNFE4MElmSkRqR1V2U1BEMzQ5ZnVhYVNWVjNpSDBzZFBncVNZanp5UnlyX1F1dTdxX0xmWnhWOEJQTFdhTTJmMjFNekc4VjZSLXNHMkU5OU9FLVQ3WTlSODJfMF9vNU5PZmY0eWVZYmRyMG4zSWV4UENjblUwVGt0dnh5cC1QaEY?oc=5) (Tue, 14 Jul 2026 21:19:54 GMT)
-- [Velocity raises $38M to build stablecoin treasury infrastructure for enterprises - TradingView](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNamExTUVRSm1SNkVxNGk5WHpxcmhXQXBHYWM4NEMtbWVHU2dDUnVYdzloQ1FVQWtrUWFMNUg5bW5uTnlXMGI4Z0F1S0hncjJYdzJySENqNEFtaElDaTBDTVRzaUE4aFdVaEtlTnpVMFM3U3MwOWRrUV8xdmlrMVZmX0ZmdUxIa055eGNyR0pkaXBBbWpXMV9uZEg2MkFnaWJxNklLa1ljTVNQUXNXTHBtMjJGQ21nR0FTMWVNZjJON1Nhd3RaRDdQb1RCcGdaeVQ0aU5rM3pOdWFBaG8?oc=5) (Tue, 14 Jul 2026 20:04:31 GMT)
+- [Cyclops Raises $20 Million Series A To Build Stablecoin Infrastructure For Payments Companies - Pulse 2.0](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWtsVmVvLWRyVjBSNGNQTXlnUzZZZmc0ejhjRDFQeTRRVkRnWENJVkVpQ1pZNTgtNDZ3U0UyZVlJd29YRjhmQzFVS3Q5T2J3dnFtbUgzQ3VWVXZvbWEzemtwQVRKb1gzeFQ5alo1LWZHSDlPOVJVM0RwcDM0YmJPSnBvR2wxaG53MkxTaHEzaVQ5dVZwczluLV8wQ1B0ajhuMEFHYWIydHlTa3QyeGtkcHBn0gG3AUFVX3lxTE9lcVhxc0pfN2NWRVpNR1kyeE5DN1h5c0xDRncwZFNtZEgwWUxqZGU5WEx5aGhiZnp1VXRSams1SXpFMkxhNGkyU3lHTG93RklFSGNaZnpfVkNiWHlLdGFUN3NLaWNJaFAyVHg5R1QzejkxZGhIaXpLM003Wl82N0NPUms5MkUwdnMwNVdWd2NuMVhVUDNTVVQxeU1rTzZUODJmbGsteTdrNk44YlR3MjhISzduNVlJbw?oc=5) (Wed, 15 Jul 2026 23:41:27 GMT)
+- [Open Standard Challenges Circle With Yield-Sharing Stablecoin - PYMNTS.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYWV6VjhPZE10d2ZBVW51OW9kX1c4bFJXSWdZeFNyZU5xazlRN3JRYU56QmZVdjQxb0lCRGZQeTdUYlZyQmRXQmFNdTE3NDNGMHYyVXhfYzF6djVJVUtYdHBSc2didmQtcUQyaWxpczJ4MnhfRVdtSTkxS2s1SDdUdzY0ODNHS1dPUnlOelVpeWZrbnZNNDd2ZlE1dk51QUxCTWFUb2Vwb0o?oc=5) (Wed, 15 Jul 2026 21:55:49 GMT)
+- [What Ga. Stablecoin Licensing Law Means For Payments Cos. - Law360](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSV9kWlctUHR6UlFQUFdseEQyV1BidE1fZVlKSzhjMUZ0VFprNmxscGhBSDRYSmdvYjQwcU5yS1RobldqOWVOTTAxXzRqX2tDMERPQ2h1Q1RGZmc1UEVpWkRpUkRFQXBnYUVkTG5mdERLWVBDNm1uaUxtY0VRcEp3eHItWXhvMzQ3T2ZJLXhxSXFObHFLdV9RQTI0cHnSAVZBVV95cUxOQ2QtRDBxR0pwV3RpaVBJQWVJeWlFcXRsYm1Dc2hrSUtWRm1HelhSRDJobzVETjZaaUdZTnBzdnBxS2puUmZWd1B2UEFHek0zOVI2WU1PZw?oc=5) (Wed, 15 Jul 2026 21:48:00 GMT)
+- [Cyclops Raises $20 Million to Scale Stablecoin Platform for Payments Firms - PYMNTS.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxQX19wdWcwRnNYVjdPZmo3UDRlYVhId1JweUpCMUdaV0hqVGEzZmh5Z25qd3BDMjdlc2RtZmlyTHlpbDdoNlNwYmJMZ3BCeGtJVUhwNVEtZVFFbm9mZHQ3Q1RHOU1vczVuY0N4Ulp6LU5VQmE2WWtQZF9YLWxZNnlZZHd1Z1pkd3M2ZFFvVk1KWm1BYW8zdnVGV1k2M09iTWExR3o2ZzFkaG9iNk4zWTJvWm9Caks0QUhUWUE?oc=5) (Wed, 15 Jul 2026 21:10:49 GMT)
+- [Digital Dollars: Stablecoin Tools for Southeast Michigan’s Modernization - Monroe Evening News](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZUtYOGdIeWF1R2lMc2dJTFI4a2I4UUsyUkhHS0dWWDVySWNHVk1jcjdKTFI5V253VzEzbFhMdHVVTWRiN3g5dGxYWHBkVG1YbFdzaG9YbTJ2RENtZ0owYTJXUVh3WTl6YTVaek9oZ3MxMXh1YlhvbTFDSXg2STEwZ0sybERtWTc5TDVDYjFBR1N1N2hPcXk0aEtBdTFxRC16alVVdXRodklqTDVfY0NLaTJYSXd4NWptYjRkRktNN3pkdlBsWlhDb25HbXZVX2xDbG1LZ1NpSDB1U3Fjb3BsQnBmdXhsYWpTOW8w?oc=5) (Wed, 15 Jul 2026 20:37:00 GMT)
 
 <!-- END_dashboard -->
 
