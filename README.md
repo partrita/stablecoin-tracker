@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-16 01:50:56 (UTC)*
+*Last Updated: 2026-07-17 01:54:48 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,238,337,300** | 🔴 -0.07% | 🔴 -0.53% |
+| **$289,176,086,314** | 🔴 -0.02% | 🔴 -0.54% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Cyclops Raises $20 Million Series A To Build Stablecoin Infrastructure For Payments Companies - Pulse 2.0](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWtsVmVvLWRyVjBSNGNQTXlnUzZZZmc0ejhjRDFQeTRRVkRnWENJVkVpQ1pZNTgtNDZ3U0UyZVlJd29YRjhmQzFVS3Q5T2J3dnFtbUgzQ3VWVXZvbWEzemtwQVRKb1gzeFQ5alo1LWZHSDlPOVJVM0RwcDM0YmJPSnBvR2wxaG53MkxTaHEzaVQ5dVZwczluLV8wQ1B0ajhuMEFHYWIydHlTa3QyeGtkcHBn0gG3AUFVX3lxTE9lcVhxc0pfN2NWRVpNR1kyeE5DN1h5c0xDRncwZFNtZEgwWUxqZGU5WEx5aGhiZnp1VXRSams1SXpFMkxhNGkyU3lHTG93RklFSGNaZnpfVkNiWHlLdGFUN3NLaWNJaFAyVHg5R1QzejkxZGhIaXpLM003Wl82N0NPUms5MkUwdnMwNVdWd2NuMVhVUDNTVVQxeU1rTzZUODJmbGsteTdrNk44YlR3MjhISzduNVlJbw?oc=5) (Wed, 15 Jul 2026 23:41:27 GMT)
-- [Open Standard Challenges Circle With Yield-Sharing Stablecoin - PYMNTS.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYWV6VjhPZE10d2ZBVW51OW9kX1c4bFJXSWdZeFNyZU5xazlRN3JRYU56QmZVdjQxb0lCRGZQeTdUYlZyQmRXQmFNdTE3NDNGMHYyVXhfYzF6djVJVUtYdHBSc2didmQtcUQyaWxpczJ4MnhfRVdtSTkxS2s1SDdUdzY0ODNHS1dPUnlOelVpeWZrbnZNNDd2ZlE1dk51QUxCTWFUb2Vwb0o?oc=5) (Wed, 15 Jul 2026 21:55:49 GMT)
-- [What Ga. Stablecoin Licensing Law Means For Payments Cos. - Law360](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSV9kWlctUHR6UlFQUFdseEQyV1BidE1fZVlKSzhjMUZ0VFprNmxscGhBSDRYSmdvYjQwcU5yS1RobldqOWVOTTAxXzRqX2tDMERPQ2h1Q1RGZmc1UEVpWkRpUkRFQXBnYUVkTG5mdERLWVBDNm1uaUxtY0VRcEp3eHItWXhvMzQ3T2ZJLXhxSXFObHFLdV9RQTI0cHnSAVZBVV95cUxOQ2QtRDBxR0pwV3RpaVBJQWVJeWlFcXRsYm1Dc2hrSUtWRm1HelhSRDJobzVETjZaaUdZTnBzdnBxS2puUmZWd1B2UEFHek0zOVI2WU1PZw?oc=5) (Wed, 15 Jul 2026 21:48:00 GMT)
-- [Cyclops Raises $20 Million to Scale Stablecoin Platform for Payments Firms - PYMNTS.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxQX19wdWcwRnNYVjdPZmo3UDRlYVhId1JweUpCMUdaV0hqVGEzZmh5Z25qd3BDMjdlc2RtZmlyTHlpbDdoNlNwYmJMZ3BCeGtJVUhwNVEtZVFFbm9mZHQ3Q1RHOU1vczVuY0N4Ulp6LU5VQmE2WWtQZF9YLWxZNnlZZHd1Z1pkd3M2ZFFvVk1KWm1BYW8zdnVGV1k2M09iTWExR3o2ZzFkaG9iNk4zWTJvWm9Caks0QUhUWUE?oc=5) (Wed, 15 Jul 2026 21:10:49 GMT)
-- [Digital Dollars: Stablecoin Tools for Southeast Michigan’s Modernization - Monroe Evening News](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZUtYOGdIeWF1R2lMc2dJTFI4a2I4UUsyUkhHS0dWWDVySWNHVk1jcjdKTFI5V253VzEzbFhMdHVVTWRiN3g5dGxYWHBkVG1YbFdzaG9YbTJ2RENtZ0owYTJXUVh3WTl6YTVaek9oZ3MxMXh1YlhvbTFDSXg2STEwZ0sybERtWTc5TDVDYjFBR1N1N2hPcXk0aEtBdTFxRC16alVVdXRodklqTDVfY0NLaTJYSXd4NWptYjRkRktNN3pkdlBsWlhDb25HbXZVX2xDbG1LZ1NpSDB1U3Fjb3BsQnBmdXhsYWpTOW8w?oc=5) (Wed, 15 Jul 2026 20:37:00 GMT)
+- [Visa Launches Visa Stablecoin Platform for Banks and Fintechs Using Open USD: 17 Sources (Western Alternative: 9) - NewsCord](https://news.google.com/rss/articles/CBMi5AFBVV95cUxObFpxdmNweWYtQVZGYTBwTms2TUlHNnc0bEI3YmhmMVlIdUF5dmx5V3ZOSUZLelMxM0l1MDlSQWc3NGdUN1d0M2IyZnJqVzl2dW8xaHhpSlN4VmUweTZ4VlFhZXlTMUhYNWN4NUJzSUNFcHlOUEpCVW1URHRmUFlHMXctT0ZkNkdMYWMtX2g2ODhVZUNmbWtQaWhsaHZaMnNLUXJVbllXX3h6dV9IVmlsbUhPaUFtWHF3NTBCQXhpWlIxdXdDWWhYOXdIMF9ZbF9INzB1akFobUtqNy05VDRIaklzTzQ?oc=5) (Thu, 16 Jul 2026 23:17:48 GMT)
+- [Roundup: Trump’s social posts / Lilly’s psychedelic bet / Visa’s stablecoin push - Baton Rouge Business Report](https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHViYlJ5V09SSU1MTk5PQU1zTGo2UFYyV0Y3VFF5X3ZfU0czU3RUVll0SE5QaC1rNkRwS2pyOC1xU1ctTzY3R3RuazdRazRPaEVuLWhyMGZkbW96bG9oeDc3UFhETF9jbDZQa2h6SURZcjZ0ZllmYXh1V01iX1c1azFweS11VVozQ3Y0TU9MR0JydFRpRVdnbTBuZkVfak1RZkJBcTJESmRQZExkM0xmNdIBuAFBVV95cUxNdVU1YWx2SG9QR3lkZ2Vjb1FkQnBaeGVUdkhnR3JCcGtES1FDSVJXTTA1WDJQZDE0ckppb09ydnBHWU5WT1FjT2VRcTEwbFFoTWlSakNEeDZjNXhYZ3hSdE93TnptVnk0MDExVDJBcUIyMFptakxBYTdEbFI2bjdWYmY4a29TRWpYUmw5OTQzVG5VVGIyQjF2SlhTemE5T2FEb0NGNXhtcDd3X184eEh0dVVUc09hUExS?oc=5) (Thu, 16 Jul 2026 20:07:30 GMT)
+- [Visa launches stablecoin platform, taking the opposite path to Stripe - ledgerinsights.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxNVmtuejNFM3NjZDdSNFVJN05KRkhxOHFwU08zTFF6dFpXc183OTBNajBzaDRSSmtlRXdTdzFmNG9tVklRdHpvUnh0VnpjenZLZ1VicEI3RWtiTzhnSVBwSkVYSnpyZE1oWVNrTjQzc0ZiS25SdkhlQy1nd3RVRkRmUVZZaUxFaFN0NVRJZkNuVHU2eklod3VaQWtKMWoydEJucXc?oc=5) (Thu, 16 Jul 2026 18:27:29 GMT)
+- [Visa Unveils Stablecoin Platform With OUSD at Its Core - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxPckJWczhSTDJCYlE4UEtfbWhUWTdEbVBuQW4zVm1rQW8xU2EyaE5xcDBBTG1haWxWWGlhSFU5cVQ5YWwtU0pkU0tmakNsMVZZbWZ2ZFJtb1czUTRSMHZmU3k1a1hJUGIyR0pvbklXSTBnQlVXbVk2Rk5Dd1lMYmZrYTdrVkp4VHJ2MGhuUUhHRnB4eEt0QXJrVVc2UnVMbHZXVjRwNg?oc=5) (Thu, 16 Jul 2026 18:26:06 GMT)
+- [Visa Unveils Stablecoin Platform for Banks and Fintech Companies - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDNwQ1QwYjFoamlvUWdQN1MzMUw2NFN5aTk1X2hJdFJGd21xWXNoOXJUVnRoRjFDNVRxYXR4Vl8yVUhSaXNSSkdueUtnLVFnTDdHeG5PZ0hJOFFnc2JBVGptVkU0SU92Z3RVX2NYYWhCZkZWT0I3WEt1VUs2dTlpcHdHRENLUkRyU0kxWVVvSFB5UjFLbUdVXzRJTFpENnRHcTBpeE53?oc=5) (Thu, 16 Jul 2026 17:57:57 GMT)
 
 <!-- END_dashboard -->
 
