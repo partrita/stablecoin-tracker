@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-17 01:54:48 (UTC)*
+*Last Updated: 2026-07-18 01:44:52 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,176,086,314** | 🔴 -0.02% | 🔴 -0.54% |
+| **$289,442,267,474** | 🟢 +0.09% | 🔴 -0.43% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Visa Launches Visa Stablecoin Platform for Banks and Fintechs Using Open USD: 17 Sources (Western Alternative: 9) - NewsCord](https://news.google.com/rss/articles/CBMi5AFBVV95cUxObFpxdmNweWYtQVZGYTBwTms2TUlHNnc0bEI3YmhmMVlIdUF5dmx5V3ZOSUZLelMxM0l1MDlSQWc3NGdUN1d0M2IyZnJqVzl2dW8xaHhpSlN4VmUweTZ4VlFhZXlTMUhYNWN4NUJzSUNFcHlOUEpCVW1URHRmUFlHMXctT0ZkNkdMYWMtX2g2ODhVZUNmbWtQaWhsaHZaMnNLUXJVbllXX3h6dV9IVmlsbUhPaUFtWHF3NTBCQXhpWlIxdXdDWWhYOXdIMF9ZbF9INzB1akFobUtqNy05VDRIaklzTzQ?oc=5) (Thu, 16 Jul 2026 23:17:48 GMT)
-- [Roundup: Trump’s social posts / Lilly’s psychedelic bet / Visa’s stablecoin push - Baton Rouge Business Report](https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHViYlJ5V09SSU1MTk5PQU1zTGo2UFYyV0Y3VFF5X3ZfU0czU3RUVll0SE5QaC1rNkRwS2pyOC1xU1ctTzY3R3RuazdRazRPaEVuLWhyMGZkbW96bG9oeDc3UFhETF9jbDZQa2h6SURZcjZ0ZllmYXh1V01iX1c1azFweS11VVozQ3Y0TU9MR0JydFRpRVdnbTBuZkVfak1RZkJBcTJESmRQZExkM0xmNdIBuAFBVV95cUxNdVU1YWx2SG9QR3lkZ2Vjb1FkQnBaeGVUdkhnR3JCcGtES1FDSVJXTTA1WDJQZDE0ckppb09ydnBHWU5WT1FjT2VRcTEwbFFoTWlSakNEeDZjNXhYZ3hSdE93TnptVnk0MDExVDJBcUIyMFptakxBYTdEbFI2bjdWYmY4a29TRWpYUmw5OTQzVG5VVGIyQjF2SlhTemE5T2FEb0NGNXhtcDd3X184eEh0dVVUc09hUExS?oc=5) (Thu, 16 Jul 2026 20:07:30 GMT)
-- [Visa launches stablecoin platform, taking the opposite path to Stripe - ledgerinsights.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxNVmtuejNFM3NjZDdSNFVJN05KRkhxOHFwU08zTFF6dFpXc183OTBNajBzaDRSSmtlRXdTdzFmNG9tVklRdHpvUnh0VnpjenZLZ1VicEI3RWtiTzhnSVBwSkVYSnpyZE1oWVNrTjQzc0ZiS25SdkhlQy1nd3RVRkRmUVZZaUxFaFN0NVRJZkNuVHU2eklod3VaQWtKMWoydEJucXc?oc=5) (Thu, 16 Jul 2026 18:27:29 GMT)
-- [Visa Unveils Stablecoin Platform With OUSD at Its Core - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxPckJWczhSTDJCYlE4UEtfbWhUWTdEbVBuQW4zVm1rQW8xU2EyaE5xcDBBTG1haWxWWGlhSFU5cVQ5YWwtU0pkU0tmakNsMVZZbWZ2ZFJtb1czUTRSMHZmU3k1a1hJUGIyR0pvbklXSTBnQlVXbVk2Rk5Dd1lMYmZrYTdrVkp4VHJ2MGhuUUhHRnB4eEt0QXJrVVc2UnVMbHZXVjRwNg?oc=5) (Thu, 16 Jul 2026 18:26:06 GMT)
-- [Visa Unveils Stablecoin Platform for Banks and Fintech Companies - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDNwQ1QwYjFoamlvUWdQN1MzMUw2NFN5aTk1X2hJdFJGd21xWXNoOXJUVnRoRjFDNVRxYXR4Vl8yVUhSaXNSSkdueUtnLVFnTDdHeG5PZ0hJOFFnc2JBVGptVkU0SU92Z3RVX2NYYWhCZkZWT0I3WEt1VUs2dTlpcHdHRENLUkRyU0kxWVVvSFB5UjFLbUdVXzRJTFpENnRHcTBpeE53?oc=5) (Thu, 16 Jul 2026 17:57:57 GMT)
+- [Piero Cipollone rattles Coinbase and Circle with stablecoin warning - Crypto News](https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWhxYU5WMXNJb0dmdDVnZmlINVBlbmlQVnNQa2JIdGhweklWZi0yTGI4TFdsRTBVeU11S2NmTUx3MzhMa3B3RHJXelhqRGVLUWtNSXVoNDdaZ1J2emVNcjBNeUEwd2p5RnU0TkFnVHZOUFRtbVdzQlVHMmtwdnJ5Ng?oc=5) (Fri, 17 Jul 2026 21:25:43 GMT)
+- [Stable Launches StablePay to Bring Stablecoin Payments to the Mainstream - Finovate](https://news.google.com/rss/articles/CBMimgFBVV95cUxONGhIU0VfZGdoNXJjTlUwNTQtQ2xTZWJKQzR2cXJKMWRNNEIyYUd3TGhTOWdSMVBwNFlXWWtYTWZfSDFCVXkzSzhXemtENlJtbGoycUlmeVF1SXhfSFRjaDJwUGhxWlpESkVCUDBoR1BPTy0ydW92WkdRU0RIRWVtcW9odWQ2REtuX2xJekt5OGl2WHFtR3NtS2V3?oc=5) (Fri, 17 Jul 2026 20:18:33 GMT)
+- [The payment war shifts to distribution as stablecoins reach mainstream status - CoinDesk](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSGNpVzhHWGZWa0JZTkszdXNwSk5pZzluV0dvM1B4YUJOTko4U0dRY1B6SUZLQUJCY3VHSjlXRjNJTjF1bWxnOW1ibHNoOWoyQVh2dUNMd0pyVnJxQzBSZnkxNTNNbmtHb19SWnhJSnBud29uRUptSmpucWt6ZzdoQ0F0NGpJZnQxZ213ZkNZSGEwMklDZE5HNy1jaVJxZTdURWd2VnFrMjR6WUp5enZfU2xPWXoxQWdhM0lXQWM1NEd2TW9YMDFhd2MtMA?oc=5) (Fri, 17 Jul 2026 17:27:42 GMT)
+- [Delaware Enacts Banking, Money Transmission, and Stablecoin Modernization Package - JD Supra](https://news.google.com/rss/articles/CBMifEFVX3lxTE5rTXVLX1kybEZTSWVNbEd5NFYwMWg0ZUticjVUWDRmN0I4N0IxNE5NZktOdXRDMHYzbjNaODFTWkQxd29sQ2hMRUtoMGV2RC1MWkc1OUpZcTBpRS10d3lhOXQ3ck9qNXBCelZuUnlEZDlnM25Ga2tXejlwU1U?oc=5) (Fri, 17 Jul 2026 16:00:32 GMT)
+- [This Week in Stablecoins: TradFi Doesn’t Want DeFi. It Wants Blockchain - PYMNTS.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbW5fQTA2SDVLazUwenJJVkNuVDduUXhOck5FNDVnQ1BYQlJiTFdUejJ0Z2pVQTlFSTluaHpPblBfZDZPcExVaElja3VGX0pDLUxBX21tMDBoZWVvdy1Oa0Nhc0hNQnlZd25WQzB6SlR2VUg3YXlpV01PdXhNYjNIM2U5ajA2dEFsTndITTZzZUJzVHRXTzRkVVhJckczd0s5MVhGM1dJajNGTC1P?oc=5) (Fri, 17 Jul 2026 15:12:04 GMT)
 
 <!-- END_dashboard -->
 
