@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-18 01:44:52 (UTC)*
+*Last Updated: 2026-07-19 01:53:08 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,442,267,474** | 🟢 +0.09% | 🔴 -0.43% |
+| **$289,492,534,085** | 🟢 +0.02% | 🔴 -0.44% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [US regulators miss GENIUS Act&#x27;s one-year deadline for final stablecoin rules - The Block](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUm5VY2ZaaTNYRnJnM1IzOWZMd2VtaEZpR1F4c1RDaF9SeDVQZjNtaG1EUFdRU1FUQ01IdWNXNXJ1SmhfRTVjSHZKT3JqZ0cya1RiQ0dvNzEwVzBBQjAtLTI0S0lBWjlXNDFwQURaWVlHcWpNa3ZUMGZGVURyeXVMNUotQVRKT21BWTFZdGJ0YjduajNQNjZ6QnlCY3JUdGVQenlDbjNqUGczeVV3TzVIQmpnMkhrQQ?oc=5) (Sat, 18 Jul 2026 22:04:40 GMT)
+- [Circle: Rival Stablecoin Launches Don&#x27;t Make This A Zero-Sum Game - Seeking Alpha](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdTI4ZnM5alp6NThSOWtmUHlQQlVTSXRJX1Zac0ZXVFh3NkZCX0pMZFAxdHZOa2lxX1V3YndBV1pWYlZiczh4NzFxVjZEQzA5TGFUdGlHREUwRzV5QmxUVXVMUmQxS1FKNEx3ZzVHd3dOYWJVQ0NGM0xyWUNNakxVVWxlcEgtS1U1a2tNYlVmV1RINkRHYmJJS0x4aURvTnB3b2VhX1ZFelBfQQ?oc=5) (Sat, 18 Jul 2026 12:00:00 GMT)
+- [One year later, GENIUS Act just made stablecoins easier to sell - CryptoSlate](https://news.google.com/rss/articles/CBMikAFBVV95cUxObXFCUFpTZXQ2VXBqYnQ5bkZvMHdMWk5SVEo5bU1lX3RQaDFLbldTdVBOV3F1N3JFY1ZVMGNHWkpQQmFJM05kOFhnU1g5UWVHTE1wcHo3Ty1ROXFVeDJqczlWdkl6eEN3R1l3dHE1V01CMjUyaE03SGN4aVdWN0NOYThsMGdrTzl4UjV0eW1lVFk?oc=5) (Sat, 18 Jul 2026 11:20:01 GMT)
+- [Paradigm Files Comment Letter on the NCUA’s GENIUS Act Stablecoin Rulemaking - paradigm.xyz](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQm9PY3ZXaG1CLXZyUmpZZTdfNHlGSTYyQnlESkNieVN5WWN3Y1c1S1MxeU4tYUJHOTRLUnlwWWg2djh5RERTUXM2aUpBU2Z5WHMzc09RX3VOdC1aQWV2ZnRtdlpKeEJnNnZha2t3anNFWGRQV3BQbS1mN3JRRHJUUGxnTmNET0RYblczOGFrN1ozcXI4dzRtMUNiRmItU0VndXFGQi1RLW15c0tp?oc=5) (Sat, 18 Jul 2026 01:00:00 GMT)
 - [Piero Cipollone rattles Coinbase and Circle with stablecoin warning - Crypto News](https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWhxYU5WMXNJb0dmdDVnZmlINVBlbmlQVnNQa2JIdGhweklWZi0yTGI4TFdsRTBVeU11S2NmTUx3MzhMa3B3RHJXelhqRGVLUWtNSXVoNDdaZ1J2emVNcjBNeUEwd2p5RnU0TkFnVHZOUFRtbVdzQlVHMmtwdnJ5Ng?oc=5) (Fri, 17 Jul 2026 21:25:43 GMT)
-- [Stable Launches StablePay to Bring Stablecoin Payments to the Mainstream - Finovate](https://news.google.com/rss/articles/CBMimgFBVV95cUxONGhIU0VfZGdoNXJjTlUwNTQtQ2xTZWJKQzR2cXJKMWRNNEIyYUd3TGhTOWdSMVBwNFlXWWtYTWZfSDFCVXkzSzhXemtENlJtbGoycUlmeVF1SXhfSFRjaDJwUGhxWlpESkVCUDBoR1BPTy0ydW92WkdRU0RIRWVtcW9odWQ2REtuX2xJekt5OGl2WHFtR3NtS2V3?oc=5) (Fri, 17 Jul 2026 20:18:33 GMT)
-- [The payment war shifts to distribution as stablecoins reach mainstream status - CoinDesk](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSGNpVzhHWGZWa0JZTkszdXNwSk5pZzluV0dvM1B4YUJOTko4U0dRY1B6SUZLQUJCY3VHSjlXRjNJTjF1bWxnOW1ibHNoOWoyQVh2dUNMd0pyVnJxQzBSZnkxNTNNbmtHb19SWnhJSnBud29uRUptSmpucWt6ZzdoQ0F0NGpJZnQxZ213ZkNZSGEwMklDZE5HNy1jaVJxZTdURWd2VnFrMjR6WUp5enZfU2xPWXoxQWdhM0lXQWM1NEd2TW9YMDFhd2MtMA?oc=5) (Fri, 17 Jul 2026 17:27:42 GMT)
-- [Delaware Enacts Banking, Money Transmission, and Stablecoin Modernization Package - JD Supra](https://news.google.com/rss/articles/CBMifEFVX3lxTE5rTXVLX1kybEZTSWVNbEd5NFYwMWg0ZUticjVUWDRmN0I4N0IxNE5NZktOdXRDMHYzbjNaODFTWkQxd29sQ2hMRUtoMGV2RC1MWkc1OUpZcTBpRS10d3lhOXQ3ck9qNXBCelZuUnlEZDlnM25Ga2tXejlwU1U?oc=5) (Fri, 17 Jul 2026 16:00:32 GMT)
-- [This Week in Stablecoins: TradFi Doesn’t Want DeFi. It Wants Blockchain - PYMNTS.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbW5fQTA2SDVLazUwenJJVkNuVDduUXhOck5FNDVnQ1BYQlJiTFdUejJ0Z2pVQTlFSTluaHpPblBfZDZPcExVaElja3VGX0pDLUxBX21tMDBoZWVvdy1Oa0Nhc0hNQnlZd25WQzB6SlR2VUg3YXlpV01PdXhNYjNIM2U5ajA2dEFsTndITTZzZUJzVHRXTzRkVVhJckczd0s5MVhGM1dJajNGTC1P?oc=5) (Fri, 17 Jul 2026 15:12:04 GMT)
 
 <!-- END_dashboard -->
 
