@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-19 01:53:08 (UTC)*
+*Last Updated: 2026-07-20 02:14:15 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,492,534,085** | 🟢 +0.02% | 🔴 -0.44% |
+| **$289,425,703,963** | 🔴 -0.02% | 🔴 -0.44% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [Stablecoin On-Chain Volume Reaching 7 Trillion, Surpassing ACH Network - Forbes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2ZBNWJNZmozSnlLY19fa3UySTNyZ3AyeWJOd0g5VUZsWHUtaVdvb3B3ZVVZRWpSbHh3MGNHUHBsNlBEa3JySlJyaFFRdDc3eW81MWY1QjJsSnBwSkZUYU41UVlkV1dxc1ZsbzR0R3VVS2xQVXRmaHQxMU40RmtaVE9LU0FVU1Z2WE03M0ZjRmc5c2gyZjVfczM0cXhXRGhZdm5BYzlmc29KazU0d0NpSHl2dkJmdGtiX1dhWmJxSmNoOXc?oc=5) (Mon, 20 Jul 2026 00:00:00 GMT)
+- [Japan logistics provider for Amazon to use JPYC stablecoin in operations - Nikkei Asia](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQjRlUjNrMEhOMFV1dFdkYkhsenlQMHF0OFVvUS1JZ25falRoNnRXSUVhZERSUVZHdDNSaWVnbVRlcjA1dVJ2LWk2X2tycHBYdmc0NkVaam0tRkNtRGJNN1dWYl9XdFZLQTBtbVMwOGpjLUpfSHB6eDdleEJlWWVpdkRWUEV2SFZKZTVGYW9qd1NXT3J5RktMWGhPUUVDYzhKakhzR0V5X0NQZng4T0tVM01MX2dpMjhUeUpnZThCanQ?oc=5) (Sun, 19 Jul 2026 16:50:00 GMT)
+- [US regulators miss key GENIUS Act deadline as stablecoin rules stall - Crypto News](https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ0hKM01mTmxlQ04yNDdFcVJ4Ny1IV3lCVUhKRXZDUXBabE02LXI0QW5wanJUR0NlTTdFQkZwNGUtNlNQWF9vUlBLWGFEaER4d3VxLUk0ZVlIWWNHejg4bUtlLUVLUHpqYUJmYS1zVlpRSnV6YjFJVzVZSWtRNEFuYXBJWktKZGp3NGZ5ZWVsN3BPWmM?oc=5) (Sun, 19 Jul 2026 07:58:27 GMT)
+- [Interactive Brokers (IBKR) Launches Expanded Crypto Access With Stablecoin Transfers - Yahoo Finance](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTjlFLWFuM3RqOUxFaUtfVUhDN1A3aVc4SmdPMlVjQkVEN0NvenlNTVE5OFRXdEJKVXRNUW0xT29xNEhjX0ZnZzJrZTlQNnA4VS11bk1OQTROM1NzYXVDNEloSmdiZnRYWUpFbC1KUlNvRnZaeDFQcFpzT1pKUExJSTg1bkY0NDZIcGJXR2dGc3ZFNGNudHF5eHpDbDlHdmRNS0VtamxYWFJ2NWs?oc=5) (Sun, 19 Jul 2026 02:07:00 GMT)
 - [US regulators miss GENIUS Act&#x27;s one-year deadline for final stablecoin rules - The Block](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUm5VY2ZaaTNYRnJnM1IzOWZMd2VtaEZpR1F4c1RDaF9SeDVQZjNtaG1EUFdRU1FUQ01IdWNXNXJ1SmhfRTVjSHZKT3JqZ0cya1RiQ0dvNzEwVzBBQjAtLTI0S0lBWjlXNDFwQURaWVlHcWpNa3ZUMGZGVURyeXVMNUotQVRKT21BWTFZdGJ0YjduajNQNjZ6QnlCY3JUdGVQenlDbjNqUGczeVV3TzVIQmpnMkhrQQ?oc=5) (Sat, 18 Jul 2026 22:04:40 GMT)
-- [Circle: Rival Stablecoin Launches Don&#x27;t Make This A Zero-Sum Game - Seeking Alpha](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdTI4ZnM5alp6NThSOWtmUHlQQlVTSXRJX1Zac0ZXVFh3NkZCX0pMZFAxdHZOa2lxX1V3YndBV1pWYlZiczh4NzFxVjZEQzA5TGFUdGlHREUwRzV5QmxUVXVMUmQxS1FKNEx3ZzVHd3dOYWJVQ0NGM0xyWUNNakxVVWxlcEgtS1U1a2tNYlVmV1RINkRHYmJJS0x4aURvTnB3b2VhX1ZFelBfQQ?oc=5) (Sat, 18 Jul 2026 12:00:00 GMT)
-- [One year later, GENIUS Act just made stablecoins easier to sell - CryptoSlate](https://news.google.com/rss/articles/CBMikAFBVV95cUxObXFCUFpTZXQ2VXBqYnQ5bkZvMHdMWk5SVEo5bU1lX3RQaDFLbldTdVBOV3F1N3JFY1ZVMGNHWkpQQmFJM05kOFhnU1g5UWVHTE1wcHo3Ty1ROXFVeDJqczlWdkl6eEN3R1l3dHE1V01CMjUyaE03SGN4aVdWN0NOYThsMGdrTzl4UjV0eW1lVFk?oc=5) (Sat, 18 Jul 2026 11:20:01 GMT)
-- [Paradigm Files Comment Letter on the NCUA’s GENIUS Act Stablecoin Rulemaking - paradigm.xyz](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQm9PY3ZXaG1CLXZyUmpZZTdfNHlGSTYyQnlESkNieVN5WWN3Y1c1S1MxeU4tYUJHOTRLUnlwWWg2djh5RERTUXM2aUpBU2Z5WHMzc09RX3VOdC1aQWV2ZnRtdlpKeEJnNnZha2t3anNFWGRQV3BQbS1mN3JRRHJUUGxnTmNET0RYblczOGFrN1ozcXI4dzRtMUNiRmItU0VndXFGQi1RLW15c0tp?oc=5) (Sat, 18 Jul 2026 01:00:00 GMT)
-- [Piero Cipollone rattles Coinbase and Circle with stablecoin warning - Crypto News](https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWhxYU5WMXNJb0dmdDVnZmlINVBlbmlQVnNQa2JIdGhweklWZi0yTGI4TFdsRTBVeU11S2NmTUx3MzhMa3B3RHJXelhqRGVLUWtNSXVoNDdaZ1J2emVNcjBNeUEwd2p5RnU0TkFnVHZOUFRtbVdzQlVHMmtwdnJ5Ng?oc=5) (Fri, 17 Jul 2026 21:25:43 GMT)
 
 <!-- END_dashboard -->
 
