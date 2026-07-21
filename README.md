@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-20 02:14:15 (UTC)*
+*Last Updated: 2026-07-21 01:52:59 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,425,703,963** | 🔴 -0.02% | 🔴 -0.44% |
+| **$289,402,896,979** | 🔴 -0.01% | 🟢 +0.07% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoin On-Chain Volume Reaching 7 Trillion, Surpassing ACH Network - Forbes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2ZBNWJNZmozSnlLY19fa3UySTNyZ3AyeWJOd0g5VUZsWHUtaVdvb3B3ZVVZRWpSbHh3MGNHUHBsNlBEa3JySlJyaFFRdDc3eW81MWY1QjJsSnBwSkZUYU41UVlkV1dxc1ZsbzR0R3VVS2xQVXRmaHQxMU40RmtaVE9LU0FVU1Z2WE03M0ZjRmc5c2gyZjVfczM0cXhXRGhZdm5BYzlmc29KazU0d0NpSHl2dkJmdGtiX1dhWmJxSmNoOXc?oc=5) (Mon, 20 Jul 2026 00:00:00 GMT)
-- [Japan logistics provider for Amazon to use JPYC stablecoin in operations - Nikkei Asia](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQjRlUjNrMEhOMFV1dFdkYkhsenlQMHF0OFVvUS1JZ25falRoNnRXSUVhZERSUVZHdDNSaWVnbVRlcjA1dVJ2LWk2X2tycHBYdmc0NkVaam0tRkNtRGJNN1dWYl9XdFZLQTBtbVMwOGpjLUpfSHB6eDdleEJlWWVpdkRWUEV2SFZKZTVGYW9qd1NXT3J5RktMWGhPUUVDYzhKakhzR0V5X0NQZng4T0tVM01MX2dpMjhUeUpnZThCanQ?oc=5) (Sun, 19 Jul 2026 16:50:00 GMT)
-- [US regulators miss key GENIUS Act deadline as stablecoin rules stall - Crypto News](https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ0hKM01mTmxlQ04yNDdFcVJ4Ny1IV3lCVUhKRXZDUXBabE02LXI0QW5wanJUR0NlTTdFQkZwNGUtNlNQWF9vUlBLWGFEaER4d3VxLUk0ZVlIWWNHejg4bUtlLUVLUHpqYUJmYS1zVlpRSnV6YjFJVzVZSWtRNEFuYXBJWktKZGp3NGZ5ZWVsN3BPWmM?oc=5) (Sun, 19 Jul 2026 07:58:27 GMT)
-- [Interactive Brokers (IBKR) Launches Expanded Crypto Access With Stablecoin Transfers - Yahoo Finance](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTjlFLWFuM3RqOUxFaUtfVUhDN1A3aVc4SmdPMlVjQkVEN0NvenlNTVE5OFRXdEJKVXRNUW0xT29xNEhjX0ZnZzJrZTlQNnA4VS11bk1OQTROM1NzYXVDNEloSmdiZnRYWUpFbC1KUlNvRnZaeDFQcFpzT1pKUExJSTg1bkY0NDZIcGJXR2dGc3ZFNGNudHF5eHpDbDlHdmRNS0VtamxYWFJ2NWs?oc=5) (Sun, 19 Jul 2026 02:07:00 GMT)
-- [US regulators miss GENIUS Act&#x27;s one-year deadline for final stablecoin rules - The Block](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUm5VY2ZaaTNYRnJnM1IzOWZMd2VtaEZpR1F4c1RDaF9SeDVQZjNtaG1EUFdRU1FUQ01IdWNXNXJ1SmhfRTVjSHZKT3JqZ0cya1RiQ0dvNzEwVzBBQjAtLTI0S0lBWjlXNDFwQURaWVlHcWpNa3ZUMGZGVURyeXVMNUotQVRKT21BWTFZdGJ0YjduajNQNjZ6QnlCY3JUdGVQenlDbjNqUGczeVV3TzVIQmpnMkhrQQ?oc=5) (Sat, 18 Jul 2026 22:04:40 GMT)
+- [Visa (V) Expands AI And Stablecoin Offerings, Is The Stock Still Undervalued? - simplywall.st](https://news.google.com/rss/articles/CBMizAFBVV95cUxPVEVsTzZTYlNoQVRTVE9jQkJiSVRxY1RZMnM1OWhOa0FpcnY0Y0Q0empmTEFzZzNmVlVSUVllQURCaGFoUFZjWHNsMWk5YUwtc2ZPWkoyTEEtUFpta2lRMlhlTVR5RVVBVDlVUWtyUURiZTVPNDNELUdWUlhmX1Y1YUNrbzV0b21qbjcwMlBmdERyY3ZnSS1sTkZ3S0ZVQUtHa0p3S1lKUVZCR0VXdDlEUVVxaHdIVDhuVzh4eGE3NUhBUW91STVJSzZUMHnSAdIBQVVfeXFMT1V5eHRMWGRtNjduZlVTU3o2X0VTcVY4ZDJIc3RjLW1yY212Zk9OSzl5SkdDQ2dzdVFsQWloWWZ5V2NkSWxUdkhLMGUtaGdWb3VVY09EQXNyeGpMYzRYeHBac09qVTlKa1Q4Yi0tUnZ6MlBCUGNaanZma0ZxUmk1Mm9Ub0FCUlQzNWkxbkdaQS1FcF9QcjZIUWNqdXlXQmdXeG52QjVjSTNJQzRzcS1Sc3NUQ1VPQ1Y0T3VwNDUyV3p0NnVHTDRBZVl6aWY1NmJzakxR?oc=5) (Mon, 20 Jul 2026 23:36:55 GMT)
+- [Exodus Movement Cuts 25% Of Global Workforce To Reshape Stablecoin Payments Platform - NewsCord](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZkhBQzFOMFdha3hvSnlKcU9RR1lqVkZDNy1BTGlXaXlOandMeVAyeFNOTnAzQU1rX05nSGdPZGw2aTRTcUJlbkRGNng0bzIyTHNOWVNSczIyQ2JnaGh4a1AxS0V4Skx0OGZwSFY0NUJiV29wbV9NR0Y0cnlJNVNzbURvWi1Gd0x5a3ZTM3NzWEEyUUVJRGFqRnhaNFZtZFlWa3pDbk1HekJNVHhKa3QwRkxhYkFwWkpYdkdqSG1oMGd3SS1sYnRjNF9kcVRaX0UtcWZZaVFXM3NyNmpFZGNQZ3dSSXJCLVdyRFE?oc=5) (Mon, 20 Jul 2026 23:23:26 GMT)
+- [FINANCIAL TECHNOLOGY—FDIC proposes reporting forms for GENIUS Act stablecoin issuers - VitalLaw.com](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS0dLUE1VN3dLM1RWY1MzaFd0ODcta2JWTHR2V01BdUdvU09ycVk2RWpUSHNkejllZnJnYzdxSDd1VTc4cFUyMjd4SVgtTlVBNXBYRTdQdmxRVlJKUDU4cVFiVVpRU3EzcnhGcjFuQVhQUVdTS3B6RnlDeGhqWGpvdmlYNnRXWjBsSWNOOVhMUkJKLUk2SVBVNm11Q2RxWHhlZ1gwSUdDUDhHZGFqT1BNUGMzT1NudlNlMGJPLXpHcTlDdkU5OGJ0WlZYOHdKbk5OUTdTejVZeURPQW4zLWJqWWVYTy1BY2s?oc=5) (Mon, 20 Jul 2026 23:17:08 GMT)
+- [Exodus cuts 25% of workforce in major stablecoin payments pivot - Crypto News](https://news.google.com/rss/articles/CBMif0FVX3lxTFBpT3RzWjh1X2U0TERaeXdkVDhKZzV4NFU0d1U4SkxEam1FdEJjcWU4elhNd3FlY1Z2aWRvdVl0YzdUNUw5azQwRlJmZV82RDg0Vk91enA0WkJoNlZ2a3h6SXlaTXNJS3ZlYWwtdUR0YWRQaWpFWUphNG5sZlducTg?oc=5) (Mon, 20 Jul 2026 23:10:38 GMT)
+- [The Clarity Act August 10 Final Deadline - Bitcoin Foundation](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVzRXZWFVQTF4TDdsbVdremJFdE9sYTJRei1Hc1VUN080aXlXR3FwOHRkVk9STllVVlN3VjZ2Mlo0dGltU21tWlplR1VNVVRIeU42aUFQa0VrV1k4TWNNYWRxSTNaQ3hPOHM0cjViRjRUR1E2ZExlV2FKN3lxSWRrYlE0Q1NSbENORGdISFNIbTE0d0V1RWxFdnpVZGtSeFVaVkpQMU1kal9TdGEwaTV5dFJ4YnFUdDl0cWkxSVd5Yw?oc=5) (Mon, 20 Jul 2026 21:22:24 GMT)
 
 <!-- END_dashboard -->
 
