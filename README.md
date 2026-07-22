@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-21 01:52:59 (UTC)*
+*Last Updated: 2026-07-22 01:51:50 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,402,896,979** | 🔴 -0.01% | 🟢 +0.07% |
+| **$289,252,291,839** | 🔴 -0.05% | 🔴 -0.06% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Visa (V) Expands AI And Stablecoin Offerings, Is The Stock Still Undervalued? - simplywall.st](https://news.google.com/rss/articles/CBMizAFBVV95cUxPVEVsTzZTYlNoQVRTVE9jQkJiSVRxY1RZMnM1OWhOa0FpcnY0Y0Q0empmTEFzZzNmVlVSUVllQURCaGFoUFZjWHNsMWk5YUwtc2ZPWkoyTEEtUFpta2lRMlhlTVR5RVVBVDlVUWtyUURiZTVPNDNELUdWUlhmX1Y1YUNrbzV0b21qbjcwMlBmdERyY3ZnSS1sTkZ3S0ZVQUtHa0p3S1lKUVZCR0VXdDlEUVVxaHdIVDhuVzh4eGE3NUhBUW91STVJSzZUMHnSAdIBQVVfeXFMT1V5eHRMWGRtNjduZlVTU3o2X0VTcVY4ZDJIc3RjLW1yY212Zk9OSzl5SkdDQ2dzdVFsQWloWWZ5V2NkSWxUdkhLMGUtaGdWb3VVY09EQXNyeGpMYzRYeHBac09qVTlKa1Q4Yi0tUnZ6MlBCUGNaanZma0ZxUmk1Mm9Ub0FCUlQzNWkxbkdaQS1FcF9QcjZIUWNqdXlXQmdXeG52QjVjSTNJQzRzcS1Sc3NUQ1VPQ1Y0T3VwNDUyV3p0NnVHTDRBZVl6aWY1NmJzakxR?oc=5) (Mon, 20 Jul 2026 23:36:55 GMT)
-- [Exodus Movement Cuts 25% Of Global Workforce To Reshape Stablecoin Payments Platform - NewsCord](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZkhBQzFOMFdha3hvSnlKcU9RR1lqVkZDNy1BTGlXaXlOandMeVAyeFNOTnAzQU1rX05nSGdPZGw2aTRTcUJlbkRGNng0bzIyTHNOWVNSczIyQ2JnaGh4a1AxS0V4Skx0OGZwSFY0NUJiV29wbV9NR0Y0cnlJNVNzbURvWi1Gd0x5a3ZTM3NzWEEyUUVJRGFqRnhaNFZtZFlWa3pDbk1HekJNVHhKa3QwRkxhYkFwWkpYdkdqSG1oMGd3SS1sYnRjNF9kcVRaX0UtcWZZaVFXM3NyNmpFZGNQZ3dSSXJCLVdyRFE?oc=5) (Mon, 20 Jul 2026 23:23:26 GMT)
-- [FINANCIAL TECHNOLOGY—FDIC proposes reporting forms for GENIUS Act stablecoin issuers - VitalLaw.com](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS0dLUE1VN3dLM1RWY1MzaFd0ODcta2JWTHR2V01BdUdvU09ycVk2RWpUSHNkejllZnJnYzdxSDd1VTc4cFUyMjd4SVgtTlVBNXBYRTdQdmxRVlJKUDU4cVFiVVpRU3EzcnhGcjFuQVhQUVdTS3B6RnlDeGhqWGpvdmlYNnRXWjBsSWNOOVhMUkJKLUk2SVBVNm11Q2RxWHhlZ1gwSUdDUDhHZGFqT1BNUGMzT1NudlNlMGJPLXpHcTlDdkU5OGJ0WlZYOHdKbk5OUTdTejVZeURPQW4zLWJqWWVYTy1BY2s?oc=5) (Mon, 20 Jul 2026 23:17:08 GMT)
-- [Exodus cuts 25% of workforce in major stablecoin payments pivot - Crypto News](https://news.google.com/rss/articles/CBMif0FVX3lxTFBpT3RzWjh1X2U0TERaeXdkVDhKZzV4NFU0d1U4SkxEam1FdEJjcWU4elhNd3FlY1Z2aWRvdVl0YzdUNUw5azQwRlJmZV82RDg0Vk91enA0WkJoNlZ2a3h6SXlaTXNJS3ZlYWwtdUR0YWRQaWpFWUphNG5sZlducTg?oc=5) (Mon, 20 Jul 2026 23:10:38 GMT)
-- [The Clarity Act August 10 Final Deadline - Bitcoin Foundation](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVzRXZWFVQTF4TDdsbVdremJFdE9sYTJRei1Hc1VUN080aXlXR3FwOHRkVk9STllVVlN3VjZ2Mlo0dGltU21tWlplR1VNVVRIeU42aUFQa0VrV1k4TWNNYWRxSTNaQ3hPOHM0cjViRjRUR1E2ZExlV2FKN3lxSWRrYlE0Q1NSbENORGdISFNIbTE0d0V1RWxFdnpVZGtSeFVaVkpQMU1kal9TdGEwaTV5dFJ4YnFUdDl0cWkxSVd5Yw?oc=5) (Mon, 20 Jul 2026 21:22:24 GMT)
+- [Britain Wrote The World’s Most Cautious Stablecoin Rules, Three Years Late - Forbes](https://news.google.com/rss/articles/CBMixAFBVV95cUxQSGEzRnRCVmpvcThYTW40bmppZm1VazhJenpfOVJ2SU9EVU8tOXp4bUhFLXlVRzZ5aUlhMVFHaDVSUjBrN25femp1dEtDWTJILV9jMk5rdmJ5WDFWZG5yU0F3TUtfSU9fdzduZExUclBVbFVuY1hhVmxkX0dzc3dsN3BISmxGUi1uWTZ5anpadHB1UmdkOGpubFpwa3Q2elBtWkpXUG1GNzRxQlAtaVIyZkVXSDNkMHJUY3FVemZCVDlieURk?oc=5) (Tue, 21 Jul 2026 21:57:00 GMT)
+- [Ramp Opens Stablecoin Accounts and Payments to Customers - CPA Practice Advisor](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUpxVkdZY3d3SDlQWGhvNDVNeU9GQ2FyZk5WYTJJUlkzQV82b09CV1UyRm9UMzUyblFncEdscDRqMXc5ZmY0Y3FYV2dmNXZ0NVZYRi1vRGVUX3lBcHQwcF9pVzh3V25NSTZ0TzVaTHg2SmxOZzZJcURaTjgtMVRTS1hqdzFLa3NuT1p3NHNMYTJ1cUpkNExkVTA4NFBrSnlXZUNmNDl3OVFpUmNfb2dj?oc=5) (Tue, 21 Jul 2026 20:38:47 GMT)
+- [Stablecoin Is the Wrong Weapon in US-China Fight - Bloomberg.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRmNNWVdCOUVhUFJjcGZKNEJhd21HN1YxOGxLS21DaGJGTzhhb3pwcFUtcW9xNFU1WG5sWGhPSmhSeHdaR3ZVMjcxSGM2TGNQRUNoV3dPMG9WdTRfVEFMdVhraVBnNjlJN3R6TnROYlRDT01UMEk3b0hxZV9hLWwwcGpaNFVhNkRiSDdhbmhveGZoSG5xb1pkanp3UVl1el95V1o3Yg?oc=5) (Tue, 21 Jul 2026 20:00:20 GMT)
+- [Relay Scales Onchain Payments with Less Idle Capital on Circle Gateway - Circle Internet Financial](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUZwZVhXUkJMOURaNnUtLWhwWlBzdHRTd3RuMDZBb2dCLXRIaUUwLTJTM2M5dk5wVTVYSTNKQ3JjU3JNTENhUk5ERDM0aXZiTVduZHpfdTdQRkFtbjZzelM4a1lEcGM1OTJLSU5IeGhjbklsR1hhQzFLRmJndy1oUmo1eTNjekp6dFhEMW5kSjNPajR4RlNIUDNreTc4VTQ?oc=5) (Tue, 21 Jul 2026 19:45:33 GMT)
+- [Zelle Starts Minting New Stablecoin, Eyeing Global Expansion - news.bloombergtax.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxPV0dUaXBBOWhwYlVYaXJJM0RHb0hEZ0kzd0tlU0Jfd1pFTnFWdGZ3dmEzaS16LUZ1akNZZXQ3R21qZkJQM21HTGY5UVd5WUVsVUd2LUYzVXpCVC12VXZtVFREU2gweVRXaTBQUzZlekhCRTdXM3d5YmFNMWJ3ZDFRQ2xXQlJIWnNDdHV1SF9FOTBwbk1DUkF6QndTMnBRRU5PUklBMUNPbUQzR2VHZ2s0c2V6WERqWDRCdks4aA?oc=5) (Tue, 21 Jul 2026 19:40:00 GMT)
 
 <!-- END_dashboard -->
 
