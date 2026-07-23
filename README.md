@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-22 01:51:50 (UTC)*
+*Last Updated: 2026-07-23 01:59:34 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,252,291,839** | 🔴 -0.05% | 🔴 -0.06% |
+| **$289,198,988,308** | 🔴 -0.02% | 🔴 -0.01% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Britain Wrote The World’s Most Cautious Stablecoin Rules, Three Years Late - Forbes](https://news.google.com/rss/articles/CBMixAFBVV95cUxQSGEzRnRCVmpvcThYTW40bmppZm1VazhJenpfOVJ2SU9EVU8tOXp4bUhFLXlVRzZ5aUlhMVFHaDVSUjBrN25femp1dEtDWTJILV9jMk5rdmJ5WDFWZG5yU0F3TUtfSU9fdzduZExUclBVbFVuY1hhVmxkX0dzc3dsN3BISmxGUi1uWTZ5anpadHB1UmdkOGpubFpwa3Q2elBtWkpXUG1GNzRxQlAtaVIyZkVXSDNkMHJUY3FVemZCVDlieURk?oc=5) (Tue, 21 Jul 2026 21:57:00 GMT)
-- [Ramp Opens Stablecoin Accounts and Payments to Customers - CPA Practice Advisor](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUpxVkdZY3d3SDlQWGhvNDVNeU9GQ2FyZk5WYTJJUlkzQV82b09CV1UyRm9UMzUyblFncEdscDRqMXc5ZmY0Y3FYV2dmNXZ0NVZYRi1vRGVUX3lBcHQwcF9pVzh3V25NSTZ0TzVaTHg2SmxOZzZJcURaTjgtMVRTS1hqdzFLa3NuT1p3NHNMYTJ1cUpkNExkVTA4NFBrSnlXZUNmNDl3OVFpUmNfb2dj?oc=5) (Tue, 21 Jul 2026 20:38:47 GMT)
-- [Stablecoin Is the Wrong Weapon in US-China Fight - Bloomberg.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRmNNWVdCOUVhUFJjcGZKNEJhd21HN1YxOGxLS21DaGJGTzhhb3pwcFUtcW9xNFU1WG5sWGhPSmhSeHdaR3ZVMjcxSGM2TGNQRUNoV3dPMG9WdTRfVEFMdVhraVBnNjlJN3R6TnROYlRDT01UMEk3b0hxZV9hLWwwcGpaNFVhNkRiSDdhbmhveGZoSG5xb1pkanp3UVl1el95V1o3Yg?oc=5) (Tue, 21 Jul 2026 20:00:20 GMT)
-- [Relay Scales Onchain Payments with Less Idle Capital on Circle Gateway - Circle Internet Financial](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUZwZVhXUkJMOURaNnUtLWhwWlBzdHRTd3RuMDZBb2dCLXRIaUUwLTJTM2M5dk5wVTVYSTNKQ3JjU3JNTENhUk5ERDM0aXZiTVduZHpfdTdQRkFtbjZzelM4a1lEcGM1OTJLSU5IeGhjbklsR1hhQzFLRmJndy1oUmo1eTNjekp6dFhEMW5kSjNPajR4RlNIUDNreTc4VTQ?oc=5) (Tue, 21 Jul 2026 19:45:33 GMT)
-- [Zelle Starts Minting New Stablecoin, Eyeing Global Expansion - news.bloombergtax.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxPV0dUaXBBOWhwYlVYaXJJM0RHb0hEZ0kzd0tlU0Jfd1pFTnFWdGZ3dmEzaS16LUZ1akNZZXQ3R21qZkJQM21HTGY5UVd5WUVsVUd2LUYzVXpCVC12VXZtVFREU2gweVRXaTBQUzZlekhCRTdXM3d5YmFNMWJ3ZDFRQ2xXQlJIWnNDdHV1SF9FOTBwbk1DUkF6QndTMnBRRU5PUklBMUNPbUQzR2VHZ2s0c2V6WERqWDRCdks4aA?oc=5) (Tue, 21 Jul 2026 19:40:00 GMT)
+- [&#x27;Banking Is Becoming A Stablecoin&#x27;—Wirex&#x27;s Bet Against Revolut&#x27;s Rails - Forbes](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdW54b19adnBIeTRQX3Z0X05aRmVvY3NxQnZkZmUzaThZVWYyNzNlODgyWXhkZDR0ZGFkc3c2Y1lJc21oa25CbzBCZWdiRWdzQ1VSa2d3UjBEQmM2U3ZzU3dydUJ4TXNHRWJZNXk4WGFpT2JsemJ6QVltNnVaaVJKTHJWREloaENaaEpnTDhVTFA4TjJYRWUwRDVWUEF1VUpZRUpzMmpONDRYSG9YZy1iTDZsbHZWY1E1Y01J?oc=5) (Wed, 22 Jul 2026 23:58:39 GMT)
+- [NY Stablecoin Rule Update Advances Amid Genius Act Rollout - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIVHExQmZUME1jTWg3QWhKRlQwYlJlbktkazl5cE1CVWQyS0UzckdHenhIUHFJMENyWTJ4QjhtdFBiVFgxVG1MZm0wSmhPeFhvRjJkWk1n0gFWQVVfeXFMUEhUcTFCZlQwTWNNaDdBaEpGVDBiUmVuS2RrOXlwTUJVZDJLRTNyR0d6eEhQcUkwQ3JZMnhCOG10UGJUWDFUbUxmbTBKaE94WG9GMmRaTWc?oc=5) (Wed, 22 Jul 2026 23:50:00 GMT)
+- [Ripple RLUSD Stablecoin In Focus As BNY Mellon Eyes 24/7 Tokenized US Treasuries Settlement - CoinGape](https://news.google.com/rss/articles/CBMiswFBVV95cUxOOWNBYzczWmZ2ZzdvbFkwNEk5bTQ4MWUwbGFxVUVlOGtROHNkN1dWYTZGN3NxVjZFVERBWVVhZ19tSmdjR3lKaHVMUWdHYkQxRmV1STJBbXA3UWdaQV9LUnVPcXExZmVpcVR0YkVENDZDMllfUDNnSmpqVjFqREpaVThvYVdDRXhKaVhWZTF6ZHNvVEtnTjFzaWdDakZya0J1aHRZWnpnQXhiOUJ6NU1zMThRWQ?oc=5) (Wed, 22 Jul 2026 23:31:02 GMT)
+- [The CLARITY Act Doesn’t Ban Stablecoin Rewards. It Puts Them to Work. - PYMNTS.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUhGYVVlcENmMWpoUDB3S2UxaVF5UzM2SkV3YkN5VzdpX3JOT08tQUhNVXlfTGN6QjRaS000OVJQaExxdkhVeWFMUkpNU0VDMXdEck5jZ21KVHQxV09sUjBZdjF4QXViNGdQZU5ZWkVQMzktTC1vUXdUTHdSamJ2dTV6MUttdXFNZjV1RQ?oc=5) (Wed, 22 Jul 2026 22:09:35 GMT)
+- [Senate GOP Unveils Crypto Bill With New Limits On Stablecoin Rewards - CU Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ2FBLUFQNXlELUFZUHpRRGpMWmNHRWRrbEdZUEVHYmU2Rk01OU5zWDJTdUNMYlpHTjFJOUx6WWp3Y1BteHAxc0s5RjBDZVpqclRnbzdVMl9xSU5Qc0RRNVVYUkxCbzlTcEJmX1hYLXlZbktGZGJLMkoxS2RRb2NWRDh4ZFZfYThhYW1XdWdzYWk0NDYzMEc0aWIzLVBYUW1kLVJIcHNfa24?oc=5) (Wed, 22 Jul 2026 20:02:34 GMT)
 
 <!-- END_dashboard -->
 
