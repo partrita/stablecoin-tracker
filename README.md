@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-23 01:59:34 (UTC)*
+*Last Updated: 2026-07-24 01:55:03 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,198,988,308** | 🔴 -0.02% | 🔴 -0.01% |
+| **$288,788,102,260** | 🔴 -0.14% | 🔴 -0.13% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [&#x27;Banking Is Becoming A Stablecoin&#x27;—Wirex&#x27;s Bet Against Revolut&#x27;s Rails - Forbes](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdW54b19adnBIeTRQX3Z0X05aRmVvY3NxQnZkZmUzaThZVWYyNzNlODgyWXhkZDR0ZGFkc3c2Y1lJc21oa25CbzBCZWdiRWdzQ1VSa2d3UjBEQmM2U3ZzU3dydUJ4TXNHRWJZNXk4WGFpT2JsemJ6QVltNnVaaVJKTHJWREloaENaaEpnTDhVTFA4TjJYRWUwRDVWUEF1VUpZRUpzMmpONDRYSG9YZy1iTDZsbHZWY1E1Y01J?oc=5) (Wed, 22 Jul 2026 23:58:39 GMT)
-- [NY Stablecoin Rule Update Advances Amid Genius Act Rollout - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIVHExQmZUME1jTWg3QWhKRlQwYlJlbktkazl5cE1CVWQyS0UzckdHenhIUHFJMENyWTJ4QjhtdFBiVFgxVG1MZm0wSmhPeFhvRjJkWk1n0gFWQVVfeXFMUEhUcTFCZlQwTWNNaDdBaEpGVDBiUmVuS2RrOXlwTUJVZDJLRTNyR0d6eEhQcUkwQ3JZMnhCOG10UGJUWDFUbUxmbTBKaE94WG9GMmRaTWc?oc=5) (Wed, 22 Jul 2026 23:50:00 GMT)
-- [Ripple RLUSD Stablecoin In Focus As BNY Mellon Eyes 24/7 Tokenized US Treasuries Settlement - CoinGape](https://news.google.com/rss/articles/CBMiswFBVV95cUxOOWNBYzczWmZ2ZzdvbFkwNEk5bTQ4MWUwbGFxVUVlOGtROHNkN1dWYTZGN3NxVjZFVERBWVVhZ19tSmdjR3lKaHVMUWdHYkQxRmV1STJBbXA3UWdaQV9LUnVPcXExZmVpcVR0YkVENDZDMllfUDNnSmpqVjFqREpaVThvYVdDRXhKaVhWZTF6ZHNvVEtnTjFzaWdDakZya0J1aHRZWnpnQXhiOUJ6NU1zMThRWQ?oc=5) (Wed, 22 Jul 2026 23:31:02 GMT)
-- [The CLARITY Act Doesn’t Ban Stablecoin Rewards. It Puts Them to Work. - PYMNTS.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUhGYVVlcENmMWpoUDB3S2UxaVF5UzM2SkV3YkN5VzdpX3JOT08tQUhNVXlfTGN6QjRaS000OVJQaExxdkhVeWFMUkpNU0VDMXdEck5jZ21KVHQxV09sUjBZdjF4QXViNGdQZU5ZWkVQMzktTC1vUXdUTHdSamJ2dTV6MUttdXFNZjV1RQ?oc=5) (Wed, 22 Jul 2026 22:09:35 GMT)
-- [Senate GOP Unveils Crypto Bill With New Limits On Stablecoin Rewards - CU Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ2FBLUFQNXlELUFZUHpRRGpMWmNHRWRrbEdZUEVHYmU2Rk01OU5zWDJTdUNMYlpHTjFJOUx6WWp3Y1BteHAxc0s5RjBDZVpqclRnbzdVMl9xSU5Qc0RRNVVYUkxCbzlTcEJmX1hYLXlZbktGZGJLMkoxS2RRb2NWRDh4ZFZfYThhYW1XdWdzYWk0NDYzMEc0aWIzLVBYUW1kLVJIcHNfa24?oc=5) (Wed, 22 Jul 2026 20:02:34 GMT)
+- [Stablecoin Supply Nears $310 Billion as XDC Integrates Stripe-Owned Bridge - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUUhlVk1EVERXcURqNW44U29fOFRpaVdYWkk4T3FIWEQzbXBRMTF0R3NTTDhvNzh4bFgtTmpmN1F3ak1BRC1aV1dJeUN6UTF5RFZnYmRoNkh3bm13Y2E4aEp5Y1I4QWp1Ny1kb3lCdEt5ZXVILXM5RFhUSHJQUW9NMTA5cmJXQVpHRmc2SUxzQjhhRFBwZ2pmUTZpYTloNjdBWGc?oc=5) (Fri, 24 Jul 2026 00:49:00 GMT)
+- [‘You Could Drive A Truck Through It’: Analyst Warns CLARITY Act Leaves Big Stablecoin Yield Loophole - CU Today](https://news.google.com/rss/articles/CBMizwFBVV95cUxNSTR1SFZhbFY1U1RqS2RTeXg1ZE9URzZTY3Y5OGJPZkpzUzZad3p6RnJzZnVoalI0ZHJkYjVBbkhWV2dOSy1GZXd0Skd3TExfT2VBNW8wUmdfWnpDTmMyZmtfRjg0SEd1YTNGRVFaVHJPRW0tSm9pV1dpNjE1OHhNRnFmd1ZuTm84Zjl1RDZMWTJpWW1Idy1RaWN2djNBYWJ4bHhPSlFYRGFHQnZZamNnckdSdHNUaGVrNklXMkZwbUhHTkZ1b0FUMks3dkp1YTg?oc=5) (Thu, 23 Jul 2026 22:43:32 GMT)
+- [Ripple Launches Ripple Mint for Institutional RLUSD Stablecoin Management - Coinpedia](https://news.google.com/rss/articles/CBMiowFBVV95cUxQM0l6VnQ2b2JVVzFNTm1pakk5eTJyV3Brd2pDcXFjaDhpMFhuQ3lBTG9OSnlxM2lXbjV0bnZQVnVuTUZMWnFsSTJXOERTVzBwUnU1YUhPR1dsbG1vYnRaX1JhZk1LMmdkeS1tLW02d3d6MFFuQ1IyY0hDOUJET0lZbWlBRThBalczM2w0bjVTczU4NzI1RENmLWxMZ21nZGE5NHVV0gGoAUFVX3lxTE1tTmp6Yk9hNEFjM0loNVhoWTBoVDVFU3Y0SnpUY05jaEZwUC12MUpORHM3WVdxUDFKNGxTWWFVaFEwZWNIX1JMWE91bVpIeGdlMzdvYkVHbVRkSk5qSkhHekt0Ul9ma2wzUGZuekNlbU4tM0d0SWV0dUkwS0x2NVVXemtVX2Zzam8zM1FVTHRQaDN6cDh1UE9RcUo3MEVSVUNBT05jaGQ3eg?oc=5) (Thu, 23 Jul 2026 21:31:42 GMT)
+- [Linking POS Checkout Using Stablecoins to Enterprise Digital Asset Workflows - Oracle Blogs](https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tRTVZQX2JkSnVlMFc1V3Y5VGNSU1BNTTd2a0k4aUkyckVDU3htRWNWbFFuNGdvN1V3T2ppamlUUjJzQlZYV29Bc1hEb2xwNXFxZTlGNEVCRWYtQ1dqSlhQWTlzazN6QW93MWlEODl0YVNUcWFydHFzTC1iNFZfTlhuNUdmMk5meGszQ25MT3Q4X1J4aW4wYy11YUd4Q3loYnFBSHZLcC0xdHJ5VUZ4d2Rn?oc=5) (Thu, 23 Jul 2026 19:18:04 GMT)
+- [Putting Canada at the forefront of stablecoins - McGill University](https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZanBjUjlxUWlUT1FfaXZkMmxxTDVNbWdPQzF3SEt0Q1VBQlNRS0lfa0wwdzU4TEtGdkw0LUJqSGlFUGU5UGExMTNBbGdJWS1uZ01STDFaMXFJa2huMFNtVmR6V0xPR3lhS1FKR0dyZTk?oc=5) (Thu, 23 Jul 2026 18:31:56 GMT)
 
 <!-- END_dashboard -->
 
