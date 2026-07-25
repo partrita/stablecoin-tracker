@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-24 01:55:03 (UTC)*
+*Last Updated: 2026-07-25 01:54:19 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$288,788,102,260** | 🔴 -0.14% | 🔴 -0.13% |
+| **$288,327,177,935** | 🔴 -0.16% | 🔴 -0.39% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoin Supply Nears $310 Billion as XDC Integrates Stripe-Owned Bridge - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUUhlVk1EVERXcURqNW44U29fOFRpaVdYWkk4T3FIWEQzbXBRMTF0R3NTTDhvNzh4bFgtTmpmN1F3ak1BRC1aV1dJeUN6UTF5RFZnYmRoNkh3bm13Y2E4aEp5Y1I4QWp1Ny1kb3lCdEt5ZXVILXM5RFhUSHJQUW9NMTA5cmJXQVpHRmc2SUxzQjhhRFBwZ2pmUTZpYTloNjdBWGc?oc=5) (Fri, 24 Jul 2026 00:49:00 GMT)
-- [‘You Could Drive A Truck Through It’: Analyst Warns CLARITY Act Leaves Big Stablecoin Yield Loophole - CU Today](https://news.google.com/rss/articles/CBMizwFBVV95cUxNSTR1SFZhbFY1U1RqS2RTeXg1ZE9URzZTY3Y5OGJPZkpzUzZad3p6RnJzZnVoalI0ZHJkYjVBbkhWV2dOSy1GZXd0Skd3TExfT2VBNW8wUmdfWnpDTmMyZmtfRjg0SEd1YTNGRVFaVHJPRW0tSm9pV1dpNjE1OHhNRnFmd1ZuTm84Zjl1RDZMWTJpWW1Idy1RaWN2djNBYWJ4bHhPSlFYRGFHQnZZamNnckdSdHNUaGVrNklXMkZwbUhHTkZ1b0FUMks3dkp1YTg?oc=5) (Thu, 23 Jul 2026 22:43:32 GMT)
-- [Ripple Launches Ripple Mint for Institutional RLUSD Stablecoin Management - Coinpedia](https://news.google.com/rss/articles/CBMiowFBVV95cUxQM0l6VnQ2b2JVVzFNTm1pakk5eTJyV3Brd2pDcXFjaDhpMFhuQ3lBTG9OSnlxM2lXbjV0bnZQVnVuTUZMWnFsSTJXOERTVzBwUnU1YUhPR1dsbG1vYnRaX1JhZk1LMmdkeS1tLW02d3d6MFFuQ1IyY0hDOUJET0lZbWlBRThBalczM2w0bjVTczU4NzI1RENmLWxMZ21nZGE5NHVV0gGoAUFVX3lxTE1tTmp6Yk9hNEFjM0loNVhoWTBoVDVFU3Y0SnpUY05jaEZwUC12MUpORHM3WVdxUDFKNGxTWWFVaFEwZWNIX1JMWE91bVpIeGdlMzdvYkVHbVRkSk5qSkhHekt0Ul9ma2wzUGZuekNlbU4tM0d0SWV0dUkwS0x2NVVXemtVX2Zzam8zM1FVTHRQaDN6cDh1UE9RcUo3MEVSVUNBT05jaGQ3eg?oc=5) (Thu, 23 Jul 2026 21:31:42 GMT)
-- [Linking POS Checkout Using Stablecoins to Enterprise Digital Asset Workflows - Oracle Blogs](https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tRTVZQX2JkSnVlMFc1V3Y5VGNSU1BNTTd2a0k4aUkyckVDU3htRWNWbFFuNGdvN1V3T2ppamlUUjJzQlZYV29Bc1hEb2xwNXFxZTlGNEVCRWYtQ1dqSlhQWTlzazN6QW93MWlEODl0YVNUcWFydHFzTC1iNFZfTlhuNUdmMk5meGszQ25MT3Q4X1J4aW4wYy11YUd4Q3loYnFBSHZLcC0xdHJ5VUZ4d2Rn?oc=5) (Thu, 23 Jul 2026 19:18:04 GMT)
-- [Putting Canada at the forefront of stablecoins - McGill University](https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZanBjUjlxUWlUT1FfaXZkMmxxTDVNbWdPQzF3SEt0Q1VBQlNRS0lfa0wwdzU4TEtGdkw0LUJqSGlFUGU5UGExMTNBbGdJWS1uZ01STDFaMXFJa2huMFNtVmR6V0xPR3lhS1FKR0dyZTk?oc=5) (Thu, 23 Jul 2026 18:31:56 GMT)
+- [This Week in Stablecoins: Visa, Goldman and Samsung Raise the Stakes - PYMNTS.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWC1uNjR1dGFrTkpNUFdNc2owVmJNNktsNEFYdFg2NWkybC0xUUU0Y0pnaTN4dzdfeFc1T0EydVduLUIyUklEb0pqb1JpRXNmLXo3T1lqekREUk9DZFYwSkF0V01Dc0l4T0FjdWhPdlpwMnZwZUhnR19kOXJKMkEyeHE5RlNBRkl4V25nbjZNT25Qb2lURTkwbEtXalJxSDFiSnF4SmYwTHh4bDdVb2ZB?oc=5) (Fri, 24 Jul 2026 23:55:59 GMT)
+- [Samsung Wallet Plans Stablecoin Integration to Build Mobile Financial Hub - PYMNTS.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNlYyWW1oa2llQ3hoZno5UmlwSG9ubXFxLUxabUtkb1YyUEw2TlpKTGstcWFNbHdxV05iczdRRDRxQzRHOXNIaHh0eXBZMXU2SzJDaWhHUXdUODRVRmt1c2V5ejNOQmd6eVI5QVRjUjFtWk1qd1g0Zi1WY0N6aGs1cGNscHhsb1dDUDVEMkpNWnpQV2dRY1dfVmlDc1JFRUNERjNjalMzbEhWVTRlSGdoTWVPeEkxMWEt?oc=5) (Fri, 24 Jul 2026 20:51:45 GMT)
+- [Stablecoin Development Corp (SDEV) details COO Blynn&#x27;s 1.4M RSU grant - Stock Titan](https://news.google.com/rss/articles/CBMiywFBVV95cUxOZGFIeHVhcmZLa1FaOXU5UWJ6VG52ME1PSm5OMndFOXlkeFQ2TWRHSTRBNEF4WTdNeUhOcmU4djFuZE0zU1lxVE5wQ0dGWUs5YlFlVndhZUdLY2hfZkROeXM4QXlHUHBITElSSElISkpBbWtxcDlETDlpcmtpWFdpOVdEMThBSS03MHc2Ylc1U3plelFscThrQmxmb1RjbjYyRmZidzN3YVVMMm9nU2VETmxac0lRZ1hoTVF3NFJMUVpCSk1hSGNOYVV5QQ?oc=5) (Fri, 24 Jul 2026 20:31:55 GMT)
+- [Stablecoins are powering, not disintermediating, banks - Axios](https://news.google.com/rss/articles/CBMifkFVX3lxTE9fRGpjMFd2ejNNRXFzam9BX2J6QWVoa3BVcHI2VV85WWJHalIyeVVDTUNLSTlLWWswVWhzUDBBMEtvNFFSZ0Y1bHAyd0w5QTFtNGZCVTM2R20xbHRyV1N6ZzA3TDhEeVA1SlptTXRzbGdyMVJiSXIzUkJYejk1QQ?oc=5) (Fri, 24 Jul 2026 20:01:13 GMT)
+- [Samsung Wallet Will Add Stablecoin Support, Including USDC - Decrypt](https://news.google.com/rss/articles/CBMickFVX3lxTE1hUzBKcjUxTGFULVVyOFZhYjlSajRzNjNxSk9XR2J2dEh1cGlpeGFyRXhxVXFyN0NyQUN3Zk5aZnJ5dWRuaE9wWlVJMENYeG9oUjFfWnltWDVILUxCbnIyWFE1NmJzTDlmQUg2ZXVrZlU0Z9IBekFVX3lxTE9MU3NxQnNPYWIzR01iMFhvTlR5QjBkWkI3Y3ZUWlNQS1BlNURkd2VTaDZxaTdNdWh4NFBON01WSDVfM29UZTM0ejRXNkxDMVMtZkVFdS1KQ3NSQ0J1Y2FJc1ZDeGoyal9nQjIxalFHSUVtX1ZQN0NTa3FB?oc=5) (Fri, 24 Jul 2026 19:30:01 GMT)
 
 <!-- END_dashboard -->
 
