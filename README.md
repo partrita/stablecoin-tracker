@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-25 01:54:19 (UTC)*
+*Last Updated: 2026-07-26 01:58:32 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$288,327,177,935** | 🔴 -0.16% | 🔴 -0.39% |
+| **$288,273,812,840** | 🔴 -0.02% | 🔴 -0.42% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [Bitcoin price hovers at $64,000 as stablecoin inflows weaken - Investing.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZsZkI1eUp0UjFJZnpsSHdNalhhemQyMi1XRkE5UkhWOW1DU1JVVTJHV1NfUHRlS3BxUG9Gb0NpTl9TS3JJRW9DZjRINGpoN0cxZFdzdllQUU5aRWp2ZW5rd0lDam1sSXZBeGN1WDlESU1wRmJGZ3JUeVptVHB6RWtzSGZSdndrTVRtd3Z2OEtlcHRfNF91Wlcza2xrdUF3WXA0THE4UDRoNkR5N3ZwWVR3VUdJeWxwOWt6YW1CR1hoZVU?oc=5) (Sat, 25 Jul 2026 21:14:03 GMT)
+- [Samsung Wallet is getting native stablecoins - and it could make one token the default for 800M users - CryptoSlate](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTm1Vd3VYdFdZVEhmZll6MW8yTHlVZHB5V2tKM2YxMkdnQmFGcF9NWGYzQTM1LUEwU2ZYRlBYYW42ekIzQWNrUzZWQjQ3M0szRkE3MEd6dlRXMUJZSVAtTl8yRjRvS0xSSDBYQjloV0RyMVJJRHAzY3RXNW5sMFZZVUtVMGo3V2E1S1poQU9hQUxObEFGQ19oa3VmSzc2RTFtN0YwN1dYbExudjBBTkVzaWJ3SG5WTFN4ODdaVm1IZExpNEFjNGF5ZmJZS3RMRzVCQW9pbDF3?oc=5) (Sat, 25 Jul 2026 19:05:17 GMT)
+- [8x faster than US cash: The $1T network settling millions while banks sleep on weekends - CryptoSlate](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkhjYS1idEM2RlpiVVlKU1c1Y1Zocno5d0FJcFQ5T2MzRmNlXzNrR0RlR21wdTViR0lxcTEtdzhQOEUyMUw0T1U5WHpacFpZanJ6aEppMzExZmlrSUljb2NpYlQtSmF6YzNHdXhkLWQ1cFhWOFlNUWdMS2tGWGg2REc5aEJEOTVtNHJPbURR?oc=5) (Sat, 25 Jul 2026 12:25:49 GMT)
+- [Is Circle Internet Group (CRCL) Expensive Or Is Its Stablecoin Story Still Priced Too Low? - simplywall.st](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSm1RWlZKRm5mWk9Ec2U4YmNKcW9EdDk1YVFiSFN1Y1FNeGc0RFlJQkQ5WVFOdWVrNEdQZlZOMmJpUTU4RG5EU3hfb0xiVXZwYXdhU3ZKeElndHNYOXhJQnpHU1RNZmRjc294SWRtMHRfMXI0dmdCTTdVc3I0VWpfUmYwblpKdFRZYXI1ZUJnZ3Q5aUI4aDNYSzRzSVM1R010VVBkdm9TSzFkREFCY2NaWFVaZ2lwUGxlLWhacFdHVmdxTzBKX0R3ZjZrc0NwNExTRGlUT9IB2gFBVV95cUxPV1Z3czR2TllXd2V3VkNHNFhxTTlXWndHNmtlc3I1ZEhIWVZiTHlEbzkxSnpQdVMwRmRGYlRaMkxFUFlYQ3M5UndXZjJTeTZyeTJZaGtEck1FbkNTd21IRS13XzRHZV9PNXAtN0ZzMkh4eFpQR09Pa28wQ1p2N2dTQmRXWFJVM29TbjZEbENBRGlUMWdsdHo1elVfb2FOR20xNjZHS1JkQWNhUzVBWkVTXy0wLWlNTkNvekxTQmdlVzMtbm5pbjNCZGRNdDJYS0E1M1QwS0NhMHhxZw?oc=5) (Sat, 25 Jul 2026 03:40:57 GMT)
 - [This Week in Stablecoins: Visa, Goldman and Samsung Raise the Stakes - PYMNTS.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWC1uNjR1dGFrTkpNUFdNc2owVmJNNktsNEFYdFg2NWkybC0xUUU0Y0pnaTN4dzdfeFc1T0EydVduLUIyUklEb0pqb1JpRXNmLXo3T1lqekREUk9DZFYwSkF0V01Dc0l4T0FjdWhPdlpwMnZwZUhnR19kOXJKMkEyeHE5RlNBRkl4V25nbjZNT25Qb2lURTkwbEtXalJxSDFiSnF4SmYwTHh4bDdVb2ZB?oc=5) (Fri, 24 Jul 2026 23:55:59 GMT)
-- [Samsung Wallet Plans Stablecoin Integration to Build Mobile Financial Hub - PYMNTS.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNlYyWW1oa2llQ3hoZno5UmlwSG9ubXFxLUxabUtkb1YyUEw2TlpKTGstcWFNbHdxV05iczdRRDRxQzRHOXNIaHh0eXBZMXU2SzJDaWhHUXdUODRVRmt1c2V5ejNOQmd6eVI5QVRjUjFtWk1qd1g0Zi1WY0N6aGs1cGNscHhsb1dDUDVEMkpNWnpQV2dRY1dfVmlDc1JFRUNERjNjalMzbEhWVTRlSGdoTWVPeEkxMWEt?oc=5) (Fri, 24 Jul 2026 20:51:45 GMT)
-- [Stablecoin Development Corp (SDEV) details COO Blynn&#x27;s 1.4M RSU grant - Stock Titan](https://news.google.com/rss/articles/CBMiywFBVV95cUxOZGFIeHVhcmZLa1FaOXU5UWJ6VG52ME1PSm5OMndFOXlkeFQ2TWRHSTRBNEF4WTdNeUhOcmU4djFuZE0zU1lxVE5wQ0dGWUs5YlFlVndhZUdLY2hfZkROeXM4QXlHUHBITElSSElISkpBbWtxcDlETDlpcmtpWFdpOVdEMThBSS03MHc2Ylc1U3plelFscThrQmxmb1RjbjYyRmZidzN3YVVMMm9nU2VETmxac0lRZ1hoTVF3NFJMUVpCSk1hSGNOYVV5QQ?oc=5) (Fri, 24 Jul 2026 20:31:55 GMT)
-- [Stablecoins are powering, not disintermediating, banks - Axios](https://news.google.com/rss/articles/CBMifkFVX3lxTE9fRGpjMFd2ejNNRXFzam9BX2J6QWVoa3BVcHI2VV85WWJHalIyeVVDTUNLSTlLWWswVWhzUDBBMEtvNFFSZ0Y1bHAyd0w5QTFtNGZCVTM2R20xbHRyV1N6ZzA3TDhEeVA1SlptTXRzbGdyMVJiSXIzUkJYejk1QQ?oc=5) (Fri, 24 Jul 2026 20:01:13 GMT)
-- [Samsung Wallet Will Add Stablecoin Support, Including USDC - Decrypt](https://news.google.com/rss/articles/CBMickFVX3lxTE1hUzBKcjUxTGFULVVyOFZhYjlSajRzNjNxSk9XR2J2dEh1cGlpeGFyRXhxVXFyN0NyQUN3Zk5aZnJ5dWRuaE9wWlVJMENYeG9oUjFfWnltWDVILUxCbnIyWFE1NmJzTDlmQUg2ZXVrZlU0Z9IBekFVX3lxTE9MU3NxQnNPYWIzR01iMFhvTlR5QjBkWkI3Y3ZUWlNQS1BlNURkd2VTaDZxaTdNdWh4NFBON01WSDVfM29UZTM0ejRXNkxDMVMtZkVFdS1KQ3NSQ0J1Y2FJc1ZDeGoyal9nQjIxalFHSUVtX1ZQN0NTa3FB?oc=5) (Fri, 24 Jul 2026 19:30:01 GMT)
 
 <!-- END_dashboard -->
 
