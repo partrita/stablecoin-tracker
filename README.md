@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-26 01:58:32 (UTC)*
+*Last Updated: 2026-07-27 02:06:18 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$288,273,812,840** | 🔴 -0.02% | 🔴 -0.42% |
+| **$287,938,516,563** | 🔴 -0.12% | 🔴 -0.51% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [Circle CEO Jeremy Allaire Says the Stablecoin Market Is Going to See Record Growth. What Does That Mean for CRCL Stock? - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVdDWFVqV1dMM1hZZGtXUFo2WEMxUHJMUXVvT2x2SFpNYVVLcU50TWEyVV9ka0JtazlCdXlDNVVPY0JWTWNDTVZhUldDc0tkM29PbHp1TWlMdWRBZEhtd1ZHd2hnMmpTXzZsQTlIel9ZUTRWWjVOYlZ0bmhKcDkzdTFzYmZnU0tZS2YwMVRNY3pMQ1d5blBzaA?oc=5) (Sun, 26 Jul 2026 15:27:00 GMT)
+- [Circle CEO Jeremy Allaire Says the Stablecoin Market Is Going to See Record Growth. What Does That Mean for CRCL Stock? - The Globe and Mail](https://news.google.com/rss/articles/CBMirAJBVV95cUxPZVFCZzBuQ3JWcmlwS29paWRhMUhmcTZybU5XckJHWDNtVTFuSnhiU1V2di1MRXItc0ZFYlZCOWxFOU9XaVpEVGpqTXZsWUJKZnRNTzRqUUlfQmxnZWFZTFNJLVFjVHJ2ZnpmYlpwN29ETjBMcS1oMG01NWxicC1wUTEtZXdMNGwtNjJwM2xiUEp4eFlTTkZqNUNTUGlVcFI0VDlDSFU2VEh2SVRJZWtSOXozWk1RVlZ2U1R0NzNDYlRwU2FValR1SkF3RTN2eHFtc0lWRnRDOVlkRjdNMlpVc1ppaTN3Sm5DdFhoYUphWXBMS0lvRF9TQkR3QWM4aVNocEozd1g1NlVqaE5YaDViQ0NRdzhIRXlhaW5icUhVNUtwMlVZRkpLUmdORXY?oc=5) (Sun, 26 Jul 2026 14:48:02 GMT)
+- [Circle CEO Jeremy Allaire Says the Stablecoin Market Is Going to See Record Growth. What Does That Mean for CRCL Stock? - Yahoo Finance](https://news.google.com/rss/articles/CBMimwFBVV95cUxQUDAzR05jelQ2Q2czVXhsNzU4NHhYeHNNV2pqb0FoTVJKRVNlT2VuY0Z3SHhaaUNoTldsbWRrTjFOb0ttUGFud012Y0FoMl9NMklHYTA3c2JzYS1ITm9xSERQUEt2OGxFZk5fSENnX1NOc0dSbUtLTUpoSFgxZTBINHJyWVFNUXdWdmo2eWhTRDBQU0pfdHVXTjN5OA?oc=5) (Sun, 26 Jul 2026 14:47:30 GMT)
+- [Samsung confirms stablecoin support is coming to Samsung Wallet - SamMobile](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWUpwOHNQdUZXTW5IaWpmME1oc1Vpc1dTdmIzUVFMcFVqZ2U0aVRlU0JZTi0yV2xnZHRya3hha1RCMU1QZ1Y1OXIzbDVhVGFKZERNbk83b1ZzSUR5azdNdmdyMDBzcFk1SUhZdWdnTjJ3YVNyS0ctdzdfRV9YUnhKU3U4QUhVN1FDVTMyV1N5RENTYkMxc0tVYVlMbw?oc=5) (Sun, 26 Jul 2026 09:14:00 GMT)
 - [Bitcoin price hovers at $64,000 as stablecoin inflows weaken - Investing.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZsZkI1eUp0UjFJZnpsSHdNalhhemQyMi1XRkE5UkhWOW1DU1JVVTJHV1NfUHRlS3BxUG9Gb0NpTl9TS3JJRW9DZjRINGpoN0cxZFdzdllQUU5aRWp2ZW5rd0lDam1sSXZBeGN1WDlESU1wRmJGZ3JUeVptVHB6RWtzSGZSdndrTVRtd3Z2OEtlcHRfNF91Wlcza2xrdUF3WXA0THE4UDRoNkR5N3ZwWVR3VUdJeWxwOWt6YW1CR1hoZVU?oc=5) (Sat, 25 Jul 2026 21:14:03 GMT)
-- [Samsung Wallet is getting native stablecoins - and it could make one token the default for 800M users - CryptoSlate](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTm1Vd3VYdFdZVEhmZll6MW8yTHlVZHB5V2tKM2YxMkdnQmFGcF9NWGYzQTM1LUEwU2ZYRlBYYW42ekIzQWNrUzZWQjQ3M0szRkE3MEd6dlRXMUJZSVAtTl8yRjRvS0xSSDBYQjloV0RyMVJJRHAzY3RXNW5sMFZZVUtVMGo3V2E1S1poQU9hQUxObEFGQ19oa3VmSzc2RTFtN0YwN1dYbExudjBBTkVzaWJ3SG5WTFN4ODdaVm1IZExpNEFjNGF5ZmJZS3RMRzVCQW9pbDF3?oc=5) (Sat, 25 Jul 2026 19:05:17 GMT)
-- [8x faster than US cash: The $1T network settling millions while banks sleep on weekends - CryptoSlate](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkhjYS1idEM2RlpiVVlKU1c1Y1Zocno5d0FJcFQ5T2MzRmNlXzNrR0RlR21wdTViR0lxcTEtdzhQOEUyMUw0T1U5WHpacFpZanJ6aEppMzExZmlrSUljb2NpYlQtSmF6YzNHdXhkLWQ1cFhWOFlNUWdMS2tGWGg2REc5aEJEOTVtNHJPbURR?oc=5) (Sat, 25 Jul 2026 12:25:49 GMT)
-- [Is Circle Internet Group (CRCL) Expensive Or Is Its Stablecoin Story Still Priced Too Low? - simplywall.st](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSm1RWlZKRm5mWk9Ec2U4YmNKcW9EdDk1YVFiSFN1Y1FNeGc0RFlJQkQ5WVFOdWVrNEdQZlZOMmJpUTU4RG5EU3hfb0xiVXZwYXdhU3ZKeElndHNYOXhJQnpHU1RNZmRjc294SWRtMHRfMXI0dmdCTTdVc3I0VWpfUmYwblpKdFRZYXI1ZUJnZ3Q5aUI4aDNYSzRzSVM1R010VVBkdm9TSzFkREFCY2NaWFVaZ2lwUGxlLWhacFdHVmdxTzBKX0R3ZjZrc0NwNExTRGlUT9IB2gFBVV95cUxPV1Z3czR2TllXd2V3VkNHNFhxTTlXWndHNmtlc3I1ZEhIWVZiTHlEbzkxSnpQdVMwRmRGYlRaMkxFUFlYQ3M5UndXZjJTeTZyeTJZaGtEck1FbkNTd21IRS13XzRHZV9PNXAtN0ZzMkh4eFpQR09Pa28wQ1p2N2dTQmRXWFJVM29TbjZEbENBRGlUMWdsdHo1elVfb2FOR20xNjZHS1JkQWNhUzVBWkVTXy0wLWlNTkNvekxTQmdlVzMtbm5pbjNCZGRNdDJYS0E1M1QwS0NhMHhxZw?oc=5) (Sat, 25 Jul 2026 03:40:57 GMT)
-- [This Week in Stablecoins: Visa, Goldman and Samsung Raise the Stakes - PYMNTS.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWC1uNjR1dGFrTkpNUFdNc2owVmJNNktsNEFYdFg2NWkybC0xUUU0Y0pnaTN4dzdfeFc1T0EydVduLUIyUklEb0pqb1JpRXNmLXo3T1lqekREUk9DZFYwSkF0V01Dc0l4T0FjdWhPdlpwMnZwZUhnR19kOXJKMkEyeHE5RlNBRkl4V25nbjZNT25Qb2lURTkwbEtXalJxSDFiSnF4SmYwTHh4bDdVb2ZB?oc=5) (Fri, 24 Jul 2026 23:55:59 GMT)
 
 <!-- END_dashboard -->
 
