@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-27 02:06:18 (UTC)*
+*Last Updated: 2026-07-28 01:47:36 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$287,938,516,563** | 🔴 -0.12% | 🔴 -0.51% |
+| **$287,834,888,148** | 🔴 -0.04% | 🔴 -0.54% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Circle CEO Jeremy Allaire Says the Stablecoin Market Is Going to See Record Growth. What Does That Mean for CRCL Stock? - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVdDWFVqV1dMM1hZZGtXUFo2WEMxUHJMUXVvT2x2SFpNYVVLcU50TWEyVV9ka0JtazlCdXlDNVVPY0JWTWNDTVZhUldDc0tkM29PbHp1TWlMdWRBZEhtd1ZHd2hnMmpTXzZsQTlIel9ZUTRWWjVOYlZ0bmhKcDkzdTFzYmZnU0tZS2YwMVRNY3pMQ1d5blBzaA?oc=5) (Sun, 26 Jul 2026 15:27:00 GMT)
-- [Circle CEO Jeremy Allaire Says the Stablecoin Market Is Going to See Record Growth. What Does That Mean for CRCL Stock? - The Globe and Mail](https://news.google.com/rss/articles/CBMirAJBVV95cUxPZVFCZzBuQ3JWcmlwS29paWRhMUhmcTZybU5XckJHWDNtVTFuSnhiU1V2di1MRXItc0ZFYlZCOWxFOU9XaVpEVGpqTXZsWUJKZnRNTzRqUUlfQmxnZWFZTFNJLVFjVHJ2ZnpmYlpwN29ETjBMcS1oMG01NWxicC1wUTEtZXdMNGwtNjJwM2xiUEp4eFlTTkZqNUNTUGlVcFI0VDlDSFU2VEh2SVRJZWtSOXozWk1RVlZ2U1R0NzNDYlRwU2FValR1SkF3RTN2eHFtc0lWRnRDOVlkRjdNMlpVc1ppaTN3Sm5DdFhoYUphWXBMS0lvRF9TQkR3QWM4aVNocEozd1g1NlVqaE5YaDViQ0NRdzhIRXlhaW5icUhVNUtwMlVZRkpLUmdORXY?oc=5) (Sun, 26 Jul 2026 14:48:02 GMT)
-- [Circle CEO Jeremy Allaire Says the Stablecoin Market Is Going to See Record Growth. What Does That Mean for CRCL Stock? - Yahoo Finance](https://news.google.com/rss/articles/CBMimwFBVV95cUxQUDAzR05jelQ2Q2czVXhsNzU4NHhYeHNNV2pqb0FoTVJKRVNlT2VuY0Z3SHhaaUNoTldsbWRrTjFOb0ttUGFud012Y0FoMl9NMklHYTA3c2JzYS1ITm9xSERQUEt2OGxFZk5fSENnX1NOc0dSbUtLTUpoSFgxZTBINHJyWVFNUXdWdmo2eWhTRDBQU0pfdHVXTjN5OA?oc=5) (Sun, 26 Jul 2026 14:47:30 GMT)
-- [Samsung confirms stablecoin support is coming to Samsung Wallet - SamMobile](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWUpwOHNQdUZXTW5IaWpmME1oc1Vpc1dTdmIzUVFMcFVqZ2U0aVRlU0JZTi0yV2xnZHRya3hha1RCMU1QZ1Y1OXIzbDVhVGFKZERNbk83b1ZzSUR5azdNdmdyMDBzcFk1SUhZdWdnTjJ3YVNyS0ctdzdfRV9YUnhKU3U4QUhVN1FDVTMyV1N5RENTYkMxc0tVYVlMbw?oc=5) (Sun, 26 Jul 2026 09:14:00 GMT)
-- [Bitcoin price hovers at $64,000 as stablecoin inflows weaken - Investing.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZsZkI1eUp0UjFJZnpsSHdNalhhemQyMi1XRkE5UkhWOW1DU1JVVTJHV1NfUHRlS3BxUG9Gb0NpTl9TS3JJRW9DZjRINGpoN0cxZFdzdllQUU5aRWp2ZW5rd0lDam1sSXZBeGN1WDlESU1wRmJGZ3JUeVptVHB6RWtzSGZSdndrTVRtd3Z2OEtlcHRfNF91Wlcza2xrdUF3WXA0THE4UDRoNkR5N3ZwWVR3VUdJeWxwOWt6YW1CR1hoZVU?oc=5) (Sat, 25 Jul 2026 21:14:03 GMT)
+- [Stablecoins and Credit Unions: Preparing for the Next Payments Rail - Credit Union Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxNd1RtaEczYkstWUtWbTdJdWd5NldKZlJLS291NUQ1Q2ZoTnJMVzlucWpzb3pkbVdMS1dXemEtSEczaGpfRVdhRi01QmFNZHV6STh6UXRlZEEyR2pJcDdHdkxXeVo4Y01fRVlRRloxMEJ3Q09FcFBtdXI1TmhRTkZfejZoQ2U4Z0ptQXRYUmpXcWNNY19rS0FESlZXSHRLeXFnY05FWg?oc=5) (Mon, 27 Jul 2026 23:44:02 GMT)
+- [The Stablecoin Sandwich Is Missing the Trust Layer - PYMNTS.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGZPUElObWhrZWtmbWc4TVlnM2lJNEZVOU1mUVNKOWZKOEpiTXZ6UUFKQm56Z0dBLVhZUUVlaTlHaExBcXpBMDdCMFR6cVg5Q2QtTnhyTGEtTXN5NHhLZ2U5SlplNlllNHNCWFZ3aEZBRGc5UGp6NXZTcUpRa1h1VkZqTVlsdmZ4MWRDNlBaQTV4eXRP?oc=5) (Mon, 27 Jul 2026 20:51:02 GMT)
+- [TD Bank (TSX:TD) Joins Stablecoin Reserves Custody With Stablecorp - Yahoo Finance](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDV3dEdMTzZqcmJKcGJ5RVNiZTFIUGRMSzhKSVJwRWJ4MWJ0ekRoNEgtaDVNX0lDWUpNRWthb0RXLXZTWWVBd3I2LV9VUEhwcnZhR1dyVDdRcGNQbE9SWGlnT014MXJja3ZrZHgzdmZpalJnTC13SEROTHJpR0RwSUJVZ1VJUGRHV1JxXzdB?oc=5) (Mon, 27 Jul 2026 19:07:42 GMT)
+- [Florida creates licensing regime for stablecoin issuers, pilot allowing stablecoin fee payments - JD Supra](https://news.google.com/rss/articles/CBMihgFBVV95cUxNYUN0bW9VTzVZWlpPdTRZcnpPVjJ0RG54TUtIcERvOF9xdXhOLVRnc0hEX05KeGgtVk9zanhQYUpGa3ROb1c3T1o1ZFhWODc5MDVkY3N5ZW84UHhtSmVuVUtoQXM3YzdQd0tKRUpXY01wNEJ2ZW1qc2htV24zaEdkWnRaTW84QQ?oc=5) (Mon, 27 Jul 2026 18:59:26 GMT)
+- [Stablecoin Firm Triple-A Suffers $11.8 Million Theft of Assets - PYMNTS.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMF9WT2oyaFRoRDRQU1lJVERpR3lVN3BkbGY1VE1iTEJoYkRmRzhFZ3VCb3Y2N3dLSGJKNVdYMnBhYUpMQnhQanlLeE9nSU52c2xYQ010RFE1c0lGN0NTNGphbFlOOUEtZ1BJVnlCWUNseWFfQXdtNmpKWHFpaE0wTkk4VExOd2phRlIwSHRkZExhd21WUWFJbE51dy1GaHgzRzJQY2hOZw?oc=5) (Mon, 27 Jul 2026 18:46:01 GMT)
 
 <!-- END_dashboard -->
 
