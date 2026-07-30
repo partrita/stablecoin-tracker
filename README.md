@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-29 01:50:09 (UTC)*
+*Last Updated: 2026-07-30 01:43:01 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$287,597,136,945** | 🔴 -0.08% | 🔴 -0.57% |
+| **$287,172,313,246** | 🔴 -0.15% | 🔴 -0.70% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoins and Credit Unions: Preparing for the Next Payments Rail - Credit Union Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxNd1RtaEczYkstWUtWbTdJdWd5NldKZlJLS291NUQ1Q2ZoTnJMVzlucWpzb3pkbVdMS1dXemEtSEczaGpfRVdhRi01QmFNZHV6STh6UXRlZEEyR2pJcDdHdkxXeVo4Y01fRVlRRloxMEJ3Q09FcFBtdXI1TmhRTkZfejZoQ2U4Z0ptQXRYUmpXcWNNY19rS0FESlZXSHRLeXFnY05FWg?oc=5) (Mon, 27 Jul 2026 23:44:02 GMT)
-- [The Stablecoin Sandwich Is Missing the Trust Layer - PYMNTS.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGZPUElObWhrZWtmbWc4TVlnM2lJNEZVOU1mUVNKOWZKOEpiTXZ6UUFKQm56Z0dBLVhZUUVlaTlHaExBcXpBMDdCMFR6cVg5Q2QtTnhyTGEtTXN5NHhLZ2U5SlplNlllNHNCWFZ3aEZBRGc5UGp6NXZTcUpRa1h1VkZqTVlsdmZ4MWRDNlBaQTV4eXRP?oc=5) (Mon, 27 Jul 2026 20:51:02 GMT)
-- [TD Bank (TSX:TD) Joins Stablecoin Reserves Custody With Stablecorp - Yahoo Finance](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDV3dEdMTzZqcmJKcGJ5RVNiZTFIUGRMSzhKSVJwRWJ4MWJ0ekRoNEgtaDVNX0lDWUpNRWthb0RXLXZTWWVBd3I2LV9VUEhwcnZhR1dyVDdRcGNQbE9SWGlnT014MXJja3ZrZHgzdmZpalJnTC13SEROTHJpR0RwSUJVZ1VJUGRHV1JxXzdB?oc=5) (Mon, 27 Jul 2026 19:07:42 GMT)
-- [Florida creates licensing regime for stablecoin issuers, pilot allowing stablecoin fee payments - JD Supra](https://news.google.com/rss/articles/CBMihgFBVV95cUxNYUN0bW9VTzVZWlpPdTRZcnpPVjJ0RG54TUtIcERvOF9xdXhOLVRnc0hEX05KeGgtVk9zanhQYUpGa3ROb1c3T1o1ZFhWODc5MDVkY3N5ZW84UHhtSmVuVUtoQXM3YzdQd0tKRUpXY01wNEJ2ZW1qc2htV24zaEdkWnRaTW84QQ?oc=5) (Mon, 27 Jul 2026 18:59:26 GMT)
-- [Stablecoin Firm Triple-A Suffers $11.8 Million Theft of Assets - PYMNTS.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMF9WT2oyaFRoRDRQU1lJVERpR3lVN3BkbGY1VE1iTEJoYkRmRzhFZ3VCb3Y2N3dLSGJKNVdYMnBhYUpMQnhQanlLeE9nSU52c2xYQ010RFE1c0lGN0NTNGphbFlOOUEtZ1BJVnlCWUNseWFfQXdtNmpKWHFpaE0wTkk4VExOd2phRlIwSHRkZExhd21WUWFJbE51dy1GaHgzRzJQY2hOZw?oc=5) (Mon, 27 Jul 2026 18:46:01 GMT)
+- [What&#x27;s Inside Proposed, Expanded NY Stablecoin Regulations - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnSGR1MVV3V19iM2JzR3dWRzN4Wk9nNnJYdlV4R0hUcF9GX1p2TU43ZTRScU5fcW1fWUNYY3hlSEF4Z0hSWThhbUZUUXdLZDI1UTZJdHdn0gFWQVVfeXFMUGdIZHUxVXdXX2IzYnNHd1ZHM3haT2c2clh2VXhHSFRwX0ZfWnZNTjdlNFJxTl9xbV9ZQ1hjeGVIQXhnSFJZOGFtRlRRd0tkMjVRNkl0d2c?oc=5) (Wed, 29 Jul 2026 21:57:00 GMT)
+- [What&#x27;s Inside Proposed, Expanded NY Stablecoin Regulations - Law360](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEJmRnJrbmUtRHY5QXM0bVBGNXliZWpfVmRaV2cwOGFRZHNwRC1PWGVjNXdheE5kSzhSTHpkSHF0aVIxNzFQRWhRbV9KRU80d3dLVk8xeFNEME5mNldrTHlzVVJvQjZpeEc2TmJDZUV2RGJlZk1OdlVxN0ladVJxcElDUk93V2N3S2h1bk5IcjNNMjVRSTdvVUp2NU1hN1FTUEVsWUJXRlpBeGxaM0ZR0gFWQVVfeXFMUGdIZHUxVXdXX2IzYnNHd1ZHM3haT2c2clh2VXhHSFRwX0ZfWnZNTjdlNFJxTl9xbV9ZQ1hjeGVIQXhnSFJZOGFtRlRRd0tkMjVRNkl0d2c?oc=5) (Wed, 29 Jul 2026 21:57:00 GMT)
+- [Anchorage&#x27;s Nathan McCauley say GENIUS moved two of the top three stablecoins onshore - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXJxZFFVTXplOVd6MDAwcldDVzBnQlI4TGhyMG1PSlJzZmQweENvSFY2cEo5VTlkYlFuY1dmUzUzZVFVREN4UWNfRVRhMDhCREhFMGUyM2VSSGhwazRfbDlBTmZRWXRhVTlncTR6S0RhdnVDdHltd3dPcEpDTzViTk9iMG5wbmNYZHdwMXIzX3R1QQ?oc=5) (Wed, 29 Jul 2026 20:09:45 GMT)
+- [Banking Groups Demand Guardrails Before Stablecoin Panel Begins Work - CU Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekFjNmJ2TU5LMW5aRDdrMDh2bm9uT3Q0eUVwT2VJRnMzOHUxZjhTQ0JBdW9FU3FXcldfdXFOWGVEZ0RHTE9SMHE2OFBNTk9nSms1WWFoZGd6SFhLa2p3VFNTcXRwQ3o4TVA4bkR2UGRGTjh0YWFrT1N0NVBfTFRNcEwyNlFxX0oxRXBGSHFkcVp5WWJyY1pWNjJGWGYwamZsY0RJeGVuR1Y?oc=5) (Wed, 29 Jul 2026 19:41:05 GMT)
+- [Visa CEO sidesteps labeling Open USD a challenger to Tether and USDC: &#x27;Our role is not to pick winners&#x27; - The Block](https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2ZOeEV0ekJfeEJyS19pdzNXV3lubkY3OXprMDZ0ckNzZHM2SnkwU3dFX1FrdW5ZQVY2ZURpUzFRYUxNYURua0ZrMHROME5mZXVTQThIZ3BOTjZyZkoxczlMYmVWTEdjcnp6ellYalFzQTZRUWVxUU9nQVZBUjE0dmloNFJuZVBIZEN0WG5TY2lmNmQxN0VYT0J4TFJMeFJCVnBGQTJXaUZvWmJ2WFUtQjRWaXEyZw?oc=5) (Wed, 29 Jul 2026 17:06:06 GMT)
 
 <!-- END_dashboard -->
 
