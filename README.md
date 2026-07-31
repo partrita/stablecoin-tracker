@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-30 01:43:01 (UTC)*
+*Last Updated: 2026-07-31 02:00:13 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$287,172,313,246** | 🔴 -0.15% | 🔴 -0.70% |
+| **$286,994,982,515** | 🔴 -0.06% | 🔴 -0.62% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [What&#x27;s Inside Proposed, Expanded NY Stablecoin Regulations - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnSGR1MVV3V19iM2JzR3dWRzN4Wk9nNnJYdlV4R0hUcF9GX1p2TU43ZTRScU5fcW1fWUNYY3hlSEF4Z0hSWThhbUZUUXdLZDI1UTZJdHdn0gFWQVVfeXFMUGdIZHUxVXdXX2IzYnNHd1ZHM3haT2c2clh2VXhHSFRwX0ZfWnZNTjdlNFJxTl9xbV9ZQ1hjeGVIQXhnSFJZOGFtRlRRd0tkMjVRNkl0d2c?oc=5) (Wed, 29 Jul 2026 21:57:00 GMT)
-- [What&#x27;s Inside Proposed, Expanded NY Stablecoin Regulations - Law360](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEJmRnJrbmUtRHY5QXM0bVBGNXliZWpfVmRaV2cwOGFRZHNwRC1PWGVjNXdheE5kSzhSTHpkSHF0aVIxNzFQRWhRbV9KRU80d3dLVk8xeFNEME5mNldrTHlzVVJvQjZpeEc2TmJDZUV2RGJlZk1OdlVxN0ladVJxcElDUk93V2N3S2h1bk5IcjNNMjVRSTdvVUp2NU1hN1FTUEVsWUJXRlpBeGxaM0ZR0gFWQVVfeXFMUGdIZHUxVXdXX2IzYnNHd1ZHM3haT2c2clh2VXhHSFRwX0ZfWnZNTjdlNFJxTl9xbV9ZQ1hjeGVIQXhnSFJZOGFtRlRRd0tkMjVRNkl0d2c?oc=5) (Wed, 29 Jul 2026 21:57:00 GMT)
-- [Anchorage&#x27;s Nathan McCauley say GENIUS moved two of the top three stablecoins onshore - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXJxZFFVTXplOVd6MDAwcldDVzBnQlI4TGhyMG1PSlJzZmQweENvSFY2cEo5VTlkYlFuY1dmUzUzZVFVREN4UWNfRVRhMDhCREhFMGUyM2VSSGhwazRfbDlBTmZRWXRhVTlncTR6S0RhdnVDdHltd3dPcEpDTzViTk9iMG5wbmNYZHdwMXIzX3R1QQ?oc=5) (Wed, 29 Jul 2026 20:09:45 GMT)
-- [Banking Groups Demand Guardrails Before Stablecoin Panel Begins Work - CU Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekFjNmJ2TU5LMW5aRDdrMDh2bm9uT3Q0eUVwT2VJRnMzOHUxZjhTQ0JBdW9FU3FXcldfdXFOWGVEZ0RHTE9SMHE2OFBNTk9nSms1WWFoZGd6SFhLa2p3VFNTcXRwQ3o4TVA4bkR2UGRGTjh0YWFrT1N0NVBfTFRNcEwyNlFxX0oxRXBGSHFkcVp5WWJyY1pWNjJGWGYwamZsY0RJeGVuR1Y?oc=5) (Wed, 29 Jul 2026 19:41:05 GMT)
-- [Visa CEO sidesteps labeling Open USD a challenger to Tether and USDC: &#x27;Our role is not to pick winners&#x27; - The Block](https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2ZOeEV0ekJfeEJyS19pdzNXV3lubkY3OXprMDZ0ckNzZHM2SnkwU3dFX1FrdW5ZQVY2ZURpUzFRYUxNYURua0ZrMHROME5mZXVTQThIZ3BOTjZyZkoxczlMYmVWTEdjcnp6ellYalFzQTZRUWVxUU9nQVZBUjE0dmloNFJuZVBIZEN0WG5TY2lmNmQxN0VYT0J4TFJMeFJCVnBGQTJXaUZvWmJ2WFUtQjRWaXEyZw?oc=5) (Wed, 29 Jul 2026 17:06:06 GMT)
+- [Florida Enacts Stablecoin Licensing Framework and Government Payment Pilot - The National Law Review](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb092dm9GR0l6S2NvMW5Yd0Y2WDVYSk1OOHo2aUFnX0U3TVc1U3BfNktOd0xFV0Vua25DNXpoczU4TWpMRkZDLWwteGZDX0VhQ2sySkU5VkxybjNVTzMzdG54dFg1ckJhNkRkX0pIanloWW82cU56SUJma3VPSmJZMXBRakMwZUR0WkVNVkJFU1BKVGVyM1RKR3FBNGtNVXh4S2NwLTFiQmF4Y3fSAbABQVVfeXFMT1BvcEl5clJHbTRINzZReFZoZ0I2Nm0zUUl0d09BdGV1Mm1RdEtDVVo4TzBLZDVIOGR0RVNKeXhEVE0xWWNZbHQyZHFTLTJwV21URmJNRHpBZ2tvSVN6Szh5ZnhEdmtwVFV0dDJIVHlpV0FtTFNmQWF4Rnk3UjA1RUNGeXpNMFRVZ05RcTZYQ3k5VTI2WEFmSVRzVWJsblltdnNLeGdYaldlOUpuQkltcTc?oc=5) (Thu, 30 Jul 2026 23:54:38 GMT)
+- [FINANCIAL TECHNOLOGY—Banking... - VitalLaw.com](https://news.google.com/rss/articles/CBMiigJBVV95cUxNUEh5enVHMkNZLXB4OHhRX1JLUEtUWklNYjkybGMwUGVXSl9CVEYyMWI1bFdRclhIYWdzSWJ4SldlWVktNUxxRmdfZkJLV2QyNGRVWEVlSnEwNFhpUER4dlAwZXJOOFZtWXVLUjY5LXZINnBNRVgzaVlxeXFJUU9NZDRXWC0yYVFPU2JjYkdQUzd1dE5XeEFjOU9BTEVxZmlIN2NXMG54QXlhYzNseG9EREpjT0hTZVNxVEFyZzB3UC1KVUhpU2FBZWVlVU54ZnI1WlZpZEh6TWlIV1d5Mmt1NldYVnlOeUhxenpMNlRTdzJOUzE1TWF0UGtyWmhnRTRVV3duMHVRcTJPUQ?oc=5) (Thu, 30 Jul 2026 21:27:00 GMT)
+- [Stripe Helps Data Firm Dune Accept Stablecoin Payments - PYMNTS.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOG1xcHJmU0VMTWdETEZ5WkpPRjdNWThwa1lETHlvUW11bVVGT0t4bHBMbVFIT21VekU0dDEyVERuQl94X1ZhYVYzRGQ3WDZRZ0ZZRm9XODN1b1JqV1hsS1I2SHozT2FITmNSSHprYVBLc0pUU2hYdlZ0TnNwS3pUOEFFX3BpMDc4OVp3QVFPbmlKTFhuZEhCOGVn?oc=5) (Thu, 30 Jul 2026 18:07:35 GMT)
+- [Credit Unions Urged To Weigh In On Stablecoin ID Rules Before Deadline - CU Today](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnhHWWZoMHVoZEQwaFMxUTE0ZkE0TTRqWmlhaTFqdGg3eTVrRDE0dUF6NmxnX3pwUERqRi13QVlsaTJCM0hfWnhMTTM1a2hOXzktOGF0WHlWX1FIb1luaEI3UjdWdnBXMTR6R2RNUm41MTA3Q3Jvd1FHdTdTZURDVG1CVXU4aUQ3M3dGYV9OWnVrMzM5Wm5PcHRtaGZxOWduM1Vhc2U3UHF4MFk?oc=5) (Thu, 30 Jul 2026 17:46:11 GMT)
+- [Stablecoins complement dollar: Fed - Payments Dive](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZi1sYW5vZnNUaDlKSk0zM1gwYlVmTTB4bHZ2NmRpdTV6WnZzNmpUbXR3YVM1ZWdnWWIxelZYV0pSdm4wcWhlLW1oSl90eVRuWWx3ci1CZnNtN1FSaWFmdXRaVEo1a1NYTWRZSTRJMmlXSHoxZENiMXNNb0t2UTczZw?oc=5) (Thu, 30 Jul 2026 15:15:33 GMT)
 
 <!-- END_dashboard -->
 
