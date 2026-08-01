@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-07-31 02:00:13 (UTC)*
+*Last Updated: 2026-08-01 02:01:27 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$286,994,982,515** | 🔴 -0.06% | 🔴 -0.62% |
+| **$286,549,140,665** | 🔴 -0.16% | 🔴 -0.62% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Florida Enacts Stablecoin Licensing Framework and Government Payment Pilot - The National Law Review](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb092dm9GR0l6S2NvMW5Yd0Y2WDVYSk1OOHo2aUFnX0U3TVc1U3BfNktOd0xFV0Vua25DNXpoczU4TWpMRkZDLWwteGZDX0VhQ2sySkU5VkxybjNVTzMzdG54dFg1ckJhNkRkX0pIanloWW82cU56SUJma3VPSmJZMXBRakMwZUR0WkVNVkJFU1BKVGVyM1RKR3FBNGtNVXh4S2NwLTFiQmF4Y3fSAbABQVVfeXFMT1BvcEl5clJHbTRINzZReFZoZ0I2Nm0zUUl0d09BdGV1Mm1RdEtDVVo4TzBLZDVIOGR0RVNKeXhEVE0xWWNZbHQyZHFTLTJwV21URmJNRHpBZ2tvSVN6Szh5ZnhEdmtwVFV0dDJIVHlpV0FtTFNmQWF4Rnk3UjA1RUNGeXpNMFRVZ05RcTZYQ3k5VTI2WEFmSVRzVWJsblltdnNLeGdYaldlOUpuQkltcTc?oc=5) (Thu, 30 Jul 2026 23:54:38 GMT)
-- [FINANCIAL TECHNOLOGY—Banking... - VitalLaw.com](https://news.google.com/rss/articles/CBMiigJBVV95cUxNUEh5enVHMkNZLXB4OHhRX1JLUEtUWklNYjkybGMwUGVXSl9CVEYyMWI1bFdRclhIYWdzSWJ4SldlWVktNUxxRmdfZkJLV2QyNGRVWEVlSnEwNFhpUER4dlAwZXJOOFZtWXVLUjY5LXZINnBNRVgzaVlxeXFJUU9NZDRXWC0yYVFPU2JjYkdQUzd1dE5XeEFjOU9BTEVxZmlIN2NXMG54QXlhYzNseG9EREpjT0hTZVNxVEFyZzB3UC1KVUhpU2FBZWVlVU54ZnI1WlZpZEh6TWlIV1d5Mmt1NldYVnlOeUhxenpMNlRTdzJOUzE1TWF0UGtyWmhnRTRVV3duMHVRcTJPUQ?oc=5) (Thu, 30 Jul 2026 21:27:00 GMT)
-- [Stripe Helps Data Firm Dune Accept Stablecoin Payments - PYMNTS.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOG1xcHJmU0VMTWdETEZ5WkpPRjdNWThwa1lETHlvUW11bVVGT0t4bHBMbVFIT21VekU0dDEyVERuQl94X1ZhYVYzRGQ3WDZRZ0ZZRm9XODN1b1JqV1hsS1I2SHozT2FITmNSSHprYVBLc0pUU2hYdlZ0TnNwS3pUOEFFX3BpMDc4OVp3QVFPbmlKTFhuZEhCOGVn?oc=5) (Thu, 30 Jul 2026 18:07:35 GMT)
-- [Credit Unions Urged To Weigh In On Stablecoin ID Rules Before Deadline - CU Today](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnhHWWZoMHVoZEQwaFMxUTE0ZkE0TTRqWmlhaTFqdGg3eTVrRDE0dUF6NmxnX3pwUERqRi13QVlsaTJCM0hfWnhMTTM1a2hOXzktOGF0WHlWX1FIb1luaEI3UjdWdnBXMTR6R2RNUm41MTA3Q3Jvd1FHdTdTZURDVG1CVXU4aUQ3M3dGYV9OWnVrMzM5Wm5PcHRtaGZxOWduM1Vhc2U3UHF4MFk?oc=5) (Thu, 30 Jul 2026 17:46:11 GMT)
-- [Stablecoins complement dollar: Fed - Payments Dive](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZi1sYW5vZnNUaDlKSk0zM1gwYlVmTTB4bHZ2NmRpdTV6WnZzNmpUbXR3YVM1ZWdnWWIxelZYV0pSdm4wcWhlLW1oSl90eVRuWWx3ci1CZnNtN1FSaWFmdXRaVEo1a1NYTWRZSTRJMmlXSHoxZENiMXNNb0t2UTczZw?oc=5) (Thu, 30 Jul 2026 15:15:33 GMT)
+- [The roadmap for a baht-backed stablecoin - Bangkok Post](https://news.google.com/rss/articles/CBMilwFBVV95cUxQajZTNnVUWHJ5TzU1NFpTNnBfUWFwRmJNQXd2eWxELW5UUjNxdnRaSVJ6VUZ2eXpsRlN5a1B1LUx5QTZ0R3V3NTYwaS02c1lETF9jcy14ZW10ZUhDMWN4QUgwd05rRmhEMGRCdzlrZWoxaGZQMlJseHpLSUQ1dXlQOWRCZVpSMEJpa0dWaXNrMFVlcVY2YlhZ?oc=5) (Fri, 31 Jul 2026 21:54:00 GMT)
+- [Brale Debuts ION Interoperability Protocol to Unlock Global Stablecoin Liquidity - ffnews.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHVDYXNNQmhPVlN4VUdvdV9lUzctRUZXdmlIV0lSM21qNU1HVm4xNi1DVmUtVnVNZ3BUUTY0YmstR291NmJpRHQzckFUamdtMFBEY2FxQW41eHhBZkNtRlVXUHJTRUZhOE50c0NWb05WRFFSd1VNMFNJQkdULXB3cjJ5QXI2X1VhMTdjeUlvNFRoOGRZWnJZZTh2R0hUZGlBWVE1OWZ1RQ?oc=5) (Fri, 31 Jul 2026 21:45:12 GMT)
+- [Bank of Italy finds no consistent cost advantage for stablecoin remittances - TradingView](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVEZuWXdLbVpocG5XWGFNbzZUU0Y3RG9lbkFJMVdjdVFyTUZFcDYtMkd5Tmc2WURKVi1EeGpZUkhfcWFreWFmQXZ4MWFJTnFJSGdMa1BpM3FuWEpOTzVmczYwZTJ6THdMNGNheG5jS0dGcno1ZFNhQWprSllGTlh4X2pXWkNWRFRmbnNURUNKdUpjT3k0ckRPYVB1aWlBZGc3ZW8zam11dGs0anV5WENSZzl3MTdzUnZKUUFoa244ZmNFVjZ1T2FwTVVkMGV2dEUzSGRmeXRn?oc=5) (Fri, 31 Jul 2026 20:10:21 GMT)
+- [Circle’s NYDFS Trust Charter Completes a Regulatory Depth Moat No Other Stablecoin Issuer Can Match - forkast.news](https://news.google.com/rss/articles/CBMivAFBVV95cUxPQVRZMWoxRWRia2Z6eWx6dElUQjVlLVlyYWc3WnBiQXBVUUFZeFFQdmVPbzVvRm13NHQ5WndZNkRHX2ZMX2VkeHRFWWxLTkNsUTc5Q3RvdHNROUx5MDRGZ2Vvd1pJTGFfVWlQSkdBMXdiNHV2cWhNc1dZNXBtZ1NNOFZXQmxHOFJTUm9STlRzbGNJVHR0Q3FISFdxX29VWldWalF3ODJMcnNYem5vamJMMUFxLUgweERUQmVuSA?oc=5) (Fri, 31 Jul 2026 19:57:53 GMT)
+- [Florida Enacts Stablecoin Licensing Framework and Government Payment Pilot - JD Supra](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZW9EeWtWendfdHV2NFBMNFQtTzJoUERIbDVEOEZUdGpJcF81RG1aSmNiSHExZDlKSTM2T1FxRHFXMGc5ang2T3ZvdjY1YjN2NlVrellDUy0wdTZXWGpXZVBFMi13dTFPSXVTdDBxVHpvWG1ucndxTjYyeGNDcEd1OE9Bbnc?oc=5) (Fri, 31 Jul 2026 18:49:14 GMT)
 
 <!-- END_dashboard -->
 
