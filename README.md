@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-08-01 02:01:27 (UTC)*
+*Last Updated: 2026-08-02 01:57:50 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$286,549,140,665** | 🔴 -0.16% | 🔴 -0.62% |
+| **$286,617,973,759** | 🟢 +0.02% | 🔴 -0.57% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [The roadmap for a baht-backed stablecoin - Bangkok Post](https://news.google.com/rss/articles/CBMilwFBVV95cUxQajZTNnVUWHJ5TzU1NFpTNnBfUWFwRmJNQXd2eWxELW5UUjNxdnRaSVJ6VUZ2eXpsRlN5a1B1LUx5QTZ0R3V3NTYwaS02c1lETF9jcy14ZW10ZUhDMWN4QUgwd05rRmhEMGRCdzlrZWoxaGZQMlJseHpLSUQ1dXlQOWRCZVpSMEJpa0dWaXNrMFVlcVY2YlhZ?oc=5) (Fri, 31 Jul 2026 21:54:00 GMT)
-- [Brale Debuts ION Interoperability Protocol to Unlock Global Stablecoin Liquidity - ffnews.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHVDYXNNQmhPVlN4VUdvdV9lUzctRUZXdmlIV0lSM21qNU1HVm4xNi1DVmUtVnVNZ3BUUTY0YmstR291NmJpRHQzckFUamdtMFBEY2FxQW41eHhBZkNtRlVXUHJTRUZhOE50c0NWb05WRFFSd1VNMFNJQkdULXB3cjJ5QXI2X1VhMTdjeUlvNFRoOGRZWnJZZTh2R0hUZGlBWVE1OWZ1RQ?oc=5) (Fri, 31 Jul 2026 21:45:12 GMT)
-- [Bank of Italy finds no consistent cost advantage for stablecoin remittances - TradingView](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVEZuWXdLbVpocG5XWGFNbzZUU0Y3RG9lbkFJMVdjdVFyTUZFcDYtMkd5Tmc2WURKVi1EeGpZUkhfcWFreWFmQXZ4MWFJTnFJSGdMa1BpM3FuWEpOTzVmczYwZTJ6THdMNGNheG5jS0dGcno1ZFNhQWprSllGTlh4X2pXWkNWRFRmbnNURUNKdUpjT3k0ckRPYVB1aWlBZGc3ZW8zam11dGs0anV5WENSZzl3MTdzUnZKUUFoa244ZmNFVjZ1T2FwTVVkMGV2dEUzSGRmeXRn?oc=5) (Fri, 31 Jul 2026 20:10:21 GMT)
-- [Circle’s NYDFS Trust Charter Completes a Regulatory Depth Moat No Other Stablecoin Issuer Can Match - forkast.news](https://news.google.com/rss/articles/CBMivAFBVV95cUxPQVRZMWoxRWRia2Z6eWx6dElUQjVlLVlyYWc3WnBiQXBVUUFZeFFQdmVPbzVvRm13NHQ5WndZNkRHX2ZMX2VkeHRFWWxLTkNsUTc5Q3RvdHNROUx5MDRGZ2Vvd1pJTGFfVWlQSkdBMXdiNHV2cWhNc1dZNXBtZ1NNOFZXQmxHOFJTUm9STlRzbGNJVHR0Q3FISFdxX29VWldWalF3ODJMcnNYem5vamJMMUFxLUgweERUQmVuSA?oc=5) (Fri, 31 Jul 2026 19:57:53 GMT)
-- [Florida Enacts Stablecoin Licensing Framework and Government Payment Pilot - JD Supra](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZW9EeWtWendfdHV2NFBMNFQtTzJoUERIbDVEOEZUdGpJcF81RG1aSmNiSHExZDlKSTM2T1FxRHFXMGc5ang2T3ZvdjY1YjN2NlVrellDUy0wdTZXWGpXZVBFMi13dTFPSXVTdDBxVHpvWG1ucndxTjYyeGNDcEd1OE9Bbnc?oc=5) (Fri, 31 Jul 2026 18:49:14 GMT)
+- [Visa Stays Neutral As Open USD Draws Comparisons To Stablecoins USDT And USDC - Crowdfund Insider](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbDB4TXIwV3hvY19VNGcyaC15OW1HRlVXYWFfYUlUdklRbGc4c2ZqMkNqcFhmWDBYb3VVbFJIYkIybmF6LWRQVlI0QlozZjVtMlprZ3g5MnVwelJIM0h6VVN5MG00VkpWVXllcjlsc0RlUXVSNHhFeXljSXZQbTJLUW9kMkNNREtxMFN3X1BlTFRHcm9pMjg4S2kyd0hiQk5JbHV5R3dNUEJRWnJlVFpJM0NCTHByU29RWVcxaTVfbXktN1JJ?oc=5) (Sat, 01 Aug 2026 22:56:34 GMT)
+- [$7B net stablecoin outflow for 2026 as demand collapses - cryptoquant.com](https://news.google.com/rss/articles/CBMidkFVX3lxTFAtQUtsNVFiRkpLWGJ3Y2ttWGc2SlAzbkhfTXg4bTFtNzlaVk5UMXRvRUcyUW93cDdKNFZkRENiLVowb0EyOHl6Tk5hdFhXNEt6WFc3S2I2QTI2aXNsTjdHVzNTVklqd2FrMy02V09pdWxiNGZwZGc?oc=5) (Sat, 01 Aug 2026 17:59:27 GMT)
+- [Bank of Italy research suggests stablecoins aren&#x27;t necessarily cheaper for remittances - CoinDesk](https://news.google.com/rss/articles/CBMiywFBVV95cUxOZVMxWHg5OFg0bHBhWHpaZkljcE9xZVBIclFtRHlwU3ZJYnM0dzE0R19IaUx3elVZUFdDeXJ0bzZpb09peXFYTXRfWDNyNFlXUWF5WFk1QjNzczVQalNJeHFfSzJaYWN2cWZGWTJRMXFGMklnN0I4MTMxdkdhR2lGbWV4UGNYZUFNcE8tWlRsaFVVSVNyck9EUzN1ZzZhdEpncVlHemdDcXJnSnZ6bzFrUHlqR3RBNWJ3OU1FZDNQSC1scHJHclRoNzBFRQ?oc=5) (Sat, 01 Aug 2026 16:13:13 GMT)
+- [$7B Stablecoin Outflow Raises Liquidity Concerns Despite Bitcoin Holding Above $60K - TradingView](https://news.google.com/rss/articles/CBMiakFVX3lxTE1iS0poZzhpNkpzYm5kM1VnTzh0Sm9idm5CNC12RmRGMFZweVcxUFl1OEpaZldFUXI4SmdwMmpsVGliQnA3b1dEcXI5eUpfbDNNUGZ4akZ4MnJSaU10WTRfZGtBZC13d2VyWEE?oc=5) (Sat, 01 Aug 2026 13:41:55 GMT)
+- [CASE STUDY &#124; Fiat Rails, Not Blockchains, Drive Stablecoin Costs, Says a Bank of Italy Study - BitKE](https://news.google.com/rss/articles/CBMigAFBVV95cUxONi01bkJTQjR4elBLTU9CZm5vdTNKYmxYSGNuTkFscGY5VUFOcTJyR3FKRlQxa3J4SGxMQmU1TFg3Ri1uOWdENEhCZFhwSjFKT1U3UWF5RnVnTUZUdE1GTXpZNlFDOGMxN2hRcGJtN2o5U204d3BaajVNLTZMSlMyTg?oc=5) (Sat, 01 Aug 2026 06:00:35 GMT)
 
 <!-- END_dashboard -->
 
