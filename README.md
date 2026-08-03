@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-08-02 01:57:50 (UTC)*
+*Last Updated: 2026-08-03 02:00:17 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$286,617,973,759** | 🟢 +0.02% | 🔴 -0.57% |
+| **$286,439,221,576** | 🔴 -0.06% | 🔴 -0.52% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Visa Stays Neutral As Open USD Draws Comparisons To Stablecoins USDT And USDC - Crowdfund Insider](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbDB4TXIwV3hvY19VNGcyaC15OW1HRlVXYWFfYUlUdklRbGc4c2ZqMkNqcFhmWDBYb3VVbFJIYkIybmF6LWRQVlI0QlozZjVtMlprZ3g5MnVwelJIM0h6VVN5MG00VkpWVXllcjlsc0RlUXVSNHhFeXljSXZQbTJLUW9kMkNNREtxMFN3X1BlTFRHcm9pMjg4S2kyd0hiQk5JbHV5R3dNUEJRWnJlVFpJM0NCTHByU29RWVcxaTVfbXktN1JJ?oc=5) (Sat, 01 Aug 2026 22:56:34 GMT)
-- [$7B net stablecoin outflow for 2026 as demand collapses - cryptoquant.com](https://news.google.com/rss/articles/CBMidkFVX3lxTFAtQUtsNVFiRkpLWGJ3Y2ttWGc2SlAzbkhfTXg4bTFtNzlaVk5UMXRvRUcyUW93cDdKNFZkRENiLVowb0EyOHl6Tk5hdFhXNEt6WFc3S2I2QTI2aXNsTjdHVzNTVklqd2FrMy02V09pdWxiNGZwZGc?oc=5) (Sat, 01 Aug 2026 17:59:27 GMT)
-- [Bank of Italy research suggests stablecoins aren&#x27;t necessarily cheaper for remittances - CoinDesk](https://news.google.com/rss/articles/CBMiywFBVV95cUxOZVMxWHg5OFg0bHBhWHpaZkljcE9xZVBIclFtRHlwU3ZJYnM0dzE0R19IaUx3elVZUFdDeXJ0bzZpb09peXFYTXRfWDNyNFlXUWF5WFk1QjNzczVQalNJeHFfSzJaYWN2cWZGWTJRMXFGMklnN0I4MTMxdkdhR2lGbWV4UGNYZUFNcE8tWlRsaFVVSVNyck9EUzN1ZzZhdEpncVlHemdDcXJnSnZ6bzFrUHlqR3RBNWJ3OU1FZDNQSC1scHJHclRoNzBFRQ?oc=5) (Sat, 01 Aug 2026 16:13:13 GMT)
-- [$7B Stablecoin Outflow Raises Liquidity Concerns Despite Bitcoin Holding Above $60K - TradingView](https://news.google.com/rss/articles/CBMiakFVX3lxTE1iS0poZzhpNkpzYm5kM1VnTzh0Sm9idm5CNC12RmRGMFZweVcxUFl1OEpaZldFUXI4SmdwMmpsVGliQnA3b1dEcXI5eUpfbDNNUGZ4akZ4MnJSaU10WTRfZGtBZC13d2VyWEE?oc=5) (Sat, 01 Aug 2026 13:41:55 GMT)
-- [CASE STUDY &#124; Fiat Rails, Not Blockchains, Drive Stablecoin Costs, Says a Bank of Italy Study - BitKE](https://news.google.com/rss/articles/CBMigAFBVV95cUxONi01bkJTQjR4elBLTU9CZm5vdTNKYmxYSGNuTkFscGY5VUFOcTJyR3FKRlQxa3J4SGxMQmU1TFg3Ri1uOWdENEhCZFhwSjFKT1U3UWF5RnVnTUZUdE1GTXpZNlFDOGMxN2hRcGJtN2o5U204d3BaajVNLTZMSlMyTg?oc=5) (Sat, 01 Aug 2026 06:00:35 GMT)
+- [From stablecoins to sovereignty: The rise of trust-based digital dollar systems - asianbusinessreview.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUnF1UlNNZjRYNkNLZkZWOXd3ajBrNFRVamRKZGRlbzFVeG5NZVh5U1VOXzFkNVJiclY4LTJURWN2d3U2OXNEXzA1LVZreHIxOEpENmJFakdUYnMyOWFxb2oyek9YRGRXd0xpZklET2hvWHdKaWloeFdUZG8yNk95ZVk1NlFsWXFNY3p4MjJ1OVVVT3lVZ2R1R1ZmRnp3WER0VmVRQ2lSZjRXQQ?oc=5) (Mon, 03 Aug 2026 01:00:00 GMT)
+- [Onafriq Partners With Privy to Advance Stablecoin Infrastructure Across Africa - The Fast Mode](https://news.google.com/rss/articles/CBMizgFBVV95cUxNNTFOMXQ2djN5WUhFaS1OcHItaVJqS1J1c2pxV1o4ZVpfYlltemZ1WktZdkc1cnpSWnlwQ09MR1ZKUTNXZFVheHNYWHB4RERDbFgxQzV3Ql9pNnI1Rm9ScTExeFBnYVFtZnNzMHM3aWlnX0dHX1dRcHJhNjd0VVl5STRva1RwMHp5d2dXVU5aZ083aTJCNVJ4TFo1UjE1eTNoblVaZlR6TURRa0tjSGJmN1NFeU5vbkhPOWU2SlR5aEVZVzVWSmg1ZVQxODJJdw?oc=5) (Sun, 02 Aug 2026 23:42:24 GMT)
+- [A massive stablecoin fragmentation war is brewing between tech giants and a startup is aiming to capitalize on it - CoinDesk](https://news.google.com/rss/articles/CBMiygFBVV95cUxOZGdKSHJCTVBsazdIV3pENG1hYjlEYUZHYmhLbXpWbVBBa0FlakdKT2NfWlNweFpRalZoNEk5SENId0pkbmRlUHB0endfODE0TUw3ZUxPRjd5UHZWdW5yUnpnbUp3WFJjYVJvSFN0WDZ5RU9oYTFLOW1IamFDRjhjbjRRQ1V3RFBocFNkUUwtM2xiaGVBYXNEbUY5UEw2aGwxVEdSZlZ1bEQzNnNDMW1MZ2FDUGpQNG5vUFRxeUhkS1VsRTRBZlAxZTJ3?oc=5) (Sun, 02 Aug 2026 19:47:40 GMT)
+- [AX Coin Stablecoin Receives Sharia Certification in Bahrain - CairoScene](https://news.google.com/rss/articles/CBMilgFBVV95cUxPRy1HSWl2bHZNeDE2ZTQ2T2lhMVNXXzJZY2RIUEl0aHA4M21QaGZpUlNkbVVBbkIzZjRLZldSbGpxdXdwMEVDOUxuZFlWN1V1QkpiTjduWUtuRW9ySUl0WFExV3pEV1Fadlo0c1BjTkgxZkJVY0MtWnNDaHR5X3BiUnVwNG5MeVMtbGI3N1diT2dLNy1HVGc?oc=5) (Sun, 02 Aug 2026 09:04:39 GMT)
+- [South Korean stablecoin outflows hit 18 months - Crypto News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1SMEJRdzZTQ1M0bEFSdVRobGlSeVJUT2VhdUoxZjdPSlUwVktkQjRvNnR5MlN6aEFWV1RnZlFnQnl6QU9hUXNxeldtTTVYUzFnU3V0VC1VXzZLZzV0eUVuZlg5OTNxdUdhU0xKTWV0dGRkQVNjVFE?oc=5) (Sun, 02 Aug 2026 07:34:25 GMT)
 
 <!-- END_dashboard -->
 
