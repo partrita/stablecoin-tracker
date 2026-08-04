@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-08-03 02:00:17 (UTC)*
+*Last Updated: 2026-08-04 01:45:44 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$286,439,221,576** | 🔴 -0.06% | 🔴 -0.52% |
+| **$286,640,859,534** | 🟢 +0.07% | 🔴 -0.41% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [From stablecoins to sovereignty: The rise of trust-based digital dollar systems - asianbusinessreview.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUnF1UlNNZjRYNkNLZkZWOXd3ajBrNFRVamRKZGRlbzFVeG5NZVh5U1VOXzFkNVJiclY4LTJURWN2d3U2OXNEXzA1LVZreHIxOEpENmJFakdUYnMyOWFxb2oyek9YRGRXd0xpZklET2hvWHdKaWloeFdUZG8yNk95ZVk1NlFsWXFNY3p4MjJ1OVVVT3lVZ2R1R1ZmRnp3WER0VmVRQ2lSZjRXQQ?oc=5) (Mon, 03 Aug 2026 01:00:00 GMT)
-- [Onafriq Partners With Privy to Advance Stablecoin Infrastructure Across Africa - The Fast Mode](https://news.google.com/rss/articles/CBMizgFBVV95cUxNNTFOMXQ2djN5WUhFaS1OcHItaVJqS1J1c2pxV1o4ZVpfYlltemZ1WktZdkc1cnpSWnlwQ09MR1ZKUTNXZFVheHNYWHB4RERDbFgxQzV3Ql9pNnI1Rm9ScTExeFBnYVFtZnNzMHM3aWlnX0dHX1dRcHJhNjd0VVl5STRva1RwMHp5d2dXVU5aZ083aTJCNVJ4TFo1UjE1eTNoblVaZlR6TURRa0tjSGJmN1NFeU5vbkhPOWU2SlR5aEVZVzVWSmg1ZVQxODJJdw?oc=5) (Sun, 02 Aug 2026 23:42:24 GMT)
-- [A massive stablecoin fragmentation war is brewing between tech giants and a startup is aiming to capitalize on it - CoinDesk](https://news.google.com/rss/articles/CBMiygFBVV95cUxOZGdKSHJCTVBsazdIV3pENG1hYjlEYUZHYmhLbXpWbVBBa0FlakdKT2NfWlNweFpRalZoNEk5SENId0pkbmRlUHB0endfODE0TUw3ZUxPRjd5UHZWdW5yUnpnbUp3WFJjYVJvSFN0WDZ5RU9oYTFLOW1IamFDRjhjbjRRQ1V3RFBocFNkUUwtM2xiaGVBYXNEbUY5UEw2aGwxVEdSZlZ1bEQzNnNDMW1MZ2FDUGpQNG5vUFRxeUhkS1VsRTRBZlAxZTJ3?oc=5) (Sun, 02 Aug 2026 19:47:40 GMT)
-- [AX Coin Stablecoin Receives Sharia Certification in Bahrain - CairoScene](https://news.google.com/rss/articles/CBMilgFBVV95cUxPRy1HSWl2bHZNeDE2ZTQ2T2lhMVNXXzJZY2RIUEl0aHA4M21QaGZpUlNkbVVBbkIzZjRLZldSbGpxdXdwMEVDOUxuZFlWN1V1QkpiTjduWUtuRW9ySUl0WFExV3pEV1Fadlo0c1BjTkgxZkJVY0MtWnNDaHR5X3BiUnVwNG5MeVMtbGI3N1diT2dLNy1HVGc?oc=5) (Sun, 02 Aug 2026 09:04:39 GMT)
-- [South Korean stablecoin outflows hit 18 months - Crypto News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1SMEJRdzZTQ1M0bEFSdVRobGlSeVJUT2VhdUoxZjdPSlUwVktkQjRvNnR5MlN6aEFWV1RnZlFnQnl6QU9hUXNxeldtTTVYUzFnU3V0VC1VXzZLZzV0eUVuZlg5OTNxdUdhU0xKTWV0dGRkQVNjVFE?oc=5) (Sun, 02 Aug 2026 07:34:25 GMT)
+- [Fintech Dakota Seeks OCC Trust Charter For Stablecoin Biz - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fWUk1VlgyUmdqX1otNS1aUHBXMjU1bGp1bTZ5Ql9Pd2o5X0FHaUU5eHRjVVNKUUVCS0lGclhlV3g5U1RXUW8xbGFMNklNa2RfR3pGZ25R0gFWQVVfeXFMT19ZSTVWWDJSZ2pfWi01LVpQcFcyNTVsanVtNnlCX093ajlfQUdpRTl4dGNVU0pRRUJLSUZyWGVXeDlTVFdRbzFsYUw2SU1rZF9HekZnblE?oc=5) (Mon, 03 Aug 2026 22:52:00 GMT)
+- [Yellow Card CEO on Funding, Stablecoin’s Global Foothold - bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPY2pReHFUZ08tYWxGVEI1N0tUUHRYdVR1ZDZHUDNhaV9tcU80dHotMDRmbnMzNmRienpOd3dTd2FBcEwxaFFmd2d4d25oeDFWYjdoTEZkc2V4MXR6b0h6VmhYLUlxelY3Q1JDUUpKb0RYeHBhdjFPY1ZTOURpUDlSWDFla1g2X0Y0MW42SER5ZWdmZ2VwblNMVkVkWlhoZ2tqcEp2U3UzdFpMOUVQZzctRFh3?oc=5) (Mon, 03 Aug 2026 21:27:44 GMT)
+- [BlackRock Targets Stablecoin Issuers and Institutions in Latest Tokenized Funds - Coinpedia](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSWo2OU82NzhQbGktVU1GSnVaSnVBOU8tUWs5SEhoWEVkV1JmSGwzeEZFT0c2Y0IwQ25IaFdQalJEUS05aXc2V1FRWjB3LWE3WFByQWwzZHV5emw4bTN2N2ZETVFwREdWWFk4aUZpdGE0bktEck5xYVNnMmowZ21UZDNzck9BS0NDdEJvN0kxQURObnlLbFpPNzFjQXVBc1IxbjctelRWTmN5OW_SAbABQVVfeXFMTjBIRVZjWEdvWHl4cHBRYkNvWGo5S2VHcWFNbUdheDZJbS1SNW9tMGFXVF9HRzdackdCMzVVZnBvMkF1akhSME9CNGtlYkM4c2NmZmI0RjZDczhTdl96Z0VkQTVJa19hWnQ4U2ptdDVDMjJtc3A0cjhrblpQVGVIRm1tNWU2UzhneHZoem1nUGtLLXFTWV9ycFlQX0hrM0tKQ1BoMjR3LVBUbi15cnc1SGY?oc=5) (Mon, 03 Aug 2026 20:49:46 GMT)
+- [Research Exchange: July 2026 - Bank Policy Institute](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TcTNUaTg3UDZuYk9KM0NkVnFvM0FUMXhvSlBxaEl1NllfS0ZHd2RJZU9LS3d1dGFwZ1Rockk0UFhBMGo3Yk9hMXd1R3MzSFlTX2poZkNzUQ?oc=5) (Mon, 03 Aug 2026 20:46:05 GMT)
+- [What Happens to Correspondent Banking If Every Country Has Its Own Stablecoin? - Financial IT](https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1Y0U0hwZUt5a0ZPdmRQVUlHcmxmU1ZIZnhRZWQxQ0tKbjBPbElPTGN0T0hKcEhfMWV5NFRKTXI0RWRNUUh4RUhrb0tJRTRFYXVlTXFHMzM2SGIwbHNlc0oxV3JncF9IZmdzeWJtRnhsN1RtUjlFX2ctaHF0R1ZfX08waTI2WDVPS0tZcGN2LWdZV2VWd2Exd2lQeUNQdi1VQjFzTk9EU0t0Wl9zWkprU3lOTFdEdw?oc=5) (Mon, 03 Aug 2026 20:38:59 GMT)
 
 <!-- END_dashboard -->
 
