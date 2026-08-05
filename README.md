@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-08-04 01:45:44 (UTC)*
+*Last Updated: 2026-08-05 01:47:43 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$286,640,859,534** | 🟢 +0.07% | 🔴 -0.41% |
+| **$286,953,149,308** | 🟢 +0.11% | 🔴 -0.22% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Fintech Dakota Seeks OCC Trust Charter For Stablecoin Biz - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fWUk1VlgyUmdqX1otNS1aUHBXMjU1bGp1bTZ5Ql9Pd2o5X0FHaUU5eHRjVVNKUUVCS0lGclhlV3g5U1RXUW8xbGFMNklNa2RfR3pGZ25R0gFWQVVfeXFMT19ZSTVWWDJSZ2pfWi01LVpQcFcyNTVsanVtNnlCX093ajlfQUdpRTl4dGNVU0pRRUJLSUZyWGVXeDlTVFdRbzFsYUw2SU1rZF9HekZnblE?oc=5) (Mon, 03 Aug 2026 22:52:00 GMT)
-- [Yellow Card CEO on Funding, Stablecoin’s Global Foothold - bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPY2pReHFUZ08tYWxGVEI1N0tUUHRYdVR1ZDZHUDNhaV9tcU80dHotMDRmbnMzNmRienpOd3dTd2FBcEwxaFFmd2d4d25oeDFWYjdoTEZkc2V4MXR6b0h6VmhYLUlxelY3Q1JDUUpKb0RYeHBhdjFPY1ZTOURpUDlSWDFla1g2X0Y0MW42SER5ZWdmZ2VwblNMVkVkWlhoZ2tqcEp2U3UzdFpMOUVQZzctRFh3?oc=5) (Mon, 03 Aug 2026 21:27:44 GMT)
-- [BlackRock Targets Stablecoin Issuers and Institutions in Latest Tokenized Funds - Coinpedia](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSWo2OU82NzhQbGktVU1GSnVaSnVBOU8tUWs5SEhoWEVkV1JmSGwzeEZFT0c2Y0IwQ25IaFdQalJEUS05aXc2V1FRWjB3LWE3WFByQWwzZHV5emw4bTN2N2ZETVFwREdWWFk4aUZpdGE0bktEck5xYVNnMmowZ21UZDNzck9BS0NDdEJvN0kxQURObnlLbFpPNzFjQXVBc1IxbjctelRWTmN5OW_SAbABQVVfeXFMTjBIRVZjWEdvWHl4cHBRYkNvWGo5S2VHcWFNbUdheDZJbS1SNW9tMGFXVF9HRzdackdCMzVVZnBvMkF1akhSME9CNGtlYkM4c2NmZmI0RjZDczhTdl96Z0VkQTVJa19hWnQ4U2ptdDVDMjJtc3A0cjhrblpQVGVIRm1tNWU2UzhneHZoem1nUGtLLXFTWV9ycFlQX0hrM0tKQ1BoMjR3LVBUbi15cnc1SGY?oc=5) (Mon, 03 Aug 2026 20:49:46 GMT)
-- [Research Exchange: July 2026 - Bank Policy Institute](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TcTNUaTg3UDZuYk9KM0NkVnFvM0FUMXhvSlBxaEl1NllfS0ZHd2RJZU9LS3d1dGFwZ1Rockk0UFhBMGo3Yk9hMXd1R3MzSFlTX2poZkNzUQ?oc=5) (Mon, 03 Aug 2026 20:46:05 GMT)
-- [What Happens to Correspondent Banking If Every Country Has Its Own Stablecoin? - Financial IT](https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1Y0U0hwZUt5a0ZPdmRQVUlHcmxmU1ZIZnhRZWQxQ0tKbjBPbElPTGN0T0hKcEhfMWV5NFRKTXI0RWRNUUh4RUhrb0tJRTRFYXVlTXFHMzM2SGIwbHNlc0oxV3JncF9IZmdzeWJtRnhsN1RtUjlFX2ctaHF0R1ZfX08waTI2WDVPS0tZcGN2LWdZV2VWd2Exd2lQeUNQdi1VQjFzTk9EU0t0Wl9zWkprU3lOTFdEdw?oc=5) (Mon, 03 Aug 2026 20:38:59 GMT)
+- [Samsung Pursues Digital Assets With Crypto Exchange Deal and Stablecoin Push - PYMNTS.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUWtFVTUzamotd3RqcHZmbnRTVnA2eEh4LWhyd3Y4cVJWb2NsVFdmYkxBajRtN0xxV3g1c3p3Q05aNjdNM01zaVRjX1owUGpWYUdwRm9kMjdxR0ctWGhkdTN1YWM0Y1RqSTN3eDYzeHRfcUh5YjAxTzBNVzFpamhnT281TThQNHFyZ2w2WUVURDFjcmwxZkl6M2w4TmxiUHhtNHZ0bGZDUkVfZURuY1lRVjJGZGtob2lpZEtPUw?oc=5) (Wed, 05 Aug 2026 01:21:03 GMT)
+- [Meta Ads introduces stablecoin payment options - Social Media Today](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNV9HSzVSRzVINFZEMVdWUkhVcWpqdjJBclUwQnk0Sk5yVkRjR3BxaXpHX0hKNXp4SjRoTUZGTUd4eFdRNFVIeFJmRlE3RHJPc0xud0l2VHJnTUlPMnhxbU1TNTJHSFJIQWFtbzRhZ2xDVy00ZU5vMk1TamtHUTcyZWczcUVqSW1jc2NNby02M09JVGR5NkYw?oc=5) (Wed, 05 Aug 2026 00:31:29 GMT)
+- [Stablecorp CEO went from &#x27;ridiculed&#x27; to running half of Canada&#x27;s stablecoin market - thestreet.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXRqb2FOdVRsWlg4SF9kUkhkMVpYSjlQZHJVMlFrZkpKS05EU2RvVHB0aTZ6cTBwZV95UWdyNWpWUUxEekZWVE81T0hwTlAyVnZzOC1BS0ZUWU5kMmdGa0RyTWlKejVQY1N5Q2JhdEpYWTV1WmNRLVNfcWlvUE8yS2JmSld3RnVTeU5Pbi1yenhnVjI5ek1nMXJTT3VsVEU4S3dwMlBxMWk1UWdJc0VNRnBLUGdJNTBiSXE4?oc=5) (Tue, 04 Aug 2026 21:59:12 GMT)
+- [Cloudflare Launches Stablecoin Wallets for AI Agents, Opens cloudflare.pay Handles - The Defiant](https://news.google.com/rss/articles/CBMiggFBVV95cUxORVY4Um41blkwMGRKbTltZHIwVVRoVnVJOXhfRjZpQlhrNnIxQjJiaFNZY09uNFByWGh5enN2Zk93ZW1qaDZwLVUydUE2SWxaUExBTVFBTGsxYzU0bWFtTldEZlJpbW53cUUyRDktNzBjTUYxaklZcW1OWGRiaXZkU2FB?oc=5) (Tue, 04 Aug 2026 20:44:14 GMT)
+- [US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks - TradingView](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVjEyTHhYNGpRd20xcWJZeTJWM0l0VGxrTXpnVnNGSXZ0cEl3M2JWRS1SUi1ST1Z6SHZldTdfWWVlbWRqel9OZk5VSmFiYzdWVFI1RG9jdER1SlJocVFzYVZ2eUV0Y1FnY3dvUVIwMkFPeHBaVTFtcE5ocmg5UnY4VXMwTVhKTXQ0Skg3ajRsUWlSRmhZOUxiNHNyMFpvUmItbUNkeGYxR2pZMVJqUW94UHhSa0tBTFZwMnUyYXIxQVBFNHV6Yk9tOFZoekRKV0JaQTI5RW1PVW9LR1dZQjF6WG9palAwdw?oc=5) (Tue, 04 Aug 2026 19:58:48 GMT)
 
 <!-- END_dashboard -->
 
