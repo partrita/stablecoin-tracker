@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-08-05 01:47:43 (UTC)*
+*Last Updated: 2026-08-06 01:48:14 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$286,953,149,308** | 🟢 +0.11% | 🔴 -0.22% |
+| **$286,846,725,230** | 🔴 -0.04% | 🔴 -0.11% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Samsung Pursues Digital Assets With Crypto Exchange Deal and Stablecoin Push - PYMNTS.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUWtFVTUzamotd3RqcHZmbnRTVnA2eEh4LWhyd3Y4cVJWb2NsVFdmYkxBajRtN0xxV3g1c3p3Q05aNjdNM01zaVRjX1owUGpWYUdwRm9kMjdxR0ctWGhkdTN1YWM0Y1RqSTN3eDYzeHRfcUh5YjAxTzBNVzFpamhnT281TThQNHFyZ2w2WUVURDFjcmwxZkl6M2w4TmxiUHhtNHZ0bGZDUkVfZURuY1lRVjJGZGtob2lpZEtPUw?oc=5) (Wed, 05 Aug 2026 01:21:03 GMT)
-- [Meta Ads introduces stablecoin payment options - Social Media Today](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNV9HSzVSRzVINFZEMVdWUkhVcWpqdjJBclUwQnk0Sk5yVkRjR3BxaXpHX0hKNXp4SjRoTUZGTUd4eFdRNFVIeFJmRlE3RHJPc0xud0l2VHJnTUlPMnhxbU1TNTJHSFJIQWFtbzRhZ2xDVy00ZU5vMk1TamtHUTcyZWczcUVqSW1jc2NNby02M09JVGR5NkYw?oc=5) (Wed, 05 Aug 2026 00:31:29 GMT)
-- [Stablecorp CEO went from &#x27;ridiculed&#x27; to running half of Canada&#x27;s stablecoin market - thestreet.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXRqb2FOdVRsWlg4SF9kUkhkMVpYSjlQZHJVMlFrZkpKS05EU2RvVHB0aTZ6cTBwZV95UWdyNWpWUUxEekZWVE81T0hwTlAyVnZzOC1BS0ZUWU5kMmdGa0RyTWlKejVQY1N5Q2JhdEpYWTV1WmNRLVNfcWlvUE8yS2JmSld3RnVTeU5Pbi1yenhnVjI5ek1nMXJTT3VsVEU4S3dwMlBxMWk1UWdJc0VNRnBLUGdJNTBiSXE4?oc=5) (Tue, 04 Aug 2026 21:59:12 GMT)
-- [Cloudflare Launches Stablecoin Wallets for AI Agents, Opens cloudflare.pay Handles - The Defiant](https://news.google.com/rss/articles/CBMiggFBVV95cUxORVY4Um41blkwMGRKbTltZHIwVVRoVnVJOXhfRjZpQlhrNnIxQjJiaFNZY09uNFByWGh5enN2Zk93ZW1qaDZwLVUydUE2SWxaUExBTVFBTGsxYzU0bWFtTldEZlJpbW53cUUyRDktNzBjTUYxaklZcW1OWGRiaXZkU2FB?oc=5) (Tue, 04 Aug 2026 20:44:14 GMT)
-- [US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks - TradingView](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVjEyTHhYNGpRd20xcWJZeTJWM0l0VGxrTXpnVnNGSXZ0cEl3M2JWRS1SUi1ST1Z6SHZldTdfWWVlbWRqel9OZk5VSmFiYzdWVFI1RG9jdER1SlJocVFzYVZ2eUV0Y1FnY3dvUVIwMkFPeHBaVTFtcE5ocmg5UnY4VXMwTVhKTXQ0Skg3ajRsUWlSRmhZOUxiNHNyMFpvUmItbUNkeGYxR2pZMVJqUW94UHhSa0tBTFZwMnUyYXIxQVBFNHV6Yk9tOFZoekRKV0JaQTI5RW1PVW9LR1dZQjF6WG9palAwdw?oc=5) (Tue, 04 Aug 2026 19:58:48 GMT)
+- [Visa Adds Stablecoin Funding and Payouts to Visa Direct With zerohash - Yahoo Finance](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjdxdzRxMVF5MmZ2cEp0RHByTFBTZXI0TXFCbTVfQm1fYnB2N1V3N0lZLW5pRVI1a3RBQ0YyWTlKT1dqQkd1dW42MHNQWVJlWWpEbVd3c0xsY01CNkVHUGVKcFVsd3QwbGZUejZqempsbUJvc3JGcElUVVlma1JScHhpOE9rUlIzekUtR3RYakZaZThvbnRyN1VLM0hyTkRLaTg0?oc=5) (Wed, 05 Aug 2026 22:03:00 GMT)
+- [Visa Widens Stablecoin Payouts via Zerohash Rails - Decrypt](https://news.google.com/rss/articles/CBMiakFVX3lxTFBNY1d4OG9ZbWJnZGpfLXlVcGNleldUXzV5bjNPcmNWSkJ5WDNqY1FaWVZ1MFY0NG5lbTE3Z19qX0x5V1RqbTc4TjRsclpqUzNKTE50ejVjT2JKbjNyU0VDd1V5SlJOUDQ2UUHSAXJBVV95cUxQNWdDMllQcTQzYlFaZW96LTQya0FIalV4QUs4ZENnOXBSOW9yaTlIdGlRMVlyUTRFRzBfZ1FKOGZ3OElXdkdoZXIzRmoyV2ZzNkY2ZUdRMFBkUHpYTmpDTFotV1VNbGZpNFNaaV9HRHYxSlE?oc=5) (Wed, 05 Aug 2026 19:42:48 GMT)
+- [Banks Ask FDIC to Make Issuers Police Stablecoin Wallets - PYMNTS.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNNFp3emtKOVZoUEcteHZ4Qmt6dWdrN1p5eERkUnY2NlZUR0ZHRWFDTDVOSHBqaGdSRjlOSkV3V3IyaFc5OWoxdmtjMlpWVEczZFU0ejZ6WVlTdVR4RDBnNmhUNGgtOXFrTHVvMWxBT2pub1UyNXVxbXBuQ1ljSHhNX20wdU1TQWVsd2VrSnNOZ2FkNXFhVktZYXRUbTlYUQ?oc=5) (Wed, 05 Aug 2026 17:39:05 GMT)
+- [Visa taps Chicago crypto unicorn Zerohash for stablecoin payments - Crain&#x27;s Chicago Business](https://news.google.com/rss/articles/CBMimAFBVV95cUxNbndNTVpIc1BKczd1QTlCVWhjYkRrYlU4NjVXUEJGSC1ES0UwenZQeWNxMkR1ZnNZa2Q4X2k1OFEweHhzeVlWSDZXVVM2TkZaZFA0NndLYUxMM0t4ZU9INFdzREw5M01IU21MS01LTjc3NW5WZTA4eGlNRjJWOWV4UXdaaWMyREI1R0JrU1RQRnBaSC1OY1VJOA?oc=5) (Wed, 05 Aug 2026 17:39:00 GMT)
+- [Mastercard and Visa Continue Advancing Their Stablecoin Ambitions - Yahoo Finance](https://news.google.com/rss/articles/CBMirwFBVV95cUxPZW84bUs2MXdBcEhpX3Jpa1MycXJqQWdYeDd4SVhRRmhrZzgyMmI2MmtqY0IxSEVvSVpnLTZheUllSEJBUzZNWXZtQk1YTmlaYlZsRk9wNk90S1VvZkJvRWRzUEZXcHNibGV0ZGVWSXhoUGg2NG1HQWtIbUNtYWpNMl9BZGxqaVpJYmppRm9YNzd0RmlwUFRoTGp1N3pXajg4dWJieDhHZmt5WldOc3BB?oc=5) (Wed, 05 Aug 2026 17:28:06 GMT)
 
 <!-- END_dashboard -->
 
