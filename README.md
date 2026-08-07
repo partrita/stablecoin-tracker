@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-08-06 01:48:14 (UTC)*
+*Last Updated: 2026-08-07 02:11:54 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$286,846,725,230** | 🔴 -0.04% | 🔴 -0.11% |
+| **$286,921,850,317** | 🟢 +0.03% | 🔴 -0.03% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Visa Adds Stablecoin Funding and Payouts to Visa Direct With zerohash - Yahoo Finance](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjdxdzRxMVF5MmZ2cEp0RHByTFBTZXI0TXFCbTVfQm1fYnB2N1V3N0lZLW5pRVI1a3RBQ0YyWTlKT1dqQkd1dW42MHNQWVJlWWpEbVd3c0xsY01CNkVHUGVKcFVsd3QwbGZUejZqempsbUJvc3JGcElUVVlma1JScHhpOE9rUlIzekUtR3RYakZaZThvbnRyN1VLM0hyTkRLaTg0?oc=5) (Wed, 05 Aug 2026 22:03:00 GMT)
-- [Visa Widens Stablecoin Payouts via Zerohash Rails - Decrypt](https://news.google.com/rss/articles/CBMiakFVX3lxTFBNY1d4OG9ZbWJnZGpfLXlVcGNleldUXzV5bjNPcmNWSkJ5WDNqY1FaWVZ1MFY0NG5lbTE3Z19qX0x5V1RqbTc4TjRsclpqUzNKTE50ejVjT2JKbjNyU0VDd1V5SlJOUDQ2UUHSAXJBVV95cUxQNWdDMllQcTQzYlFaZW96LTQya0FIalV4QUs4ZENnOXBSOW9yaTlIdGlRMVlyUTRFRzBfZ1FKOGZ3OElXdkdoZXIzRmoyV2ZzNkY2ZUdRMFBkUHpYTmpDTFotV1VNbGZpNFNaaV9HRHYxSlE?oc=5) (Wed, 05 Aug 2026 19:42:48 GMT)
-- [Banks Ask FDIC to Make Issuers Police Stablecoin Wallets - PYMNTS.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNNFp3emtKOVZoUEcteHZ4Qmt6dWdrN1p5eERkUnY2NlZUR0ZHRWFDTDVOSHBqaGdSRjlOSkV3V3IyaFc5OWoxdmtjMlpWVEczZFU0ejZ6WVlTdVR4RDBnNmhUNGgtOXFrTHVvMWxBT2pub1UyNXVxbXBuQ1ljSHhNX20wdU1TQWVsd2VrSnNOZ2FkNXFhVktZYXRUbTlYUQ?oc=5) (Wed, 05 Aug 2026 17:39:05 GMT)
-- [Visa taps Chicago crypto unicorn Zerohash for stablecoin payments - Crain&#x27;s Chicago Business](https://news.google.com/rss/articles/CBMimAFBVV95cUxNbndNTVpIc1BKczd1QTlCVWhjYkRrYlU4NjVXUEJGSC1ES0UwenZQeWNxMkR1ZnNZa2Q4X2k1OFEweHhzeVlWSDZXVVM2TkZaZFA0NndLYUxMM0t4ZU9INFdzREw5M01IU21MS01LTjc3NW5WZTA4eGlNRjJWOWV4UXdaaWMyREI1R0JrU1RQRnBaSC1OY1VJOA?oc=5) (Wed, 05 Aug 2026 17:39:00 GMT)
-- [Mastercard and Visa Continue Advancing Their Stablecoin Ambitions - Yahoo Finance](https://news.google.com/rss/articles/CBMirwFBVV95cUxPZW84bUs2MXdBcEhpX3Jpa1MycXJqQWdYeDd4SVhRRmhrZzgyMmI2MmtqY0IxSEVvSVpnLTZheUllSEJBUzZNWXZtQk1YTmlaYlZsRk9wNk90S1VvZkJvRWRzUEZXcHNibGV0ZGVWSXhoUGg2NG1HQWtIbUNtYWpNMl9BZGxqaVpJYmppRm9YNzd0RmlwUFRoTGp1N3pXajg4dWJieDhHZmt5WldOc3BB?oc=5) (Wed, 05 Aug 2026 17:28:06 GMT)
+- [MoonPay launches stablecoin platform for businesses - Finextra Research](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQmhSVDZSNk5Bc1JnaUl6RDJ2Q1VKTk1ZMmxZRDZUWmtQRV9ZRHY4NU9rTk5IQWVjakNwYjJMSFJBbUFwM3dKN2N2VHhqcUM2eEdueHFGUkEwYzQ2TFVtUmlLcU9XYU5aUi1jdHZWUFVoT1h2SUVTaE9PMjZNV2FJVGZZc3hmNllVWjNJQ1M1V2VJRkhzc0tKRC1B?oc=5) (Thu, 06 Aug 2026 23:03:08 GMT)
+- [Mastercard (MA) vs. Visa (V): Stablecoins or AI Fraud Defense? - Yahoo Finance UK](https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZQ2NwNzdUMkFEaU40ZHNJdVJWSXgzdWE0a1luZlluZ0pVdG91Z094bWdlbWFHYjY4VTVsSlZwRS1HdHlFOXc4REVkUnB5YVZ5VkVwanQzaHdnX3dRZjgzN3hxdXI5MmgyOUk1bmtQMEhLd3RtMWFTbm9mQUQ?oc=5) (Thu, 06 Aug 2026 22:22:46 GMT)
+- [Transatlantic Crypto Framework: What the US-UK Stablecoin Deal Means for Markets - Yahoo Finance](https://news.google.com/rss/articles/CBMiowFBVV95cUxQUUFuRUJkblJ0YUpraGdTZ0NkRXFIbWVDdjdpNmpKMzBDRWZNRzhycEQ0cXpkN1lPYXk3U0J0SVJrM0ItblpCUEo2VVZTZGMyeDhWYVliLTIzTzZQMFRhTzhMdWs2eTBvWjZFMkVkN3QyS1VLSU5wYllBdjJBZlBNXzdqS0pRV0F5SmxfX0ZVQmRRakl6VDhyRzRJRTVBcVl4X3NZ?oc=5) (Thu, 06 Aug 2026 14:52:11 GMT)
+- [Japanese Yen JPYC stablecoin issuer extends Series B to $38m - ledgerinsights.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxNcW9sSFlSQ2JsRVhrVFhfcnl0cFNkTXZzVkQ4OHY3bUtXWUI2ZG1YVko1ZFBvWDBJamdPclM3QTFFWjZLTlR4ZTFCLWhiLVJLaTlNX0EwTzBWeHZVeEJGQ3NxRjdsVUsxRDJ3RG1mY2J3ODRxZzJyOU9mY2d1QXV1LVotX3lTOGt2MlZ4QXl0NmtNUklKT1E?oc=5) (Thu, 06 Aug 2026 14:29:42 GMT)
+- [Yellow Card Raises $40 Million To Expand Global USD Accounts And Stablecoin Infrastructure - Pulse 2.0](https://news.google.com/rss/articles/CBMirgFBVV95cUxNaldYNVR1R2NGU2xiWko2dUNpc0lMSEQ5bnJlQzd0LW1wWGJjdElfV3hXLVNsN2hkeld5am9UVVNhUW80YXJsRDdqWXhrSFlXT2NPMDdhY3owZGptMklfMVVuMDRnOFRUYTRYRWRrYlhRcC1NWi1OY05Vd0I5bTNIVExkR2NiYzJWSXpOdDZDbW1XbmRMcTlvS1AzY3pFWWtmTFQ3NFB3ZHFHQUdVNkHSAbMBQVVfeXFMTkg0NDc3b2JfR0RPYm0wSnNmd3RpcWpqYURma0tTU1MtUFQ0NW43cUFvQ1MwZFlTT3pXcmJ4WDdGY29ObWY1Y19JTm54dW9yYjJRX1lnR1VHX2x4LVl2c1NQazF2REktVDdRSFh0ZkFiYzE3YVRnTzc5R2E2VVNOMFhKMElyNVFEYnNWSzVNUjFPd1JrY3Q2QTNjR09Bc1BaXzFrS0pOd1I3Ml9uNFg1YV83NlU?oc=5) (Thu, 06 Aug 2026 14:13:11 GMT)
 
 <!-- END_dashboard -->
 
