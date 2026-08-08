@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-08-07 02:11:54 (UTC)*
+*Last Updated: 2026-08-08 00:59:27 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$286,921,850,317** | 🟢 +0.03% | 🔴 -0.03% |
+| **$287,315,810,396** | 🟢 +0.14% | 🟢 +0.27% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [MoonPay launches stablecoin platform for businesses - Finextra Research](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQmhSVDZSNk5Bc1JnaUl6RDJ2Q1VKTk1ZMmxZRDZUWmtQRV9ZRHY4NU9rTk5IQWVjakNwYjJMSFJBbUFwM3dKN2N2VHhqcUM2eEdueHFGUkEwYzQ2TFVtUmlLcU9XYU5aUi1jdHZWUFVoT1h2SUVTaE9PMjZNV2FJVGZZc3hmNllVWjNJQ1M1V2VJRkhzc0tKRC1B?oc=5) (Thu, 06 Aug 2026 23:03:08 GMT)
-- [Mastercard (MA) vs. Visa (V): Stablecoins or AI Fraud Defense? - Yahoo Finance UK](https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZQ2NwNzdUMkFEaU40ZHNJdVJWSXgzdWE0a1luZlluZ0pVdG91Z094bWdlbWFHYjY4VTVsSlZwRS1HdHlFOXc4REVkUnB5YVZ5VkVwanQzaHdnX3dRZjgzN3hxdXI5MmgyOUk1bmtQMEhLd3RtMWFTbm9mQUQ?oc=5) (Thu, 06 Aug 2026 22:22:46 GMT)
-- [Transatlantic Crypto Framework: What the US-UK Stablecoin Deal Means for Markets - Yahoo Finance](https://news.google.com/rss/articles/CBMiowFBVV95cUxQUUFuRUJkblJ0YUpraGdTZ0NkRXFIbWVDdjdpNmpKMzBDRWZNRzhycEQ0cXpkN1lPYXk3U0J0SVJrM0ItblpCUEo2VVZTZGMyeDhWYVliLTIzTzZQMFRhTzhMdWs2eTBvWjZFMkVkN3QyS1VLSU5wYllBdjJBZlBNXzdqS0pRV0F5SmxfX0ZVQmRRakl6VDhyRzRJRTVBcVl4X3NZ?oc=5) (Thu, 06 Aug 2026 14:52:11 GMT)
-- [Japanese Yen JPYC stablecoin issuer extends Series B to $38m - ledgerinsights.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxNcW9sSFlSQ2JsRVhrVFhfcnl0cFNkTXZzVkQ4OHY3bUtXWUI2ZG1YVko1ZFBvWDBJamdPclM3QTFFWjZLTlR4ZTFCLWhiLVJLaTlNX0EwTzBWeHZVeEJGQ3NxRjdsVUsxRDJ3RG1mY2J3ODRxZzJyOU9mY2d1QXV1LVotX3lTOGt2MlZ4QXl0NmtNUklKT1E?oc=5) (Thu, 06 Aug 2026 14:29:42 GMT)
-- [Yellow Card Raises $40 Million To Expand Global USD Accounts And Stablecoin Infrastructure - Pulse 2.0](https://news.google.com/rss/articles/CBMirgFBVV95cUxNaldYNVR1R2NGU2xiWko2dUNpc0lMSEQ5bnJlQzd0LW1wWGJjdElfV3hXLVNsN2hkeld5am9UVVNhUW80YXJsRDdqWXhrSFlXT2NPMDdhY3owZGptMklfMVVuMDRnOFRUYTRYRWRrYlhRcC1NWi1OY05Vd0I5bTNIVExkR2NiYzJWSXpOdDZDbW1XbmRMcTlvS1AzY3pFWWtmTFQ3NFB3ZHFHQUdVNkHSAbMBQVVfeXFMTkg0NDc3b2JfR0RPYm0wSnNmd3RpcWpqYURma0tTU1MtUFQ0NW43cUFvQ1MwZFlTT3pXcmJ4WDdGY29ObWY1Y19JTm54dW9yYjJRX1lnR1VHX2x4LVl2c1NQazF2REktVDdRSFh0ZkFiYzE3YVRnTzc5R2E2VVNOMFhKMElyNVFEYnNWSzVNUjFPd1JrY3Q2QTNjR09Bc1BaXzFrS0pOd1I3Ml9uNFg1YV83NlU?oc=5) (Thu, 06 Aug 2026 14:13:11 GMT)
+- [5 charts: How crypto cards are driving stablecoin spend - a16zcrypto.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE11S2VYLVNfT0xYWUxXM1ZPWmpsRlV2WEh1cHhlVTJ0MFAyZHVETThuRjlxU3B5Tm50cUlsZWgtV2JidGhDemtIZmp1SVZZZHZEUXh4Z1FaUklyTWFRbUsxZlVVS1B1UXVYMHFrcDVvLUNWd0NjNjdNMFJyQ1B5Zw?oc=5) (Fri, 07 Aug 2026 19:57:47 GMT)
+- [FCA framework departs from traditional stablecoin model - OMFIF](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZGJFZTl2aXQwY29YdGp1UW5tTnlzd2pMSEJiSDl5UjAtVjdUNkRXN2N1OS1ZZGxWdXM1a01QbEFBNXJLOTBSZVF5UEFTaHhYRHNYVUh5YVd3WUxORzVxdGVzNWdGMzRjOTdLSDJ6ZUFFSkV3R0hxeGhKNjV1cFJfeEJhWFFGMXJBckd4eXFkUQ?oc=5) (Fri, 07 Aug 2026 19:51:56 GMT)
+- [KuCoin Brings Stablecoin Prepaid Cards to Businesses - PaymentsJournal](https://news.google.com/rss/articles/CBMijgFBVV95cUxNUElTMkI0eHNhSUNHZkUtVnJpanpvNXN2ak5DeE9JeXVhcTlhLWhzRW1aUHZxems4bk5FdGU3WkdHT01XSzNMOFYxX2Y1aTZSUEhnMkpVQnpYQ1psbjlNalhsWGZ4cEZuVjZIZ3duQmZicGNLSzhTSk4xUUEtQzBGSFVuTm5SWkFGQkM4RGln0gGTAUFVX3lxTFBESkg0c0l1TExmanlDMFdURnFQSE1QbVMwUXJKRE40WVcyQllXTERQUUlIZHBYSG9zWmt1Y2tsaXR0RnBXN1U0NDUyaXB0b0p5c0RCdmxGV2FWWVdjQ3Nkb2N0RkNOQXpwMEM4dXA2YjJlRUoydzJCcl9ybW9JeElLaXdVQ3pVX1RvVHhMUk9ONVlZZw?oc=5) (Fri, 07 Aug 2026 18:00:00 GMT)
+- [Mastercard Tests Crypto Credential as a Trust Layer for Stablecoin Payments - Startup Fortune](https://news.google.com/rss/articles/CBMipgFBVV95cUxOUVVGWEhYTzJjY0JYRlhyU2h5bjJrLW9ybDJCT2FaUFJXX2dpbW5UdTBxVTdMTHVheFAzOGdWcEJsUGNFQnV2UTJBRkpwN19fVzhpMmo4Q0JYeWs2a1h2cWhrajRGRmZFcncyRnMyYW1hVXQxWkZDc0RIQTh6a3ZiTEMtS1ExVjhQLWY0djZ0Q3QwNEpSY2h6UlRJZ1pRS1dSWHU4Tm5B?oc=5) (Fri, 07 Aug 2026 17:05:15 GMT)
+- [Africa: PayPal Expands PYUSD Stablecoin to 27 Additional Markets - Glenbrook Partners](https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlBIeFNxYW8tNksydHhRdlVmSEdhQVRfbG9KaVliM3ZWVjdFZ2picmt4TGtMN0NrZFZiVHZoRFNDWFkyV0VSdk00c2lVNFR5a0xtSUtsY1AybXpfcUdHQWhJZ1FnczRna1drdjFNTkJ1a2RCUmI5ZHJnNWhaYXNLd2haSWpFYjJQaWhsbEhfeXpPSTlLUndQc1BFMi16SEQ2bmc?oc=5) (Fri, 07 Aug 2026 16:12:53 GMT)
 
 <!-- END_dashboard -->
 
