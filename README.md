@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-08-08 00:59:27 (UTC)*
+*Last Updated: 2026-08-09 01:03:10 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$287,315,810,396** | 🟢 +0.14% | 🟢 +0.27% |
+| **$287,082,290,701** | 🔴 -0.08% | 🟢 +0.16% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [5 charts: How crypto cards are driving stablecoin spend - a16zcrypto.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE11S2VYLVNfT0xYWUxXM1ZPWmpsRlV2WEh1cHhlVTJ0MFAyZHVETThuRjlxU3B5Tm50cUlsZWgtV2JidGhDemtIZmp1SVZZZHZEUXh4Z1FaUklyTWFRbUsxZlVVS1B1UXVYMHFrcDVvLUNWd0NjNjdNMFJyQ1B5Zw?oc=5) (Fri, 07 Aug 2026 19:57:47 GMT)
-- [FCA framework departs from traditional stablecoin model - OMFIF](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZGJFZTl2aXQwY29YdGp1UW5tTnlzd2pMSEJiSDl5UjAtVjdUNkRXN2N1OS1ZZGxWdXM1a01QbEFBNXJLOTBSZVF5UEFTaHhYRHNYVUh5YVd3WUxORzVxdGVzNWdGMzRjOTdLSDJ6ZUFFSkV3R0hxeGhKNjV1cFJfeEJhWFFGMXJBckd4eXFkUQ?oc=5) (Fri, 07 Aug 2026 19:51:56 GMT)
-- [KuCoin Brings Stablecoin Prepaid Cards to Businesses - PaymentsJournal](https://news.google.com/rss/articles/CBMijgFBVV95cUxNUElTMkI0eHNhSUNHZkUtVnJpanpvNXN2ak5DeE9JeXVhcTlhLWhzRW1aUHZxems4bk5FdGU3WkdHT01XSzNMOFYxX2Y1aTZSUEhnMkpVQnpYQ1psbjlNalhsWGZ4cEZuVjZIZ3duQmZicGNLSzhTSk4xUUEtQzBGSFVuTm5SWkFGQkM4RGln0gGTAUFVX3lxTFBESkg0c0l1TExmanlDMFdURnFQSE1QbVMwUXJKRE40WVcyQllXTERQUUlIZHBYSG9zWmt1Y2tsaXR0RnBXN1U0NDUyaXB0b0p5c0RCdmxGV2FWWVdjQ3Nkb2N0RkNOQXpwMEM4dXA2YjJlRUoydzJCcl9ybW9JeElLaXdVQ3pVX1RvVHhMUk9ONVlZZw?oc=5) (Fri, 07 Aug 2026 18:00:00 GMT)
-- [Mastercard Tests Crypto Credential as a Trust Layer for Stablecoin Payments - Startup Fortune](https://news.google.com/rss/articles/CBMipgFBVV95cUxOUVVGWEhYTzJjY0JYRlhyU2h5bjJrLW9ybDJCT2FaUFJXX2dpbW5UdTBxVTdMTHVheFAzOGdWcEJsUGNFQnV2UTJBRkpwN19fVzhpMmo4Q0JYeWs2a1h2cWhrajRGRmZFcncyRnMyYW1hVXQxWkZDc0RIQTh6a3ZiTEMtS1ExVjhQLWY0djZ0Q3QwNEpSY2h6UlRJZ1pRS1dSWHU4Tm5B?oc=5) (Fri, 07 Aug 2026 17:05:15 GMT)
-- [Africa: PayPal Expands PYUSD Stablecoin to 27 Additional Markets - Glenbrook Partners](https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlBIeFNxYW8tNksydHhRdlVmSEdhQVRfbG9KaVliM3ZWVjdFZ2picmt4TGtMN0NrZFZiVHZoRFNDWFkyV0VSdk00c2lVNFR5a0xtSUtsY1AybXpfcUdHQWhJZ1FnczRna1drdjFNTkJ1a2RCUmI5ZHJnNWhaYXNLd2haSWpFYjJQaWhsbEhfeXpPSTlLUndQc1BFMi16SEQ2bmc?oc=5) (Fri, 07 Aug 2026 16:12:53 GMT)
+- [Tron Just Added $2.2 Billion in Stablecoins in July. Does That Make It a Buy? - The Motley Fool](https://news.google.com/rss/articles/CBMilwFBVV95cUxOSGYxckNqRVk0d3lreDVGY3B3aGJMVVFCdjNJa0tiZllFS0ZLRDBIdEVWbWlZQW5kdFI0WjdVYVB2MlEwZFBsYWM4elRFZEVReWVzSVdwc2RyWXFLZl8wXzdPZzFoSC1XbDJ3QjhfTWVjNksxblU5WFl0cVgyVXJKbHNuNzJrTHNQdVVVLTZDTVRweF9qS0VJ?oc=5) (Sun, 09 Aug 2026 00:56:14 GMT)
+- [Tron Just Added $2.2 Billion in Stablecoins in July. Does That Make It a Buy? - Yahoo Finance](https://news.google.com/rss/articles/CBMijAFBVV95cUxPRm5ZNzM4THNlc2J2cUt4Y00wS3ozZHNBVks3cGlXbVpJYjg0NC1aTnBGQjFZdXkwQm95TzNBZU5ZYk5ieHkwZDVQMG9nN2NGcFhaeEFOV2dXUWhONnU0RTZONmlsbnhjV0JPVXlfMVIzTHF6OHlhSkhGcVhjUUhuQTY2c1VvcGQzQW9SbA?oc=5) (Sun, 09 Aug 2026 00:39:00 GMT)
+- [Banks Versus Stablecoins, And The Competition To Control The Digital Dollar - Forbes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV1NmMlN4TUtCWkkwSXJ4UlNYRkdRa2tsUGdZRk43LWZ5X25vMTlSeW9nUksxaDNDN3RjYnFqWUNjbkVrb19aUmlvVG9iUEhJMWh1QlptMEF3ZnoyLWxqak9tWjExeGRaaTBrLVYzdWtmWmszbkdHNFRnX2FzR1hHQ3BJZ0JLakdIZ3ZkVTNoX0NPb1ZOYmFtbENOMDhZT09SWDU4Z2NKR1dqUEVCY3hxVDhwU1lRdFQ4VE1ZMGhRR2tQNUZjdkdNa293?oc=5) (Sat, 08 Aug 2026 15:29:27 GMT)
+- [&#x27;Banks Have To Plug Into Us&#x27;—Ex-Binance CFO Eyeing $685 Billion Market - Forbes](https://news.google.com/rss/articles/CBMivAFBVV95cUxNN2x0TjFrMVhlWGk0OFlfQjdLdU9yYVNCVkhVRUtPMjNVZ1NjdkN1QzFBRDNkWFFDaF9pcUVJM1hpVjNlUUZ3czZYNzNRUkpQVTN2OGoyM25oWkV1ekcwM2xfalNOSjlhMm55MS1BbWcwSG5wWTVBUnlLc0hfWFh5NU1oQU51X1N2MHBtNFVuTWxMSlJ1T0g5UTAyY1FvdTY5cmZMYUx6NHFlUFgtMy0yUzhibXU0NlFGd0F5UQ?oc=5) (Sat, 08 Aug 2026 13:00:00 GMT)
+- [EU to revise MiCA rules in 2027 amid US stablecoin push - Crypto News](https://news.google.com/rss/articles/CBMie0FVX3lxTE5xdVNEU0U0eUVfbU9qX3gtV3lFNEg2UTl0YjQwSXRWUVJYdl9mamhTdzRzS0R5MlAxM2FGUVc2dkx3WExPNkJkeFN3cnRFU3NmZUlidWJ6elFSdHh3ZHpMN1ZCbnJjenNqZnpqb0JuQ0JTcXg5SlN4My1Edw?oc=5) (Sat, 08 Aug 2026 11:21:22 GMT)
 
 <!-- END_dashboard -->
 
