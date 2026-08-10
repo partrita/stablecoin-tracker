@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-08-09 01:03:10 (UTC)*
+*Last Updated: 2026-08-10 01:04:50 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$287,082,290,701** | 🔴 -0.08% | 🟢 +0.16% |
+| **$287,097,575,570** | 🟢 +0.01% | 🟢 +0.23% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Tron Just Added $2.2 Billion in Stablecoins in July. Does That Make It a Buy? - The Motley Fool](https://news.google.com/rss/articles/CBMilwFBVV95cUxOSGYxckNqRVk0d3lreDVGY3B3aGJMVVFCdjNJa0tiZllFS0ZLRDBIdEVWbWlZQW5kdFI0WjdVYVB2MlEwZFBsYWM4elRFZEVReWVzSVdwc2RyWXFLZl8wXzdPZzFoSC1XbDJ3QjhfTWVjNksxblU5WFl0cVgyVXJKbHNuNzJrTHNQdVVVLTZDTVRweF9qS0VJ?oc=5) (Sun, 09 Aug 2026 00:56:14 GMT)
-- [Tron Just Added $2.2 Billion in Stablecoins in July. Does That Make It a Buy? - Yahoo Finance](https://news.google.com/rss/articles/CBMijAFBVV95cUxPRm5ZNzM4THNlc2J2cUt4Y00wS3ozZHNBVks3cGlXbVpJYjg0NC1aTnBGQjFZdXkwQm95TzNBZU5ZYk5ieHkwZDVQMG9nN2NGcFhaeEFOV2dXUWhONnU0RTZONmlsbnhjV0JPVXlfMVIzTHF6OHlhSkhGcVhjUUhuQTY2c1VvcGQzQW9SbA?oc=5) (Sun, 09 Aug 2026 00:39:00 GMT)
-- [Banks Versus Stablecoins, And The Competition To Control The Digital Dollar - Forbes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV1NmMlN4TUtCWkkwSXJ4UlNYRkdRa2tsUGdZRk43LWZ5X25vMTlSeW9nUksxaDNDN3RjYnFqWUNjbkVrb19aUmlvVG9iUEhJMWh1QlptMEF3ZnoyLWxqak9tWjExeGRaaTBrLVYzdWtmWmszbkdHNFRnX2FzR1hHQ3BJZ0JLakdIZ3ZkVTNoX0NPb1ZOYmFtbENOMDhZT09SWDU4Z2NKR1dqUEVCY3hxVDhwU1lRdFQ4VE1ZMGhRR2tQNUZjdkdNa293?oc=5) (Sat, 08 Aug 2026 15:29:27 GMT)
-- [&#x27;Banks Have To Plug Into Us&#x27;—Ex-Binance CFO Eyeing $685 Billion Market - Forbes](https://news.google.com/rss/articles/CBMivAFBVV95cUxNN2x0TjFrMVhlWGk0OFlfQjdLdU9yYVNCVkhVRUtPMjNVZ1NjdkN1QzFBRDNkWFFDaF9pcUVJM1hpVjNlUUZ3czZYNzNRUkpQVTN2OGoyM25oWkV1ekcwM2xfalNOSjlhMm55MS1BbWcwSG5wWTVBUnlLc0hfWFh5NU1oQU51X1N2MHBtNFVuTWxMSlJ1T0g5UTAyY1FvdTY5cmZMYUx6NHFlUFgtMy0yUzhibXU0NlFGd0F5UQ?oc=5) (Sat, 08 Aug 2026 13:00:00 GMT)
-- [EU to revise MiCA rules in 2027 amid US stablecoin push - Crypto News](https://news.google.com/rss/articles/CBMie0FVX3lxTE5xdVNEU0U0eUVfbU9qX3gtV3lFNEg2UTl0YjQwSXRWUVJYdl9mamhTdzRzS0R5MlAxM2FGUVc2dkx3WExPNkJkeFN3cnRFU3NmZUlidWJ6elFSdHh3ZHpMN1ZCbnJjenNqZnpqb0JuQ0JTcXg5SlN4My1Edw?oc=5) (Sat, 08 Aug 2026 11:21:22 GMT)
+- [Senate CLARITY Act Draft Seeks Stablecoin, DeFi Compromise - PYMNTS.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSE5KNG1mblFIQ01yZ2RhUEhZNEFqNzRVOTFPNzVBS0p3clZmaGpjc0Exa1NDSFhMOHdieDdyMXVWUG9qbXltRU9KRmx5MzJWREVhRnF0blJ1RGVoeXB5dEJRdmI4aWs0cGxoSTN5a214Q09xQTlDQTZ6MGNuSFowYk9rSVZPd2lHM01SYTNVS1JwNThZeXpZZnlta2dvRVFaWHpz?oc=5) (Sun, 09 Aug 2026 22:00:50 GMT)
+- [What happens when a stablecoin depegs for 30 seconds - Crypto News](https://news.google.com/rss/articles/CBMifkFVX3lxTE80djZvc1FKbTlrd01icXZjWm82aG5iM1E0QnNsYy1sQ2VIUG9WdW43WmZ0Vy1fNDJkV1Zwa2Q4S1BkeU43T2xXNnlzbW9hZG00VEdtZjY0dUZrd1F5MTZOREU2TVBzNnBjc1lIWlBMYmR1TjduWUxJZGZIb1puQQ?oc=5) (Sun, 09 Aug 2026 13:58:43 GMT)
+- [What Is the Circle Blockchain Arc? - Bitcoin Foundation](https://news.google.com/rss/articles/CBMie0FVX3lxTFBURDlxc01kbFRwU2pXc01lcFpsZHYzbHRhZXNsS0E0N3FpMlYtUjUzalZZUkJ2VXNySEVJd085cGFVZS1jc3N5UXdkdllRdXZHRmFRNXZjQVc2UkpOSm5VUnhJaDVtVndueE5YTnpvQnNBem5acUxRZ3E4RQ?oc=5) (Sun, 09 Aug 2026 13:44:55 GMT)
+- [Stablecoin Liquidity: A Structural Network Rotation on Binance - CryptoQuant](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV1lrWVJDRUZ5YVdDdnBQaFBwQm9ZbUVXNGtCaVNzTnFJamlDRHNyRlNWREJUNzJNZ09wSlFIbVNLQzc1WnpLMFBfYks3V0QxSzJVV2FzN3RlMzJUTUo0cThvTlN6Yzljc29kS3dxaEE3dXZ5YThZOXZ4ZmZONE9fdUZWVWxLRDFOWDJjUWJfMzVPeGtUNlAyNktMVWM1RWV4Z2RaOWFYMzBxNkpSSzVQUkFJZG51WnlJLTRrUHRzQVYwSlpFT1R2UQ?oc=5) (Sun, 09 Aug 2026 13:16:15 GMT)
+- [The New Crypto Banking Era: How Stablecoins Are Becoming the Backbone of Global Payments - Bitcoin Foundation](https://news.google.com/rss/articles/CBMijgFBVV95cUxQZkd1ekpreVhtRHBzakREeVF2Ym9hNHJwTTY1MS01T3ZFSnpQQm1aR2dPLUZSSEZwaVNiQkhkYkpickxqNmpXWGVVaW5zblNHQVhoQUhxd0lzWmpaVTB2YVd4bmpEeFJocDh2VVI4aTZ1SDFqNUpkYkJHeGxndXpybVZ0eDZMQ2U3UWhfZVRB?oc=5) (Sun, 09 Aug 2026 07:33:55 GMT)
 
 <!-- END_dashboard -->
 
