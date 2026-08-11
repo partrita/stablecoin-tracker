@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-08-10 01:04:50 (UTC)*
+*Last Updated: 2026-08-11 01:04:08 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$287,097,575,570** | 🟢 +0.01% | 🟢 +0.23% |
+| **$287,007,447,711** | 🔴 -0.03% | 🟢 +0.13% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Senate CLARITY Act Draft Seeks Stablecoin, DeFi Compromise - PYMNTS.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSE5KNG1mblFIQ01yZ2RhUEhZNEFqNzRVOTFPNzVBS0p3clZmaGpjc0Exa1NDSFhMOHdieDdyMXVWUG9qbXltRU9KRmx5MzJWREVhRnF0blJ1RGVoeXB5dEJRdmI4aWs0cGxoSTN5a214Q09xQTlDQTZ6MGNuSFowYk9rSVZPd2lHM01SYTNVS1JwNThZeXpZZnlta2dvRVFaWHpz?oc=5) (Sun, 09 Aug 2026 22:00:50 GMT)
-- [What happens when a stablecoin depegs for 30 seconds - Crypto News](https://news.google.com/rss/articles/CBMifkFVX3lxTE80djZvc1FKbTlrd01icXZjWm82aG5iM1E0QnNsYy1sQ2VIUG9WdW43WmZ0Vy1fNDJkV1Zwa2Q4S1BkeU43T2xXNnlzbW9hZG00VEdtZjY0dUZrd1F5MTZOREU2TVBzNnBjc1lIWlBMYmR1TjduWUxJZGZIb1puQQ?oc=5) (Sun, 09 Aug 2026 13:58:43 GMT)
-- [What Is the Circle Blockchain Arc? - Bitcoin Foundation](https://news.google.com/rss/articles/CBMie0FVX3lxTFBURDlxc01kbFRwU2pXc01lcFpsZHYzbHRhZXNsS0E0N3FpMlYtUjUzalZZUkJ2VXNySEVJd085cGFVZS1jc3N5UXdkdllRdXZHRmFRNXZjQVc2UkpOSm5VUnhJaDVtVndueE5YTnpvQnNBem5acUxRZ3E4RQ?oc=5) (Sun, 09 Aug 2026 13:44:55 GMT)
-- [Stablecoin Liquidity: A Structural Network Rotation on Binance - CryptoQuant](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV1lrWVJDRUZ5YVdDdnBQaFBwQm9ZbUVXNGtCaVNzTnFJamlDRHNyRlNWREJUNzJNZ09wSlFIbVNLQzc1WnpLMFBfYks3V0QxSzJVV2FzN3RlMzJUTUo0cThvTlN6Yzljc29kS3dxaEE3dXZ5YThZOXZ4ZmZONE9fdUZWVWxLRDFOWDJjUWJfMzVPeGtUNlAyNktMVWM1RWV4Z2RaOWFYMzBxNkpSSzVQUkFJZG51WnlJLTRrUHRzQVYwSlpFT1R2UQ?oc=5) (Sun, 09 Aug 2026 13:16:15 GMT)
-- [The New Crypto Banking Era: How Stablecoins Are Becoming the Backbone of Global Payments - Bitcoin Foundation](https://news.google.com/rss/articles/CBMijgFBVV95cUxQZkd1ekpreVhtRHBzakREeVF2Ym9hNHJwTTY1MS01T3ZFSnpQQm1aR2dPLUZSSEZwaVNiQkhkYkpickxqNmpXWGVVaW5zblNHQVhoQUhxd0lzWmpaVTB2YVd4bmpEeFJocDh2VVI4aTZ1SDFqNUpkYkJHeGxndXpybVZ0eDZMQ2U3UWhfZVRB?oc=5) (Sun, 09 Aug 2026 07:33:55 GMT)
+- [Brazil finalizes 24 hour delay for crypto, stablecoin transfers to combat fraud - ledgerinsights.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWE3aFRpTFNKeWQ3UENIQzR2czY0czg1Y2dQLXhpTldaUkRKRFlPT284X1BfTEprV3dsS0F3YTliNmJzbEtTNFgxUmh2OFhWRWNXME5WWmVxV1ZXa25qYVpJUzZDR3lxRXRsY3hyVTN6WW5TV3JYTWVKME5JREdzMjYxTDBVSTJnemJuOFQ5Wmw1dmNfSG9WTUlSN1RsRGVlUzB3RXR6aTVxOFRPUXZZ?oc=5) (Mon, 10 Aug 2026 23:03:56 GMT)
+- [Wells Fargo Brings the Stablecoin Fight Inside the Bank - PYMNTS.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWtLUnp2djUycld0Zm9aU1VpdHEwTnRIOU51U3BuSEZhRXdYcUxST0RPTWtsMXM5eVBXTlRGLU5iZlQ4alNmenBzaXpjZmh1TFlrbzhlc1gtaHZCUTRjZ2FEZXdZejhpbll3eDJfR2JGbVB4eFlTVHdXLUNLeXNubW5Jbnh1WnBLeEd4dnBwNU5DbENRN3p3bGJPaw?oc=5) (Mon, 10 Aug 2026 23:02:55 GMT)
+- [Bitwise Sees Stablecoin Market Growing to $3 Trillion-$5 Trillion, Says Circle Potential Is Undervalued - bloomingbit](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UMjhaeXRxN1czeUdOS1dkMXFVNThENmpfeksyd3FoMmk4WHM3ajFNbFFCVEthUjR2a2VBbmRvSWdoNG5EelhYLVAtbzdjaXFRV3hTXw?oc=5) (Mon, 10 Aug 2026 20:56:12 GMT)
+- [Solana&#x27;s stablecoin supply has grown 11x in three years - thestreet.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdEdvQkpPSTBka2xLNlQyc2p6RlhQdHBCSmt3Mmt6cnd5WFNMSHJEazcxTHBwWjEwVTMxNDgyazJIY3pxSUpaYnduS0pxbkRLMVNLeVR1TkhSMzRWRnRsNEFuMVlUWXRhaE1DVjJIQnVJVkxCSmxMRzRNa0htZDI0ekFsNmxkSzBpOWJpQjUtT1ZQSE1LNk5KZjV2TQ?oc=5) (Mon, 10 Aug 2026 20:54:00 GMT)
+- [Bitwise&#x27;s Rasmussen: Circle is mispriced as stablecoins head toward trillions - CoinDesk](https://news.google.com/rss/articles/CBMixAFBVV95cUxQQjVSNklDanZYWjV5ckpqbUVKanNPeEJ5cklNYThJcnA1cy1NTFFORzZjLU5YTWQtVm5rdG9QZzJVUzIzdVo1VDdDcWtITGM2R0pjN1l6WnJKblBHaWlxSWdxYWFFczYzYm81RjBHX3g3T2syQlFqeFFuZzlGSWhKWGZxZk4wbmdteUUwd2Z5SnM2b1d6WV9jM3dXaGlqNlI1Rm1NSXdFWm5EODJKN0lvXzhia2V0V3VNc0tIYWFwY3R1d0xM?oc=5) (Mon, 10 Aug 2026 20:21:41 GMT)
 
 <!-- END_dashboard -->
 
