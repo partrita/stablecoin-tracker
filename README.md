@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-08-11 01:04:08 (UTC)*
+*Last Updated: 2026-08-12 01:20:08 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$287,007,447,711** | 🔴 -0.03% | 🟢 +0.13% |
+| **$286,894,087,088** | 🔴 -0.04% | 🔴 -0.02% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Brazil finalizes 24 hour delay for crypto, stablecoin transfers to combat fraud - ledgerinsights.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWE3aFRpTFNKeWQ3UENIQzR2czY0czg1Y2dQLXhpTldaUkRKRFlPT284X1BfTEprV3dsS0F3YTliNmJzbEtTNFgxUmh2OFhWRWNXME5WWmVxV1ZXa25qYVpJUzZDR3lxRXRsY3hyVTN6WW5TV3JYTWVKME5JREdzMjYxTDBVSTJnemJuOFQ5Wmw1dmNfSG9WTUlSN1RsRGVlUzB3RXR6aTVxOFRPUXZZ?oc=5) (Mon, 10 Aug 2026 23:03:56 GMT)
-- [Wells Fargo Brings the Stablecoin Fight Inside the Bank - PYMNTS.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWtLUnp2djUycld0Zm9aU1VpdHEwTnRIOU51U3BuSEZhRXdYcUxST0RPTWtsMXM5eVBXTlRGLU5iZlQ4alNmenBzaXpjZmh1TFlrbzhlc1gtaHZCUTRjZ2FEZXdZejhpbll3eDJfR2JGbVB4eFlTVHdXLUNLeXNubW5Jbnh1WnBLeEd4dnBwNU5DbENRN3p3bGJPaw?oc=5) (Mon, 10 Aug 2026 23:02:55 GMT)
-- [Bitwise Sees Stablecoin Market Growing to $3 Trillion-$5 Trillion, Says Circle Potential Is Undervalued - bloomingbit](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UMjhaeXRxN1czeUdOS1dkMXFVNThENmpfeksyd3FoMmk4WHM3ajFNbFFCVEthUjR2a2VBbmRvSWdoNG5EelhYLVAtbzdjaXFRV3hTXw?oc=5) (Mon, 10 Aug 2026 20:56:12 GMT)
-- [Solana&#x27;s stablecoin supply has grown 11x in three years - thestreet.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdEdvQkpPSTBka2xLNlQyc2p6RlhQdHBCSmt3Mmt6cnd5WFNMSHJEazcxTHBwWjEwVTMxNDgyazJIY3pxSUpaYnduS0pxbkRLMVNLeVR1TkhSMzRWRnRsNEFuMVlUWXRhaE1DVjJIQnVJVkxCSmxMRzRNa0htZDI0ekFsNmxkSzBpOWJpQjUtT1ZQSE1LNk5KZjV2TQ?oc=5) (Mon, 10 Aug 2026 20:54:00 GMT)
-- [Bitwise&#x27;s Rasmussen: Circle is mispriced as stablecoins head toward trillions - CoinDesk](https://news.google.com/rss/articles/CBMixAFBVV95cUxQQjVSNklDanZYWjV5ckpqbUVKanNPeEJ5cklNYThJcnA1cy1NTFFORzZjLU5YTWQtVm5rdG9QZzJVUzIzdVo1VDdDcWtITGM2R0pjN1l6WnJKblBHaWlxSWdxYWFFczYzYm81RjBHX3g3T2syQlFqeFFuZzlGSWhKWGZxZk4wbmdteUUwd2Z5SnM2b1d6WV9jM3dXaGlqNlI1Rm1NSXdFWm5EODJKN0lvXzhia2V0V3VNc0tIYWFwY3R1d0xM?oc=5) (Mon, 10 Aug 2026 20:21:41 GMT)
+- [South Africa plans exchange controls for offshore crypto, stablecoin flows - ledgerinsights.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxPWnBFMkxLSzJRQjdPdGNTa1BRbU8yTFBVMXMxcmRieVpMVXlRWHgzUUNhaXFRVkVFM2JyV1lqSllRQlFLZE50MUY2eG5yMENlenJSaE13YUVaSkJ4NkFJYXpQdzFVYk5QVVRsYnZVaHkwS3RxaWtCeFN3S2F4UWt3YmZFUHdRZUE4d1JjZDduNDgzbExZdkRaY25fdFVEWjR6V21VYnhxdWpBc2VL?oc=5) (Tue, 11 Aug 2026 21:49:32 GMT)
+- [Stablecoin Development (SDEV) files S-3 for 212.9M-share resale over warrant deal - Stock Titan](https://news.google.com/rss/articles/CBMivwFBVV95cUxPMFJmN0FVLUhxWU5Pd3F2dWNaZGpsRlhsczVmbkxsQUhXWm1VWlRrcWowVXY3ZDhKLVhUeENGVjN1UWZ4a1lhaWs4X0RDaDBGa0VXUGJraWxSSEFDUXR1cWZtcVRsT0lDekZpQVRscjNEMkVOX3JrQ0tMLXJJR0EtbWJUcTNVX21QOWE5aUJLTXRTNHlfc0E4OThPUUlKaGp1cTUwdER4WEdweG9hSmVaVGZDNS1jclhmVktTWERxcw?oc=5) (Tue, 11 Aug 2026 20:17:44 GMT)
+- [Payoneer&#x27;s CEO Bets The Stablecoin Race Is Won At The Last Mile - Forbes](https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0NBOXRzT1hYWkw3eVgtN0gxTjQxLTdEZm90SFhNOFFVeUYtVzg5cU5kN2RIMjBydUJlOEJCTWdVb1VDX0MwR1ltOS16TmxuQVFrXzVhbnpaUjRON3cwU245QXhjVWYxYkJ0UkF6NnJHQkp1djJaNG1LTXltZnVhMlVaWDNjNEVwcWFNS3BfRjZ4R2FWSnlubXBXU2h3WF9OR2dQZHljbl8xRy0xOFBwSkFxeUkwQQ?oc=5) (Tue, 11 Aug 2026 19:07:00 GMT)
+- [Stablecoin Cards Turn Crypto’s Last Mile Into a Payments Infrastructure Business - PYMNTS.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxOalMyQnJzNm5UVnFKdTdocnhTZE9fUlhPc1A1NHQwM0NJbFFRZkx2RmlXMzZKcmJOcldfQXozMXloVFpicV9uMEp2YW5vZURmS1BtSlhidzl2c3dMcUtIejZWYTlBQzFRUEdBN3VEdEF4OXcxdmdreVRHTGMyWUJBZ0FvS1FnN0VyZ21IWXdmakQ0TExWYUl1YlJ6TFBuV3RsYzBTcFN6TWxQOURUZmxSMXVfeEY5eWp1Tm5zLQ?oc=5) (Tue, 11 Aug 2026 17:26:43 GMT)
+- [Lebanon’s remittance lifeline has new gatekeepers - OMFIF](https://news.google.com/rss/articles/CBMihgFBVV95cUxQNXRhUzRfb1FIYW1vaEhuTDBFdmcwc2cySWxWbWRTaFhNWExpZGZGM0dnNHp4RmpjbkwweHZMVzhkVm9la3pXZ3QwdC1Fek9xSE5teGdOVlpnSVg3a2tOTDR2bk1FVUxoU2FPTGV5aWtfRjczS1JxSnF1dVdtcjVqSDV4VTNxUQ?oc=5) (Tue, 11 Aug 2026 16:53:57 GMT)
 
 <!-- END_dashboard -->
 
