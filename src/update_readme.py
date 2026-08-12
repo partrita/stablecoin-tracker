@@ -70,10 +70,10 @@ def update_news_archive():
                         *published_parsed[:6], tzinfo=datetime.UTC
                     )
                 else:
-                    pub_dt = datetime.datetime.now(datetime.UTC).replace(tzinfo=None)
+                    pub_dt = datetime.datetime.now(datetime.UTC)
             except Exception as e:  # noqa: BLE001 — unparseable date; use now as fallback
                 print(f"Warning: Could not parse date for {title}: {e}")
-                pub_dt = datetime.datetime.now(datetime.UTC).replace(tzinfo=None)
+                pub_dt = datetime.datetime.now(datetime.UTC)
 
             new_items.append(
                 {
@@ -91,9 +91,9 @@ def update_news_archive():
     if os.path.exists(archive_path):
         try:
             df_archive = pd.read_csv(archive_path)
-            # Ensure published_dt is datetime
+            # Ensure published_dt is datetime and UTC-aware
             df_archive["published_dt"] = pd.to_datetime(
-                df_archive["published_dt"], errors="coerce"
+                df_archive["published_dt"], errors="coerce", utc=True
             )
             df_archive = df_archive.dropna(subset=["published_dt"])
         except Exception as e:  # noqa: BLE001 — malformed CSV; fall back to empty frame
@@ -116,7 +116,11 @@ def update_news_archive():
     else:
         df_combined = df_archive
 
-    # 4. Sort and Save
+    # 4. Ensure timezone consistency before sorting
+    df_combined["published_dt"] = pd.to_datetime(
+        df_combined["published_dt"], errors="coerce", utc=True
+    )
+    df_combined = df_combined.dropna(subset=["published_dt"])
     df_combined = df_combined.sort_values(by="published_dt", ascending=False)
 
     # Limit archive to last 30 days to prevent unbounded growth

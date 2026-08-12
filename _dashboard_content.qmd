@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-04-26 01:58:09 (UTC)*
+*Last Updated: 2026-08-12 01:20:08 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$300,380,659,665** | 🟢 +0.03% | 🔴 -49.99% |
+| **$286,894,087,088** | 🔴 -0.04% | 🔴 -0.02% |
 
 ### 📰 Latest News
-- [Visa Validator Role On Tempo Reframes Stablecoin And Card Payment Future - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjVmcjVzalBPWEZzNUlQaXltandqalE2eW1NSENUS1c1YnZGcWdYclpTT2ZvZTRERXJfd212VHBmN1pneWlpOS14QWlVbXR4Yk1kOEI0ZFBFVzN6RkxxWVJEc1J6TXJ2NzdEUGlBcXdEbkktZ2hoRlhwQWRnbUNXeTA5RTdRVVppQ2l4TjFFVGx1VUhDdEFCcURwWmNnQnBT?oc=5) (Sat, 25 Apr 2026 23:04:18 GMT)
-- [Western Union Bets on Stablecoins and M&amp;A for Growth - PYMNTS.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxPVzRxSS14UDREMi1fUl9jQnFkdFRNRkhYTTZaV0pTenVGemJTRHRoTGxuUXZHSlNXTm92UFJaSzdqeWU3QVNabWZ6b2g2WTZMRS1VNEVBTDQ5bmgwM01mcDNPQW53X3Jqb0ZaWkg5bDZPdnotdmp6VVFHU0V2MWtZUlZSMUppR2Y1R1NUQTZZdFgtUWc?oc=5) (Fri, 24 Apr 2026 23:56:50 GMT)
-- [Stablecoin Growth in the U.S. - Purdue Global Law School](https://news.google.com/rss/articles/CBMic0FVX3lxTE9uWjZ3RTVSTGM4a1VJejZyQ2tFdUNjUmxsOHpMcW9nZlE3b05EQWNaT3dOTUZtai02SDNma04zb3RRQkhSS2JaUDUzTWVJS21IaHhsQjZlclh4S19NVGRPWFdfX3BMYnVHYWJpQUpWZjRyMDA?oc=5) (Fri, 24 Apr 2026 20:57:47 GMT)
-- [OCC’s GENIUS Act Proposal: What Prospective Issuers Need to Know - Morgan Lewis](https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGFFNG5LTUJ1aVNHX1ZWSzBPNzJxVWtVNldreWtPQnE4SThTMEpOVFZQS3dQbkNjSGJlR0JtVjZ1TndNd3IyVnBYcjdSdlpUVWJrNWx1TVZrYi1EUk5jNHcxZFlEdGhpV1FoWGNqdnlvOFhVWHVlTlhRdXM3QlRiUXhfRGpkZFB4Mk92OVBqNUpJbTE4RThQWVE5WjNNTzdZYzVabXdB?oc=5) (Fri, 24 Apr 2026 19:43:17 GMT)
-- [Morgan Stanley Supports Stablecoin Issuers With New Fund for Reserves - PYMNTS.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUS0zb3lXV1drTzc1TVhBN2ZsTWY2ZE80RnRnZDVIRjN4bW1jRjR5X0RZQTl1NDY0cWNkM2luRFVENXc0NjJmMThOVmFQNXRISVYwS2pXcWEyRFJGSXZHMW1zSFc4OU0xM2ljWl9nVnBybEt4NlRhYUNicVl2LV9kajlOYnNMQXFfQlU5aXJ4R1l6UV9VWWpZYmRROE1oQW4xVjQ5bjczZ0tKN25wZHc?oc=5) (Fri, 24 Apr 2026 18:37:44 GMT)
+- [Lebanon’s remittance lifeline has new gatekeepers - OMFIF](https://news.google.com/rss/articles/CBMihgFBVV95cUxQNXRhUzRfb1FIYW1vaEhuTDBFdmcwc2cySWxWbWRTaFhNWExpZGZGM0dnNHp4RmpjbkwweHZMVzhkVm9la3pXZ3QwdC1Fek9xSE5teGdOVlpnSVg3a2tOTDR2bk1FVUxoU2FPTGV5aWtfRjczS1JxSnF1dVdtcjVqSDV4VTNxUQ?oc=5) (Wed, 12 Aug 2026 03:41:32 GMT)
+- [Cashi launches stablecoin Visa card in public beta - CFOtech Asia](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWl2dzQ5blpMREQ3XzhvbHJjemtNQlhoN2pocUhpQ1hSSWtYQXRIVmhjdW1xRGpNUDdHYVNiX2xlWE5jajh3aVJCYUpSNFVCei1PNmZHUnl2ZW1kRXMtVFBSMDAtMUh4SXRncE5fWm5XZHN4ejNBQ3pILTVoNjJlQjdqdw?oc=5) (Wed, 12 Aug 2026 01:40:00 GMT)
+- [FDIC Chief Says Stablecoin Users Won&#x27;t Get Deposit Insurance - Even Through A Back Door - Yellow.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTjFzRkRvVEpCbm9tTjBpY3ItWHlLMWdjcFdXVWxENHZPTHVuZnVMZ2NMcHowc0dVSTg1Q2RpZVRvQ01pbUZRT0xEZkdhbVNrb293V05nZXhSOE9vUzFoWXRQekFEMk5iQlRqS28wZllWRXFBYVFQbmFuTG9IZlNzdDBIRzBEZjhBVmRkblVOOFN3cUd1cWdNTmNjTkhldFc1c1doUy1ZVUZXMXRwRWd1ZVJucmdsa3lTSWJB?oc=5) (Wed, 12 Aug 2026 00:18:12 GMT)
+- [Stablecoin Development (SDEV) files S-3 for 212.9M-share resale over warrant deal - Stock Titan](https://news.google.com/rss/articles/CBMivwFBVV95cUxPMFJmN0FVLUhxWU5Pd3F2dWNaZGpsRlhsczVmbkxsQUhXWm1VWlRrcWowVXY3ZDhKLVhUeENGVjN1UWZ4a1lhaWs4X0RDaDBGa0VXUGJraWxSSEFDUXR1cWZtcVRsT0lDekZpQVRscjNEMkVOX3JrQ0tMLXJJR0EtbWJUcTNVX21QOWE5aUJLTXRTNHlfc0E4OThPUUlKaGp1cTUwdER4WEdweG9hSmVaVGZDNS1jclhmVktTWERxcw?oc=5) (Tue, 11 Aug 2026 20:17:44 GMT)
+- [Nu Holdings (NU) Stock May Be 17% Undervalued After Stablecoin Push - Yahoo Finance](https://news.google.com/rss/articles/CBMikwFBVV95cUxOc05FaWRqUVg5R2I5ejlXbUFjUUtWNkFlWFY1c0xhVW5xcjFEMWJVbmU5QUt0Y01Zc2VCMl9sV3pRaVNSM0RlVkpzRFBmZDkxU0ppZVRQTHN1LXp1UmlPOXpLS3RSTEVkT1lDRjNQT1Z0aXh5dUdnNGVKWk9HU0lxaWdCd0ZjWkJNSVQxdmc5c2tmXzg?oc=5) (Tue, 11 Aug 2026 20:10:10 GMT)
