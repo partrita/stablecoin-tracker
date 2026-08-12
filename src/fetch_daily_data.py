@@ -1,10 +1,11 @@
-import cloudscraper
-from bs4 import BeautifulSoup
-import pandas as pd
-import json
 import datetime
+import json
 import os
 import sys
+
+import cloudscraper
+import pandas as pd
+from bs4 import BeautifulSoup
 
 URL = "https://www.coingecko.com/ko/categories/usd-stablecoin"
 CSV_PATH = "data/stablecoin_marketcap.csv"
@@ -22,6 +23,7 @@ SLUG_MAP = {
     "falcon-usd": "Falcon USD",
     "global-dollar": "Global Dollar",
     "ripple-usd": "Ripple USD",
+    "usdd": "USDD",
 }
 
 
@@ -67,7 +69,7 @@ def fetch_data():
             html_content = b"".join(chunks).decode(
                 response.encoding or "utf-8", errors="replace"
             )
-    except Exception as e:
+    except Exception as e:  # noqa: BLE001 — network timeouts, DNS failures, etc.
         print(f"Error fetching URL: {e}")
         sys.exit(1)
 
@@ -81,7 +83,7 @@ def fetch_data():
 
     new_data = []
     # Format: 2024-12-26 12:34:56.000
-    timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S.000")
+    timestamp = datetime.datetime.now(datetime.UTC).strftime("%Y-%m-%d %H:%M:%S.000")
 
     count = 0
     for row in rows:
@@ -109,7 +111,7 @@ def fetch_data():
             # Security: Catch specific exceptions rather than swallowing all errors silently
             print(f"Warning: Failed to parse props for row: {e}")
             continue
-        except Exception as e:
+        except Exception as e:  # noqa: BLE001 — unexpected row property format
             print(f"Warning: Unexpected error processing row properties: {e}")
             continue
 
@@ -152,6 +154,19 @@ def fetch_data():
         print("No data fetched.")
         return
 
+    # Check for duplicate date — skip if today's data already exists
+    today_str = datetime.datetime.now(datetime.UTC).strftime("%Y-%m-%d")
+    if os.path.exists(CSV_PATH):
+        try:
+            df_existing = pd.read_csv(CSV_PATH)
+            df_existing["date"] = pd.to_datetime(df_existing["date"], errors="coerce")
+            existing_dates = set(df_existing["date"].dt.strftime("%Y-%m-%d").dropna())
+            if today_str in existing_dates:
+                print(f"Data for {today_str} already exists. Skipping.")
+                return
+        except Exception as e:  # noqa: BLE001 — could not check existing data; skip dedup
+            print(f"Warning: Could not check existing data: {e}")
+
     # Append to CSV
     df_new = pd.DataFrame(new_data)
 
@@ -162,7 +177,7 @@ def fetch_data():
         try:
             df_new.to_csv(CSV_PATH, mode="a", header=False, index=False)
             print(f"Appended {len(df_new)} rows to {CSV_PATH}")
-        except Exception as e:
+        except Exception as e:  # noqa: BLE001 — disk full / permission error; report and continue
             print(f"Error appending to CSV: {e}")
     else:
         df_new.to_csv(CSV_PATH, index=False)

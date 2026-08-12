@@ -1,7 +1,8 @@
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 import os
+
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
 
 
 def generate_plot():
@@ -29,6 +30,10 @@ def generate_plot():
     if df.empty:
         print("Error: No valid date data found in CSV.")
         return
+
+    # Warn if very few data points
+    if len(df) < 10:
+        print(f"Warning: Only {len(df)} data rows available — charts may be sparse.")
 
     # Set style
     sns.set_theme(style="darkgrid")
@@ -59,6 +64,25 @@ def generate_plot():
 
     # Sort by market cap descending
     latest_df = latest_df.sort_values(by="market_cap", ascending=False)
+
+    # Warn if very few coins on the latest date
+    if len(latest_df) < 2:
+        print(
+            f"Warning: Only {len(latest_df)} coin(s) on {latest_date.date()} — pie chart may be uninformative."
+        )
+
+    # Group coins with < 1% share into "Other" to reduce clutter
+    total_cap = latest_df["market_cap"].sum()
+    if total_cap > 0 and len(latest_df) > 3:
+        threshold = total_cap * 0.01
+        main = latest_df[latest_df["market_cap"] >= threshold]
+        other_cap = latest_df[latest_df["market_cap"] < threshold]["market_cap"].sum()
+        if other_cap > 0:
+            other_row = pd.DataFrame(
+                [{"coin_name": "Other", "market_cap": other_cap}],
+                index=[len(latest_df)],
+            )
+            latest_df = pd.concat([main, other_row], ignore_index=True)
 
     plt.figure(figsize=(10, 8))
 

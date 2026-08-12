@@ -35,6 +35,11 @@ jobs:
       - name: Add .venv to PATH
         run: echo "$PWD/.venv/bin" >> $GITHUB_PATH
 
+      - name: Configure git user
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Run Scraper
         run: uv run src/fetch_daily_data.py
 
@@ -48,7 +53,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "data: update stablecoin market cap csv, plot, and README"
-          file_pattern: "data/*.csv data/*.png README.md"
+          file_pattern: "data/*.csv data/*.png README.md _dashboard_content.qmd"
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2

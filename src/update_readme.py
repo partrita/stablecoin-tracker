@@ -1,8 +1,9 @@
-import pandas as pd
-import os
-import feedparser
 import datetime
 import html
+import os
+
+import feedparser
+import pandas as pd
 import requests
 
 
@@ -65,15 +66,14 @@ def update_news_archive():
                 # Convert struct_time to datetime
                 published_parsed = entry.get("published_parsed")
                 if published_parsed:
-                    pub_dt = datetime.datetime(*published_parsed[:6])
-                else:
-                    pub_dt = datetime.datetime.now(datetime.timezone.utc).replace(
-                        tzinfo=None
+                    pub_dt = datetime.datetime(
+                        *published_parsed[:6], tzinfo=datetime.UTC
                     )
-            except Exception as e:
-                # Security: Catch specific exception instead of swallowing
+                else:
+                    pub_dt = datetime.datetime.now(datetime.UTC).replace(tzinfo=None)
+            except Exception as e:  # noqa: BLE001 — unparseable date; use now as fallback
                 print(f"Warning: Could not parse date for {title}: {e}")
-                pub_dt = datetime.datetime.now()
+                pub_dt = datetime.datetime.now(datetime.UTC).replace(tzinfo=None)
 
             new_items.append(
                 {
@@ -83,7 +83,7 @@ def update_news_archive():
                     "published_dt": pub_dt,
                 }
             )
-    except Exception as e:
+    except Exception as e:  # noqa: BLE001 — feed fetch failure; fall back to empty list
         print(f"Error fetching news: {e}")
         new_items = []
 
@@ -96,7 +96,7 @@ def update_news_archive():
                 df_archive["published_dt"], errors="coerce"
             )
             df_archive = df_archive.dropna(subset=["published_dt"])
-        except Exception as e:
+        except Exception as e:  # noqa: BLE001 — malformed CSV; fall back to empty frame
             print(f"Error reading archive: {e}")
             df_archive = pd.DataFrame(
                 columns=["title", "link", "published", "published_dt"]
@@ -119,8 +119,16 @@ def update_news_archive():
     # 4. Sort and Save
     df_combined = df_combined.sort_values(by="published_dt", ascending=False)
 
+    # Limit archive to last 30 days to prevent unbounded growth
+    cutoff_date = datetime.datetime.now(datetime.UTC) - datetime.timedelta(days=30)
+    before = len(df_combined)
+    df_combined = df_combined[df_combined["published_dt"] >= cutoff_date]
+    removed = before - len(df_combined)
+    if removed > 0:
+        print(f"Pruned {removed} news items older than 30 days.")
+
     # Save to CSV
-    df_combined.to_csv(archive_path, index=False)
+    df_combined.to_csv(archive_path, index=False, encoding="utf-8-sig")
     print(f"News archive updated. Total items: {len(df_combined)}")
 
     # 5. Return top 5 formatted strings

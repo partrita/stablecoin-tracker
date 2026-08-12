@@ -1,11 +1,12 @@
+import json
+import os
+import time
+
 import click
 import cloudscraper
 import pandas as pd
-import time
-import os
-import json
 
-# 수집 대상 리스트 (코인 이름, API 엔드포인트)
+# Mapping slugs to display names — must match SLUG_MAP in fetch_daily_data.py
 COIN_DATA_URLS = [
     ["Tether", "https://www.coingecko.com/market_cap/tether/usd/max.json"],
     ["USDC", "https://www.coingecko.com/market_cap/usdc/usd/max.json"],
@@ -20,6 +21,7 @@ COIN_DATA_URLS = [
         "https://www.coingecko.com/market_cap/global-dollar/usd/max.json",
     ],
     ["Ripple USD", "https://www.coingecko.com/market_cap/ripple-usd/usd/max.json"],
+    ["USDD", "https://www.coingecko.com/market_cap/usdd/usd/max.json"],
 ]
 
 
@@ -97,8 +99,7 @@ def save_coin_data(output):
             except ValueError as e:
                 # Security: Catch specific exceptions like JSON decoding errors
                 click.echo(f"\n[오류] {name} 데이터 파싱 실패: {e}", err=True)
-            except Exception as e:
-                # Catching general Exception only as a fallback
+            except Exception as e:  # noqa: BLE001 — network/parsing failure for this coin; skip
                 click.echo(f"\n[오류] {name} 수집 실패: {e}", err=True)
             finally:
                 # 중요: 코인게코의 IP 차단을 피하기 위해 요청 간 간격을 둡니다.
