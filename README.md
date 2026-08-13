@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-08-12 01:20:08 (UTC)*
+*Last Updated: 2026-08-13 01:13:38 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$286,894,087,088** | 🔴 -0.04% | 🔴 -0.02% |
+| **$286,826,187,009** | 🔴 -0.02% | 🔴 -0.01% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Lebanon’s remittance lifeline has new gatekeepers - OMFIF](https://news.google.com/rss/articles/CBMihgFBVV95cUxQNXRhUzRfb1FIYW1vaEhuTDBFdmcwc2cySWxWbWRTaFhNWExpZGZGM0dnNHp4RmpjbkwweHZMVzhkVm9la3pXZ3QwdC1Fek9xSE5teGdOVlpnSVg3a2tOTDR2bk1FVUxoU2FPTGV5aWtfRjczS1JxSnF1dVdtcjVqSDV4VTNxUQ?oc=5) (Wed, 12 Aug 2026 03:41:32 GMT)
-- [Coinbase CEO Brian Armstrong Says ‘Crypto Doesn’t Get Enough Credit’ for Unlocking Global Financial Access With Stablecoins, DeFi and Bitcoin - Yahoo Finance](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdnZEajBTSWN1UWhlek45UTBLVHhnR2s1VHE3OXRxb1FyZDV3cl9aVDVyT3NPeEd5TXoyWEtvckk4dGRHRTJYMm5iSlIyMUlDaUV2d2htbG9ScTg5S0tDMUxuX3Jhd1VoQWFhMnVJQ0lJbDVPTlhuc3ctQXJtVk42Q0RsTlUwdlpmQ05yVGh2MTNGSGt3TERCTnFQLXNIUms?oc=5) (Wed, 12 Aug 2026 03:31:00 GMT)
-- [Cashi launches stablecoin Visa card in public beta - CFOtech Asia](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWl2dzQ5blpMREQ3XzhvbHJjemtNQlhoN2pocUhpQ1hSSWtYQXRIVmhjdW1xRGpNUDdHYVNiX2xlWE5jajh3aVJCYUpSNFVCei1PNmZHUnl2ZW1kRXMtVFBSMDAtMUh4SXRncE5fWm5XZHN4ejNBQ3pILTVoNjJlQjdqdw?oc=5) (Wed, 12 Aug 2026 01:40:00 GMT)
-- [FDIC Chief Says Stablecoin Users Won&#x27;t Get Deposit Insurance - Even Through A Back Door - Yellow.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTjFzRkRvVEpCbm9tTjBpY3ItWHlLMWdjcFdXVWxENHZPTHVuZnVMZ2NMcHowc0dVSTg1Q2RpZVRvQ01pbUZRT0xEZkdhbVNrb293V05nZXhSOE9vUzFoWXRQekFEMk5iQlRqS28wZllWRXFBYVFQbmFuTG9IZlNzdDBIRzBEZjhBVmRkblVOOFN3cUd1cWdNTmNjTkhldFc1c1doUy1ZVUZXMXRwRWd1ZVJucmdsa3lTSWJB?oc=5) (Wed, 12 Aug 2026 00:18:12 GMT)
-- [Stablecoin Development (SDEV) files S-3 for 212.9M-share resale over warrant deal - Stock Titan](https://news.google.com/rss/articles/CBMivwFBVV95cUxPMFJmN0FVLUhxWU5Pd3F2dWNaZGpsRlhsczVmbkxsQUhXWm1VWlRrcWowVXY3ZDhKLVhUeENGVjN1UWZ4a1lhaWs4X0RDaDBGa0VXUGJraWxSSEFDUXR1cWZtcVRsT0lDekZpQVRscjNEMkVOX3JrQ0tMLXJJR0EtbWJUcTNVX21QOWE5aUJLTXRTNHlfc0E4OThPUUlKaGp1cTUwdER4WEdweG9hSmVaVGZDNS1jclhmVktTWERxcw?oc=5) (Tue, 11 Aug 2026 20:17:44 GMT)
+- [Standard Chartered’s Anchorpoint launches beta version of HKDAP stablecoin - ledgerinsights.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVpSd0FRR040VGhpcjRNWllHaWV1VUJqQmw0ME1SNlhtYzE4dE1HZ2NrMzBhdVVhR1RJUE5zWmliUVBVeWdiUmxfSlJLZXgwU3VEVk5jX1ZxbWJRZGcwNkE0Z1QwX2dZRG10WlpVcGdtaWZtdE4wQ1NiV3lYUDNmYU1xX2l3VlBNem1pYWFjMzY1bUJFZ1MzSWRxaFpLRDhtYVgxamxkcTg?oc=5) (Wed, 12 Aug 2026 23:20:26 GMT)
+- [Anchorpoint names HashKey as distributor for Hong Kong dollar stablecoin HKDAP - Crypto News](https://news.google.com/rss/articles/CBMie0FVX3lxTE53a3NMOEFuTGVTUDNjOWVaY2dIaGptbzdTaUZjcHNQWktUU24yMFJESHBwemJIQnRPZWVpNEVRdTJqRG1fN3R4SnlYYWVtdVhROVBoajN0b0ExLU5hQ1JpejNoVURGVHUxRUVhdlZLNkpKSjhrSFAtR3N6UQ?oc=5) (Wed, 12 Aug 2026 21:46:51 GMT)
+- [Banks Challenge OCC’s Weekly Stablecoin Reporting Burden - PYMNTS.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0xZbklkLVc2Uy1YM3ZEWUtOUjFLR0RGMVg5SmpPbHIwUzNRM1M5YlZQX3d5OWFDTm9Zc185OFJOVXg3UTV6RVRyTnJTN1VlYkswa3NEc1BPcGgtZ0hoMDhua1Q4Y0V3QjNNXzNWTEx0Vy1DamdLUmgwdlB3eWp4SkVnNU4zZ1MyUml6bVJUOGVYZkxQaHJxT0llSEN3VTQ?oc=5) (Wed, 12 Aug 2026 20:56:57 GMT)
+- [Bank of England Lab Targets $2.5 Trillion Trade Gap With Stablecoin-CBDC Test - Tech Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSEFZa2xPd2owaGp1OHpQSGw4NFNZM0RTNWUya2U3dWpJSk5rUEVTc1FLSTduQ1lmN3dXSFFEWWJ2NlM4VFdNTmNVOTNFYjNObzctOVVvanFIQW9YUFB5X0s3YThvREUxY1E2bGV2eDNFQWxhX1ZaakI4Y2NBYXJUZng1SmRTSEktZ3dBUzFHVXBSaFF5Rl9DRExHUEROSUw0X0M4SUd0VnRhM0VhSUduOUdHTWlqRTVRX2M4Y0JUOA?oc=5) (Wed, 12 Aug 2026 20:46:05 GMT)
+- [Anchorpoint Rolls Out HKDAP Hong Kong Dollar Stablecoin With Institutional Beta Access: 10 outlets compared - NewsCord](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN0RXbU90R2x4Z28yRjNyVGdzamVjLWpvVmJSQWpCZjBQWGJtNElBazlaQ2dYSWpCTE5URU9BU1lacTludnBVZmVOTnZLVXN3NFMweTNGbEctbm9zUWtMOHZaaTN1ZlF0blY1NXUwV3RoYkFHYk83eFRpMjQwcFBrMWpQeFQtSVZPZTkxRHVaSWt2ZFRINGpkLVJpT3hIcElkWDUzS0RGZ1Z4Z2laTTk4YVVvS2hfMU1ZVWl4d1g4QkJCNHpmYS1UOVQ5SXREZU1idFZsa25Jb1k2V0loMl9nRlQ3TlBVaGFo?oc=5) (Wed, 12 Aug 2026 19:46:53 GMT)
 
 <!-- END_dashboard -->
 
