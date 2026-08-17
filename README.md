@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-08-16 00:47:32 (UTC)*
+*Last Updated: 2026-08-17 00:44:46 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$286,723,173,001** | 🔴 -0.01% | 🔴 -0.13% |
+| **$286,688,886,481** | 🔴 -0.01% | 🔴 -0.14% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [Hong Kong’s Stablecoin Bifurcation: Two Paths for Tokenized Money - forkast.news](https://news.google.com/rss/articles/CBMijgFBVV95cUxOSmRjcDBZZy1hMUFtbkI4U2tndHRCYThHZmNEMnh6WDFNQm1NYXlQTFBfMFdsODRWN0JHTTZGQXBzQ3g5cE93ZFdLSkxnZzNOaExnVFhmZHFpbW5feW1qWGFSM0tZSG1LZ3lnTmFhRmtDTUdHM29PYW8yTlk3V1ZhalRWT0huem5pZDZSR0FR?oc=5) (Sun, 16 Aug 2026 22:37:13 GMT)
+- [The stablecoin yield clash that won&#x27;t go away has banks, crypto battling over tradition - CoinDesk](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRE5jRnNUVlBaaUUzakR0MkdmSmRCSFNPTm1uVUJOUm1iR0ttN3hydm83SjRoUUJlNXltQzFiTmo2aXk4NFNqeTJwYUZDTlNvc2lMMnU1MjlBYVpZMkkxN1J6VXdBZTRvUHRWV1FQamxUaVpSTXNIdG1oQ2dzdEdidzM4NFBQOGxjZF9QOWZTNUNjWFZUZ1REQ1B4Z3puWFN6TEI1LWxfSkRFZjNqMklWTGNIcHdrNmN5TDdPUE5qdllTLVA3V2U0aC1HTlhYODhsaFE?oc=5) (Sun, 16 Aug 2026 13:00:00 GMT)
+- [Asia&#x27;s weekly TOP10 crypto news: HK‑Licensed Stablecoin Faces Multi‑Risks, Cambodia Drafts Digital‑Asset Legislation and Top10 News - Substack](https://news.google.com/rss/articles/CBMifEFVX3lxTE8wbFdkYklObkFqZzF4VWFjZjdSbkRDbDhxa19iTlQzc2lmWWdZazlvRVFJakg4UTlKRTgtNVFSNzgyUU1sX3lldHhSRk9MSUlmSVBHMVpkRWw2cnpEX2dyMGVjR2k2N2pqaVFDWG9fV2JwU2M0ZkZ2eURaODI?oc=5) (Sun, 16 Aug 2026 11:47:27 GMT)
+- [Ethereum: Stablecoin Contraction and a Rising Futures Premium Diverge From a Quiet Spot Market - cryptoquant.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE5sWnhPeTZnOGlyRmpZclZ4aTU3cml6M0V6VDBXY014XzZIcE0yWkZfUER0OXZfenVUZGJ6ci1zSlZwSjV1c0N4aUhNYWpPRXo3TXRpRzBXY1ktQmo0NE5qa1hEZmt1OFl4aE44aktYT0RPVXh1aEE?oc=5) (Sun, 16 Aug 2026 09:23:36 GMT)
 - [Wall Street is split on Circle Internet Group, and the divide reveals a real stablecoin infrastructure question - MarketScale](https://news.google.com/rss/articles/CBMi-wFBVV95cUxONnBFV28zQjQ4ZEp6ZWw5eDh3VkRkRjN6X2FvU2dieEFVaUo1eHJ4V2VTNjFsOXpxMEFsWF90STlOZHNiTEJCTERtOGtOU3czQ0NvakU0N3N3aGgwb2FEQ0F2eEVsSC05dE1IZFdWaXZGQzd4LW9OYW1KcDgzVFpDdEhWcGRkNDhGZE1mazM4Uk5CTHB1NzEwV0hNRVV5QWlBaFIzNFI5a1A5bHhqNG9zQVZGVUlNdl83YmdCSWVFNVJpZ0RUT3h6eFZLeHdwcmp4dl9CVDc1QWdXRU14Z0YwazRPRV9EdnVlcnVpOE1qdWFsekZFX29sdkowVQ?oc=5) (Sat, 15 Aug 2026 21:54:04 GMT)
-- [High-Tech Bet: Inside West Virginia&#x27;s Crypto &amp; Blockchain Push - Black By God](https://news.google.com/rss/articles/CBMiywFBVV95cUxQVi1IaDZzTUxDMzBIeGdpZzlBRG43TEozUFRjNWY0WnhQNVUxb1RUZmRpYlEtYlFFbFZIYTcyUXJYd19JMktoeTlMZWUtM1pHU2Nqd3R6NkNTZEtYZjM5dE1QWVl6RzZTdGpwYnd1M2YwcFFUZFNVeWgzR1JRSjZsWG55c2ZkUGpIMDFaN3lrTTdBSDI3ZEppSkZPR24yS2s5d1MxYkxwUHh5M2tqRXBJaVBMSEptc29RVlZuSVRVdHVUdzE5bnJVQXQwOA?oc=5) (Sat, 15 Aug 2026 16:50:24 GMT)
-- [Trump Family Crypto Venture Wins Federal Bank Charter for Its Own Stablecoin - Startup Fortune](https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXpROEJwRllwZ2pUOW56LU54MVVvUDlUN0Y5bVNlMDNDZUZwRjlRb0Rtak9MYWxZdVQtemlKYzc5aDFrbTB1ejVpZTZwMHh6aDJ4OGNqN3lyNnBVRFBNTDVkZ0Vaem9FbEJhTHNyc0FJSldJd1VDQjRucjRtSUlrbk9JT3cybDRNMjRvUFZOWUFES21MVWRHWExfRk5nVHBMeHNfOXZtTQ?oc=5) (Sat, 15 Aug 2026 15:20:04 GMT)
-- [Visa Stock And 2 Payment Shares In The Stablecoin Shift - simplywall.st](https://news.google.com/rss/articles/CBMizgFBVV95cUxQSk1HOVZibWtDcDNtOURGQnZZN2pnMTZPX05jemtZaTFGejNpNV9rcERRMkxFUzB0YUNvMlpXczlubzhUVVhMWExsUlprUkhDV1hELVdUSFdyWllhTzdrUUpaQ242ZFk2cDBCOVhyYmQzREVSdXU3SEJrQVZWZjFUWS1SbFN3T2RHTDhrM0dMREt1NzgydzFMRDk2QXBnb2tadjd2S002OGNKbTFmZ2ZlNng4NExLaEpRX0FaeXAzUzZsNE11ZTlGLWZXZVZNd9IB0wFBVV95cUxQMVpYWG8wZzlGX0xQNW5Fd2RXRFBJTzFsbDQyQzZfZFZJVFFnMmF4cGpyT21yZzN2WkRpeHVZUl9Ob0JrT2VNdmZkVzNvMWN0WFFocjZfVUs3UE5TMkI1T3ZEeEFETk1uZXliUWFqcDZTSW4wcmJqQlU5UVdyYVQ2eGFiamVjSHJ0UXNBb1RRYWxFcmF2QVFWbEJJZmg3THM4djFuZy1mejB6ZUo2dlJwVnN6alB2V2FIZHZEMnlCb2hWM3BjX1YtczEyRnBVM2F1M2NN?oc=5) (Sat, 15 Aug 2026 13:32:48 GMT)
-- [Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxQajlnMlRNZUpyaFpxYXVPdTAzRWY2bmwySzU1LUp4dEtGMW1rTXFkSUY4aXRYaUVRdGJBRTVXTTlmazRRRG5LZjFVNGY5ZVhKVmNtaFl0LVFVQm0xbVlPd0o0Z3VnNEExYzNtWWZ2WXp0YjU5cWJEN054Zjl4c2hlRDAzUUNxbjg5SnZoZVp5cTBrR0RuaFZMZm90Ync?oc=5) (Sat, 15 Aug 2026 13:01:04 GMT)
 
 <!-- END_dashboard -->
 
