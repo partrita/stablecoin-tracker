@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-08-20 00:43:47 (UTC)*
+*Last Updated: 2026-08-21 00:48:06 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$286,993,855,551** | 🟢 +0.09% | 🟢 +0.06% |
+| **$287,893,265,386** | 🟢 +0.31% | 🟢 +0.41% |
 
 ### 📰 Latest News
-- [As Crypto Spending Surges, Credit Unions Face New Payments Question - CUToday](https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1dBYXFCb2V1Yy1Kbjc0V3BILWtVOTROMkFxZ3Q2NDJFT2hxV0p0TUZxUk10ZENUM2RYcnN2SEw2R0VGRDUtY09tWXZXLVBQZUZvbWlCdVAzckRwTTQxWnIxLVE5TkgxeE1xR053Y2Vkb2xRODR6ZDFVQ01kOFQ4OHpsTG50enRIWVo3MnN3UDBENlVXdHFmQ0tYN0h4R2tnQlJFcTlR?oc=5) (Wed, 19 Aug 2026 22:41:14 GMT)
-- [OCC Advancing Stablecoin Rule At &#x27;Great Speed,&#x27; Gould Says - Law360](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUhPVmM4d1E5ekJhdnlfb0xIZFdqUG1iUFlaYnZPUTE3VWxmaXBxbzJVTHg2QndlQTgyYjk5MXVfcnppZnhBdTljeGljdHBvenpFeGVwcGhHaGNVQTlrbUhnelFzWks4NHNCVW9FZ2NsUXdJZU82aHBpeFk3bUw5S0QtekVMTjFpZWFIcy1sVDhQc0o2QkEyZmg3d3o1RTh4TllFVkR30gFWQVVfeXFMTXR5dkNIOHpZV0xUZ3Q5NGZsTmRIWmUyckRZbDZQTGJmOUtseXBwYVp3Y3FHb1d2WUlDZmlnY0NKRjJ3bzF5ZzFYX1p3d3Y0dnA3SHRPc1E?oc=5) (Wed, 19 Aug 2026 22:15:00 GMT)
-- [Self and USA₮ Launch First Regulated U.S. Stablecoin Distribution to Verified Humans on Celo - FF News](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXdhRi1QWG5tV1gzd0JqOG5fdk9meW5JTzRSWGYyU0dJS3pTRDI1blU0LTVKbzdtQlhieHJCZ21xTHItZ2ZTbnNrT1FUUjdNbklIaVpuaHV0dDJ1cXBRVGprQjRiTkI0anczNmVBZ3lGeVFEZU1rdy1VOXFLQmxGZVFXX2xhR2xKQTdpSTE5UWFCU3hpT1Zvam50TGg1S0tCLTk3Q2hWUHpBMkVnTzVRbVZhNA?oc=5) (Wed, 19 Aug 2026 21:44:44 GMT)
-- [US OCC to adopt stablecoin rule carrying out GENIUS Act by November, Gould says - mlex.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrd3BCMlBVZUFMaGtBRGExQXIyOW9aMFhNWXlhcFNPQ1kzOXNFeGJEeTI4UFFpWTl5VTBFbk5rVS1IYzNSdXhnOWcyUmtkbVd6UEQ1MFU4TUVyd9IBWkFVX3lxTFBrd3BCMlBVZUFMaGtBRGExQXIyOW9aMFhNWXlhcFNPQ1kzOXNFeGJEeTI4UFFpWTl5VTBFbk5rVS1IYzNSdXhnOWcyUmtkbVd6UEQ1MFU4TUVydw?oc=5) (Wed, 19 Aug 2026 21:06:00 GMT)
-- [6 Risk Areas Future Fla. Stablecoin Issuers Should Plan For - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Ca0p1QVBnNVRYbkg1U2ZWZnhyTEJKX29udFpKbzhQQm9qVXFaOVFiWGR4bHdLellfTEpzeC1RaE9kN1U0cDRYdUxOaDZTWHI1Z2VtNDRn0gFWQVVfeXFMTUJrSnVBUGc1VFhuSDVTZlZmeHJMQkpfb250WkpvOFBCb2pVcVo5UWJYZHhsd0t6WV9MSnN4LVFoT2Q3VTRwNFh1TE5oNlNYcjVnZW00NGc?oc=5) (Wed, 19 Aug 2026 21:00:00 GMT)
+- [Opinion &#124; World Liberty’s Stablecoin Becomes a Partisan Target - WSJ](https://news.google.com/rss/articles/CBMikgFBVV95cUxORjRZOEZ3bnoyWFlNc19ZeUdCNWNoWFM3UkF3NzdObVlrWDJxTzJ2dVVhZENlRk0zTzhkZHlzU0dWRlRXbjJ6TGw1RWFOY2hhcHFWN3Z6SEtPM2dFenM0aUpfWEtUUkxQUzFPM2c2RXJzM1V2bkZIUVBYdURkR3R4Z1RvZlJvTzhwQlFFck5ZTXZEUQ?oc=5) (Thu, 20 Aug 2026 21:09:00 GMT)
+- [Federal regulators rush to set stablecoin rules by November - Northeast Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxQYXR6YS14SHRMX193VkZGazdoY19zVHJNSmZfdGptT3FmcGZaOXdnZ0NRZS04WlVUVTRlRzNzR3l3RjJKOE14M0VRMGE1T09ST0FTWmREZ2VOeDN0SUEtT3hRb0NwdHRBekNjdmp1TTNmcGdpSWRHRzBDUWZxTWJNY3EyVG1zUU9jNndjbUZwWXp3RGF5NXJWOVN0aENVWjQ?oc=5) (Thu, 20 Aug 2026 20:03:00 GMT)
+- [Deel and Mesh Partner to Secure Global Stablecoin Payroll with Instant Wallet Verification - FF News](https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0t6ZEdoUHhWNjFNWEVQU0RhcWMtNGVMLUtFQzZmTkVKcHl1WjVfbUs1emhSa2E5UmU0eTE0RFR5cHkwOUM0WTRMTVBEUHVPVXFNRlhSY21Ua3pKU1dhVjlmcTYyVm9iMkpzNnlaSXdIc1BQblljS1luU045WHBSVHYxOFFhTkxBS3MxRW5Gc2t3SXFjOTl5T2lTMkJwdTQwWkhGM0M3dThuamNGNGVrRkJiTWs?oc=5) (Thu, 20 Aug 2026 19:40:01 GMT)
+- [Stablecoin issuers face an operational test before 2027, Telcoin president says - Crypto News](https://news.google.com/rss/articles/CBMieEFVX3lxTE1xdmtQRlBWV3g0N0JmNG1RQ3B6bG41blZEcGxDVnVYRGRRbHNHcVp0a195RHhZREJFdS12Z1pTNE1zbFlyUDdEWmpUSjVCcTlGc21pUEpqc2lmdm1fQmNoeGhVWEs2R19RUHhOVVdUTE5PaWZqa2psYQ?oc=5) (Thu, 20 Aug 2026 18:33:28 GMT)
+- [Stablecoins join the payment conversation at X - Yahoo Finance](https://news.google.com/rss/articles/CBMijwFBVV95cUxOOWVQNnRfSTU4LWxCMXpwSHhELS1SSzZ5U2VBNTh6MUhldEZQTl9VZ29vaFNQMlh3WDBtZ21qRDNhR2pmSExtYVBtdkdkZXBVeWdibDhTM29vc05jTXVVR0JYYjd5QV9VVkZpTmwtc2NWbmpYSC1XR2VrSHc4Q2dDMlV0bUxwVDVJVWJyX2ZUUQ?oc=5) (Thu, 20 Aug 2026 18:23:00 GMT)
