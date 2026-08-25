@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-08-24 00:46:23 (UTC)*
+*Last Updated: 2026-08-25 00:45:31 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,008,910,685** | 🟢 +0.01% | 🟢 +0.81% |
+| **$289,125,343,535** | 🟢 +0.04% | 🟢 +0.85% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Eskimo Expands Stablecoin Payments for Global eSIM Plans - The Fast Mode](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbzhldjcyYWY0dHNtNkhhcnRBazVsUUpvVEsxVUJUSHVEWGRoZjBYckxFUndXNlhJMnl0bm92QXRQQkQ1NlhJSThUaXVZOGFBcDhWMmRnNkZKcWZnUkY2dUlhUE5fYmRqZlNibkRkY1N2NWF2ZFdYYUM0X2h5VkRNMVhIdmtrZnhxRGpyWnJVNFF5a1M3by1oZDRhN3Nad0hHUnNXLUF3c0ZsREtHNW9yQg?oc=5) (Sun, 23 Aug 2026 23:17:33 GMT)
-- [X Explores Stablecoin Payments for Creators as It Scraps Revenue Sharing - Memeburn](https://news.google.com/rss/articles/CBMimgFBVV95cUxPc0FJSW44VlJRN1NmQVF1UWFOcnNRSE5HVVc2WHBrazl5VXdGN0xicjNZZVl5OGM1dmYyUmRuSmQ5X0Yxd0xVRmxuMDRZMkczdnZYTkhRYTBITGhGSWtMQ09lWm5CSTVCRU9EeUFNdDRkbmJGOWNFbXVtR2tjVVFwc0hqeG9ubE10d0hVNEZKMFV0OFhWT3dWZUF3?oc=5) (Sun, 23 Aug 2026 22:25:29 GMT)
-- [Crypto card spending tops $1 billion as stablecoins move into everyday purchases - CoinDesk](https://news.google.com/rss/articles/CBMixgFBVV95cUxNUW5obHE0ck5sMXpuX3M4YUcyWW8wTWZhVUhZWElNWloxTU9ySDJZbmVkYzV3bGJtSVpfQTZGSTNlMHUtS0VVOUpFOGxMY2xDdUt2R0tuMFlwblotZEd0U0NjSHIxVW9ST1hhUU0zQVltUVY4NVZyS0k1eU9VRkdycThKYW41czE1RmI2OTRMSjBnN05nU2l2N2cxTUtnMkRnMHFKRm1JSFJfbk1DY1VlYnkybDZRcUl0ZWJYNEdWRnd2MHlqYWc?oc=5) (Sun, 23 Aug 2026 15:00:00 GMT)
-- [Miracle Pay Partners with zerohash to Enable Stablecoin Payments for U.S. Merchants - بوابة التكنولوجيا المالية](https://news.google.com/rss/articles/CBMiREFVX3lxTFBQTHhEMUtqVGczZnRjZHBjemtDY3hpMXVwUnVWNkpKOXRoM0pVN1c1bXMtZ3VuVDd5NzBFSjJiTjJRWlVZ?oc=5) (Sun, 23 Aug 2026 11:24:22 GMT)
-- [As foreign investors dump $29 billion in Treasury bills, Washington pivots to stablecoin issuers to back US debt - CryptoSlate](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX1ZUaWtYMGt2X2l5Q1BzdmYyaDQtbHc2dUR0cG9MS2dmb0JzU25KNGl6cTFFWW9NYlFiMVZJeHNxSkNnTW95VzRzTU9mSTB0WnZkT3B5ZGY0bzhVZEtESDlFWVRESXFkTktHRTJsUDFkQ3lGck1STGY2M1JpakQ3TU1zQ3d4OHJ2enpvV2FiWGxkRGZWdUJuX24xWHN3N1dnOFkxZXNBLXczbjZHU1k0bWtvUXBvLVdwLTA5MjNtQl9XNDVPWGo2Tm13ZHJYZUVs?oc=5) (Sun, 23 Aug 2026 11:10:14 GMT)
+- [Treasury Proposes Stablecoin Licensing Rules Under GENIUS Act - CryptoRank](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmRnVk51M01BcTRiR3NDQVFuS1RhUlZWdlIySExVWU42UXdkYURQX3ZGYzdvdFFiWXJiejVMNWpkSC1pYnZsQWJLZ0hReGhHZW9mUGNFeHlDdjRxemhvTS1Mc3NzUy1VbVhtTHBDQ3M0TkFGcTRyTGc1ZDFTUWxhdC00SEZPdUNBQi00UWpnbFo1dVlvQ2xDR28tUHhDZzlS?oc=5) (Mon, 24 Aug 2026 23:07:05 GMT)
+- [Treasury Proposes Stablecoin Licensing Rules Under GENIUS Act - TradingView](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmJ4X3gtWGR6NHBrR08xUmRfZDhmZlRRX3YyYTN6LUtNUEVBbE5fRWpuT3V0VkhRN0lTeUZTRS1idTU3WFVISUJ5QWhqTHVaY2g1RmZ6WUFjbkdmWWNPZDI0QVU0VXQzTm5GOWJMWDh6a3l5My13YVpXak5NS3pMNTI1RUgtNDhaWUVtNThoUmJmUFIzTV9IZmpiMWxsS1VQZ2lyZTRaVGpwVC1VcnZCM0RpMEhPUHNBeU5V?oc=5) (Mon, 24 Aug 2026 22:45:00 GMT)
+- [Crypto Card Spending Tops $1 Billion As Stablecoins Gain Ground - CUToday](https://news.google.com/rss/articles/CBMioAFBVV95cUxQOU85d1VqQ0cxMGN0SEsxcnFhaFNhMEtENnd5dG5wYVpjSm54RkxIQlZaNGRLOFRubVVMYlJDY0VlVF9lV3paYWhrLWJ6eDlOQ2ZTNkV1akpELXJzZEtHYk1zQk5PSGMyMjJXNHc2ajFGLXpubzZiZk01R0FuRmc5Y0QwM01MRDVvVDZYXzdaMGttbnJUa0dWMTFVTzZ5SzdC?oc=5) (Mon, 24 Aug 2026 22:24:30 GMT)
+- [Stablecoin KYC Debate Moves to Exchanges and Wallets - PYMNTS.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRDdRN1FBbzVxZV9rMWhJX192cnJ5dllseHd1d2c1OVNFS0lHS2w4UUFBRW45Y1hVcFNOanJobVFHZEw5V3YtWVBjTlRfdzBJUlJqdUdOWWpIdzluWTFtQm1rSUpfdVdwY0oxbl8yQjhYcF9XcnlQRDFjTHBmVEZ4U205cm1xTTNtTnpoMzZldGpRVWh5TWY4VjdOZDM?oc=5) (Mon, 24 Aug 2026 20:07:19 GMT)
+- [Fasset Reaches $1B Valuation with SBI Group Backing its Stablecoin Payments Expansion Efforts - Crowdfund Insider](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUm5tVTNod2EzYXI5R2RIZmlKNUYxVzV5QVA3TGt4YVZvSFZJSnRTOGxIUWVyYk4zQUxzdWFvTy1vamlpTV9lWVg1Q2FmZkRtZ0pHa05JSFZQMVVCdnhWbDZsREhUeVpHM2JmNE81YVNybzhheXZUZ0xOdnRxQ3lhRHY5c0VvTHlBRVhQelpJZHkwYkJla3dnNzdUcktXbHhtY2lOVk1XdGd4WTd1eV9xUlFudzNScDZWV3BLT1VLMXk4VHVfX1lUQ3dlX1dTOG54OVEySmFlTFU?oc=5) (Mon, 24 Aug 2026 19:51:16 GMT)
 
 <!-- END_dashboard -->
 
