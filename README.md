@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-08-25 00:45:31 (UTC)*
+*Last Updated: 2026-08-26 00:47:01 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,125,343,535** | 🟢 +0.04% | 🟢 +0.85% |
+| **$289,159,255,278** | 🟢 +0.01% | 🟢 +0.84% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Treasury Proposes Stablecoin Licensing Rules Under GENIUS Act - CryptoRank](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmRnVk51M01BcTRiR3NDQVFuS1RhUlZWdlIySExVWU42UXdkYURQX3ZGYzdvdFFiWXJiejVMNWpkSC1pYnZsQWJLZ0hReGhHZW9mUGNFeHlDdjRxemhvTS1Mc3NzUy1VbVhtTHBDQ3M0TkFGcTRyTGc1ZDFTUWxhdC00SEZPdUNBQi00UWpnbFo1dVlvQ2xDR28tUHhDZzlS?oc=5) (Mon, 24 Aug 2026 23:07:05 GMT)
-- [Treasury Proposes Stablecoin Licensing Rules Under GENIUS Act - TradingView](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmJ4X3gtWGR6NHBrR08xUmRfZDhmZlRRX3YyYTN6LUtNUEVBbE5fRWpuT3V0VkhRN0lTeUZTRS1idTU3WFVISUJ5QWhqTHVaY2g1RmZ6WUFjbkdmWWNPZDI0QVU0VXQzTm5GOWJMWDh6a3l5My13YVpXak5NS3pMNTI1RUgtNDhaWUVtNThoUmJmUFIzTV9IZmpiMWxsS1VQZ2lyZTRaVGpwVC1VcnZCM0RpMEhPUHNBeU5V?oc=5) (Mon, 24 Aug 2026 22:45:00 GMT)
-- [Crypto Card Spending Tops $1 Billion As Stablecoins Gain Ground - CUToday](https://news.google.com/rss/articles/CBMioAFBVV95cUxQOU85d1VqQ0cxMGN0SEsxcnFhaFNhMEtENnd5dG5wYVpjSm54RkxIQlZaNGRLOFRubVVMYlJDY0VlVF9lV3paYWhrLWJ6eDlOQ2ZTNkV1akpELXJzZEtHYk1zQk5PSGMyMjJXNHc2ajFGLXpubzZiZk01R0FuRmc5Y0QwM01MRDVvVDZYXzdaMGttbnJUa0dWMTFVTzZ5SzdC?oc=5) (Mon, 24 Aug 2026 22:24:30 GMT)
-- [Stablecoin KYC Debate Moves to Exchanges and Wallets - PYMNTS.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRDdRN1FBbzVxZV9rMWhJX192cnJ5dllseHd1d2c1OVNFS0lHS2w4UUFBRW45Y1hVcFNOanJobVFHZEw5V3YtWVBjTlRfdzBJUlJqdUdOWWpIdzluWTFtQm1rSUpfdVdwY0oxbl8yQjhYcF9XcnlQRDFjTHBmVEZ4U205cm1xTTNtTnpoMzZldGpRVWh5TWY4VjdOZDM?oc=5) (Mon, 24 Aug 2026 20:07:19 GMT)
-- [Fasset Reaches $1B Valuation with SBI Group Backing its Stablecoin Payments Expansion Efforts - Crowdfund Insider](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUm5tVTNod2EzYXI5R2RIZmlKNUYxVzV5QVA3TGt4YVZvSFZJSnRTOGxIUWVyYk4zQUxzdWFvTy1vamlpTV9lWVg1Q2FmZkRtZ0pHa05JSFZQMVVCdnhWbDZsREhUeVpHM2JmNE81YVNybzhheXZUZ0xOdnRxQ3lhRHY5c0VvTHlBRVhQelpJZHkwYkJla3dnNzdUcktXbHhtY2lOVk1XdGd4WTd1eV9xUlFudzNScDZWV3BLT1VLMXk4VHVfX1lUQ3dlX1dTOG54OVEySmFlTFU?oc=5) (Mon, 24 Aug 2026 19:51:16 GMT)
+- [Visa joins MAS-led project to pilot stablecoin settlement - Finextra Research](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdGNCaWJaMEROWldKMFQwVFl1UDh4RzVuekVzeDVNOTQ0MHJXWWtXanl5VnBtU3pJREY3Vm1RajhGbFRJaW05VDJJX1V3aDFyMnd5ME1STlBRVFFHaUlnb09xU0RZb0tpVlh5dDhVODR2QUU4aVVSRHZnVm5Sa1BDamdwaWxERDRQcEozZElBdzZoLXFjemd4d0lMY2FJdmJ5VXc?oc=5) (Tue, 25 Aug 2026 23:24:52 GMT)
+- [World Liberty’s USD1 becomes Canton’s largest native stablecoin - ledgerinsights.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSUE2ZVBpWHJmZDM3anVaWGIzN2JFMXowN3Z5NTFjZ0UwczNmelF0cFpZS2I2OVlreWU2T0E0VE1KRXRPUnpUS2pzbk5TLTVKdFFsZWkyUU5QTlh6OEpjRVpaZlJ1N0FTVFdyQklpTlk3TjJ6OUxZSWFSclFObDdhbkd1THJxOVI4VXRZbWxzV3YwX3JBZ2FQZQ?oc=5) (Tue, 25 Aug 2026 22:10:55 GMT)
+- [DCUC Pushes Stablecoin Rules, Servicemember Education Protections - CUTimes](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWdlN2ZURG4zc2lJbXJsMHN4MmZnR2FfRzQxTjUxZnZTVURZVG9FMy1acDg2TUotaV94RWtCajY4bDBxTVpxb2Y1SFZoaU5abUNGa0p5djBRb3FnYXpIYlJ2NFVNSEhMZ2RodTJXM2RyMzJqSEhkU1BGYlRiV3NhY2VFVHc5UTA0NzZ0bUNvc0s1c3JGdTZQQjhNS0xad3h4R3c?oc=5) (Tue, 25 Aug 2026 20:52:17 GMT)
+- [Stablecoin Exec Rebuts Conflict-of-Interest Claims - Briefs Finance](https://news.google.com/rss/articles/CBMikgFBVV95cUxOSDdyYTQ4a2I0X3U4Rm56U3NZT2pTdDItZHNyd2IzMUV2QjBZR3BjUFpJblNvQjJFZjlkRTdlYm9OSHRyVDVFeWpTMHRUNnlRSWZTY2dsU3JYMHFwOHhRVDdfSkI2SGRMRUdicEtON1lScEZSZzZhNG1KQVhZSDlmaHd2TnBEYjFVMFJveEJLMkpxdw?oc=5) (Tue, 25 Aug 2026 19:38:31 GMT)
+- [New GENIUS Act Stablecoin Rules Are Coming By November. Here&#x27;s What It Could Mean for the Crypto Market. - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxPdnpEMzBPb01IT3RDNk03b05DT0VVNzNKdnRjb0lwQzJ0NG5xVVk0UUVIUGVxcnE3YkhyX2lXUWtiVHZsMVhad1pINlVPckdkMmF0LVJfTGZVYUxzTmh6b3ZCTXVwcF8wLWI4Y0lnRjczN05BbVZ2LXh4YnJiRFRxM0tPWVFDU0k4RmUtX2tnUTM0cWNyS0s1dA?oc=5) (Tue, 25 Aug 2026 18:55:00 GMT)
 
 <!-- END_dashboard -->
 
