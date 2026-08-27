@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-08-26 00:47:01 (UTC)*
+*Last Updated: 2026-08-27 05:58:49 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,159,255,278** | 🟢 +0.01% | 🟢 +0.84% |
+| **$289,399,233,299** | 🟢 +0.08% | 🟢 +0.84% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Visa joins MAS-led project to pilot stablecoin settlement - Finextra Research](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdGNCaWJaMEROWldKMFQwVFl1UDh4RzVuekVzeDVNOTQ0MHJXWWtXanl5VnBtU3pJREY3Vm1RajhGbFRJaW05VDJJX1V3aDFyMnd5ME1STlBRVFFHaUlnb09xU0RZb0tpVlh5dDhVODR2QUU4aVVSRHZnVm5Sa1BDamdwaWxERDRQcEozZElBdzZoLXFjemd4d0lMY2FJdmJ5VXc?oc=5) (Tue, 25 Aug 2026 23:24:52 GMT)
-- [World Liberty’s USD1 becomes Canton’s largest native stablecoin - ledgerinsights.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSUE2ZVBpWHJmZDM3anVaWGIzN2JFMXowN3Z5NTFjZ0UwczNmelF0cFpZS2I2OVlreWU2T0E0VE1KRXRPUnpUS2pzbk5TLTVKdFFsZWkyUU5QTlh6OEpjRVpaZlJ1N0FTVFdyQklpTlk3TjJ6OUxZSWFSclFObDdhbkd1THJxOVI4VXRZbWxzV3YwX3JBZ2FQZQ?oc=5) (Tue, 25 Aug 2026 22:10:55 GMT)
-- [DCUC Pushes Stablecoin Rules, Servicemember Education Protections - CUTimes](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWdlN2ZURG4zc2lJbXJsMHN4MmZnR2FfRzQxTjUxZnZTVURZVG9FMy1acDg2TUotaV94RWtCajY4bDBxTVpxb2Y1SFZoaU5abUNGa0p5djBRb3FnYXpIYlJ2NFVNSEhMZ2RodTJXM2RyMzJqSEhkU1BGYlRiV3NhY2VFVHc5UTA0NzZ0bUNvc0s1c3JGdTZQQjhNS0xad3h4R3c?oc=5) (Tue, 25 Aug 2026 20:52:17 GMT)
-- [Stablecoin Exec Rebuts Conflict-of-Interest Claims - Briefs Finance](https://news.google.com/rss/articles/CBMikgFBVV95cUxOSDdyYTQ4a2I0X3U4Rm56U3NZT2pTdDItZHNyd2IzMUV2QjBZR3BjUFpJblNvQjJFZjlkRTdlYm9OSHRyVDVFeWpTMHRUNnlRSWZTY2dsU3JYMHFwOHhRVDdfSkI2SGRMRUdicEtON1lScEZSZzZhNG1KQVhZSDlmaHd2TnBEYjFVMFJveEJLMkpxdw?oc=5) (Tue, 25 Aug 2026 19:38:31 GMT)
-- [New GENIUS Act Stablecoin Rules Are Coming By November. Here&#x27;s What It Could Mean for the Crypto Market. - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxPdnpEMzBPb01IT3RDNk03b05DT0VVNzNKdnRjb0lwQzJ0NG5xVVk0UUVIUGVxcnE3YkhyX2lXUWtiVHZsMVhad1pINlVPckdkMmF0LVJfTGZVYUxzTmh6b3ZCTXVwcF8wLWI4Y0lnRjczN05BbVZ2LXh4YnJiRFRxM0tPWVFDU0k4RmUtX2tnUTM0cWNyS0s1dA?oc=5) (Tue, 25 Aug 2026 18:55:00 GMT)
+- [Visa joins BLOOM for stablecoin settlement. Shinhan adopts Visa Stablecoin Platform - ledgerinsights.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTZpQUVmS21Wc1BPcTFBYkxwTWczOHJqMk9qTnR6V2xMX3V5MGNRcDMyUS1QLUVSb2NMQWlNN254VDlnRmtCYmpuNzRRR1lQSVk1RnRXbVhBS3BpMjVFOU8wSWE2QXpabUljQ2MwX1dRaHFKc19QRkR4QS01T3JFUmpSMG9SMVozZkZSQzdVcFMybU5QN2pPTFNfMWZjbFduVGVUT2ROazNGeG9IcjdVeVduWGI?oc=5) (Thu, 27 Aug 2026 00:39:48 GMT)
+- [Revolut Launches EURR, a Euro-Backed Stablecoin, on Polygon - Polygon Labs](https://news.google.com/rss/articles/CBMikwFBVV95cUxOenE1d2dBR09RSDRrYnc3dFZaUldEQWlTamUtMzJTRC13NFlGTlA5cWN6RDkxVzdtSG1teTlNbWFkUERmSlNPa0RkXy1XNkJPaVFqT2FLTUZXTW5EejR0eHFHZTVZekNCaGxmcDY4aVpROEZIZWZkM200ZW9qNUdPZTVFNHJVLU1sMml2bjBlbjZBWDA?oc=5) (Thu, 27 Aug 2026 00:28:08 GMT)
+- [KiiChain Adds TRON to Expand Onchain FX and Stablecoin Settlement - Yahoo Finance](https://news.google.com/rss/articles/CBMinwFBVV95cUxPTTZOcnhNSllaZVlHeUFQV0RxUjV6MUpRN0hPQXFQdmdwaklQUlRTWnEzQ0NUQWxVV2FDeVFEODlDZVF4NkFBb0RzT1kyaWRzQ0FsWU1pdXVBajRvZG5BemZvNVNWQWkxY2xaeTloODlORmJlMHVwTW9nOFQ0dXUya3NYcm5hbXpGbTNWSk1kUmpWN0w5bzhSUnhZWG1fVDQ?oc=5) (Thu, 27 Aug 2026 00:07:00 GMT)
+- [Stablecoin Card Spending Projected To Reach $50 Billion By 2028 - CUToday](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMEYtbjlrMHJCQ0RaZTRJb2lsTmhwRFBWQUw3WWxGcUdIdFB4Yl9XMDFpSFZQbk4zcE9tMEpxR042TlVCUHBhSGYydzJ5OGxDOWpCR3JxcjNMYUVxZmxxd2NMeHd3T1dkQ2xVem1zVHZJSjZkQ1didGFQSlBxYzlfcTMydHRTYWw1aGEwSjNPdkNIdWtEbFh0UU1sXzFsUXgt?oc=5) (Wed, 26 Aug 2026 23:43:24 GMT)
+- [Stablecoin Card Spending Projected To Reach $50 Billion By 2028 - CUToday](https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmswTGF5NXU1TWJQNk8xNEZ1MzhaQ2V2b05NQWlPR3dnLXpkZllzRGpGb0RBUjZiNml0RHVTSE5YTGxmX3J2TWw5MTVRYjJwRkc5Uzdia0ZWQjhNWkNWN3FnSFV1UldOdUhwbTZzMURUVi1wY3V2cWg3YmQxZ0ZJRzJJYmxYZTFBU3E5OFB0eGtPTEpmMngzZkVMbDVLMlRlRFVqSEwzX0daTzR2SzF3aHFpZUNpcDdFdW9jOWl3?oc=5) (Wed, 26 Aug 2026 23:38:40 GMT)
 
 <!-- END_dashboard -->
 
