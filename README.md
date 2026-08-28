@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-08-27 05:58:49 (UTC)*
+*Last Updated: 2026-08-28 08:10:28 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,399,233,299** | 🟢 +0.08% | 🟢 +0.84% |
+| **$289,508,098,519** | 🟢 +0.04% | 🟢 +0.56% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Visa joins BLOOM for stablecoin settlement. Shinhan adopts Visa Stablecoin Platform - ledgerinsights.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTZpQUVmS21Wc1BPcTFBYkxwTWczOHJqMk9qTnR6V2xMX3V5MGNRcDMyUS1QLUVSb2NMQWlNN254VDlnRmtCYmpuNzRRR1lQSVk1RnRXbVhBS3BpMjVFOU8wSWE2QXpabUljQ2MwX1dRaHFKc19QRkR4QS01T3JFUmpSMG9SMVozZkZSQzdVcFMybU5QN2pPTFNfMWZjbFduVGVUT2ROazNGeG9IcjdVeVduWGI?oc=5) (Thu, 27 Aug 2026 00:39:48 GMT)
-- [Revolut Launches EURR, a Euro-Backed Stablecoin, on Polygon - Polygon Labs](https://news.google.com/rss/articles/CBMikwFBVV95cUxOenE1d2dBR09RSDRrYnc3dFZaUldEQWlTamUtMzJTRC13NFlGTlA5cWN6RDkxVzdtSG1teTlNbWFkUERmSlNPa0RkXy1XNkJPaVFqT2FLTUZXTW5EejR0eHFHZTVZekNCaGxmcDY4aVpROEZIZWZkM200ZW9qNUdPZTVFNHJVLU1sMml2bjBlbjZBWDA?oc=5) (Thu, 27 Aug 2026 00:28:08 GMT)
-- [KiiChain Adds TRON to Expand Onchain FX and Stablecoin Settlement - Yahoo Finance](https://news.google.com/rss/articles/CBMinwFBVV95cUxPTTZOcnhNSllaZVlHeUFQV0RxUjV6MUpRN0hPQXFQdmdwaklQUlRTWnEzQ0NUQWxVV2FDeVFEODlDZVF4NkFBb0RzT1kyaWRzQ0FsWU1pdXVBajRvZG5BemZvNVNWQWkxY2xaeTloODlORmJlMHVwTW9nOFQ0dXUya3NYcm5hbXpGbTNWSk1kUmpWN0w5bzhSUnhZWG1fVDQ?oc=5) (Thu, 27 Aug 2026 00:07:00 GMT)
-- [Stablecoin Card Spending Projected To Reach $50 Billion By 2028 - CUToday](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMEYtbjlrMHJCQ0RaZTRJb2lsTmhwRFBWQUw3WWxGcUdIdFB4Yl9XMDFpSFZQbk4zcE9tMEpxR042TlVCUHBhSGYydzJ5OGxDOWpCR3JxcjNMYUVxZmxxd2NMeHd3T1dkQ2xVem1zVHZJSjZkQ1didGFQSlBxYzlfcTMydHRTYWw1aGEwSjNPdkNIdWtEbFh0UU1sXzFsUXgt?oc=5) (Wed, 26 Aug 2026 23:43:24 GMT)
-- [Stablecoin Card Spending Projected To Reach $50 Billion By 2028 - CUToday](https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmswTGF5NXU1TWJQNk8xNEZ1MzhaQ2V2b05NQWlPR3dnLXpkZllzRGpGb0RBUjZiNml0RHVTSE5YTGxmX3J2TWw5MTVRYjJwRkc5Uzdia0ZWQjhNWkNWN3FnSFV1UldOdUhwbTZzMURUVi1wY3V2cWg3YmQxZ0ZJRzJJYmxYZTFBU3E5OFB0eGtPTEpmMngzZkVMbDVLMlRlRFVqSEwzX0daTzR2SzF3aHFpZUNpcDdFdW9jOWl3?oc=5) (Wed, 26 Aug 2026 23:38:40 GMT)
+- [Dunamu, Visa Partner to Explore Stablecoin Payment, AI-Driven Financial Services - blockhead.co](https://news.google.com/rss/articles/CBMitgFBVV95cUxPaW1namRTbG9xem1veVE5ckVEWE8tZ19oMnh6bXJBVTh6ZUR0dS1fSUlYWWJTNDhfWWlObldWUzllcTJQWDZfaEtIVEc5OXA1ZXJKWjhWZkZIblV0MjFyZVRjY1d6MG9wQUhubGdtV2FJQjFNV3lvWWpiczFlRldkcWRrRGxFeXlCT1dJUkcySHhlak1zdmFpUFVHQ0tIN055eFlwaERaRGNpNEF4T0JKeDlHOEtiZw?oc=5) (Fri, 28 Aug 2026 07:30:27 GMT)
+- [Bridge founder Zach Abrams sees an opportunity for ‘tokenized local currencies’ across Asia - Fortune](https://news.google.com/rss/articles/CBMiogFBVV95cUxQMDltRmZtdEV2anFxMGZ5WnNGanhNMHdQenZmenQ3eVNkQ3FIR2hpOUhsTXRtc1pEOUNJdU9fcFpybll6YVg1T1ZEMWFYZHdmN0dDS3k4bWFSUlJ1QXZJM0IxcmxHekFienFfbWNHRDhUdmN2SGxydTNac1FNMk51NUpDTXR4bnVTYWxsVTFXa0lqanAtc3lmaWt2VWVBOWQzNmc?oc=5) (Fri, 28 Aug 2026 07:00:00 GMT)
+- [Bank of England’s stablecoin goals; can stablecoins fix US debt? - CoinGeek](https://news.google.com/rss/articles/CBMiigFBVV95cUxONkNxNnA2SldxY2VpNmNWaGNKLUl5R3pDRElkTU5VT3dVSDhHU3A1Z2E2N2VFRUQzS3BjREpONTlKY1pMRHpaWmhUbVFpb1daZkhJLWNCRnNCMzJHQ19OelBCTTJjaUJTYUVlczdab0RPbkdrR2hFTHQ2cEtQN1dteDQ5NnBCaE9aVVE?oc=5) (Fri, 28 Aug 2026 07:00:00 GMT)
+- [Dunamu and Visa partner on stablecoin, AI business; Open Standard&#x27;s OUSD under consideration - The Block](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVdFal83RGwzX01ROGxaQ01kMFdWOFRqLXUyTDg4dlFybmpLZk81R0VkU0kxMnRsMjlTc0FpNGExZmJ6b0t4WXN1VXZWSkhWVmZjaHk3bWFJNDlMM2hScGtBUG4xQkR6dVY5bWsyR1ExLUpZUXlMMkhIY3d2WGd0Ykt5YUJySWNIZHk5Tm5vMEpRZ1VXTjFEZkp3?oc=5) (Fri, 28 Aug 2026 06:00:22 GMT)
+- [Treasury Proposes GENIUS Act Rules for Stablecoin Issuance and Sales - The National Law Review](https://news.google.com/rss/articles/CBMingFBVV95cUxOUlFwT2ZBYVd5NjRvZ1VqR3NxMWtDcVdxUlllZnpJVTM4NFQxbDdhZ2J3RUpuMTdmd1h6clU1aEppNnh1a3IyLXdPM19hNFZ3QlA5bXdzNTQ5c3k4Sld3ZmcyNzUxZkdlUHZfZHEwcm5PY1oxTG1BS0lKMzVMRHZGQ01ITWdqS011MS1RNUpQSVNCekVxLVBtWVJ1VXVkZ9IBowFBVV95cUxPR0FvUlkwSERnRlBCR2lqWGxaZEFra3k0NmV3ZU5GZ3JBV2VmMTJwYmNJUUZfOWk5VFVPLWpsQUQzMXNaMDVSUlRNc2t2VTAwaUJSaHRCY0VGSlo4QVNvd0pycXVvd3BTRUFua3NURlRuM0JybTh6WUNHd3ZZZFhKQi0xWV8yOG1YN1oyX2lZRVI3ZXQyNkFsdVR5MXlmN054OG5B?oc=5) (Fri, 28 Aug 2026 00:25:30 GMT)
 
 <!-- END_dashboard -->
 
