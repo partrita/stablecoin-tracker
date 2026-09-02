@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-09-01 02:49:00 (UTC)*
+*Last Updated: 2026-09-02 02:09:10 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,507,547,759** | 🔴 -0.14% | 🟢 +0.13% |
+| **$289,714,457,880** | 🟢 +0.07% | 🟢 +0.19% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [&#91;CONTRIBUTION&#93; How stablecoin infrastructure and won-based systems can advance together - The Korea Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxNV2dBWUxyQ2JUWlVVNkJncEdBdVhhalItdjdEX29aakNSTGI5ckVMUDhnaGhnUWRIeEFjTHBhU09WU0FmWEZmZTJMTG5JLVVrckhGbzBINUltYVFFMTVaZFY3cVVWaHlnM1FjVVI5WGxMbGlmMm51bEJPOXRsRGg1Vk9qMlhYREQzWmlvS2QxUHdSbFVvMjduV0xIVEpHdUtFTzlEUWxUeG5iZmp2elRmVHVXazZrVHhCT1hvbzlxbFQ1cVZsNl9zMWNSSzFCQdIB0wFBVV95cUxQR1FSbG1EQm1GNEh4VHd5MDJnRlRHQ2xhamJzbnZXTUFPQlEtRDV6dTAxMkZKNko3ai1RbTVfU1E0ckFINlVtNHRJYkdSeHI3SjRHN0RsVDlTUVlhbGVxcXlzSXp3YXRiTU1tZnZPeldrWTV5cGgzVnkwUnczLTR5YW9MeF85VlByTlhDalpMbjJtSlB6U1VRWm5zT3JSTHVWYjJyUGR5MXY5cXNkVkFFSW8zeTNkRlpjWU9wS2FYbE1NdTQ0dlhob2Rta0MwSG05MEZF?oc=5) (Tue, 01 Sep 2026 01:26:03 GMT)
-- [Hot Topics in International Trade Braumiller Law Group&#x27;s VP Bob Brewer is joined by DC Counsel Jim Holbein to discuss The Genius Act, Stablecoin, and the upcoming regulations.mov - JD Supra](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmxFeUs0Vm8ySnNrcUQ2eGsxcU5OZGJ5OU9nZ0tfRUxoeGlCRFJOaTNpWUFIR1poVEFvQ0lPTVFmSms4cWx3NEt4Z3BvWmlyR1J0bFdQTGEya0VrYXVkRlp6Z3lCUXBocWZwZFZmbFhnOUdzekI3S25GbzE5RS1BNTE5TWgtSjRl?oc=5) (Mon, 31 Aug 2026 23:30:14 GMT)
-- [Blockchain Association Challenges Stablecoin ‘Deposit Flight’ Warnings - CU Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMnVudGxZVkUzWm0yclZXaTN6WjVpT3V2ZmFaQ1RoM0liZ1o5ZDJ3MGxESlQ3R182Y01sQzNISmhpenEyOGhOLUsxMG5DYno2RWZRWFVzYUxjNk02SHlaai1lR200LW9fem4zVkR3N19fcm1Mdm5WVEQ0OW9oS0tjQmowdkNreDExcjNqWHdyZWFuSlJqaU5vaWs1MTNfaEIzMFQta2VHa1c?oc=5) (Mon, 31 Aug 2026 22:09:39 GMT)
-- [The Stablecoin Race Could Make Bank Loans More Expensive - beincrypto.com](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3Z01NZWNfenBoeUNFdmFNN19rdXVWSWNXZFN6VldCQUxGTFNXM3dnX2RmWVlXaWZ0djdxeXUwV2hNRjRvYURnQWJ4SllHaGRIVWdZdE5xODNJemkzRDVwYlRlOXpoQVk?oc=5) (Mon, 31 Aug 2026 21:25:00 GMT)
-- [Binance’s ERC-20 Stablecoin Reserves Facing an Inflection Point - CryptoQuant](https://news.google.com/rss/articles/CBMidkFVX3lxTFBaMHZZazZ0bzhtWHRHQXFLMkFGRnQ1S3pXTnhreUpvTXlzNzIyZzBBYU9MM3dWZmZKWXA3SHhtUlByRkQzM1I4R0FVVTE4N1R4eVVwSU10aFJTRDBtSUtIWG4zRmEyNHYzeEdweUEzNXBlRDdEWmc?oc=5) (Mon, 31 Aug 2026 19:39:01 GMT)
+- [Global Banks Issue Joint Dollar-Backed Stablecoin - 조선일보](https://news.google.com/rss/articles/CBMijgFBVV95cUxQbC1MZ2ZwYk4xejhPVk9YZ2FsZjE2ZTAxVG1MeHJ3Ukh6YUFWLWJldnA5V3c5Q20yektnck9oMmgwY2k0TkNNTU8xTXE4ZGM0WlhqZm1PZVFpbjVndDE3VkYwRm9DQmdUS0NqZE50TTdZNHdYMzc5bTRfb0xZTXZ2ZXcwcDJCWEVlWWlRWkh3?oc=5) (Tue, 01 Sep 2026 23:58:55 GMT)
+- [State bankers unite for new blockchain network - State Affairs](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkZNQ095OWFuUW5LYW5vWE1aTm80bzVQbkNQajlmNmM0SV9JSzdpNHQ1ZDZLOXp6X0tDVFRFME9fcnlSS3RzdVVtdGh2NFBfaU44SV9QT2M4T2FiWE1vZjVOTE1EcUlUZEVXbnV5NXFkeVJZd2pQbGdvM3dPZnpzMzIyUV9ESVA5?oc=5) (Tue, 01 Sep 2026 20:45:05 GMT)
+- [Big Banks, Financial Giants Eye Crypto Market With Planned Stablecoin - Investopedia](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcjJZRTk3VzhmSGZtUURwMngwczRHMDIxRncwdlZoTm5GVDFYUGpobWpTNVRhcWN3NGRpOVluUUVlVHdMNDgxRGpreGZjMGZYR2lZMlRQdmRsX2M1SE5sOXNMdktFSWQzLW4ycjExaHFKeXpjWXVGWXB1a3hOUXBBT1owQzVDZ2J4cGs0NEFhWUhBVGJNbTNlMmt4dFVzeEVR?oc=5) (Tue, 01 Sep 2026 18:46:16 GMT)
+- [BofA, Citi, Goldman Sachs, 18 others to create new stablecoin company (GS:NYSE) - Seeking Alpha](https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2I3czdoOWtLMWxFRWFRX0w5eFlqcGNhRzN6VFIwRTFGM3NPdUhWck9WTlZUTG1aN21ZMnBUMWNwdDRHRktyekU1RGs0QW9vUWZzOWxPNlR0TTNxZjZjVTVpdFZEVDFYcWNGZ2FwamhMUGYzSDFtZmliR3paVnh3OGVwc3ludTBnNGJaUF8tUDNlb1RvT3JxanZ2dVJ5eDVwOFZZRFJ4SQ?oc=5) (Tue, 01 Sep 2026 17:47:41 GMT)
+- [Bank Of America, Goldman Sachs, Citi Join Push to Launch Global Stablecoin - TradingView](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZXlnOXVvbzRRejkyeUFmNDZzVGpXRHlaWUFhU2VoVmtQbi1Ca05tNDdjX0dKdXRSZnFjR3RNejZCQnQ3eVFLOElZNWlaQm12N05CblNYUnI0al9ZNVl5eVpEbGlUMWdsRDlYdU9nSnRrVmZoUndDWUkweXpsTHFOWkt3YVRocFJrNkFOODQtN0ZacV9Mcm9OWWdzdTZCLXpHZUdSdHNJNFhsbU9LUDY1SS1sUnNaY2FWS3pOTG1XRVpwZUFGSjhGMkZaZw?oc=5) (Tue, 01 Sep 2026 17:45:12 GMT)
 
 <!-- END_dashboard -->
 
