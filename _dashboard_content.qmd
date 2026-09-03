@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-09-02 02:09:10 (UTC)*
+*Last Updated: 2026-09-03 02:15:51 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,714,457,880** | 🟢 +0.07% | 🟢 +0.19% |
+| **$289,910,514,941** | 🟢 +0.07% | 🟢 +0.18% |
 
 ### 📰 Latest News
-- [Global Banks Issue Joint Dollar-Backed Stablecoin - 조선일보](https://news.google.com/rss/articles/CBMijgFBVV95cUxQbC1MZ2ZwYk4xejhPVk9YZ2FsZjE2ZTAxVG1MeHJ3Ukh6YUFWLWJldnA5V3c5Q20yektnck9oMmgwY2k0TkNNTU8xTXE4ZGM0WlhqZm1PZVFpbjVndDE3VkYwRm9DQmdUS0NqZE50TTdZNHdYMzc5bTRfb0xZTXZ2ZXcwcDJCWEVlWWlRWkh3?oc=5) (Tue, 01 Sep 2026 23:58:55 GMT)
-- [State bankers unite for new blockchain network - State Affairs](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkZNQ095OWFuUW5LYW5vWE1aTm80bzVQbkNQajlmNmM0SV9JSzdpNHQ1ZDZLOXp6X0tDVFRFME9fcnlSS3RzdVVtdGh2NFBfaU44SV9QT2M4T2FiWE1vZjVOTE1EcUlUZEVXbnV5NXFkeVJZd2pQbGdvM3dPZnpzMzIyUV9ESVA5?oc=5) (Tue, 01 Sep 2026 20:45:05 GMT)
-- [Big Banks, Financial Giants Eye Crypto Market With Planned Stablecoin - Investopedia](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcjJZRTk3VzhmSGZtUURwMngwczRHMDIxRncwdlZoTm5GVDFYUGpobWpTNVRhcWN3NGRpOVluUUVlVHdMNDgxRGpreGZjMGZYR2lZMlRQdmRsX2M1SE5sOXNMdktFSWQzLW4ycjExaHFKeXpjWXVGWXB1a3hOUXBBT1owQzVDZ2J4cGs0NEFhWUhBVGJNbTNlMmt4dFVzeEVR?oc=5) (Tue, 01 Sep 2026 18:46:16 GMT)
-- [BofA, Citi, Goldman Sachs, 18 others to create new stablecoin company (GS:NYSE) - Seeking Alpha](https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2I3czdoOWtLMWxFRWFRX0w5eFlqcGNhRzN6VFIwRTFGM3NPdUhWck9WTlZUTG1aN21ZMnBUMWNwdDRHRktyekU1RGs0QW9vUWZzOWxPNlR0TTNxZjZjVTVpdFZEVDFYcWNGZ2FwamhMUGYzSDFtZmliR3paVnh3OGVwc3ludTBnNGJaUF8tUDNlb1RvT3JxanZ2dVJ5eDVwOFZZRFJ4SQ?oc=5) (Tue, 01 Sep 2026 17:47:41 GMT)
-- [Bank Of America, Goldman Sachs, Citi Join Push to Launch Global Stablecoin - TradingView](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZXlnOXVvbzRRejkyeUFmNDZzVGpXRHlaWUFhU2VoVmtQbi1Ca05tNDdjX0dKdXRSZnFjR3RNejZCQnQ3eVFLOElZNWlaQm12N05CblNYUnI0al9ZNVl5eVpEbGlUMWdsRDlYdU9nSnRrVmZoUndDWUkweXpsTHFOWkt3YVRocFJrNkFOODQtN0ZacV9Mcm9OWWdzdTZCLXpHZUdSdHNJNFhsbU9LUDY1SS1sUnNaY2FWS3pOTG1XRVpwZUFGSjhGMkZaZw?oc=5) (Tue, 01 Sep 2026 17:45:12 GMT)
+- [21 Global Financial Institutions Plan Dollar-Backed Stablecoin for 2027 - 조선일보](https://news.google.com/rss/articles/CBMijgFBVV95cUxORFVtZlUzLXkwWGQyS2QxSmxyNlByWVk0SGFYVWx1cUUtVTFTWFpkclp2bXJvcF9qXzQ2NlpJYTlJRWg5c19JX3ZrSkdVM0VxTDhKc1dJNi1ZeWRvVFZWNXJaMWN3Y2s5eEJRODdCQ3NlcUk5SEhxdmlrdFlWdF81WXQzUU1pWXRxVHotUmlB?oc=5) (Wed, 02 Sep 2026 23:28:52 GMT)
+- [Who Will Win the Stablecoin Infrastructure Race? Companies Building the Future of Digital Payments - Bitcoin Foundation](https://news.google.com/rss/articles/CBMihAFBVV95cUxPOHVvNFFtQnYyVFJndl83eDFjZEl1VXFCSnpMSmtjRThtdHo1bE5MZjY3TkxRLU1BQWpDcjAxdFk1RnY5d2lKX0ZrV0FqRzJkR3NUWEszVy1jaHFXbXJKMmthbWlFUWhmTk9jOHR1T0plVG9ObXM1QWdDUGthNDdZY1VSaVM?oc=5) (Wed, 02 Sep 2026 21:00:48 GMT)
+- [Goldman Sachs, BofA Among 21 Banks Planning Joint Dollar Stablecoin Launch - Decrypt](https://news.google.com/rss/articles/CBMibkFVX3lxTFA5ck5RY3BUaFhyUVNZR2ExT3ZpVkdveGhReGp2Ni1UazJsR01VZGZRb09iei1STXUtNXlkN3ZIbGppbUZtYWU2THREM3dLeEloTEx2cUlHMVhNMTRzQTZKcHpxSHVrZmdmVlZFZVJB0gF2QVVfeXFMTXIxajh4cDZNaG04RmEtNWIyWlRuTUJnTmRLWUEydDJsRDgxX3JFSU9RS3ZjNlRqVFFVM3c4Nlg0eE96QUJIT2l5ai1yZEpVdmJaTDM5ckZkU0h1cm5vS2xDNTZYWHdHTzlwY1ZJMXNvY3lNYWFxdw?oc=5) (Wed, 02 Sep 2026 20:01:04 GMT)
+- [Wyoming Moves to Ensure State Stablecoin Follows GENIUS Act - PYMNTS.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDRDSGNvQUVDSUlrcnpCdkdkS1ZNNzlTd3Uwd2tmb25OczhxRWhkT01KakxXOXYzd2xuc3RXNjNNYWV5MXB4YlBGMTdfejVfXzNQY2UyZ0djMFB0eXFHWFNhZ3pHWHJZcm1YR2J2NEEzTUQyam8tbjFXMFhTN0lJbXlzc0tydzZIOU9qWTNBQ0tkMFZoWDM5NVBVNWZPNGVteW4zX0Nn?oc=5) (Wed, 02 Sep 2026 17:54:31 GMT)
+- [Circle CEO Urges U.S. to Lead Digital Finance With Stablecoins - Yahoo Finance](https://news.google.com/rss/articles/CBMikgFBVV95cUxQSGlrdkJwVWFFMVgxNnBPOE0zZl9uZXVrMlVCMkp2a1hwWHgxd1g4bHVwY0FOcndjWFJ2NXF3cWFSOFM0bXRkVXBKZ29nVTg2V2pzYVpCWnRHUElGRDJjMlpCNS1sVWg1YTJFdDZHa1FnR3VXQnp6VlhIaHRQbDZ5Y09CQlh1LUVkaEMwMnpqdnBaZw?oc=5) (Wed, 02 Sep 2026 17:15:00 GMT)
