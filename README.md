@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-09-05 02:11:59 (UTC)*
+*Last Updated: 2026-09-06 02:07:28 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,771,564,024** | 🟢 +0.09% | 🟢 +0.23% |
+| **$290,880,841,669** | 🟢 +0.04% | 🟢 +0.26% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds - CoinDesk](https://news.google.com/rss/articles/CBMixwFBVV95cUxOVnBXTG1tNUpKWkRVaXhzNjR4QW9YcHZVeDdQckJwaUJaVVNnT0FiaU1tcmNjQjlRY3ZpYU1pcWdSZ0xsQ1E5cGliNGszbVhyWnpaaUpBclhIN3lISjRXczZFRkE4UmppS0xHVWkxWUljVTN1VEhLbWNfYmZKUmt0angzbGxPSHNRbk5ORDh2RHBwRHVLa0xHdG1pVzB0RHBNZ1NSOHNETU5GOFJSREdsaDVvanVKa2w1MW5ZTS15SU9LcE5nRkxF?oc=5) (Sat, 05 Sep 2026 16:43:13 GMT)
+- [VIEWPOINT &#124; Rounds can benefit S.D. banks by clarifying stablecoin rules - The Dakota Scout](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUEJySERnM3NxNXctb3lwcUVhc3VRNHo2Y2h2Ni1pSkpJOXNJRXpOYVlCX2JYSFJVQlQ2STJ4OXpENFZDbkhZeW94ZVg1MkZtbTZsalF5WjV2RWFyTk9BS21QYTVNWFUyOVMxZUNxMENaMExCa1kyWG1BSzVCZ3ZGYWUzOW1uVmhwSlI0RldWRWlTTzZudEJJY0tnUmFfRnZSTlJwVQ?oc=5) (Sat, 05 Sep 2026 15:05:45 GMT)
+- [Citigroup (C) Becomes First US Bank On Ledger Rails, Joins USD Stablecoin Push - simplywall.st](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTVEycTBuVnZETVVzcDBMODM2M29OV3dpUTd4X3NLVlUzRnNhY1htZEhHT3hhU05kNEI1WWdvX2FSVl9DQ052bFhCZnpydGIyNGVpLTdQS0diV25zQXJwSkVCSnZCNXh4eHZ1NHJHWGVXSEsybWp1UEtIZFNkTHp0ZzhVWUk1V2ZTQ2VNaDE4ODF5S3VZWXg0d0pfaTF5aWFXM1dmNmt6U3lwZVF4Y19rcnp5S25OZmxfb2hN0gHAAUFVX3lxTE9pdEZCdFIwTmZjU3JIdzlLVmtmUmxQdmZHWDdBNnpfMEpLSEVPT2JvdHdmZ1FMWWxWS2hObUxtM21XTHFxRnlYR3g1T0pIUk5HdHA3dlBnUW4yeHRFd3lwSGRqanMzV0hhNGhmdVlfRzhvVk0wek5ieUlwTHJFWnZUamNRaUNxVUNBM3pzZmV4S2NicWxzVVBOSXpIUmhkYlAzT0t0RE5ZczR2QndCR0JzSFFMU0pHWTB5UGI0N2JKeg?oc=5) (Sat, 05 Sep 2026 04:47:01 GMT)
+- [Bitcoin’s Binance Stablecoin Ratio Nears 2026 High: A Warning Behind the Rally - CryptoQuant](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVzFRVEpsemh0QmkydElyVWdVcnFNMDBJUkRMNENkXzdqb2pySVJQbk1NWVBrS0VIQ0lpMVJCT01UaUFDdFBSWWtIanhuZFBycmNjcDByclZPMzhkTDNySWdxTVJ2RVhJZXRySmpLTkR5MjlJYk9raTY0d2NubzJIWEFZSkJZRlA4Y2hiUFZuM1JnUHZINlFTNVY5UGV5dlByemQtVzNqRkhrYnFaNlUzV0lKSFg2TERrbi1YajFHUnd5cDIyRWk4UENJbFFkYU9wZ05fcW5xV1o5Y0px?oc=5) (Sat, 05 Sep 2026 01:10:43 GMT)
 - [Singapore Stablecoin Rules Have Issuers Deciding If License Is Worth It - bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWIzUW1DbUNjU25FMjB2cFpsRk53UTk0bmh3a2liTERNV2pqY1hDdEVZbml2TTZORTdFWGF6cVlPM3phbDRXbHNqdVhldlN3WnQzUU83THo0QlVBMkF5VW5nMXc1a2g5TWtzQnNLc0o0c0s1QnVSejUydzZkY3BGTS1lNEZGeDhhTVRTaUdvX21iNkpIcTI0bVVJNTVjTExvLXRiUHlidGFwbDB3OFNUaU1PNWJwUQ?oc=5) (Sat, 05 Sep 2026 01:00:00 GMT)
-- [21-bank stablecoin has global backing, but can it rival USDT and USDC? - Crypto News](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UX25mV0tqbUd6Z2dyVVo3enJNMW9wbjJ0Mm13TF9fb190cGV4TzU5WVhGcThuSHVXaDJuakVjY2VIV0FnTS1GMnA0bkl2cExBb2YxU1J1dmJQYVJUVmVTYWZ0ZE5jQQ?oc=5) (Fri, 04 Sep 2026 19:17:00 GMT)
-- [Int&#x27;l banks plan stablecoin, OpenPayd enters US market - American Banker](https://news.google.com/rss/articles/CBMikgFBVV95cUxPMU5qT3MwUHVDR1FxanFrajFJSl9mcmhIX0tNZDFLN3BnT1RjajZVOXlTd2k1VUVTNUU5SWxMcHJYNGlORWtheEpvYjd6YTg5U0RiQzJmOFk4MHg0c3RnYTJTXy1QY0tPamx2RHJrSTk1OUNpR2s2Ul8xVkxKQWNkcjV6WnZsQmRwYXl6RlFCSGRfUQ?oc=5) (Fri, 04 Sep 2026 19:01:12 GMT)
-- [Does SoFi–Kraken Stablecoin And Liquidity Partnership Change The Bull Case For SoFi Technologies (SOFI)? - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMDNBZnRZWHpUMUN2bkZoVmxZdXJEUGRNSTMwZE9nM2hMcU5nd1FaNUJjSXdNbXFlVVdTTGhqOUtvREtuNEVCSmxMVVZ1QTJ0SzBMMHQtajRKd2cwcVlHdkc0WmVvOWwtMGZMckYyZmVlck9MNU4zNHFlSmpsMEFGWnA1TGR4QVI5QlFHR291WEUybzVUTWVxSnNNRldpNlNlSHN6bA?oc=5) (Fri, 04 Sep 2026 18:15:44 GMT)
-- [G20 Backs Digital Assets Growth While 21 Major Banks Target 2027 Stablecoin Launch - Stocktwits](https://news.google.com/rss/articles/CBMijgJBVV95cUxPZlR4RjR5XzVhSVFyX24yY0VHWHJjdHh2ZkRKUmhRQjJsbDlxSmRYQnpmb2JCd3pCUDFrb3JBUTFUWFBRLW8wSDN3VUNMWlBxdFpNQjVCZHctQXB3ZU4zMmVEWDdTVnZHQlp3c1J4Mm8wamRocTN6dEZvSHJZM2tDaWNnOFFTdHBRS2VKUXFBQzJKMG1SQUQ3M3VKc2ZQTGx6V0pBcF9sOWtKREJpWE1kQUkwdUtjYXRpVE9OWElRYksxWWxkZkFMS25BaFRYSERWU0tiVks5aGp3X2djU1YyTm95RVlBcEF1NUdfQlpvWHZRdWViZmpNR2VGdkZZNmhqZGcyaHZXRDV0eDFIcVE?oc=5) (Fri, 04 Sep 2026 18:13:03 GMT)
 
 <!-- END_dashboard -->
 
