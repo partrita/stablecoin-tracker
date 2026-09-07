@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-09-06 02:07:28 (UTC)*
+*Last Updated: 2026-09-07 02:04:40 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,880,841,669** | 🟢 +0.04% | 🟢 +0.26% |
+| **$291,035,201,176** | 🟢 +0.05% | 🟢 +0.39% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds - CoinDesk](https://news.google.com/rss/articles/CBMixwFBVV95cUxOVnBXTG1tNUpKWkRVaXhzNjR4QW9YcHZVeDdQckJwaUJaVVNnT0FiaU1tcmNjQjlRY3ZpYU1pcWdSZ0xsQ1E5cGliNGszbVhyWnpaaUpBclhIN3lISjRXczZFRkE4UmppS0xHVWkxWUljVTN1VEhLbWNfYmZKUmt0angzbGxPSHNRbk5ORDh2RHBwRHVLa0xHdG1pVzB0RHBNZ1NSOHNETU5GOFJSREdsaDVvanVKa2w1MW5ZTS15SU9LcE5nRkxF?oc=5) (Sat, 05 Sep 2026 16:43:13 GMT)
-- [VIEWPOINT &#124; Rounds can benefit S.D. banks by clarifying stablecoin rules - The Dakota Scout](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUEJySERnM3NxNXctb3lwcUVhc3VRNHo2Y2h2Ni1pSkpJOXNJRXpOYVlCX2JYSFJVQlQ2STJ4OXpENFZDbkhZeW94ZVg1MkZtbTZsalF5WjV2RWFyTk9BS21QYTVNWFUyOVMxZUNxMENaMExCa1kyWG1BSzVCZ3ZGYWUzOW1uVmhwSlI0RldWRWlTTzZudEJJY0tnUmFfRnZSTlJwVQ?oc=5) (Sat, 05 Sep 2026 15:05:45 GMT)
-- [Citigroup (C) Becomes First US Bank On Ledger Rails, Joins USD Stablecoin Push - simplywall.st](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTVEycTBuVnZETVVzcDBMODM2M29OV3dpUTd4X3NLVlUzRnNhY1htZEhHT3hhU05kNEI1WWdvX2FSVl9DQ052bFhCZnpydGIyNGVpLTdQS0diV25zQXJwSkVCSnZCNXh4eHZ1NHJHWGVXSEsybWp1UEtIZFNkTHp0ZzhVWUk1V2ZTQ2VNaDE4ODF5S3VZWXg0d0pfaTF5aWFXM1dmNmt6U3lwZVF4Y19rcnp5S25OZmxfb2hN0gHAAUFVX3lxTE9pdEZCdFIwTmZjU3JIdzlLVmtmUmxQdmZHWDdBNnpfMEpLSEVPT2JvdHdmZ1FMWWxWS2hObUxtM21XTHFxRnlYR3g1T0pIUk5HdHA3dlBnUW4yeHRFd3lwSGRqanMzV0hhNGhmdVlfRzhvVk0wek5ieUlwTHJFWnZUamNRaUNxVUNBM3pzZmV4S2NicWxzVVBOSXpIUmhkYlAzT0t0RE5ZczR2QndCR0JzSFFMU0pHWTB5UGI0N2JKeg?oc=5) (Sat, 05 Sep 2026 04:47:01 GMT)
-- [Bitcoin’s Binance Stablecoin Ratio Nears 2026 High: A Warning Behind the Rally - CryptoQuant](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVzFRVEpsemh0QmkydElyVWdVcnFNMDBJUkRMNENkXzdqb2pySVJQbk1NWVBrS0VIQ0lpMVJCT01UaUFDdFBSWWtIanhuZFBycmNjcDByclZPMzhkTDNySWdxTVJ2RVhJZXRySmpLTkR5MjlJYk9raTY0d2NubzJIWEFZSkJZRlA4Y2hiUFZuM1JnUHZINlFTNVY5UGV5dlByemQtVzNqRkhrYnFaNlUzV0lKSFg2TERrbi1YajFHUnd5cDIyRWk4UENJbFFkYU9wZ05fcW5xV1o5Y0px?oc=5) (Sat, 05 Sep 2026 01:10:43 GMT)
-- [Singapore Stablecoin Rules Have Issuers Deciding If License Is Worth It - bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWIzUW1DbUNjU25FMjB2cFpsRk53UTk0bmh3a2liTERNV2pqY1hDdEVZbml2TTZORTdFWGF6cVlPM3phbDRXbHNqdVhldlN3WnQzUU83THo0QlVBMkF5VW5nMXc1a2g5TWtzQnNLc0o0c0s1QnVSejUydzZkY3BGTS1lNEZGeDhhTVRTaUdvX21iNkpIcTI0bVVJNTVjTExvLXRiUHlidGFwbDB3OFNUaU1PNWJwUQ?oc=5) (Sat, 05 Sep 2026 01:00:00 GMT)
+- [The Fintech Integration Wave: Neobanks Connecting to Stablecoin Rails - forkast.news](https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2Q0dE5PSXl0aEdTZDNDWWFvb0FCQTVIcUFUeEo3bms2YlNQREk0NU5QMDNGazNNMi1nNjJ0ZVRMTUlNdUxRRjQ1S0JfM3Mwd1B1OTc4bGJfcDJQdEh1WkdOR2ZVcFNBU0tETGJpZUxhdlFYWjBSVjBlV240SVpERnBSTXlIekpSMTdxVWdJMFlnZkh5?oc=5) (Sun, 06 Sep 2026 23:19:20 GMT)
+- [Stablecoin Slowdown Could Hinder Government Plans to Sell Debt - PYMNTS.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSXRGT2lFNEdzbmpEcVVXdXJ3M296OVFwTVRpSFRGY1dubkpHYTBuUVE4VWFLR200U3p2aVIyQlFpaTZzTXh4S2FwWTJsbF9EUnNycUNTNWRwamxFNWlWelQtdDhsNnZnYUktZGVHZW5kUzlTek82QkxORXBFNkxEMGpDSGNZV29qczVLYVpLQXNXdkJXV3hlLUIxaVV4Rl94VUJrMXVydFZxdw?oc=5) (Sun, 06 Sep 2026 21:35:08 GMT)
+- [Why Stablecoins Can’t Scale Without the Banks They Were Built to Replace - forkast.news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPSFZHdjVyYU5DQzBqVE9KNDhBbjFoTHVucTl4MUdFOVJGY19Zem4xTzA5cGtHOVU2Z2t1U1JDRVBrVVZSa1JHd1BlLW5udUltTmhuVnRSbHFxaWc4Vnl5dEEyZm1YRUx0SHMzYWw4eGoyLUdyOXZfS2ZGUklkY3h1dFZwZ2VfNExHSmlzUjRuOVhyaWRyX2RDYw?oc=5) (Sun, 06 Sep 2026 19:35:20 GMT)
+- [These Banks Are Banding Together to Launch a Stablecoin - WSJ](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdkt2QXNndVZNc3gteTVNTUhYNDVxYlgyZDBaT3phd3pReUNTWEZIOVMtbzRjcDRvZmlkU1NzazJ0UndKZlJOcVBjd1otNklUelQzTVpoMUo1VXh5Um9LMTJsMW5RWS01bXMtRnk4WklwQ0pxVXJpZ0sxQktqMnJ0UUl1VFFhV2J6UWVoUVhZdlZybXVfUG5Jd0JoZ2NaWWxZdUE?oc=5) (Sun, 06 Sep 2026 18:27:51 GMT)
+- [Is SoFi–Kraken Stablecoin Partnership Reshaping The Investment Case For SoFi Technologies (SOFI)? - simplywall.st](https://news.google.com/rss/articles/CBMi6gFBVV95cUxONnYyc0s4TVhtVmpodnAzcHVhUGJUeHV4d2JJMHF5Y1F6QXJiY00zay12Tk5jTTRwbWtGbGhuTTJlZjV4V2ZxVjhSMl9vMDhaNUl6R1Nuc1lhYVd3QTZNZTJGOUVsS2tnNlp4QmZJRmpCcTAxSlpnVWVWcVd4MGtmS1dwb3JUMk5RQlpVQ2x0b3BadktiXzFScENxOW9ZbUd6OWsyenl2QlJfYTBTSHNDQkdEVjM4OHJ6NGotNkFJall2Uk52X2p0azRadW9tM3V1cEJBXzhoVXRaTWhSUHFEaHBGbHM0QWQ4NkHSAeoBQVVfeXFMTjZ2MnNLOE1YbVZqaHZwM3B1YVBiVHh1eHdiSTBxeWNRekFyYmNNM2stdk5OY000cG1rRmxobk0yZWY1eFdmcVY4UjJfbzA4WjVJekdTbnNZYWFXd0E2TWUyRjlFbEtrZzZaeEJmSUZqQnEwMUpaZ1VlVnFXeDBrZktXcG9yVDJOUUJaVUNsdG9wWnZLYl8xUnBDcTlvWW1HejlrMnp5dkJSX2EwU0hzQ0JHRFYzODhyejRqLTZBSWpZdlJOdl9qdGs0WnVvbTN1dXBCQV84aFV0Wk1oUlBxRGhwRmxzNEFkODZB?oc=5) (Sun, 06 Sep 2026 15:26:23 GMT)
 
 <!-- END_dashboard -->
 
