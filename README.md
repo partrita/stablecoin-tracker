@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-09-11 02:14:27 (UTC)*
+*Last Updated: 2026-09-12 02:20:56 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,811,179,871** | 🔴 -0.07% | 🟢 +0.10% |
+| **$290,894,219,224** | 🟢 +0.03% | 🟢 +0.04% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [U.S. Bank Moves Real Money With USBDC Stablecoin in Live Stellar Cross-Border Pilot - Bitcoin Foundation](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMXJpc3lwSFA3cjJXbmhjQV9FZzJpSDNqQ2xieHl1MXcwaXRGQ2g2ZW8tbUVvQWd4bWlrajg4Z29ILV9DZEtQRUdBNGVTOHlzUm1uOUhtX1d5Z0RLdjlWVWRrTTkxVWJLblF6R2hwdWw4d1VRRXhDSFpwbkx6ZHVWbEpFemlZdlhQMmZiM3NPaWJhX09MUjk3UGZWQ2RHRGdiX2VnRkZUYlE1cnNpcW1IcmxtaGc5N0cwYU45VkxZTWtjU1hZNy00?oc=5) (Thu, 10 Sep 2026 22:00:00 GMT)
-- [This Week in Stablecoins: Everything but the Coin - PYMNTS.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxQTzdzaHIwNGtaNXhBcU1yWUJhUkRHejhaM2tXZnVFQlA0eUF6bWVPVjJqSV9fb1VONEhRaXdSNzQ0Mm5oUUswcHM5TTg3OXd5b0NDaGN2OGNrZUF0QkJRTjl4QjZ1Q1BscFVCcEVEVkVSa0pja1lCN2FiRC1lTUlqRzFPa2lhcmZLaEw3aC1ObE1ROHRBWWNV?oc=5) (Thu, 10 Sep 2026 21:28:09 GMT)
-- [U.S. Bank partners with Stellar to test stablecoin - American Banker](https://news.google.com/rss/articles/CBMimgFBVV95cUxQU3Y2cTVSZU84V0didG9PTDNzZ2lqXzdRdWJadklNRGQzeUxUdjhBV1BWaEpISnhES0ZmT21KV2FRYnJpcGhhY3hOcFpDOGJxTWx2VS02TzVBQ2MzUEtMcGp1OUFXOF9TVUVnZTc5SThLdDk3eTQxdnE2M0VUYlJhOEtmMjB1dUowRTNNMTNCQWFxVkljN01RUXNn?oc=5) (Thu, 10 Sep 2026 20:35:00 GMT)
-- [MoneyGram Launches Stellar-Powered USDC Visa Stablecoin Card in Colombia: how 13 outlets framed it - NewsCord](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUjBvZ0ZFTGY4NFhlcHBDTWh2dmNIUmFCYkNpQzEzWTBjWWlOdWU4MWlEYmR1aGR5OFQ0TndsRi1kSU5kX2R6REZDSHRmNjdPSHI2SElTalMyZ0hHNjA1a3BmeWQ4WXM0UkxxNVgxTEgwMlZDaGJCVWdyTE9xdllYVDNJdnN6am01cll3NnZLbk1CV1h3djZETmVUbU1BMUNDZWFpSzEzRTJxSVRHZE1mU2daVDh1cmswbWRkLVFMTlY1R0pQczQ1d1ZYNE9Za1lTNko4dlppVTB0SkVxeFR3?oc=5) (Thu, 10 Sep 2026 20:00:41 GMT)
-- [US Bank tests its own Stablecoin for Cross-Border Payments - Payments Industry Intelligence](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDB3eERRaEdqNlFHaW5tcVdlQUwtMXN2UjVBczZnUXZXQWlFVnVYZEk2b3lFcWlCSFQtUUc0UlpJbVRKUEVneF9YamJadU9GWGZpSF9lS0prOFV0Tld0RFd1TjdMVjUwd2FsM0FsMjJMNFJoOUdkeFF5cXhjWmZDUE5yUENKSGE5NGZvWFVDLTY1di1ROFFXUGx2ZEZXVkprcnc?oc=5) (Thu, 10 Sep 2026 19:27:27 GMT)
+- [Circle-Tazapay deal aims to accelerate USDC adoption in cross-border B2B payments - Digital Commerce 360](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQTZHcXlwbUxSYWJubXktNjRsWlZzU0hQQnpGOFZXVWR0VU5HMVBSQTc0NGpLSzBSQzFna01kVHF0YWFYbUdKLWZTMnJNVEdDNjd6RDN6bTBKcU1NV1hHMUpueDJlVE5jdFk3eGNyd25LZF9fY3VXdWF5UG0zMkRQaEdOYWZreE1lcHZWNWFvaW9BaXI1dFFzTNIBmAFBVV95cUxNQTZHcXlwbUxSYWJubXktNjRsWlZzU0hQQnpGOFZXVWR0VU5HMVBSQTc0NGpLSzBSQzFna01kVHF0YWFYbUdKLWZTMnJNVEdDNjd6RDN6bTBKcU1NV1hHMUpueDJlVE5jdFk3eGNyd25LZF9fY3VXdWF5UG0zMkRQaEdOYWZreE1lcHZWNWFvaW9BaXI1dFFzTA?oc=5) (Fri, 11 Sep 2026 22:42:06 GMT)
+- [BVNK and Marqeta dangle a payments lure for stablecoins - American Banker](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXdaNjNNYkNWckxva1R2czlDNGp4SW11YUdRV0JzRkQzWmNGQXVJMFdSWVVEc2pZNm1mRlZxbHllQWlHWlQ3OGlQVzI4UDlpYnBFajJlNGd4bnBYcUl6LWdpMXBjWUIyR1pVQl9xSTVyUDQxSnB0YWk1Wmg4cG1BRVROZHJHMl9tM1FiRFpnbFdtWDhzUVJtSDRDZEpZdw?oc=5) (Fri, 11 Sep 2026 19:51:00 GMT)
+- [GENIUS Act Pushes Stablecoin Compliance Into Banks’ Back Offices - PYMNTS.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXlrTlJoaUo1dnRyWDF5aVNISEpFOXkwT19GZFdPSWJCOWo0X0ZfQUV6Y2prU0Z4S2pXTlhCQ09QemU0TmVaMWhOWklwTFR6dGRJMjRfZGlwSXdncWM4WXcza3gyTlpiSWJDRVdVenlvTEp0dTk3WWZaMzdIVV96Tk9uX2tteGxreVFGTjdFZXNsVkVoNmNUU2pscGxXaHpZTGh5RzMzVmRzOUk?oc=5) (Fri, 11 Sep 2026 18:13:34 GMT)
+- [Beyond stablecoins: The tokenisation story - RBC Wealth Management](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUU0TVJfUkhyZ19YSnluQ2FDa3Y4eUFMOWtmVmZVLURyV1dXdktpMl9lVWVFTHBUOHo2UlV3MTA5UnVrZjJqaFRtb3hhcjF6Y19LdGp5VmdDZC1MSkVzeTVna1p3WkZjQVhWNHgzUmxLZG9uMG1GczlVbGdfNks3MEFXV3c0VHMxMEtWX0Q0QlgxcFNNNEhB?oc=5) (Fri, 11 Sep 2026 17:30:55 GMT)
+- [House Panel Weighs Growth, Stablecoins and Financial Regulation - Legis1](https://news.google.com/rss/articles/CBMickFVX3lxTE9TNkRDaEtDVXI3N29Nekp5SjVONkFBcmZDeFpSU3hxeXM4VG9GTzNVSDhEQzJyb0t2ekRJMV8xUWxfQXVJTEFMNTBHVlZyaTFia29kMUkzOWRMQzhJWTZ2TC0zTUlzUkV0UUlfQVYyMXFadw?oc=5) (Fri, 11 Sep 2026 17:07:13 GMT)
 
 <!-- END_dashboard -->
 
