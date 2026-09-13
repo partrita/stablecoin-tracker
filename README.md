@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-09-12 02:20:56 (UTC)*
+*Last Updated: 2026-09-13 02:18:48 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,894,219,224** | 🟢 +0.03% | 🟢 +0.04% |
+| **$290,869,390,930** | 🔴 -0.01% | 🔴 -0.00% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Circle-Tazapay deal aims to accelerate USDC adoption in cross-border B2B payments - Digital Commerce 360](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQTZHcXlwbUxSYWJubXktNjRsWlZzU0hQQnpGOFZXVWR0VU5HMVBSQTc0NGpLSzBSQzFna01kVHF0YWFYbUdKLWZTMnJNVEdDNjd6RDN6bTBKcU1NV1hHMUpueDJlVE5jdFk3eGNyd25LZF9fY3VXdWF5UG0zMkRQaEdOYWZreE1lcHZWNWFvaW9BaXI1dFFzTNIBmAFBVV95cUxNQTZHcXlwbUxSYWJubXktNjRsWlZzU0hQQnpGOFZXVWR0VU5HMVBSQTc0NGpLSzBSQzFna01kVHF0YWFYbUdKLWZTMnJNVEdDNjd6RDN6bTBKcU1NV1hHMUpueDJlVE5jdFk3eGNyd25LZF9fY3VXdWF5UG0zMkRQaEdOYWZreE1lcHZWNWFvaW9BaXI1dFFzTA?oc=5) (Fri, 11 Sep 2026 22:42:06 GMT)
-- [BVNK and Marqeta dangle a payments lure for stablecoins - American Banker](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXdaNjNNYkNWckxva1R2czlDNGp4SW11YUdRV0JzRkQzWmNGQXVJMFdSWVVEc2pZNm1mRlZxbHllQWlHWlQ3OGlQVzI4UDlpYnBFajJlNGd4bnBYcUl6LWdpMXBjWUIyR1pVQl9xSTVyUDQxSnB0YWk1Wmg4cG1BRVROZHJHMl9tM1FiRFpnbFdtWDhzUVJtSDRDZEpZdw?oc=5) (Fri, 11 Sep 2026 19:51:00 GMT)
-- [GENIUS Act Pushes Stablecoin Compliance Into Banks’ Back Offices - PYMNTS.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXlrTlJoaUo1dnRyWDF5aVNISEpFOXkwT19GZFdPSWJCOWo0X0ZfQUV6Y2prU0Z4S2pXTlhCQ09QemU0TmVaMWhOWklwTFR6dGRJMjRfZGlwSXdncWM4WXcza3gyTlpiSWJDRVdVenlvTEp0dTk3WWZaMzdIVV96Tk9uX2tteGxreVFGTjdFZXNsVkVoNmNUU2pscGxXaHpZTGh5RzMzVmRzOUk?oc=5) (Fri, 11 Sep 2026 18:13:34 GMT)
-- [Beyond stablecoins: The tokenisation story - RBC Wealth Management](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUU0TVJfUkhyZ19YSnluQ2FDa3Y4eUFMOWtmVmZVLURyV1dXdktpMl9lVWVFTHBUOHo2UlV3MTA5UnVrZjJqaFRtb3hhcjF6Y19LdGp5VmdDZC1MSkVzeTVna1p3WkZjQVhWNHgzUmxLZG9uMG1GczlVbGdfNks3MEFXV3c0VHMxMEtWX0Q0QlgxcFNNNEhB?oc=5) (Fri, 11 Sep 2026 17:30:55 GMT)
-- [House Panel Weighs Growth, Stablecoins and Financial Regulation - Legis1](https://news.google.com/rss/articles/CBMickFVX3lxTE9TNkRDaEtDVXI3N29Nekp5SjVONkFBcmZDeFpSU3hxeXM4VG9GTzNVSDhEQzJyb0t2ekRJMV8xUWxfQXVJTEFMNTBHVlZyaTFia29kMUkzOWRMQzhJWTZ2TC0zTUlzUkV0UUlfQVYyMXFadw?oc=5) (Fri, 11 Sep 2026 17:07:13 GMT)
+- [Warren Buffett&#x27;s old favorite bank enters stablecoin business - thestreet.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxOb3pjUnFoM1FDdjN0Ul9QNzlVdWd0X01XajZrb0VpdTNocVFWdVJxRnBaTjMyVHdFRjFsbXJELVp5VXFQSENWV2N2Tmx2YlNtMFdvcWdqUFVFUEJZcEZvVDNqVWhoTGExaE1LNnRPUnRJdU9zanpSR0IwNF9JcHRGYU9HVUJPVlMzYTkzbXZ5Rk42Y1U2M1dYTW9OaFhEbURrelB3?oc=5) (Sun, 13 Sep 2026 00:53:07 GMT)
+- [Thailand’s stablecoin proposal would block transfers to other people’s wallets - CryptoSlate](https://news.google.com/rss/articles/CBMiowFBVV95cUxOa1ZuNEJqNnRhRi0zMExSSXcyR3FjdVR4eDh3aFBRTm5OV0VOb2RKYzRBaDNhTzMtNFF5SXpHY2FLMlk1V01aYXZJRGdUb2dzSXlpTXdwNllybWVCWm9jSmRyYTRnVmNLd0d1ZTVFbHkyQm1IWG1hT1FHZk9JeUhNZFZybFV2VWZzS2JXdi1QRVkwcG5Oa2ttcXJNNFNmRWlZOTZR?oc=5) (Sat, 12 Sep 2026 21:25:29 GMT)
+- [Ripple eyes $13 trillion corporate treasury opportunity to grow RLUSD stablecoin, executive says - CoinDesk](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelZQMkloN2g2WWFaSnpCMF9ySm5RYVIydW1xcElTcjBjYVJ1U1RKLURzVUdwZEJ1NmRaeDJ6ZWE0RzJBa2p1S2lLbWp4T2JaWmo3RFg5Vms3azA5R1VKWTBjZmsyOTdoTHcwQlZybllDSWVWcm8zRE5kbzFlcUN2bkVNZ0Q1YlNQM05lNExSd1k3a3NlN0F5VTg4S1NGMkRYM1RCWG9IUHd5bFAtMUJ2UFZPa0tINUUxLVhfMjVxX1pDUkNWRHNvUQ?oc=5) (Sat, 12 Sep 2026 16:00:00 GMT)
+- [(Sm)all banks should compete on technology, not fear it - Fortune](https://news.google.com/rss/articles/CBMiggFBVV95cUxQVDRlTmVscEpXZkh6Y2YyZkJ1eWktVWxDYWw5dkwzUHotWDR6ZkRaQnN2aUlKcFhyaUdHV0ZsVUcyaHJvaTAwOU9kWEdtNGdPZnFJa1hZWVktOG5mWHRKa2JFMlp3eDFYWVdGZDFrLUNmQlc3Wm43NkJlY21pYWluRWVn?oc=5) (Sat, 12 Sep 2026 14:38:00 GMT)
+- [How Stablecoin Card Partnership At Marqeta (MQ) Has Changed Its Investment Story - simplywall.st](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa0JrZlZVS0g1WGN6bVNZVnlTZk93bzdxWXFoN0p5aGZZWnFyVEJ0OWNSUUtvMzdRdGU5VzRxaHg2QkpESGp6OFlyZkI4VDRUQWF0d3dZLU1VS0JzOGdOVG5UVzFlb2lZaDlJdlRfQXNWVDZYcjAxRno1bVZzRGFPODVFY3liNXZvei1KZHR6VXluNkIyYWVFQVk4eW1pczE4R3BHbHB2MHl5ZlR2ZVB6VUF5QXJQbUZxVm56VE05MGxhZnBqV0x2WXVJT0hiQlk4VFVPRdIB2gFBVV95cUxOQkgzdjFHaTNlU2I5ZUFiSFpxNDFFZ1c5aVFxN284LXFHblZtX3AwWVJ1SVFHUkQzbjhqb3ZOOG5sNHo3aFU3WWVWWWlrRE9KOE81LXUxWVpWOU96ODlCWTNPYmVzMGVWU2VyS2pEUmdHVlVXWnV0X0JXdWxjNnR0V3BnTXc4VUxWOTQtV1JhZ1R6eW1RZ19vUUFfR1R1RVg5ekUwOGZXSFM1UEZfNE51eTUxUkc4V3V2bVFIZXFEQTZTOFl2aXVLME82bHJwV25NNFBIa2RTelFpZw?oc=5) (Sat, 12 Sep 2026 06:28:54 GMT)
 
 <!-- END_dashboard -->
 
