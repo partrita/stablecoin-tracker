@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-09-14 02:36:15 (UTC)*
+*Last Updated: 2026-09-15 02:39:48 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,959,346,004** | 🟢 +0.03% | 🔴 -0.03% |
+| **$291,310,105,658** | 🟢 +0.12% | 🟢 +0.14% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Ripple Looks to $13 Trillion Corporate Treasury Space for Stablecoin Growth - PYMNTS.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNSE9OLVc3OVdhTHpKX0tQVDNQVXZUZ2dnWFhZT09UbzI3Q1RxZ2Fac1dFcGxDTlRrY2hORy1OMjd2WW5LQW5WRTFrejhyVjFPR25ha291LUQ1SVNUMHpXNlBCM29OTzE2T1JjTVFYRlRkcHVmZlBSeFVCVE1XNlhZV2NtcXlIM2Z4NFNBckdMbFp2OVdCNHdWNVV3UVJqeUJRZVpYUkQwekk4MTFFdllsVVVCcjdzZGtZSVE?oc=5) (Sun, 13 Sep 2026 22:36:15 GMT)
-- [Coinbase gives community banks a stablecoin bridge while supplying infrastructure underneath - CryptoSlate](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN0loYVZFT1NzVldtVEZPYXJFMjdrWkwwaXZ5NDJHUW9Gb3k0Vl9oYWUwMm40MDRVSWhxNzBtMG9FWUtQV1ZCRmRUaTdCdndueXpreDJNQUVOWE1IcklFSE0yVzgxSjZRRDlGMGk4emhLRC05djV1UnNaZDZZclh2U3FpRVkyTHYxRmdYeHdZWEZUVkp0eXNBejEtYXpDYjhjQ1hwV1ZJc1B4b21TV0o4MXB0Q1NybDVW?oc=5) (Sun, 13 Sep 2026 19:10:30 GMT)
-- [Why Circle (CRCL) is spending $400M to take USDC deeper into emerging markets - CoinDesk](https://news.google.com/rss/articles/CBMixAFBVV95cUxNSjBOeVpXUHVjeXdHa254QmVCWllRckI4cGtsSDMxOFFpQlJVd2RnWlEzYm1IbTFCeFNxN0R2dmt4YjhUYWRLZVBiMHZkcUlRWms3QU1fRVl1REI1SzNIWE5Oa1B2SXRMd1V2Y0lKdmVvVHdqWkRUQlk0al8zOVdHWWtaejVGbVVvb3JKLWJBS3hxZnlxVmQwYVJHYl9OOXFWa2FOMXFBTDVJZUtJQlczRzdoVzNBeU9uSVdVbDVfMzdGRE1k?oc=5) (Sun, 13 Sep 2026 13:00:00 GMT)
-- [Warren Buffett&#x27;s old favorite bank enters stablecoin business - thestreet.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxOb3pjUnFoM1FDdjN0Ul9QNzlVdWd0X01XajZrb0VpdTNocVFWdVJxRnBaTjMyVHdFRjFsbXJELVp5VXFQSENWV2N2Tmx2YlNtMFdvcWdqUFVFUEJZcEZvVDNqVWhoTGExaE1LNnRPUnRJdU9zanpSR0IwNF9JcHRGYU9HVUJPVlMzYTkzbXZ5Rk42Y1U2M1dYTW9OaFhEbURrelB3?oc=5) (Sun, 13 Sep 2026 02:24:38 GMT)
-- [Thailand’s stablecoin proposal would block transfers to other people’s wallets - CryptoSlate](https://news.google.com/rss/articles/CBMiowFBVV95cUxOa1ZuNEJqNnRhRi0zMExSSXcyR3FjdVR4eDh3aFBRTm5OV0VOb2RKYzRBaDNhTzMtNFF5SXpHY2FLMlk1V01aYXZJRGdUb2dzSXlpTXdwNllybWVCWm9jSmRyYTRnVmNLd0d1ZTVFbHkyQm1IWG1hT1FHZk9JeUhNZFZybFV2VWZzS2JXdi1QRVkwcG5Oa2ttcXJNNFNmRWlZOTZR?oc=5) (Sat, 12 Sep 2026 21:25:29 GMT)
+- [Mastercard CFO Outlines Growth Strategy Driven by Stablecoins and Value-Added Services - PYMNTS.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxNbFBPbnNTMGlINWlveHZDU0lYMC03UlIyRmgyWmx2cW9RcVNYYjktS2lYMWtIU0xTbC1YWHBsN25MS2I4QndBRm9rN2lCUEp4Nzl0QjRSdm1lWVdZVUVmRGRpRk9KRTRNV0tfNEVVUkhUbVpweXA5Nmg4LWVNaW8xekVTNm9QQVJnbENpdmYxWVc3dW1TTjZFZ2g2ZTBrYllVb2NHZTNWbHJmem5FRUdveS1reWlkUGdSTHlLY2dsbWRlcGNZ?oc=5) (Tue, 15 Sep 2026 00:01:45 GMT)
+- [Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act - Decrypt](https://news.google.com/rss/articles/CBMiggFBVV95cUxNUVRpWERXX3RaN2IwUjA3M0RmcFdCUEUwcTdmWHFiNFozVHJfN1dpWkVlNVFucHJxLWpSblg3c0k5NmhvUjZVYkh4WnEwdGVxTlJ3aFpodjNzSm1PMEFIT0IxVUhRclVha25McWI0VktyUkkwVHdhZXd4cFFwcGRJM2t30gGKAUFVX3lxTE5WQUE2TEttWlh3OUtCTEpta1hQNHQ0WW16QjM0Vm82c0oyUFFDN0IxV0NwVzV0SGFwRDljVE05QUthM3VzMjNyYThvU0RYaVhiU0pPeHp2V3pKU0JWcXpibEExZHlHTUZRZW1nSXNOQndnM3ZFVmpxcDR6NUZhLW1JN2k2NWVqaDFQdw?oc=5) (Mon, 14 Sep 2026 21:46:04 GMT)
+- [The Treasury’s New Stablecoin ‘Panic Button’ Lacks a Manual - forkast.news](https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGdZSVlCNFdXMU5wa0Q0MmVkTmdZTG5YRzNHWm9Ya2hEYWpoU0VJVlFoQW9XQXN0VmpWVlBYSWVfLWJ3c0RNUHQxbEdEa1p1dUoyaGZBLU9IS05DV2E3VWxJaDlBd2h6OHZfdF8zc21nTmNRNFVoYmpXZDBkLTkzdXY3Yk0?oc=5) (Mon, 14 Sep 2026 19:17:18 GMT)
+- [Stablecoins and World Trade - World Trade Organization](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZUMyREx0bW42NXAwU2RXOUJ0ZmpXRTJYYjgzejZmX2g3MFVNWXVTblM2dHBPM3U1Zk1mVXhMeTZnM2k2cE11MVBrMjVUY0dyOFFybEIwY0MzMDA5eGcyUFhEaV9XMmhJTTdTR0lyWlBUbU5NM0ctMnI5QW9mOW10blFhVFdtcEw4?oc=5) (Mon, 14 Sep 2026 18:05:50 GMT)
+- [Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote - CoinDesk](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUJ0SjFTTVEyV05lZUdGSmxUM1NfbFlyZEF0dmFKM25ldFVSdlNZMTVxdHVrTzU4WUtoaE9SSFNBeUJNWFZTOWxoU29CZDB4ZHdQVVpGMXhJR3pMdGptZjB2UHlxdFpMRXF1RENUd1lJZWdyemRqc2lINmlmU3lIczRvZUZWOXdhbXNuZXRmV0ZDS3NJSDZ4aHM1dGQtU1VhNFhHWlR1V1VkVk14bGx0ZUxHYXE3UFlyUnRwTFZsZEljdw?oc=5) (Mon, 14 Sep 2026 18:03:27 GMT)
 
 <!-- END_dashboard -->
 
