@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-09-16 02:34:18 (UTC)*
+*Last Updated: 2026-09-17 02:38:53 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,281,921,171** | 🔴 -0.35% | 🔴 -0.31% |
+| **$290,167,428,556** | 🔴 -0.04% | 🔴 -0.29% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Erebor Bank’s Free Stablecoin Plan Failed After Traders Found the Loophole - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxQaXpTRzZrbGtYc3ZsSFBsRGVqR2xVZ0kxak5LakdsMmxQZDlUdWdOcUlmcVBQZ3NEX21na05UNUJFVjgzUDMtbkNQOHVwRktFemJURUN6aVhLWDdhYTFWT1JjRDJuSG02OU9hZThQOHRfUmNpLVRhV1RYV0Y0eFRNS09yRUgzSjB4Qm1VZmcxN2pOZFl6cUFNVG1VWVRzZw?oc=5) (Wed, 16 Sep 2026 00:11:00 GMT)
-- [Circle, Ripple and Visa join $10 funding round for stablecoin platform Velocity - Finextra Research](https://news.google.com/rss/articles/CBMivAFBVV95cUxQamItTTI4dGhZZ1V2MmY2cHA2eUJWX1drSUllcF8yVmItX0NESU5QUkx2TG9tcVlTMTRBNlg4RjdDZWtyV0J4RmRRRm1ybkZLQVpteThwR1d4NThtQnJZOUdybEJDZ3ZJY3JSRVQ2T2hPNldXdHhiUEJuS2NpVXYya05XQ1ZrUTY5ZHdvT01IYmVRSTBuSXVfY0RFem14Q18xNHZiSVJRWjh5SGZaXzdvMEcwLTItSzhDcWl3UA?oc=5) (Tue, 15 Sep 2026 23:08:02 GMT)
-- [The Definitive Stablecoin Landscape Series: Asia Pacific - CoinDesk](https://news.google.com/rss/articles/CBMikwFBVV95cUxNLWo2NENUWDA1blgxTHhOcnVSbTFCaGc3U3VTbnFZOHNUYzJvNlhyN2VnX2M5VTdnNTNfSGxyUFZJLXY3VXRETmtLXzNNS2hQbWtQTVVOSUhoQ3ZPM08wUU42Z3FHYTVHMkZUQXRYSGFMY3gzUnFydkhGXzd3ckxjYTJRMU9ZV1dMZHpxamhSTV80NFE?oc=5) (Tue, 15 Sep 2026 21:45:04 GMT)
-- [The White House’s Data-Driven Closing Argument on Stablecoins Came Too Late to Save the CLARITY Act - forkast.news](https://news.google.com/rss/articles/CBMivAFBVV95cUxOT1VLVTdvMUt5dmp2dFhrWjlBWkIwVDBPYnpSRDdORm1TQXpENHhuUTB3WTRnV3FPV2lpVmJ3TUwtNmpMcHg0M0ppOG9rNVhyaGhsa2VqNjlvYTZpVXlmTFo2MjQxT1JTOXNoRkRsVFdndjFBSi1iSGtBeWlmZzhRZTF2MERrSEY0YVVwbU1jWkJTZm5STlNhQXFwV1p0XzZrLVdZRGhzS1E0NmREbTNkWkhDdnotLTA5QmtGUA?oc=5) (Tue, 15 Sep 2026 19:20:35 GMT)
-- [5 Best Stablecoin-Friendly Banks and Banking Platforms for Businesses - finchannel](https://news.google.com/rss/articles/CBMitgFBVV95cUxNc2tqVmtILVV5MUctSGZzWl9CWFN5QVc3SDVHUWRjckpGWG9WRjRNNmx1V0I5RFBfRGRPMmdteVpFLUotc1VONUQ3RUVRemdRRkdLdVFDMXRzTFNmN3NWVC1PVlRRYUtKajVHblRhZVVtQ0F5X2VycWpJeTlFYU5ZQ3luNXVmbFBRcFdJM1ZBNDZhWlRGS3kyVUM4UHpONkFnN0x2X1I5UmRZcmZjX1g1T0xvVlJtUQ?oc=5) (Tue, 15 Sep 2026 17:40:44 GMT)
+- [Solana gets the default spot for stablecoins at FDIC-insured bank - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMijgFBVV95cUxPaTlZUV9nbHlyQzkwUlpLcnNNeXB2UF93WV81YXE3d1BWUEh6TC1SWWVPeG53eV91X0x2TlUxem1mVVllTmxIZ19PSUFfOWVOY3lNdjh4REdWU25rWUlHOC1wRFlrZ01sV2pWWjJvaU9aSWIzT2VIbWppTWtLa0FvR3ZIZU5XSVF5T0RhbU1B?oc=5) (Thu, 17 Sep 2026 00:53:00 GMT)
+- [UK Tells Crypto Firms Who Needs a License as Treasury Moves to Exempt UK Stablecoin Payments - unchainedcrypto.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxPR0hVdjhXdXJoTkFVMXR5Sktlc2VqdXgzdXhNRUJ0WDhvMU4zRVBZUk1wUVJDZl9YbEVxT1hLQXpHd0s4b1VSNmZrWXhxdDZfVXo3bDZTTlhxR0ZhVXI0ekt0aDVrUVRNWUtsa1Q1dFBLN0RwMlFMWERINS1aMkdiaUZqUm9VQVRkMlJGZk56b2VPZmtGbXF4QnkzNTdtMTRLNW85LUpGdWhrWGwyaXM3dnpscE9nMkUwaTlBMk9n?oc=5) (Thu, 17 Sep 2026 00:42:00 GMT)
+- [Stablecoins vs Traditional Banking - The Block](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRUd1lfYkxLUWp5LTFYdFVzY2ZqSFdpSERqeUNmUS1Vd3ZLTHVEMlZodVdkNDNIWGtzYkpKYjBKV21FbW83azZkSjNqR1BjTzc0TW9TNU1Cb3UwbUtUNTV0blFXMGpXZVQ3a2RRM0M0SnY3U1VZeC1tNm9vMkdaWEVOV3VIdDdOZmtv?oc=5) (Wed, 16 Sep 2026 23:26:01 GMT)
+- [How Do Stablecoins Maintain Their Peg? - The Block](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ0lPa0VPVUU5ZE9mbkhhN1lfWFktczcwSncwUFhCb2paTTl5SXF2VHdlOFFldm5IejNqOENHLUl3WHpwSWpaLWV5M2ZYT3MtYjVPZ2psdGFvRzlZVkRUczFrZ2lXT0dtNGh6R0d2ZjFpQ0U2d1B6Y2lwN1lZUTdia1UtX1lTbm1rS2VfMVhBYw?oc=5) (Wed, 16 Sep 2026 23:26:01 GMT)
+- [What Is RLUSD? Ripple&#x27;s XRP-Native Stablecoin Explained - The Block](https://news.google.com/rss/articles/CBMib0FVX3lxTE1SVUlBVmhxdVgwbHQycXdXT2xsd3F3azBCbDM1R3lJbTcxS1NnX2NnRFRyNkl3c1UxWmpadzU0LUlzNWw4QkgxdzJwYk9nTWhEOUNnSS1PTnNnOUlMdjY4T0NmQjh6c2dzUXQtNklWaw?oc=5) (Wed, 16 Sep 2026 22:56:59 GMT)
 
 <!-- END_dashboard -->
 
