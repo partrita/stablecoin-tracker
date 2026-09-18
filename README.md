@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-09-17 02:38:53 (UTC)*
+*Last Updated: 2026-09-18 02:26:05 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,167,428,556** | 🔴 -0.04% | 🔴 -0.29% |
+| **$290,280,187,093** | 🟢 +0.04% | 🔴 -0.18% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Solana gets the default spot for stablecoins at FDIC-insured bank - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMijgFBVV95cUxPaTlZUV9nbHlyQzkwUlpLcnNNeXB2UF93WV81YXE3d1BWUEh6TC1SWWVPeG53eV91X0x2TlUxem1mVVllTmxIZ19PSUFfOWVOY3lNdjh4REdWU25rWUlHOC1wRFlrZ01sV2pWWjJvaU9aSWIzT2VIbWppTWtLa0FvR3ZIZU5XSVF5T0RhbU1B?oc=5) (Thu, 17 Sep 2026 00:53:00 GMT)
-- [UK Tells Crypto Firms Who Needs a License as Treasury Moves to Exempt UK Stablecoin Payments - unchainedcrypto.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxPR0hVdjhXdXJoTkFVMXR5Sktlc2VqdXgzdXhNRUJ0WDhvMU4zRVBZUk1wUVJDZl9YbEVxT1hLQXpHd0s4b1VSNmZrWXhxdDZfVXo3bDZTTlhxR0ZhVXI0ekt0aDVrUVRNWUtsa1Q1dFBLN0RwMlFMWERINS1aMkdiaUZqUm9VQVRkMlJGZk56b2VPZmtGbXF4QnkzNTdtMTRLNW85LUpGdWhrWGwyaXM3dnpscE9nMkUwaTlBMk9n?oc=5) (Thu, 17 Sep 2026 00:42:00 GMT)
-- [Stablecoins vs Traditional Banking - The Block](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRUd1lfYkxLUWp5LTFYdFVzY2ZqSFdpSERqeUNmUS1Vd3ZLTHVEMlZodVdkNDNIWGtzYkpKYjBKV21FbW83azZkSjNqR1BjTzc0TW9TNU1Cb3UwbUtUNTV0blFXMGpXZVQ3a2RRM0M0SnY3U1VZeC1tNm9vMkdaWEVOV3VIdDdOZmtv?oc=5) (Wed, 16 Sep 2026 23:26:01 GMT)
-- [How Do Stablecoins Maintain Their Peg? - The Block](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ0lPa0VPVUU5ZE9mbkhhN1lfWFktczcwSncwUFhCb2paTTl5SXF2VHdlOFFldm5IejNqOENHLUl3WHpwSWpaLWV5M2ZYT3MtYjVPZ2psdGFvRzlZVkRUczFrZ2lXT0dtNGh6R0d2ZjFpQ0U2d1B6Y2lwN1lZUTdia1UtX1lTbm1rS2VfMVhBYw?oc=5) (Wed, 16 Sep 2026 23:26:01 GMT)
-- [What Is RLUSD? Ripple&#x27;s XRP-Native Stablecoin Explained - The Block](https://news.google.com/rss/articles/CBMib0FVX3lxTE1SVUlBVmhxdVgwbHQycXdXT2xsd3F3azBCbDM1R3lJbTcxS1NnX2NnRFRyNkl3c1UxWmpadzU0LUlzNWw4QkgxdzJwYk9nTWhEOUNnSS1PTnNnOUlMdjY4T0NmQjh6c2dzUXQtNklWaw?oc=5) (Wed, 16 Sep 2026 22:56:59 GMT)
+- [dtcpay closes $25M Series A as SBI Group joins stablecoin payments push - Dealroom](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWwzNEk4V0cxa1ZHMlJUeWl1UU9VOXNxbmdieU9RZy1hdmJXQXd3RDNNellkdTFjMXRMUmw1czZsdUtfa3dnRURTbUJzQU5iZHVGUWNZcFJxMHVLbkYyVDAza21kbmN5WDNyRGROT0ppdGJ4cmVjVkgxRDJTLWdoYnE5V1lnVHlvWkhuaGRIYlNhZlZySmVwZWNxSmhRMlN2V09ETTJtRQ?oc=5) (Fri, 18 Sep 2026 01:36:26 GMT)
+- [Stablecoin Weekly: Digital Dollars Become the Only Game in Town - pymnts.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ2FuUm5VR0Eza29MQnA3dlMwY3NtcTFoQUxQcEdzemVMTUlqcno4dHR4RlVJOWc0ODBCSVRWZjJFU2c1VTZDekxUcFdfWTIyMlRaUEd3cjlUdm5XS0RZRVdRcTFtQnJpR3NRZzB4Mzk0ZHpRbDh1ZDRNZktIMkl0TUNQdDM5bENXSXoteG9fbTNZbzBrOEhDNHdDb0RUOVJodFN5UF8yVldaUQ?oc=5) (Thu, 17 Sep 2026 20:52:13 GMT)
+- [MoneyGram Just Launched Its First Stablecoin-Backed Visa Card. Here&#x27;s What Crypto Investors Need to Know. - Yahoo Finance](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3BxOGZ0eVpHWXJEMHd4dmRlVkpLRzF2MXZtc3pTYkRtM1FYZkxaTmk2a01vTTlPN0FVQ09PZTFpNThhaVFBaTFwVjBmVHlBTlhmeUxPYUR5OGQ3NkFGcmRpWUVxMnpNTWsteTI3WG8xd0VDVTJkYXNOWDQtU3NYd0xWTDk5dWlVMW85RjhjZ0d5OHdGQ2JBUUE3c3B2VUJtWlVKZ0U2MzA?oc=5) (Thu, 17 Sep 2026 20:43:00 GMT)
+- [What Hyundai learned from its stablecoin test drive - American Banker](https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGVqSnhRWTBCWmVCMmxaNnU0dUxvVGs4RmFwMTdTSG02SFFrRnk2OEZDd2k5a0pybjVBX3dyQ0cxUG9rMVFZREFOdTBueU5jSHlTVzhqUDA3T0N1ZUlqaGxYWGU4NHlwMVRSc2VPU1VRZ0xEZjRsbVQzRkpLOEExN1IzLVJ5NGpyRnlQZFllMW1RbzREZnpNU1FQelA?oc=5) (Thu, 17 Sep 2026 20:29:00 GMT)
+- [WisdomTree Partners With MoonPay to Expand U.S. Access to WTGXX Tokenized Treasury Fund - NewsCord](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ0JDR0E5bmdGWlVGVzd3aHoxSmhvZ0RiWEY2LXBEMlJsTk5kNlc4SHZIcnVJc3k5YzZRazNlOFJ5R2M3dXE2cTNERkhHSWxWT2R3MnlRYXpJNlo4MmY3dTJwYVJVNHpGa01yQzhKTTRqVWpUbGk0VWNWTURNSFJ5MnZLNVZKSV8zeUtRaHZVSW5qXzh0Sk1yaFhPbi1MTDVVaVR2eC1kZG1oTzhUb1lVQzVSMmRQR3U0Wms4U0ZEdk52MXFvVlRpbGE3cjNUdWl1MUNUcDU4eGdoeGJLV0dRNWdOdG9wU0Jsa0E?oc=5) (Thu, 17 Sep 2026 20:25:06 GMT)
 
 <!-- END_dashboard -->
 
