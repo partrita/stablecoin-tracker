@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-09-21 02:33:30 (UTC)*
+*Last Updated: 2026-09-22 02:35:46 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,977,836,097** | 🟢 +0.03% | 🟢 +0.01% |
+| **$291,548,378,213** | 🟢 +0.20% | 🟢 +0.08% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [dtcpay Completes $25M Series A As SBI Group Joins Stablecoin Payments Push - TradingView](https://news.google.com/rss/articles/CBMiywFBVV95cUxNbDFZUmY1LUJxejNKbm9fd1ZjNm9OY0dabnVXRGhHVmZIVXpGalZtdnFaRGlvaWxxR1ZCRTFRdDZJRWhvZ3ktNVhLVUZ1ZmdUV3FtMDZqSnc0Q19kcDJnRDFnUlkwQ1VOSTdnMGtqZ3pxeWROU2dyM3d1bkFBeHRuRjV0QmN1dG05OXlTSW10SlhUZjQyZWRZWFN6aU9FTHIyeGVoWEQzWjhheEdJOXU5Uzh6MXVjbE1vMkZxemNhOVJoVlFucWZtcHlSTQ?oc=5) (Mon, 21 Sep 2026 00:30:00 GMT)
-- [OCC Opens Three Bank Doors to Stablecoins and AI Agents - PYMNTS.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLWJwOGZVUDVlc0pBT2RPVE9DYjdtYWZtUDJ3UTEwQ2NwN0RhR01QNWZnQVpvdGRxRWwzejBjVmFpN2RyNC1XZlZOZ3FtWWk2OS0yQjFIZ0ZyS0FKcjZIQ29kZ190aXJOejlTaVdJcUNNSUlHcnB3TTV2MkxnMWNISXRyUzlGNTJNZEdKbnNCWGkwd0I5dVhWaEhfRHg4TTJVTWZ5RjBuNUM4UQ?oc=5) (Mon, 21 Sep 2026 00:22:19 GMT)
-- [Stablecoin salaries can leave workers paying to access their wages - CryptoSlate](https://news.google.com/rss/articles/CBMilgFBVV95cUxNeWFGVi1ZUm9vZzR5amgyaXpBXzlaT2hERllNZERyQWxzejQxVk5OQ0NaZFVsd244NE9tT0RYaTRJS0VPNVJmTllJckNvVzRyd0NmNElHRGU1dzVqX3R3ajl5Q1B0Wjg5LVhPX1VBc2p2UjIySDJaSXBSWU1kTWMxbUVqRDBObG1PcThkZzJzck9FS2pVa0E?oc=5) (Sun, 20 Sep 2026 12:05:36 GMT)
-- [Nubank Launches US Banking With A Stablecoin Account Before Its Charter Clears - Startup Fortune](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMjJtS0RaMWVjQnM0X2k0V2JqOElfbXIxaWRmWWJ6elNLWUZka3A1Y295TnN5QzRiZmQwY2xXUXp1ZGZWS21TN2JCc1l0TTl4TjN1WDk4YzRUcVk3US1jai1VN3BjUkNwbVpaTXpIZGJNT2kyQzBCcDh1Ni1oRms3cm05VEpXOS1WTVZJdVY5THczYTBMdEpIcjdlQ25wZDFqMmFGNHhkckNJZw?oc=5) (Sun, 20 Sep 2026 05:30:25 GMT)
-- [Treasury Drew the Line Between Stablecoin Issuers and Everyone Else. The Stakes Are Not Equal. - CryptoRank](https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWk0bms1SmFROTU4Z3JLUHZTaDZscy12OF80TEdLbTBsalNETEF2dm93c3hPRWhxSFc4YmN5MG1hcUczZlR4SG02a1R1ZHp0TllpdVZOZVEtQXNQR2hGOVIwOW5RODZRay1FY0lZVjBsU2MzWFo5ZFQyR2REUWRsaW9YU25QNF93QUd0WFBKNThrZTlXR0VYalpsQzU0c1ZNT0RFQkczWlZqTDZmZzJTYUpzdzF0dGxJbEM1TXBvWWtuaDlEaDFoMGFB?oc=5) (Sun, 20 Sep 2026 01:05:24 GMT)
+- [Singapore&#x27;s Stablecoin Regulatory Regime - Simmons &amp; Simmons](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUUExamIyY05WTHlXZEJmdTdYV2RBcnJROEFqV0hubEcwaE5VelR3OC1wcFktLWI5RDlPMVM4RnFaeE9JUHFQOFlpc2dEdmZLTlhwZ1FjcFJETEM5MDRzd1RUWnFiWEpXeTBLWjVndjVST185MVB4dFhxOW5zcURJS3NXYjBzTlNjZFhhQWpRSzVacFM5UFQzRGJTWENtRWdoaks3c3JvUmh6dmdGRXNqcTlBVmhIbXFWT0JiNk5iSFNUQWs?oc=5) (Tue, 22 Sep 2026 00:18:46 GMT)
+- [BANKING OPERATIONS—OCC conditionally approves three more national trust bank charters - VitalLaw.com](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPT09TR2lqdWlDQmJYTnJOY0hnVmQ1MFBpOEo5TzlPT0ZRdkQtQzFORlVldkR4Zm5qRjJuZUkwSkZjSTR0Y0F1azF6MEgwUkVPSGR3SE02cGpYYVFfUEw1Z2lrWnlyRzZzQlBGMi1QTW51ZzlsYkYtb3l4NTM4eU1zenNJa1I1dnVzMklfSWt5UXZSLTNYVW52MmhianlCQUJyMGlBZWdJS196eEZGZllNTUlfTjU5RXZDVTRqOV9SeExOVDcyMEFqZWFnVWhSQzVadnB1R2g2NXVLM3V1emR5d1NsRFJwcC1v?oc=5) (Mon, 21 Sep 2026 22:57:10 GMT)
+- [The ECB Just Launched a Way to Settle Tokenized Assets Without Stablecoins. What It Means for RLUSD and XRP in Europe. - Yahoo Finance](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQkFNZWNwX0Ewc0x6elgwdE9YNkc5Q1J6Q3JEdXlBbE84RUYtYmgyV2Rsb2FwUkNqZGVRVjc3TGt2X3FxVGRPYWdNMnFqT1paVzlfNmVUVlNHT053a29zbkNUc2N0WUF3YmhCU2dVY2MwbktCeFg4OHFCN1RsVmR0NnZuel9FM1U2UUJpVkV4UHFxbjBCVUdmMg?oc=5) (Mon, 21 Sep 2026 21:54:43 GMT)
+- [The ECB Just Launched a Way to Settle Tokenized Assets Without Stablecoins. What It Means for RLUSD and XRP in Europe. - 247wallst.com](https://news.google.com/rss/articles/CBMihgJBVV95cUxQMTRNS2hkb1hqTXlVclZkTFQxdG0yM29kTGRSS3ItcElud3ZIRXpFUS1iT3hxNlBMX3gyNUw4MjNNSTR1SUstUFRsZGM2LVlwVVJUeGM5STRKNjJZNGdreDF4V21IUEtOVE5STDdwTUhFSHhYWkhJX1I4TzBudjRfWHdoOFJlNFVCb1RiUVBqM055SXpOYUdaaGpJcTR1VmtQNUliQ3FlZHFNZEpoM1hEdS1uUlFQQ09xcXEyRTdOU1gtVVJtSUhvcEp3RXliR2g3TmRWdEI1aTdmNmZUb2ZGSExOVHhiY1VpNVNYTnZaQS1XNy1kRngzQW5NYThHTC1yLTVEbWtB?oc=5) (Mon, 21 Sep 2026 21:54:00 GMT)
+- [Arc enables Bitcoin liquidity with cirBTC in its stablecoin ecosystem - TradingView](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLVcwc21vdV94YjZFMThOLXZkemhKcXBHRnUyRFZiS0llczJ6ejFwWWs3NkJ5SmZFeGoyTWU3NTlQVXFjZ25GZXM0bFR6N0tMNXQ1Y2ZlMDVwMjJ6REF1Z1BmU093akNQMDVyb1VVMlhaRlNMMTlYRHhQSV9WSHY1ZWgtY2I5ZThXWDdaRk1SWkRrOFdlMXBoT2dibnpwOWdNYU5ZSTZtd3phVW04ZmxlbTdvRHkyYTdfNDZPVnhWZzFoNk9aWndTSllaSzFaeVk?oc=5) (Mon, 21 Sep 2026 16:50:50 GMT)
 
 <!-- END_dashboard -->
 
