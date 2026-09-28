@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-09-27 02:45:26 (UTC)*
+*Last Updated: 2026-09-28 02:46:48 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,778,855,377** | 🔴 -0.04% | 🟢 +0.65% |
+| **$292,694,937,621** | 🔴 -0.03% | 🟢 +0.59% |
 
 ### 📰 Latest News
+- [Fed proposed stablecoin rule could trigger a 48-hour liquidation run - CryptoSlate](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ21FSHEtenYzMlZ3NnNCb3d0TlU0YTB4ZjVuNGZoZkZFUDRPbHdpN2RTeU1tUmNvRjUzZGxPS0Izb1ZFcC16V1owNW8zbm5tYzU0WUo5dDI0Y3M2LXhLMWI4QWhRTmpuY01Hc1BXdG5EcUNBZ1BsSVhwQUpvcUVIa091SEdhUUxjdmoybjItMjQ1dDJWWlFwVg?oc=5) (Sat, 26 Sep 2026 17:55:58 GMT)
 - [From dual currencies to crypto. Is Argentina a blueprint for the stablecoin future? - Buenos Aires Herald](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNlNfZ1VMSnpaRG43Vzl6Y2V5a1IycF9mQ1pOLUZXb2wxSDQtNTcxOWFVbk5kWkROc2VrSVZsblp2MEFQRjR6ckxHWHltUmVqWTNHbEl2UmVIeVRldmFvR0x6X2E4b3NjSlZLNlNKdkJkaG1McFlyZkhFckpLeHNlZHg5ZXVESktQWnpvREZneEw4VUkyZHlPWTlieVFJS0ppaXY4VVROR2xwYjgxeFJrZ21ZMGNQbFJkeGYtTQ?oc=5) (Sat, 26 Sep 2026 17:49:55 GMT)
 - [Is SoFi Technologies (SOFI) Cheap On Its Stablecoin Rollout And Growth Push? - Yahoo Finance](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUXlkUjQ3Vmp1cXlFVl95NUZweXgweGlvR1pZWkFndTdNQTRmYVFQRDhXXzBWMFdVMkZnUzg0NU83RFNTZ0pRNzJUeHNjT2NWUnFxdGNfRkZXelctb096WjY5MTRoSUNqOFIyT2NVLWFrZEZldDJKelZ5ZVI1UENkS0o5bHU3bHlUNkQ4N09UdG53SDRpd0VGZnZ0QXFHeE9xVC1LYXpjUQ?oc=5) (Sat, 26 Sep 2026 17:10:19 GMT)
-- [SoFi Is Bypassing the Banking Bottleneck With Stablecoin Settlement - marketbeat.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUWJ2UlZld1g0aURRNVliR09MWWlBS2lHa2c0LThyYW9ZakpMbG83THpkaWtNQzVBTVFCOERpb21UamFFcng4RTVDTGFickxaWlVTSHQ2OFJiTmNLYW5BdUJwU3ozLUdaaUtOeXI2VURzX01Vb1VRUjNqTl9zcTh2MG1aNHNYRzBjZ2ZQUTZaOUFEa0t5dkhmWXg2YUlFX2gyMkFSN085cw?oc=5) (Sat, 26 Sep 2026 15:42:05 GMT)
-- [Binance&#x27;s $100M Circle (CRCL) deal boosts USDC in stablecoin race with Tether, analysts say - CoinDesk](https://news.google.com/rss/articles/CBMivwFBVV95cUxPWUFCOEU1Mnl4cHp4M0ItU29DekdiZjE5SkRLeWtnUkVRNVBVRUhoQm95YXVvbHpJUV9fVW5NTWRsQ2U3eF8taDI0ZmE1TWtmR2UyejBkSHBHZXdjWjU1RE9fZWp2NHhQNngxU2k2aTR2Mk5UTWFJZGFGUmpERGdta2pteUhXU3EtbHVURzdvdVBrVUVNTkdwQ3lCTG1ocFdKaVFJZmIyM2NiczZVM3o0aVkzM0JxZV9vbTY2UUZJcw?oc=5) (Sat, 26 Sep 2026 13:00:00 GMT)
-- [Stablecoin Payments Go Mainstream: Sept 2026 Rails - financexmagazine.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnkxU2toaUtrdTZldF9pVGFXdjk0dHZHSnduX3VMUV9xbHk3OVhLaUpWM0RKUmZOZnhwMzNHTkhKTTJQLUdsbW1CNWwzOWsycGc2LVVZVklSV29XT0EzbmM1bExQM1ZEZk1MeGx0QVYtbHk0QWx5NWRjUHJiSV9WVk05LVJkMEhZSHZoMXRhZFJTYUJGaE1HdXI5UjhtWXB4VS1pS1lFYU9rOWpFcG44dWFtQ2ViU0J6UEJDOTUzbFhnZV9yV3pEWUxXZjFoZw?oc=5) (Sat, 26 Sep 2026 09:34:21 GMT)
+- [SoFi Is Bypassing the Banking Bottleneck With Stablecoin Settlement - MarketBeat](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUWJ2UlZld1g0aURRNVliR09MWWlBS2lHa2c0LThyYW9ZakpMbG83THpkaWtNQzVBTVFCOERpb21UamFFcng4RTVDTGFickxaWlVTSHQ2OFJiTmNLYW5BdUJwU3ozLUdaaUtOeXI2VURzX01Vb1VRUjNqTl9zcTh2MG1aNHNYRzBjZ2ZQUTZaOUFEa0t5dkhmWXg2YUlFX2gyMkFSN085cw?oc=5) (Sat, 26 Sep 2026 15:42:05 GMT)
+- [SoFi Is Bypassing the Banking Bottleneck With Stablecoin Settlement - Yahoo Finance](https://news.google.com/rss/articles/CBMirgFBVV95cUxPRXh0LWswc1FOeFdWcUtfUDBCYkg1ZW9aeTNQaDVYMnRGcmk3dVNvdlVwbDZMMXFTLVFmUjJxQzlXbUFkcDNvaWI5VW0tQmsta2pGXzNRSWJid1BUWTAxQVBrS1RZV1AwMFZzaG02XzV2MFpfVW1rZ3M4WnN2dVo4QkZSWlc0czdtNGNzdEhhRjEzMXNXRmhRaTlTVE51TmhUUWdmeU9kTTdtR3FVTmc?oc=5) (Sat, 26 Sep 2026 15:40:00 GMT)
