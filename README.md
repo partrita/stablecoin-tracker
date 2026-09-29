@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-09-28 02:46:48 (UTC)*
+*Last Updated: 2026-09-29 03:28:23 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,694,937,621** | 🔴 -0.03% | 🟢 +0.59% |
+| **$292,176,044,406** | 🔴 -0.18% | 🟢 +0.22% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Fed proposed stablecoin rule could trigger a 48-hour liquidation run - CryptoSlate](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ21FSHEtenYzMlZ3NnNCb3d0TlU0YTB4ZjVuNGZoZkZFUDRPbHdpN2RTeU1tUmNvRjUzZGxPS0Izb1ZFcC16V1owNW8zbm5tYzU0WUo5dDI0Y3M2LXhLMWI4QWhRTmpuY01Hc1BXdG5EcUNBZ1BsSVhwQUpvcUVIa091SEdhUUxjdmoybjItMjQ1dDJWWlFwVg?oc=5) (Sat, 26 Sep 2026 17:55:58 GMT)
-- [From dual currencies to crypto. Is Argentina a blueprint for the stablecoin future? - Buenos Aires Herald](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNlNfZ1VMSnpaRG43Vzl6Y2V5a1IycF9mQ1pOLUZXb2wxSDQtNTcxOWFVbk5kWkROc2VrSVZsblp2MEFQRjR6ckxHWHltUmVqWTNHbEl2UmVIeVRldmFvR0x6X2E4b3NjSlZLNlNKdkJkaG1McFlyZkhFckpLeHNlZHg5ZXVESktQWnpvREZneEw4VUkyZHlPWTlieVFJS0ppaXY4VVROR2xwYjgxeFJrZ21ZMGNQbFJkeGYtTQ?oc=5) (Sat, 26 Sep 2026 17:49:55 GMT)
-- [Is SoFi Technologies (SOFI) Cheap On Its Stablecoin Rollout And Growth Push? - Yahoo Finance](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUXlkUjQ3Vmp1cXlFVl95NUZweXgweGlvR1pZWkFndTdNQTRmYVFQRDhXXzBWMFdVMkZnUzg0NU83RFNTZ0pRNzJUeHNjT2NWUnFxdGNfRkZXelctb096WjY5MTRoSUNqOFIyT2NVLWFrZEZldDJKelZ5ZVI1UENkS0o5bHU3bHlUNkQ4N09UdG53SDRpd0VGZnZ0QXFHeE9xVC1LYXpjUQ?oc=5) (Sat, 26 Sep 2026 17:10:19 GMT)
-- [SoFi Is Bypassing the Banking Bottleneck With Stablecoin Settlement - MarketBeat](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUWJ2UlZld1g0aURRNVliR09MWWlBS2lHa2c0LThyYW9ZakpMbG83THpkaWtNQzVBTVFCOERpb21UamFFcng4RTVDTGFickxaWlVTSHQ2OFJiTmNLYW5BdUJwU3ozLUdaaUtOeXI2VURzX01Vb1VRUjNqTl9zcTh2MG1aNHNYRzBjZ2ZQUTZaOUFEa0t5dkhmWXg2YUlFX2gyMkFSN085cw?oc=5) (Sat, 26 Sep 2026 15:42:05 GMT)
-- [SoFi Is Bypassing the Banking Bottleneck With Stablecoin Settlement - Yahoo Finance](https://news.google.com/rss/articles/CBMirgFBVV95cUxPRXh0LWswc1FOeFdWcUtfUDBCYkg1ZW9aeTNQaDVYMnRGcmk3dVNvdlVwbDZMMXFTLVFmUjJxQzlXbUFkcDNvaWI5VW0tQmsta2pGXzNRSWJid1BUWTAxQVBrS1RZV1AwMFZzaG02XzV2MFpfVW1rZ3M4WnN2dVo4QkZSWlc0czdtNGNzdEhhRjEzMXNXRmhRaTlTVE51TmhUUWdmeU9kTTdtR3FVTmc?oc=5) (Sat, 26 Sep 2026 15:40:00 GMT)
+- [Tether&#x27;s Stablecoin Is Iran&#x27;s &#x27;Lifeline,&#x27; Senate Report Says - Law360](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWXU0aG5mazNYNXB1WjVJQlUxeDJmcFp3R05VbGw2OF9jdnAzNG5qa1kzMkRwUFJXUDJ1NXVtQ1RzMU5namd0YzAzV1c2OVFzY1NmYWg3SUZsVktFM0lPaGxXalhOUVNjWERfRzh1SndTZy1OczF2ZC1aX19LY050MHQ0TjFLMjdCQ0pQNjlqWnJrdG9hZW5LMDExTFNGNXdJY21IZkVwSVFvTzl6Um1ZVU03bWJ4Y29FOHNn0gFWQVVfeXFMTXRnV2p0LVNNNnJvSTIyY3dQc3AzakVla3hxODZGanY4aUF1RmpqMHgxNUhTdTd1X0NxY3h0Y1FmX3hoUWswbGhESzVVTTJZXzdIbUw3eVE?oc=5) (Tue, 29 Sep 2026 02:11:26 GMT)
+- [Citi turns to Coinbase to help clients accept stablecoin payments - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaU9GaTJZb1FhN0Y5Yl9sRTVxSlAycGhYZUwtTUZjR0RyT0RKNUk2M2hCTWw4WHF4cW5PNzI2M3hmRDFYb3pxWm1sVDFkbFRnVmlhMWV2eVk4QkFyNUVKdXNMd29rVmI2b3NxUDk3QldZa0h0RXBDSXZ5UHFTREk3U0FDYXJwMWZ5?oc=5) (Tue, 29 Sep 2026 01:10:00 GMT)
+- [Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto - Decrypt](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVlREWjYxa3ZfdFF5SHFNT3RBWE8tbFhzRGs5QW9mWW1jZExlTWJlODFnVFdhTFRGS25rRGREbTN4M3YyZnc2cnAySkZMMmVaM3R0QW9OTVNRdnVNUG9LdjJZaDJxOFFCeG5lTjBCcmJ4eVhFRHhpZnlYNjJEaUJPQUp5UHpZT1l3WDdv?oc=5) (Mon, 28 Sep 2026 20:36:03 GMT)
+- [Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto - Yahoo Finance](https://news.google.com/rss/articles/CBMiowFBVV95cUxNay1OeWd3U1hHM2RMdUZSSXZxVnl6RlVFZ1dnTERIclZubVBUYzJyU0ZEdmdETEIteGRrTmRxOEg3MHR2V1AwUzI4VmFnVlBQZm5ERjBZU05nTTJVS3h4em1GWVNUd19kbFBfXzlucGNIS3AtS3dwakxwRm1ocV9WQktJLWlwR0tYWUFfajhkQ3U1ckRWckpwTzFiREZOdzJ6MXMw?oc=5) (Mon, 28 Sep 2026 20:36:03 GMT)
+- [The Stablecoin Yield Fight Is Far From Over—Here’s What Comes Next - Benzinga](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGthc0N4ckZzYUMtQ2l2MW1IeVVHQldxbEp2dEJuSHR2NExHdUpGSkp4bml3NjVFU0ZzNFFFdWpVMW9hZzc1Vlh1YWdKV1laVzhjN1piZ2s5WjV5bWpOMXhtb0hHVGJoQURtMWdpSmVWbGlqT1lyZlNYdW1ENVdQNmo3N3l3TFZZWmxxNTVZb0F5VVJwbkVuaVdjc1ZodlFmQkMySktoYjNZakJPNkZPRlZOZ3RrQQ?oc=5) (Mon, 28 Sep 2026 20:03:06 GMT)
 
 <!-- END_dashboard -->
 
