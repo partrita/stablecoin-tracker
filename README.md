@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-09-30 03:12:49 (UTC)*
+*Last Updated: 2026-10-01 03:19:13 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,074,669,289** | 🔴 -0.03% | 🔴 -0.07% |
+| **$291,403,097,551** | 🔴 -0.23% | 🔴 -0.25% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [FINANCIAL TECHNOLOGY—Treasury issues Stablecoin Certification Review Committee interim final rule - vitallaw.com](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRmpndkFscHZscHoteThHRGdTRHRuc2JYTG52VHd1SlhfZWxjVE03Rl81QmlCektwR0FSUklTVThUeUgwd0dVM2kwdTI3cDJQTlJucllmN3dMMjVfazViZ0Z0U1RiaUg1b0JEaEtIUXdNSFJhTlhreHpNY2E0blVTNFpEQ2pDaVZiSk9zbU1PSDQyak9UZlNsU1ZQRTJoV1FyeHZwWWNUOXRPMEtlVGotQVlKb0VleXBlN3dvOTRNbnV3blFOa3JKYU9TTHhaWmVETmhWQVpPa29hRnBLN3VkajRIODZKeTU3dTQ3TzlZcjEzWGJ5NUNyQw?oc=5) (Tue, 29 Sep 2026 22:19:14 GMT)
-- [Aztec Labs Relaunches zk.money Privacy Wallet On Ethereum With DAI Stablecoin Deposits: how 11 outlets framed it - NewsCord](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeEVsOV9IVUc0ZG5NYkxQSWktc1gtcHBWTkF2dFc5YWtENFNfYVdvZ0xwVHVuNlZ6T0NicHJBbXpDNXhReVRvUjUwczhOcnd4TTgzRDdKcENTc3BYLXEtVjNCdEJKTFVWa0Z4dGFVdDBhOHBZUm5PVTdCcy1kbkxXWWZqMVY3QmdKaU02R1lEMFVrOWRIMXg0dERuY1JEb1o4ek5hbm1ZRHB2dDNkR1NRM01NZlJwdW9aVzZGU1VReUlVUVpISll2bkdCSjRNWHBqcDR4bjQ1RFROR0tpUkxTQkhwSVpubDVMZ3c?oc=5) (Tue, 29 Sep 2026 22:02:26 GMT)
-- [Polygon Passes $3 Trillion in Stablecoin Transfer Volume - Polygon Labs](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcGc4SnNLb3g3aEVrNVVENUZ4ZXV5OEZKU2x0YTJYZ185OHMtQWNwMzAydmZPb0gwOGtVT09OTGlJRjhjLUNyUDBjalM4OTE3NDZ0VmZaY25xWVppS3lfODZrX29pc0x0SWNsMzJMdWFIWHhjRFZieGxKZ2g2c2ZZX2hzTQ?oc=5) (Tue, 29 Sep 2026 19:58:45 GMT)
-- [Fed guarantees 2-day stablecoin payouts, but $76B remains blocked - CryptoSlate](https://news.google.com/rss/articles/CBMikgFBVV95cUxQdHhWVmM2emJKSUg2WUVFR2JxUGtjYjdKOXlPUnNHZ0tTTGdLTWtUWG84UW1ZaE0zZ212aEIxaURiQV9FRUxsQ2h5QXJmczF3SERqWDdNMnQ0dHRpbFhWb3BUWWs1cmcybGh2amhQS1duTXdDQVRsNEt3N1pIenNWLS1STEZfWG8wQ2hDZXRLNmt6UQ?oc=5) (Tue, 29 Sep 2026 19:50:36 GMT)
-- [Private Stablecoin Payments Are Back on Ethereum – But Is the Software Legal? - Yahoo Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUF9NbUVpeDJJSXJDY3BzMVQ4b1NSQnphZzZacnNlLTh6TTJwXzZBSHpnRWNoWFZIc0hiRVlXUlJmR2xXX29RbnVHb0ExMGRKcTREWEJ4ZkZlOTEtb0did2pFS0FrNUx2VDUzSTZHcVpTR2xhMWpNOEVBQ2FnTUU1Mng3V1kySExHS1VBNnlraHcwY0dYckxnczBNVUZ1MTFNWTNRTG1HQ3hYdw?oc=5) (Tue, 29 Sep 2026 18:47:19 GMT)
+- [Bloomberg Taps Allium to Bring Onchain Stablecoin Data to its Terminal - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxOeFRHV0xOY2I4T0RFTGpzeklrSllLcXNhWkpIeEFWLW5oNmJtUkR5TllSUEhmRmZ4Z29LRG1SVHZFaHRkZkc2RGpkZnlHcWtzNndBS3ZvZnhSamdwdXZUUWFqRzZPYUl1X2dHamJwdXM1Ym5pNzZmMmVpc24zZk1PZmIwVGNrV0ZjT1ZZSk9kazBSdk1JZnJsUjdHMjNaelJJQ2c?oc=5) (Thu, 01 Oct 2026 01:35:00 GMT)
+- [Treasury Sets Plans For State Stablecoin Regime Reviews - Law360](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpMHp6Ykl0WDZSck5Nd0E5eTZqVHhTYll1WFZ0Q015a3pvaUZGSVREZHdUNjd4NXBYdTU4MFdScHp1bTdkRDR4TVRuR2V5YkNVdFRnRFh30gFWQVVfeXFMUGkwenpiSXRYNlJyTk13QTl5NmpUeFNiWXVYVnRDTXlrem9pRkZJVERkd1Q2N3g1cFh1NTgwV1JwenVtN2RENHhNVG5HZXliQ1V0VGdEWHc?oc=5) (Wed, 30 Sep 2026 23:08:00 GMT)
+- [Inverting the Stablecoin Tax: OUSD and the Equity-for-Usage Play - Yahoo Finance](https://news.google.com/rss/articles/CBMiowFBVV95cUxNeWhHZ0F5eXdnVUszcUN6T2NPdXpuUHBYaWp3LUdGUTc1TlhObTk4el9VcG1JY1RKVGJzcFNiR3U0Qm90ZzVWVm5WQU92UEZpVHMzVk1fd0VITWdwU3dkLUFVYVlZLXpzZUVoZnZVTWJEMnhWTm04QkVhT2h4WEpQTEoxSmwyS1R3YlpCdlA5RTFoaUFEb2h5LW03QkF5Wm1rWHZN?oc=5) (Wed, 30 Sep 2026 23:01:48 GMT)
+- [Jeeves Raised $110 Million to Scale Its Stablecoin-Native Banking Platform: - HedgeCo.Net](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWXpyUG1sekhlOE5uWXJYZTVaTGJZM0FiR0l0OUpjTldNa0UyLXA4eFFtVGRPUV9yVm1Ic3ZhUkliRmRnYmtMQVdhOFdhbHFCT1g5Mm9LZjNMYmtXSGlnalpUWUN3Q28tdEVMVVRGWWhfMXJsTmtmZks4WWJFQUdFSzF2MnlVdThKSi1TVzVxSW5pdFNyMm5fQ3ZxR1RvbG9UaUY0SmVDNEN6SkNHckdOXw?oc=5) (Wed, 30 Sep 2026 21:44:07 GMT)
+- [OUSD Stablecoin Goes Live With Visa, Mastercard And Stripe Behind It - Yahoo Finance](https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1JJa2tPTXJWVHNFajNueHlSWTJqS2lTcnNwa1VUdEYzNGlGV0RoZTFyREVJcFhSc0hfQXppV2hwYmJ0Mko0bmpDTG9GbFpSVU5JVzcwLW5uMk4yc2xZdEdDN3lGNm5yTU1LM2hZc0VXUENCQ1pjcVNYYzlCSDJzXzNORlhudkJNbjNVRkQ4Z1NGYWJIWi1fSGV6WQ?oc=5) (Wed, 30 Sep 2026 21:23:01 GMT)
 
 <!-- END_dashboard -->
 
