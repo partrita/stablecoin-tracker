@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-03 03:05:23 (UTC)*
+*Last Updated: 2026-10-04 03:33:43 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,205,000,434** | 🟢 +0.09% | 🔴 -0.24% |
+| **$292,299,588,056** | 🟢 +0.03% | 🔴 -0.16% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Cross-Border Payments Infrastructure Bets on Stablecoin Rails as Walapay Raises $4.6M - FinanceX Magazine](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSU44UzRseENKaTFVTVV2R0g2cHpxTWNwTFBsNjhidHlaS1dxdlFQWHQyUDIyUTkwa1RMZF9qNXVDRVoyTmF1TmdyTmxBYTZMMnAwWl9GSUtpcGI1RUpKZHh5elE3eV9WSTJoa1M1TXZMS2MzVlhmekphaWEzNWN5a3REY3ZrUGIwRFg2cWNKR1ZaTE5lUlctUDJfbFNNSHhhTGw4RXFwNkN5eWYwQzRsSW1mSEpRZTZvV3B1SERUbw?oc=5) (Sat, 03 Oct 2026 01:01:23 GMT)
-- [Stablecoin issuers have replaced 40% of China’s lost US Treasury demand - CryptoSlate](https://news.google.com/rss/articles/CBMimgFBVV95cUxOX0d5Vk9Fb002Vmo1RGxBMUxGajVxbG1hSVlTN0pRUDdpaGRMbksxSTRiQ1k0MmJ4dGFYVmp2UWRENDVYX21IYXlVNl9QTm50SGh1eE4yRE9SLXhTbFVjaUpuREFWaDZlc1FYRDN1ekNEMG5ER09pVEdsSUxITU9wSUk0eTItYzhWZklpV0U3N3VBQU9xSDR4Mkh3?oc=5) (Fri, 02 Oct 2026 21:50:39 GMT)
-- [Mastercard (MA) Is Spending $1.8 Billion On Stablecoin Payments - Simply Wall Street](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRGQ1OVNYWkVnZ3BJcG1ZaFlnQ29VUGJQR0xKRm5lZ1NkT2pHd0FKQ3V4a0V6M3p4OWpDU0c1Z3VtZ3JRbzQ1bFlCa1JyVGd1MmZLcGEwYkM3dXhOUm1ETXdNeU5tcU9BVldlV1diNk5kYUoxYTFYZnRqTUhiQ2Y5YmwyRjZZSWViWDVQMXF3Q3ppeV9uYkJOSzUzd0VJNmFyaGZTWkI0VGRsSy1wOFRoR2VxZV9YYTRNTFlnWThieHpMU2tGRjdidzFsZWtPbkdoOW1uX9IB2gFBVV95cUxOaEplc0Z5TFVOemRReTJ1OXRJcG53SGFDS1VMb3hiWDVJNzBzd0VBUlZOcDlpOEhRaHZRYzZsUkVRUXBMOGIza3k4NE9XR3hockdvaWFERFVQQnpUMkRWdmt0dWJWMDlXSWxEUlVOaFJmSWx3Vlh1aXIxaS10cUFCLWYwRlpWbUg0ejUta0VHNVhhck42SmwtRVRrZ3lhU3p3NFpaWU9rWnBSbFJNbmpnd3c1OVhNNXRoRll2VFdZcEpOUUNXZkhWbnBDdUJmZXhtaUJoRGwtdDYyUQ?oc=5) (Fri, 02 Oct 2026 21:35:58 GMT)
-- [Stablecoins Hand Manufacturers a Working Capital Windfall, if CFOs Move - PYMNTS.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOWxKbzFuQ3ZxMWRBSEU1LUZYYUdTS0k5c202SWtYNkYtb3lDNDJDMnYtTEZROTdlT0ZjWUZla2YzYXNRUUt3X253dkRfOG9BaHVDckg3Q0xFXzFJVGVCRlEyTWN5MkdPTXJkcGxybEM3YWNuR2owWXRlTm14T0JUbTRVdVRUQXNDNS1LQm1kcjZqVUVYVkxSaU9rUTlsV013aGRIZExxQTdCaHBPNVpyRTdKNW1zNnU1?oc=5) (Fri, 02 Oct 2026 20:25:39 GMT)
-- [Circle Wants EU to Loosen Stablecoin Bank Deposit Rules - Altcoin Buzz](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbWJxVHdINEFwaUhPaG9ORDFpaVdKSzJKVjdCbElMRlpvck44MjZEQ3IxUG41R1I4YlNsQno1bnBhaEpZT2FES0NrTXlfS0JfRjF0Q3RTSkYwak9tREI0U3Mwcml3TDVPS1NHbkZRRWgxd2ZXNGc0U1U5ZkJ2SDExSldnMVpZRDJEUkE?oc=5) (Fri, 02 Oct 2026 19:58:52 GMT)
+- [Can Coinbase (COIN) Turn Citi’s Stablecoin Partnership Into a Durable Institutional Advantage? - finance.yahoo.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxQeHJSUGw2Z0lYdEE0azh4blFwZFJpYmpZN2xVNnNyWUVHZTNfMXZ6UktOOXRHeklaX0xrdVpBOE9FVzNnYmkxSXYwVktxMEw2U0hWQlludS1xSUZFRndSMTdzVVBRdGhvay1XUXJkVzI1SnQzOGVnUFUwUDdtOE14RGdZYXpIVGpDRTJUVTlhaDJLcmlrT3E2UnJjdVZwX1hF?oc=5) (Sun, 04 Oct 2026 02:09:00 GMT)
+- [&#x27;Bank-led won stablecoins risk limiting innovation&#x27; - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mZUg1Q0YzZWk1em43NFAtY2tGWUNjYk9iSWxtZ1NiS3UxdG5ma3pKVzdDS0ZWM2diSndBRjZOcThsbXFoV2QxaW5QU2M5LUtxOFREdVIyMA?oc=5) (Sat, 03 Oct 2026 23:15:26 GMT)
+- [Arizona Corporation Commission issues cease-and-desist order against stablecoin seller - ktar.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE5BMXRsSUNBNjFNLXgtZFJTdEtjb0VXSjZhd24yNV9pbVFDakd6WnlHZnplNk5odERZNE0xMUhUSUhGZjZDb0REVzhzYUp1OVpDcndVN2dXTnBoTkZIUjBUejY2RXllM3JWckEzRkhNQTZoQWNISW5ONURsejF6UGc?oc=5) (Sat, 03 Oct 2026 16:39:58 GMT)
+- [Visa Says Business Programs Drive 17% of Stablecoin Card Volume - Altcoin Buzz](https://news.google.com/rss/articles/CBMikwFBVV95cUxQSnU0aDZRZjZJd0Q3ME9VSFlCLWdZSW9GSUtPUkZUMXBkQWFGT2pldWFibmtHNmE0X3dxUVhzdmVSTTU3eVZoX3ZIR01HVkQtaHMxejEtdnpvV0ZQRjlkVW9RVXpQWkpnSkZ0UTM3V3g2SUFIVzVRTXY2X1JQZURHRzJKdlEzSVVsVnllX1pESkE5UWM?oc=5) (Sat, 03 Oct 2026 08:16:35 GMT)
+- [Stablecoin Issuers Added $200 Billion in Treasury Holdings - Altcoin Buzz](https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWFZblVWVnJhMy1PY05ZbGhGNThlRVBtdFRob2RWX1Frb041MWxOdU5SZTYzNnRHT2l1MHZmelhvajRqaWpZUDZYdVFveE1UcE1Lc3lLaThLWGZaT2ZBQkdibUtPc2lSMGlnSlJqSjh2VnBhb004dnZ5Z2J6ZTFvUVFVNWJMZTZMUFNyMw?oc=5) (Sat, 03 Oct 2026 07:30:38 GMT)
 
 <!-- END_dashboard -->
 
