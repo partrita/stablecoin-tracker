@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-04 03:33:43 (UTC)*
+*Last Updated: 2026-10-05 03:14:51 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,299,588,056** | 🟢 +0.03% | 🔴 -0.16% |
+| **$292,485,780,497** | 🟢 +0.06% | 🔴 -0.07% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Can Coinbase (COIN) Turn Citi’s Stablecoin Partnership Into a Durable Institutional Advantage? - finance.yahoo.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxQeHJSUGw2Z0lYdEE0azh4blFwZFJpYmpZN2xVNnNyWUVHZTNfMXZ6UktOOXRHeklaX0xrdVpBOE9FVzNnYmkxSXYwVktxMEw2U0hWQlludS1xSUZFRndSMTdzVVBRdGhvay1XUXJkVzI1SnQzOGVnUFUwUDdtOE14RGdZYXpIVGpDRTJUVTlhaDJLcmlrT3E2UnJjdVZwX1hF?oc=5) (Sun, 04 Oct 2026 02:09:00 GMT)
-- [&#x27;Bank-led won stablecoins risk limiting innovation&#x27; - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mZUg1Q0YzZWk1em43NFAtY2tGWUNjYk9iSWxtZ1NiS3UxdG5ma3pKVzdDS0ZWM2diSndBRjZOcThsbXFoV2QxaW5QU2M5LUtxOFREdVIyMA?oc=5) (Sat, 03 Oct 2026 23:15:26 GMT)
-- [Arizona Corporation Commission issues cease-and-desist order against stablecoin seller - ktar.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE5BMXRsSUNBNjFNLXgtZFJTdEtjb0VXSjZhd24yNV9pbVFDakd6WnlHZnplNk5odERZNE0xMUhUSUhGZjZDb0REVzhzYUp1OVpDcndVN2dXTnBoTkZIUjBUejY2RXllM3JWckEzRkhNQTZoQWNISW5ONURsejF6UGc?oc=5) (Sat, 03 Oct 2026 16:39:58 GMT)
-- [Visa Says Business Programs Drive 17% of Stablecoin Card Volume - Altcoin Buzz](https://news.google.com/rss/articles/CBMikwFBVV95cUxQSnU0aDZRZjZJd0Q3ME9VSFlCLWdZSW9GSUtPUkZUMXBkQWFGT2pldWFibmtHNmE0X3dxUVhzdmVSTTU3eVZoX3ZIR01HVkQtaHMxejEtdnpvV0ZQRjlkVW9RVXpQWkpnSkZ0UTM3V3g2SUFIVzVRTXY2X1JQZURHRzJKdlEzSVVsVnllX1pESkE5UWM?oc=5) (Sat, 03 Oct 2026 08:16:35 GMT)
-- [Stablecoin Issuers Added $200 Billion in Treasury Holdings - Altcoin Buzz](https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWFZblVWVnJhMy1PY05ZbGhGNThlRVBtdFRob2RWX1Frb041MWxOdU5SZTYzNnRHT2l1MHZmelhvajRqaWpZUDZYdVFveE1UcE1Lc3lLaThLWGZaT2ZBQkdibUtPc2lSMGlnSlJqSjh2VnBhb004dnZ5Z2J6ZTFvUVFVNWJMZTZMUFNyMw?oc=5) (Sat, 03 Oct 2026 07:30:38 GMT)
+- [Visa, Mastercard, Stripe, and Coinbase Commit $1 Billion to New Stablecoin: Is Open USD a Challenge to Tether, USDC, and RLUSD? - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxQaE4zNmxuT1g5ancxRVNJSWhlSHRlMXg4UGhzMmVuMXFjS2lzZ1RfNTNYclNqdF9hVU9XdjVZZ1F5bEtjZy1CTjA4RjN6TG9OVHZ1dG9CWERZM3hsYUpXNW1RRXlwbmRrMXJ3MWkzcnJqNW14R0JpcjBXZkgtR3BNczd4VWFWWFgzSWIxUVJmM1FhRU1pYldyWDk3RzRHLTFtZTV3Rm93?oc=5) (Sun, 04 Oct 2026 15:00:08 GMT)
+- [Visa, Mastercard, Stripe, and Coinbase Commit $1 Billion to New Stablecoin: Is Open USD a Challenge to Tether, USDC, and RLUSD? - 24/7 Wall St.](https://news.google.com/rss/articles/CBMiigJBVV95cUxPVUFITnotYmk0M0hoOHNQWHZJMktIdXhRd05IV2ZuY0FCZldFbExyMW1UWUdYMEdLN3U1em9HMEZUVFNXZU9icjhhMnlpNjFydnBaZktwZHpzeGgyN19ZYXpOWlVGdVZ4ZUtxbWJpb2Z4M3ZxR3cyTWtlU1ZmUkZzZFV0Y2lvSFdfd3FqUEJ2eThmRzdGMURReWJuNjhUWS03REFHRC1wX2lBWTBIZDhRYkI1MFdQemMyTzNqSm5sRUxnN2NuaUpVem0xWF9nQXYwelA3ZUpSUE4zT3RuOTcxSWtpMmMxUF9ENUVYTUotOUlHOEl1SGFsSHFfcWhBaWF4MDNrUHFKRF9Vdw?oc=5) (Sun, 04 Oct 2026 15:00:00 GMT)
+- [Tether Brings Its $184 Billion Stablecoin Back to Bitcoin: Will BTC Regain Its Role as a Payments Network? - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzZ0TWxMWTB6TUh6Z3hMVl9COTAwSldXbmlmZU5mUVg5aFYwZEx5VmE0eV9KcWt1YWNJN1lmc0w4NlkyVWRNUGtJLUxWbmF0dkhROC1jTGJ2eHVyY08yY1VoU29EZ25YRHpfeHk1RW9XVU4zYlo1aE16QXA3c1YtSTR0NDFrTWw5V1dDeERJUXhia3NQSE5OMFJKbDRnUDN5akYyTXhLRDJhUnlyTm1oVWdoN2Nfb3hwMjJLXzVTSXlXWHE0RXBSS3pxMERnZVk5dUJWRnVDclBrR3ZFalRFVWV2OEpRd3VTRG1VZkRXa0o2ZVM3?oc=5) (Sun, 04 Oct 2026 13:00:00 GMT)
+- [Can Coinbase (COIN) Turn Citi’s Stablecoin Partnership Into a Durable Institutional Advantage? - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxQeHJSUGw2Z0lYdEE0azh4blFwZFJpYmpZN2xVNnNyWUVHZTNfMXZ6UktOOXRHeklaX0xrdVpBOE9FVzNnYmkxSXYwVktxMEw2U0hWQlludS1xSUZFRndSMTdzVVBRdGhvay1XUXJkVzI1SnQzOGVnUFUwUDdtOE14RGdZYXpIVGpDRTJUVTlhaDJLcmlrT3E2UnJjdVZwX1hF?oc=5) (Sun, 04 Oct 2026 02:09:00 GMT)
+- [SoFi’s US$25 Billion Card Portfolio Shift To Bank-Issued Stablecoin Might Change The Case For Investing In SoFi Technologies (SOFI) - Yahoo Finance](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdWN2Q2tYbXVvejlQWndFcl91SXZfV0pBNnBKTTl6ZFRCU1NMaDFEWHc4cXllZjR1STR3eFJEbFRIdGZrTUs1dVA3TkxhRmI5RXRwbHlFVVFJU1JiNFV1UW8xSi1sVm5JeXVxTXN5blhhWF9TRS1Nam80bEN6TmdVN2VPQ2tBYXBaOGpTY3VKSUZjUQ?oc=5) (Sun, 04 Oct 2026 02:08:00 GMT)
 
 <!-- END_dashboard -->
 
