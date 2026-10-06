@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-05 03:14:51 (UTC)*
+*Last Updated: 2026-10-06 04:02:31 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,485,780,497** | 🟢 +0.06% | 🔴 -0.07% |
+| **$292,768,246,353** | 🟢 +0.10% | 🟢 +0.20% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Visa, Mastercard, Stripe, and Coinbase Commit $1 Billion to New Stablecoin: Is Open USD a Challenge to Tether, USDC, and RLUSD? - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxQaE4zNmxuT1g5ancxRVNJSWhlSHRlMXg4UGhzMmVuMXFjS2lzZ1RfNTNYclNqdF9hVU9XdjVZZ1F5bEtjZy1CTjA4RjN6TG9OVHZ1dG9CWERZM3hsYUpXNW1RRXlwbmRrMXJ3MWkzcnJqNW14R0JpcjBXZkgtR3BNczd4VWFWWFgzSWIxUVJmM1FhRU1pYldyWDk3RzRHLTFtZTV3Rm93?oc=5) (Sun, 04 Oct 2026 15:00:08 GMT)
-- [Visa, Mastercard, Stripe, and Coinbase Commit $1 Billion to New Stablecoin: Is Open USD a Challenge to Tether, USDC, and RLUSD? - 24/7 Wall St.](https://news.google.com/rss/articles/CBMiigJBVV95cUxPVUFITnotYmk0M0hoOHNQWHZJMktIdXhRd05IV2ZuY0FCZldFbExyMW1UWUdYMEdLN3U1em9HMEZUVFNXZU9icjhhMnlpNjFydnBaZktwZHpzeGgyN19ZYXpOWlVGdVZ4ZUtxbWJpb2Z4M3ZxR3cyTWtlU1ZmUkZzZFV0Y2lvSFdfd3FqUEJ2eThmRzdGMURReWJuNjhUWS03REFHRC1wX2lBWTBIZDhRYkI1MFdQemMyTzNqSm5sRUxnN2NuaUpVem0xWF9nQXYwelA3ZUpSUE4zT3RuOTcxSWtpMmMxUF9ENUVYTUotOUlHOEl1SGFsSHFfcWhBaWF4MDNrUHFKRF9Vdw?oc=5) (Sun, 04 Oct 2026 15:00:00 GMT)
-- [Tether Brings Its $184 Billion Stablecoin Back to Bitcoin: Will BTC Regain Its Role as a Payments Network? - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzZ0TWxMWTB6TUh6Z3hMVl9COTAwSldXbmlmZU5mUVg5aFYwZEx5VmE0eV9KcWt1YWNJN1lmc0w4NlkyVWRNUGtJLUxWbmF0dkhROC1jTGJ2eHVyY08yY1VoU29EZ25YRHpfeHk1RW9XVU4zYlo1aE16QXA3c1YtSTR0NDFrTWw5V1dDeERJUXhia3NQSE5OMFJKbDRnUDN5akYyTXhLRDJhUnlyTm1oVWdoN2Nfb3hwMjJLXzVTSXlXWHE0RXBSS3pxMERnZVk5dUJWRnVDclBrR3ZFalRFVWV2OEpRd3VTRG1VZkRXa0o2ZVM3?oc=5) (Sun, 04 Oct 2026 13:00:00 GMT)
-- [Can Coinbase (COIN) Turn Citi’s Stablecoin Partnership Into a Durable Institutional Advantage? - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxQeHJSUGw2Z0lYdEE0azh4blFwZFJpYmpZN2xVNnNyWUVHZTNfMXZ6UktOOXRHeklaX0xrdVpBOE9FVzNnYmkxSXYwVktxMEw2U0hWQlludS1xSUZFRndSMTdzVVBRdGhvay1XUXJkVzI1SnQzOGVnUFUwUDdtOE14RGdZYXpIVGpDRTJUVTlhaDJLcmlrT3E2UnJjdVZwX1hF?oc=5) (Sun, 04 Oct 2026 02:09:00 GMT)
-- [SoFi’s US$25 Billion Card Portfolio Shift To Bank-Issued Stablecoin Might Change The Case For Investing In SoFi Technologies (SOFI) - Yahoo Finance](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdWN2Q2tYbXVvejlQWndFcl91SXZfV0pBNnBKTTl6ZFRCU1NMaDFEWHc4cXllZjR1STR3eFJEbFRIdGZrTUs1dVA3TkxhRmI5RXRwbHlFVVFJU1JiNFV1UW8xSi1sVm5JeXVxTXN5blhhWF9TRS1Nam80bEN6TmdVN2VPQ2tBYXBaOGpTY3VKSUZjUQ?oc=5) (Sun, 04 Oct 2026 02:08:00 GMT)
+- [Stablecoin Development Corp price pumps for no reason - Protos &#124; Informed crypto news](https://news.google.com/rss/articles/CBMifkFVX3lxTFBkaU53S3V4c0c3Z05OdFoybDFRaVp3bkw2bm9hRjJTUlZYaUladWY2VkhKckVXdUVGMXhlX29yU0ZWdk1aUFZSUDFoazdGNnpFUXNrZjkwbzMwVlEyOXdDVWdQMVRFaWQ3Q09oaWhPRXJCb1dCQUcxSXRmN01Ndw?oc=5) (Tue, 06 Oct 2026 01:30:57 GMT)
+- [Stripe to Extend Stablecoin Cards to 100 Countries by Year End - PYMNTS.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGY0VFJOM2NHLUEzakItY0RZQ3R6YWd6b1E0SENlU0xVblc4c1Njak9BZm5PN0dweVZzY1N5VzJPUGx1ZFFlUWw0bmF6RlpTSUwtOWhOcGxmblROQlc4blZsZkVsVU9iUmYxLXlrZ0RjNjN4dk5UN0tyTGJwcjlDVDNPMFgxTVRjWmFMSkp3ZWljM1NRMXdKZUJYYzN3QzhGYk9kRUNjbTNNUQ?oc=5) (Tue, 06 Oct 2026 00:25:23 GMT)
+- [Bank of North Dakota announces stablecoin pilot program with local partners - North Dakota Monitor](https://news.google.com/rss/articles/CBMiugFBVV95cUxOcDhKTEowcmJqcDBPcUlWMUNHYnFZeXhsZGp3WFJuWV9QZW4xZ0dBcHotRVdWa1NZRmJDUjRQRjEycFVoUjJHcWVkS0p5bG5IRmZjd1lxMlNYZzNDRmNwSGlGWHIyRTBkREdTNms1M190QXZCMy1NR21mV29sclBBZTFyLWJXTlUybW93ZWpuRWg5ODlYbzVEN3FzU0ZPM2p3b1RzQmlIVi00Ym8wUGNOQzJ3UzZ0a1A0NHc?oc=5) (Mon, 05 Oct 2026 23:53:53 GMT)
+- [Stablecoin Banking Launch Might Change The Case For Investing In Fiserv (FISV) - Simply Wall Street](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZXlWc0ZHejV4RXBvb3prdG1uMkZteDJxQ2VHbl9ZMTYtUmVnTDNVdEZCYXYxTGJPeEYzLVgzcnRTOV81dFpwU0xNSmRWOHFXSnhSZ1pGZWxoenRDazhoRWEwUXZScTk2cUM3cE1lOEgwVE01NnFjU0J4SmdPLVBtVzFweFdsblpheThWam1BcEdpYi1ObUlURXVIU1pKbldZb3JseUF5cmxrQkNFMV9VTFlBWDg4aG1RWlFCWlJfOEp6UnFSeTlQU2lmZnVvRnplNEFGemZkd3ltYVnSAdsBQVVfeXFMTmV5VnNGR3o1eEVwb296a3RtbjJGbXgycUNlR25fWTE2LVJlZ0wzVXRGQmF2MUxiT3hGMy1YM3J0UzlfNXRacFNMTUpkVjhxV0p4UmdaRmVsaHp0Q2s4aEVhMFF2UnE5NnFDN3BNZThIMFRNNTZxY1NCeEpnTy1QbVcxcHhXbG5aYXk4VmptQXBHaWItTm1JVEV1SFNaSm5XWW9ybHlBeXJsa0JDRTFfVUxZQVg4OGhtUVpRQlpSXzhKelJxUnk5UFNpZmZ1b0Z6ZTRBRnpmZHd5bWFZ?oc=5) (Mon, 05 Oct 2026 23:02:58 GMT)
+- [Stablecoin Development reports $180M in SKY token holdings at Q3 end - Investing.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxNRjUtRHU0YWxIaFVJTnlGdkFTX2lla3R3VjkxcVl0NTFWRldxRG1abXNnN1MxLXFxX3U0NFBYQmNIQ2EyME5fQmxyTHV3TlJlRkxKdEJrR0tuZEJOODZiMWROZGpLS2RtYm1Rem5VSVhGZE51Z01obFdWUHp6dzkxYTVmWnN3UUpaZjBYQXFiNC1rUTBtM0NNVjRGUEdfRThhSlktWWlFb211S0RHRU1pcnpYRk5yVVV1NkJ3bTFBTTZxSmJMWkdFWTBFYjA?oc=5) (Mon, 05 Oct 2026 22:05:00 GMT)
 
 <!-- END_dashboard -->
 
