@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-06 04:02:31 (UTC)*
+*Last Updated: 2026-10-07 03:30:22 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,768,246,353** | 🟢 +0.10% | 🟢 +0.20% |
+| **$292,906,162,790** | 🟢 +0.05% | 🟢 +0.28% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoin Development Corp price pumps for no reason - Protos &#124; Informed crypto news](https://news.google.com/rss/articles/CBMifkFVX3lxTFBkaU53S3V4c0c3Z05OdFoybDFRaVp3bkw2bm9hRjJTUlZYaUladWY2VkhKckVXdUVGMXhlX29yU0ZWdk1aUFZSUDFoazdGNnpFUXNrZjkwbzMwVlEyOXdDVWdQMVRFaWQ3Q09oaWhPRXJCb1dCQUcxSXRmN01Ndw?oc=5) (Tue, 06 Oct 2026 01:30:57 GMT)
-- [Stripe to Extend Stablecoin Cards to 100 Countries by Year End - PYMNTS.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGY0VFJOM2NHLUEzakItY0RZQ3R6YWd6b1E0SENlU0xVblc4c1Njak9BZm5PN0dweVZzY1N5VzJPUGx1ZFFlUWw0bmF6RlpTSUwtOWhOcGxmblROQlc4blZsZkVsVU9iUmYxLXlrZ0RjNjN4dk5UN0tyTGJwcjlDVDNPMFgxTVRjWmFMSkp3ZWljM1NRMXdKZUJYYzN3QzhGYk9kRUNjbTNNUQ?oc=5) (Tue, 06 Oct 2026 00:25:23 GMT)
-- [Bank of North Dakota announces stablecoin pilot program with local partners - North Dakota Monitor](https://news.google.com/rss/articles/CBMiugFBVV95cUxOcDhKTEowcmJqcDBPcUlWMUNHYnFZeXhsZGp3WFJuWV9QZW4xZ0dBcHotRVdWa1NZRmJDUjRQRjEycFVoUjJHcWVkS0p5bG5IRmZjd1lxMlNYZzNDRmNwSGlGWHIyRTBkREdTNms1M190QXZCMy1NR21mV29sclBBZTFyLWJXTlUybW93ZWpuRWg5ODlYbzVEN3FzU0ZPM2p3b1RzQmlIVi00Ym8wUGNOQzJ3UzZ0a1A0NHc?oc=5) (Mon, 05 Oct 2026 23:53:53 GMT)
-- [Stablecoin Banking Launch Might Change The Case For Investing In Fiserv (FISV) - Simply Wall Street](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZXlWc0ZHejV4RXBvb3prdG1uMkZteDJxQ2VHbl9ZMTYtUmVnTDNVdEZCYXYxTGJPeEYzLVgzcnRTOV81dFpwU0xNSmRWOHFXSnhSZ1pGZWxoenRDazhoRWEwUXZScTk2cUM3cE1lOEgwVE01NnFjU0J4SmdPLVBtVzFweFdsblpheThWam1BcEdpYi1ObUlURXVIU1pKbldZb3JseUF5cmxrQkNFMV9VTFlBWDg4aG1RWlFCWlJfOEp6UnFSeTlQU2lmZnVvRnplNEFGemZkd3ltYVnSAdsBQVVfeXFMTmV5VnNGR3o1eEVwb296a3RtbjJGbXgycUNlR25fWTE2LVJlZ0wzVXRGQmF2MUxiT3hGMy1YM3J0UzlfNXRacFNMTUpkVjhxV0p4UmdaRmVsaHp0Q2s4aEVhMFF2UnE5NnFDN3BNZThIMFRNNTZxY1NCeEpnTy1QbVcxcHhXbG5aYXk4VmptQXBHaWItTm1JVEV1SFNaSm5XWW9ybHlBeXJsa0JDRTFfVUxZQVg4OGhtUVpRQlpSXzhKelJxUnk5UFNpZmZ1b0Z6ZTRBRnpmZHd5bWFZ?oc=5) (Mon, 05 Oct 2026 23:02:58 GMT)
-- [Stablecoin Development reports $180M in SKY token holdings at Q3 end - Investing.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxNRjUtRHU0YWxIaFVJTnlGdkFTX2lla3R3VjkxcVl0NTFWRldxRG1abXNnN1MxLXFxX3U0NFBYQmNIQ2EyME5fQmxyTHV3TlJlRkxKdEJrR0tuZEJOODZiMWROZGpLS2RtYm1Rem5VSVhGZE51Z01obFdWUHp6dzkxYTVmWnN3UUpaZjBYQXFiNC1rUTBtM0NNVjRGUEdfRThhSlktWWlFb211S0RHRU1pcnpYRk5yVVV1NkJ3bTFBTTZxSmJMWkdFWTBFYjA?oc=5) (Mon, 05 Oct 2026 22:05:00 GMT)
+- [OKX Launches Standalone Stablecoin App, With Up to 10% on USDG Balances - Blockhead](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeEVuV1RBUGtxelNnR3d0Q0dzUlBVMnJOT0RadFRFUjlDREptd1FMV05pd200RXhheTlyZjNtUzVRaUVLaW9rMHJFa2VtMW5sbzBXZDl6Q2puanl1SGV2MUczUUZ2Qnh5T1J5OWVLNF9jRUpnSFZybndmNmRLYUhKQmNUV2FXR3dtdkxCLWdlbW9xVGNkUmVUaVdVZVRzVFJRM1lURi1jQmJqQQ?oc=5) (Wed, 07 Oct 2026 01:01:39 GMT)
+- [Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges - CryptoRank](https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2hRY0JkeTZhS1VkYlVtaTZxYW9aZkJuOUNuTWFQV0xVek93aTV3U0lDT0hVVGlIckpXdW9keWVFWG1DUU5PaGV5dUFrVUl5Z3dVYnRPZ0NCOGdYNUREVjJIeWJZSGd5UUh4aVZEeTlHSXlxU2MtOFFwNkRtS2M1N2hWaXpILTA?oc=5) (Tue, 06 Oct 2026 22:20:40 GMT)
+- [HSBC Prepares Hong Kong Stablecoin Launch With RedCoin Brand - Payments Industry Intelligence](https://news.google.com/rss/articles/CBMilgFBVV95cUxQYUtQM0k2NlZfcE1rWTJMcHpJank4a0F0TjJlQzdtVXZwYnVUdVpibndOXzA3YUZpQ3dXU2plN3FvWE1hSXpKR2ZWLVhIUVBxRVh0LUlPQldVeXA1VTVIeUI3cGVhaWZkZXN1Um42WWQ2YVZwZEJrWE5kOXM1dE1hRVZaSjZGY2tfOG5CVURzbmFlakZRaWc?oc=5) (Tue, 06 Oct 2026 21:57:05 GMT)
+- [Majority of community banks express concern over stablecoins - American Banker](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSVRkaXZMTXk2elpFMlJvNXYwSzExS3ZOeVlzdnVaeHgtb0t4R05JcUEtdVQ0SS0wZVhXWlFWOFNGNXQwU1RuTXVabmxGaW9SbUl3X045Y3U1S0xBbG9PR2IyOWZla1hybFFlWHFZcUtqZ28zTHJlNXJkZHl2M3NCMTd5OFpEaVpIU1BpM2k5Q2VSM0F2TEE2VnZCczk?oc=5) (Tue, 06 Oct 2026 20:23:00 GMT)
+- [The Fed and PYMNTS Intelligence Agree: Stablecoins Have a Demand Problem - PYMNTS.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzFadldzeFRkeVVVLXlFZG4yX2Y5WFpRUnVWSjdLZ2JzbGZ6NkxCRlFlWkwwaC1JQlY0RHN6dkFQVDNFR0ZOVFVvYWdRY0R1b1loSDE1dk9kT082X1puQUZQRXl3eEhYTFgtOHg3cnFkQ0M3TjRpcHdIczF4b3lQQ05La21JMHFwa0hnYk9yN2R1NGZuV0JFbDYzZGhKb1I0YlJ5dWVFTjI3WmZKd0ZWWA?oc=5) (Tue, 06 Oct 2026 19:54:59 GMT)
 
 <!-- END_dashboard -->
 
