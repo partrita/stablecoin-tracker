@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-08 03:44:57 (UTC)*
+*Last Updated: 2026-10-09 03:50:27 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$292,177,306,979** | 🔴 -0.25% | 🟢 +0.27% |
+| **$291,435,122,426** | 🔴 -0.25% | 🔴 -0.17% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Samsung Wallet to Bring Stablecoin Access to Eligible Galaxy Users in the US - Samsung Mobile Press](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZnpfOFJvUl84TF9rZExZeU9rNFVUZE9mWDVuRklpOGxlTml3ZFZEQlJsY2hCV05TdUtnRDRiQzJXU2F5WjRqUHNhcVFvZ0xBckpPUlhnLWRtc0FHYkZoWHc5TlBtNHJGZHk4ZHFRLV9XZUFNUTNXcllua0FzLXBpZ3V3MzlGUQ?oc=5) (Thu, 08 Oct 2026 02:02:16 GMT)
-- [Stablecoin Push Altering The Investment Case For Visa Stock (V)? - Simply Wall Street](https://news.google.com/rss/articles/CBMiywFBVV95cUxORjdvRWptMmduUjJ4NGRkRnV4eUJ3RGNtTFQ5YmppRFhFU0R3ZnRFWFpMRkpGX3VZSjMtdmVIR1I5Y1FIWFV4OFY2WlhFZnp0Ql9QVUFMNlVNTHl5MC1YeWVoQkQxcnNKSVFMZUlFM1JzbU9qamIwamRYX2NXcFgtaVNLTVVGSzk3dFQxR0dnWEc5cnZ5WnJXdGQwRXVCR3Fpc3JMZUJKa1BQM21xQS1xYUtkaEUzcDFhNlBuT0VVVXg5VVd0WHdjS3NWWdIB0AFBVV95cUxNS3hCaEZGcnRUWEhWUmUwYXNxM2dDOU0wWE0xY0FGc29YOVpQckg0LVQ2WEc1UHBFM0JFOEZ6N3o0SXg5emEwSjI0Zk5Sc3JLdXNaWkgtanhLcmpuQk5BVXdrSzJiY21hNE54MHZZX0NLNDFYeFF1RlBVNl9JSDI3VkE5RXJ1ZnRQaDZ4Z3FpcEowMUl2bWxkUW9vVF9hWXNmeXQ5ZDJmSEJsNlR1YU9vWkVEaDJDTmZ1eV9WMmw0Q1hUelluSVlORDR2OFJiR2pk?oc=5) (Thu, 08 Oct 2026 01:41:57 GMT)
-- [Anyflo exits stealth, acquires Sui&#x27;s Native to simplify stablecoin payments - Dealroom](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV3F3Tm9QWl9uSndlSzNzSU9mbFpSTG5ZVXlEdVA5aHZkRkxnTmh6aFhSZWJfbmdxbDZ2dWMxbmZydUxGdDZPS2VmTkdPMFBVWTJfU2kxdTJmOVBqLTh2UnJuNllidE5WLXdTNjFpMm9rMHFhQTBoeGhvZ1hHUnFYa2lZbmVnWl8wYVRJYzYwYW1yeXBKU0lTZGdhV3pFUkNoRW42UlRVVzNUY2R0?oc=5) (Thu, 08 Oct 2026 01:39:28 GMT)
-- [Anyflo emerges from stealth with acquisition of Native, to simplify stablecoin payments for enterprises - Yahoo Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclk3V3BwcTB4d0xRb2I1bGhzWlRoRHdFVDJvUGJGZkhyeUJsb1FtQzB6ZHlra0R2NDJubmpjU3lRcl9DWDlpVVNoZi1uR1JveFhGVGxaRGxwY1ZqNTNUeVlCZXlJbnF6c2dFbFpDbVNaeVU0d0tnVTB6SHBVdnZiN2FUOWhCVlRlYnIyRFRodFBNVjk1N2FCTjRSZWZSVWhVVWtCQUMzYkZkdw?oc=5) (Thu, 08 Oct 2026 01:00:00 GMT)
-- [North Dakota Lenders Report Faster Settlement With State Bank’s Stablecoin - PYMNTS.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnl5U0Fway1EdmVuTGMtdkgwTmlFVnh0OWphVGhXWHZycEhGY0xUNm8xNm9HMTJRYW1lZEc1bmUydEVxcC1KbURKczZreUZYLWpPU0FlX25Ld1BWMTRySHBlMGRsc29MUV8tcnYxSDVBQUlsNjdja3dISG5ZajNXMXdXazVsTHhsS0FYTlc3VkdIU2lBT2ltcENrNjEwMTdqYXFiOG5VSHBldkFqUjNjeWJVVQ?oc=5) (Thu, 08 Oct 2026 00:49:53 GMT)
+- [XRPL’s $1.34 billion stablecoin base doesn’t tell us how much XRP users need - CryptoSlate](https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3R2ZXRoS3pwdnE5UlBHbWMzVWNUYktBanFmRGFiSC1ad29GcTZRdndRNW52TFRGbzFqME84Z2p5R0tLeUtUeE9HRS1aR1duV2JWMWh0VTBYdXhZWFhGZzRicVlFNExYT3R6bDZtYWJLNmxvUHlpdl96b0NLUXgxLU9Wd2VyMG5Xbk9SZ1FJbEY1UVRXYW9sTjFuN2tJQ2c?oc=5) (Fri, 09 Oct 2026 01:00:56 GMT)
+- [Solana Price Forecast After Samsung Stablecoin Partnership With SOL - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhZS1DYjRNeDBmVFlWbUhMdGswRFlFLTZVNTY5QWlQazlzNjdXUzYtdmlVTWQ0U2x0SC1qS1VSUGc0d3dtTFBmWlgwY000bUlQOUJKczNla0dPaVdjR0FNeTZrONIBY0FVX3lxTFBhZS1DYjRNeDBmVFlWbUhMdGswRFlFLTZVNTY5QWlQazlzNjdXUzYtdmlVTWQ0U2x0SC1qS1VSUGc0d3dtTFBmWlgwY000bUlQOUJKczNla0dPaVdjR0FNeTZrOA?oc=5) (Fri, 09 Oct 2026 00:21:30 GMT)
+- [Anyflo emerges from stealth to simplify stablecoin payments for enterprises - Finextra Research](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYUNSM01wRS1fX3MyNWRGZzU3SjBGM0R1aWtTSEItMjZLQWxodXdXR0xCMlJ0ZkphVm9NY0ZZR1dzTjNGMlNOaW41aWhlVnJpUDZyemYtSjk3OUVVbnZZNm9yRXVQazhkSWZ3bTNrODFmWnB0X0Z2cG1FZXdHRzUxRjdoUmQyUnZISGQzOGFROURldG5WMnR1aFN3N3huOUl3TV9MSGxjM28yOHd4S0Q0SkFKaWUyX2lHUmc?oc=5) (Thu, 08 Oct 2026 23:34:12 GMT)
+- [JPMorgan Chase (JPM) Puts JLTXX On Ethereum As Stablecoin Reserve Rules Near - Simply Wall Street](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXo5UTlXVW5HYVhQNVdpT3pWQW44VUZDcUpyT3NJQU9DMmV1MWVzdkM0Q2VXTW5nNTlMQjVlT0t3NjJYcF9nLXZndkxYTXFUUGtnTldya2pzTldQeE9qbmpTOVktcnpLSFlKOWhkcmJydmFWR3pVWWRGNW9BVTlLZ1h1NFZMdDZ0bHFsZGF4ZGdveWw1cFJkc01YcUxkZU5QMjgxZ1RoczFBY3VWX2RYeDhGVzhmMi1GSzZLbXFlNGpFbWV5WnfSAcsBQVVfeXFMUFV6YVA1RVZWSzBmZ3NDTlNHc2NqYWplUmNWU1NYQzVWWGJMRkdXMmNNcF9TMW93dmF4dFpsRDdzQlR0Q1NIeDg0R0J5eFpxcEp1RkNRRlJHOGpvWFlkdXhoaGtkb2ttVnYyckNZbkNaSWVqbDZIaDViYXdjcy1YMUY4VlZGSzNDdWhKZGxyLXZtVC1lOW90RVhYdkxGV0lERm5DcXRsU1ExSDFoajFnOUU4aUU0LTd3cnV5X2d4TmNUeFZ0ancxSlVwdVE?oc=5) (Thu, 08 Oct 2026 22:38:35 GMT)
+- [Visa (V) Stock May Be 13% Undervalued On Stablecoin Settlement Push - Yahoo Finance](https://news.google.com/rss/articles/CBMijAFBVV95cUxQeXRrQkNMb0UyZGhZa3U0bUlTTGZuRmJkdmpNb25iTTE1d1ItMy02WHd0ZkpXY3VzaS1ZMXAwYU9RT1BXdkJ5VjNEb2pxU3FWNjdKTmtSVzZHenliVTV4V014LTJ3SmNRUjNfTXZUZURPY0w2anNTUVFjelFnUVllNVdZbnhiMXpOcXJ6Sg?oc=5) (Thu, 08 Oct 2026 22:12:47 GMT)
 
 <!-- END_dashboard -->
 
