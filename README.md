@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-09 03:50:27 (UTC)*
+*Last Updated: 2026-10-10 03:33:58 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$291,435,122,426** | 🔴 -0.25% | 🔴 -0.17% |
+| **$291,058,491,816** | 🔴 -0.13% | 🔴 -0.39% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [XRPL’s $1.34 billion stablecoin base doesn’t tell us how much XRP users need - CryptoSlate](https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3R2ZXRoS3pwdnE5UlBHbWMzVWNUYktBanFmRGFiSC1ad29GcTZRdndRNW52TFRGbzFqME84Z2p5R0tLeUtUeE9HRS1aR1duV2JWMWh0VTBYdXhZWFhGZzRicVlFNExYT3R6bDZtYWJLNmxvUHlpdl96b0NLUXgxLU9Wd2VyMG5Xbk9SZ1FJbEY1UVRXYW9sTjFuN2tJQ2c?oc=5) (Fri, 09 Oct 2026 01:00:56 GMT)
-- [Solana Price Forecast After Samsung Stablecoin Partnership With SOL - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhZS1DYjRNeDBmVFlWbUhMdGswRFlFLTZVNTY5QWlQazlzNjdXUzYtdmlVTWQ0U2x0SC1qS1VSUGc0d3dtTFBmWlgwY000bUlQOUJKczNla0dPaVdjR0FNeTZrONIBY0FVX3lxTFBhZS1DYjRNeDBmVFlWbUhMdGswRFlFLTZVNTY5QWlQazlzNjdXUzYtdmlVTWQ0U2x0SC1qS1VSUGc0d3dtTFBmWlgwY000bUlQOUJKczNla0dPaVdjR0FNeTZrOA?oc=5) (Fri, 09 Oct 2026 00:21:30 GMT)
-- [Anyflo emerges from stealth to simplify stablecoin payments for enterprises - Finextra Research](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYUNSM01wRS1fX3MyNWRGZzU3SjBGM0R1aWtTSEItMjZLQWxodXdXR0xCMlJ0ZkphVm9NY0ZZR1dzTjNGMlNOaW41aWhlVnJpUDZyemYtSjk3OUVVbnZZNm9yRXVQazhkSWZ3bTNrODFmWnB0X0Z2cG1FZXdHRzUxRjdoUmQyUnZISGQzOGFROURldG5WMnR1aFN3N3huOUl3TV9MSGxjM28yOHd4S0Q0SkFKaWUyX2lHUmc?oc=5) (Thu, 08 Oct 2026 23:34:12 GMT)
-- [JPMorgan Chase (JPM) Puts JLTXX On Ethereum As Stablecoin Reserve Rules Near - Simply Wall Street](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXo5UTlXVW5HYVhQNVdpT3pWQW44VUZDcUpyT3NJQU9DMmV1MWVzdkM0Q2VXTW5nNTlMQjVlT0t3NjJYcF9nLXZndkxYTXFUUGtnTldya2pzTldQeE9qbmpTOVktcnpLSFlKOWhkcmJydmFWR3pVWWRGNW9BVTlLZ1h1NFZMdDZ0bHFsZGF4ZGdveWw1cFJkc01YcUxkZU5QMjgxZ1RoczFBY3VWX2RYeDhGVzhmMi1GSzZLbXFlNGpFbWV5WnfSAcsBQVVfeXFMUFV6YVA1RVZWSzBmZ3NDTlNHc2NqYWplUmNWU1NYQzVWWGJMRkdXMmNNcF9TMW93dmF4dFpsRDdzQlR0Q1NIeDg0R0J5eFpxcEp1RkNRRlJHOGpvWFlkdXhoaGtkb2ttVnYyckNZbkNaSWVqbDZIaDViYXdjcy1YMUY4VlZGSzNDdWhKZGxyLXZtVC1lOW90RVhYdkxGV0lERm5DcXRsU1ExSDFoajFnOUU4aUU0LTd3cnV5X2d4TmNUeFZ0ancxSlVwdVE?oc=5) (Thu, 08 Oct 2026 22:38:35 GMT)
-- [Visa (V) Stock May Be 13% Undervalued On Stablecoin Settlement Push - Yahoo Finance](https://news.google.com/rss/articles/CBMijAFBVV95cUxQeXRrQkNMb0UyZGhZa3U0bUlTTGZuRmJkdmpNb25iTTE1d1ItMy02WHd0ZkpXY3VzaS1ZMXAwYU9RT1BXdkJ5VjNEb2pxU3FWNjdKTmtSVzZHenliVTV4V014LTJ3SmNRUjNfTXZUZURPY0w2anNTUVFjelFnUVllNVdZbnhiMXpOcXJ6Sg?oc=5) (Thu, 08 Oct 2026 22:12:47 GMT)
+- [Circle Stock And 3 Plays On Regulated Stablecoin Payments - Simply Wall Street](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNnJhYTdzcUx4emRlUUJqNGtaQmY5TkN2aWdMdzlrUlNyYXVZQVQ3MHl6cHV6TTQxclFRaGRiM2E5NnU5MEJWVGZsTTlNQkR5VXRVQ1U4ajc0ZWg0Vlp0SEt2WTNEdENaUkpQSlpvalZYcjE2emdxc0c3dnpOWHBpMUdpSHBEbG1rRWs1dmV2bGhEZnI1RFY2Y1ZHcGJXWWpOX0xBVEN0Z2FDX0lRR0VSNzNmeldEcXg0N1JaMTRQYmc2TVhRYmJrUVVWY01XRS05SHVWa9IB2gFBVV95cUxQelBmbnI1R0VWeUE3dmFkdVJxb0E0MllmekdEUzJsdlF1QkZ5NnlqZnIzcm1DM0o1VXpMQW0xNzljSk5RbjZMLU1VU1M0ek1hUXBDZElUUTVuQ2hxcFdZVy1oc2ttVENiQnhYeV9hYUZ0LXF2TjVJb2luanVsdWYzV1N1Tk5vZjdQbDlvSVg5b3RDbkdQNGZpRUc0SnN4cUJCQmNLM05wSHhQcUlDNFVxUFJ5aVMyN1BWR25IaW52QzM5YXZWeEtCWU00U2k1U1NNakloYTJBWWtvUQ?oc=5) (Fri, 09 Oct 2026 21:52:32 GMT)
+- [7 Things Credit Unions Need to Know About NCUA&#x27;s New Stablecoin Reporting Proposal - CUTimes](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUFNIaklzZ3RvLWFtN2RPWm9acWNhRzltQ011RTMxY1Foa0M4ZDlfNVZCd1k4TUw5ZUtTdmlFbXpiSmkzeGZ6cXlLeGhqV0lySnU3SFhMeHIybU1RNENQLTJPLXNRc0VTeFF4RHVRVEhGRE5zOHZvMU9oRkROczZJaU5kVy1wWldrS1h1YnRBVjJMYWFwSFUxSW91UnAzcDJOekFSQlhDYkhxNDZDSXFEZkNMbFBRNi1y?oc=5) (Fri, 09 Oct 2026 20:56:10 GMT)
+- [Stablecoins meet the back office - Axios](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSW5Nb3dLXzhjeWZTbUZiWVhtX1BZNDRXVHRNWkp6X3RaNXhDYmZRUUkxVWtJVkhqaVpsNnN5alNEdmYwdlQycm1wTnNxbGppZHg4WWJwdmVvT1hrRmdBRWxmWlg5R05mWjJMa2dQLTNlRDRQZ2NTSUZrVW1yTnZ4b3ctX29oSGFtcmxVaFdOaw?oc=5) (Fri, 09 Oct 2026 19:55:15 GMT)
+- [NCUA Proposes 26 Stablecoin Account Codes, Extending GENIUS Act Reporting to Credit Unions - Forkast News](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMzUwSnFnQnI0U0F5YXlrOGpmWXFTMjJkTzJWU2hzM0JrbVZlVzJBeHhoRXJrSG03Um1KSy1OSFlxQk9wRW9ucnFRV2lnRkZ2ZmdQR0MyU0RKUTRPcUc5bHJqSy1lN2xXY3Z0OEdoQmxucDlVVnhraDFZSHdpVC1sWnR1blZFdjNfU3dkd3VKWTBydWZtQ3BHTl9wbkc0MjE0NWg3X2JuT3ZxcHN2OEktNw?oc=5) (Fri, 09 Oct 2026 19:17:50 GMT)
+- [NCUA Proposes 26 Stablecoin Account Codes, Extending GENIUS Act Reporting to Credit Unions - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdVJ4VXdHeTczcmlSU210V1VxbGcwaDNscXFCZ3A1TGUtRTRUaE40TE1VU2tPNEVVbnRuT3Q2RXZMd3BIYW5MN05ibXlUdmRtR1lXX2phUnZyRDJnbGR2QUlXUTZadW9ZeFhQWHc0RkhKZk9hUkFpRlVzaVNkWWVvVmkzd2dwWjB1RFBEa01iZ29XQ3JIc1JQY0NCZ09jMEE0cWc?oc=5) (Fri, 09 Oct 2026 19:17:50 GMT)
 
 <!-- END_dashboard -->
 
