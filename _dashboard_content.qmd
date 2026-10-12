@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-11 03:06:57 (UTC)*
+*Last Updated: 2026-10-12 03:30:11 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$291,076,742,573** | 🟢 +0.01% | 🔴 -0.42% |
+| **$291,106,046,665** | 🟢 +0.01% | 🔴 -0.47% |
 
 ### 📰 Latest News
+- [Solana: 6.4 percent of stablecoin reserves have gone - CryptoTicker](https://news.google.com/rss/articles/CBMigAFBVV95cUxPUzRQakRqZmRfMWtSVENWem1kaFhBSEk2SDZsczgxZDhTVGYzaFBPUTF3LWFic0tLR2ZsaEZFeFVMbUVDbXYxMm9GQkJiVmxNc083NGxQaDlkQXZCMWx3RS1xdzRWa2gtMlJ1dE85dExlbnpjUnhia0daT2dxRUdmVQ?oc=5) (Sun, 11 Oct 2026 18:32:48 GMT)
+- [OCC’s Stablecoin Trust Bank Charters Violate “Major Questions Doctrine,” ICBA Suit Argues - Fintech Business Weekly &#124; Jason Mikula](https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWE4UWc3NzNIUExUNnYyQS15ME9pNlp5YmNlRU1tclFTSmJBa0J6aloyMk56V2ZMOS1oR2NJYk1qTEdIUUFmdW11MDV4Qk9qNjNTYjFDSnNDNXNvamhsd2hYVHowS3pCbHh5RHpnc08zeUItQlE0cktCdzJVYTE5aGc2b3RabWM?oc=5) (Sun, 11 Oct 2026 13:00:00 GMT)
 - [Trump-linked stablecoin USD1 adds $427 million in a single week - Startup Fortune](https://news.google.com/rss/articles/CBMilAFBVV95cUxNM2RHVVJoMTBkOHItWWV4V1dULWNpa0RYZHAtYjJLUS1NalJ0WUZlLVZPR1VkNF90cmZsZ2RTMWNicmFGRXRqWkprSkFNaGU4UXdwbTc3MjFWWk1yVlBmMUdyZk9kQmZKWi1rT29EMC1xRXJoT1pSQ0Zzdm9XaFN4MDVoaFZYREY1azVVTG1TM05JZnJO?oc=5) (Sat, 10 Oct 2026 18:18:38 GMT)
-- [French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget - Decrypt News](https://news.google.com/rss/articles/CBMickFVX3lxTFA1RzI3YnlwajlIQlkya0ltcVFsSV9sajVzX2VlZE43OUt1WlZWWDFOTXJXMFpPbUlZZVl6d1FSXy1yRjVZVzktUUdoS2U4dE1SQVFwRmFBdUt3eE9xUkRTTVAtZGRCR2YwUWNKN0lfbEltUQ?oc=5) (Sat, 10 Oct 2026 13:01:03 GMT)
-- [Polkadot launched its own stablecoin and traders dumped DOT anyway - Startup Fortune](https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3dYT19kUGlsVkdpeVFzczliV2hURW93bUhLUTFNcjI4X080MVVWWlFzS1dHQTgxYTRLdlA1UzlhM3h5OEFzOUlsS1YwUHlveFRaOGVacndiRDE1X2lWemQ3R3p0ckJBZTFRQkVhM0wxWXBva3ZrM2RWbDBVVEU0M3JfUTJJaEV5c0NvN1NUb1FpYlAta0dQZ1dn?oc=5) (Sat, 10 Oct 2026 09:24:23 GMT)
-- [Coinbase and Gennius Plan ONED Stablecoin Access Through Latin American Banks - The Defiant](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdEF6M2drMFdMbzZYSTZYV2hyN3JNelp2NENWQVNkdEZjUEl4TEdwekJ0bjlMWGQtWGJXN25FZDd1NURxMFJiQlEyQWVUWHlUc1FUempZbkl1TTZ5UktLUFFvZXNFZ1p3d1ZwNHRTbENjeDR3bTNSSVJENUg1Q3NPRUNBQmVDSG5PTlFfeHlPOXFNZ2FXOENyRXNtQnJXQmNsWG9sejhkS0xhSEtzc1g0S1lrODBSRTdLR3FwN2tINUVIYTdWaWc?oc=5) (Sat, 10 Oct 2026 09:07:55 GMT)
-- [BTQ Technologies Will Shield MoonPay Korea’s Stablecoins From Quantum Attacks - Quantum Zeitgeist](https://news.google.com/rss/articles/CBMigwFBVV95cUxQUXJELW5QMkR2WWJWYTR6V0FROTM4UlhPek96MnZFVExMRUFrUVhGaVRRYV9ZSTNlcThaRV8tSG1IUExoMFM0RUdDam5lVlg1MExSczhhSkRjaEdncjNTMEJnVHZMTFFnSEczVmNPc0JCNXczc0Y1QUFRTHJqMjBvdFNVQQ?oc=5) (Sat, 10 Oct 2026 08:32:17 GMT)
+- [French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget - Decrypt](https://news.google.com/rss/articles/CBMickFVX3lxTFA1RzI3YnlwajlIQlkya0ltcVFsSV9sajVzX2VlZE43OUt1WlZWWDFOTXJXMFpPbUlZZVl6d1FSXy1yRjVZVzktUUdoS2U4dE1SQVFwRmFBdUt3eE9xUkRTTVAtZGRCR2YwUWNKN0lfbEltUQ?oc=5) (Sat, 10 Oct 2026 13:01:03 GMT)
+- [BTQ Technologies to Secure MoonPay Korea’s Quantum‑Ready Stablecoin Network - The Globe and Mail](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSmJCdnZteUE2ZzFNX2dQb25uTkotNWZQeHkxdkxKVGtMeWVmaUFvZmhHMUJVWlJLc2lmbDJDT2JBbE5kVFFNZWFYZDRBQnBJcFpTSWY1M3pJODUySERsNXF6MVBDNlE5Ri1HaGZRalF5MWNHQ2k3bHpZZnNROVZQTzlHanM2VHdMZUpoXy1hZklpSXVITUJ0UEZxeDZKNkR2aVVRWnpxZDVTMkFaMVVBV3pnV2tWcmctQ2xXb2Y1eW9ScnlNcjBselJXTU1OWE1ub3NuRU5hTXBBSHN6ZEg1cGdJUFgyWnNGU0xJSUN3?oc=5) (Sat, 10 Oct 2026 12:10:00 GMT)
