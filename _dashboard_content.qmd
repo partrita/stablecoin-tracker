@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-12 03:30:11 (UTC)*
+*Last Updated: 2026-10-13 04:44:23 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$291,106,046,665** | 🟢 +0.01% | 🔴 -0.47% |
+| **$290,899,018,874** | 🔴 -0.07% | 🔴 -0.64% |
 
 ### 📰 Latest News
-- [Solana: 6.4 percent of stablecoin reserves have gone - CryptoTicker](https://news.google.com/rss/articles/CBMigAFBVV95cUxPUzRQakRqZmRfMWtSVENWem1kaFhBSEk2SDZsczgxZDhTVGYzaFBPUTF3LWFic0tLR2ZsaEZFeFVMbUVDbXYxMm9GQkJiVmxNc083NGxQaDlkQXZCMWx3RS1xdzRWa2gtMlJ1dE85dExlbnpjUnhia0daT2dxRUdmVQ?oc=5) (Sun, 11 Oct 2026 18:32:48 GMT)
-- [OCC’s Stablecoin Trust Bank Charters Violate “Major Questions Doctrine,” ICBA Suit Argues - Fintech Business Weekly &#124; Jason Mikula](https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWE4UWc3NzNIUExUNnYyQS15ME9pNlp5YmNlRU1tclFTSmJBa0J6aloyMk56V2ZMOS1oR2NJYk1qTEdIUUFmdW11MDV4Qk9qNjNTYjFDSnNDNXNvamhsd2hYVHowS3pCbHh5RHpnc08zeUItQlE0cktCdzJVYTE5aGc2b3RabWM?oc=5) (Sun, 11 Oct 2026 13:00:00 GMT)
-- [Trump-linked stablecoin USD1 adds $427 million in a single week - Startup Fortune](https://news.google.com/rss/articles/CBMilAFBVV95cUxNM2RHVVJoMTBkOHItWWV4V1dULWNpa0RYZHAtYjJLUS1NalJ0WUZlLVZPR1VkNF90cmZsZ2RTMWNicmFGRXRqWkprSkFNaGU4UXdwbTc3MjFWWk1yVlBmMUdyZk9kQmZKWi1rT29EMC1xRXJoT1pSQ0Zzdm9XaFN4MDVoaFZYREY1azVVTG1TM05JZnJO?oc=5) (Sat, 10 Oct 2026 18:18:38 GMT)
-- [French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget - Decrypt](https://news.google.com/rss/articles/CBMickFVX3lxTFA1RzI3YnlwajlIQlkya0ltcVFsSV9sajVzX2VlZE43OUt1WlZWWDFOTXJXMFpPbUlZZVl6d1FSXy1yRjVZVzktUUdoS2U4dE1SQVFwRmFBdUt3eE9xUkRTTVAtZGRCR2YwUWNKN0lfbEltUQ?oc=5) (Sat, 10 Oct 2026 13:01:03 GMT)
-- [BTQ Technologies to Secure MoonPay Korea’s Quantum‑Ready Stablecoin Network - The Globe and Mail](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSmJCdnZteUE2ZzFNX2dQb25uTkotNWZQeHkxdkxKVGtMeWVmaUFvZmhHMUJVWlJLc2lmbDJDT2JBbE5kVFFNZWFYZDRBQnBJcFpTSWY1M3pJODUySERsNXF6MVBDNlE5Ri1HaGZRalF5MWNHQ2k3bHpZZnNROVZQTzlHanM2VHdMZUpoXy1hZklpSXVITUJ0UEZxeDZKNkR2aVVRWnpxZDVTMkFaMVVBV3pnV2tWcmctQ2xXb2Y1eW9ScnlNcjBselJXTU1OWE1ub3NuRU5hTXBBSHN6ZEg1cGdJUFgyWnNGU0xJSUN3?oc=5) (Sat, 10 Oct 2026 12:10:00 GMT)
+- [Xash’s Kevin Huynh Pitches Stablecoin Issuers on Gold Rewards Instead of Passive Yield - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxPempCVGJWYWtPOVJfbElpZEhRclZwQmZ6NHNKZWFkUnNHSWVEQnZjS2QzX0RtaG1hdFpTMEw0Vm1acVBoTHpQdXIzeWxOdEFqVlc1YnhCS2pZdElrY20teXg1d2N2V2pzQW9SbUJGVzZUU01ZVmc5SWY5NkFBbzNxX3N4MkhBM2NibjAzUkFVTEphQ1BWbjZZNF9XbkFocXpBS3c?oc=5) (Tue, 13 Oct 2026 01:57:00 GMT)
+- [The stablecoin conversation is missing the everyday user - Asian Banking &amp; Finance](https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0J4dE1jcFpKTmVoN3ZVS2NXek5mT2hubUg3aGJyZldhMVAzXzFDOW9vR043TzY2SUo0OF9mYkpnM19naTNPNmFkMjN5Vmp6SlNNdDBzQTE4azN6M1pPYzN0Z1BXemEyQWNfTnFlTHlFSm9OT2FwdFVnTG03Zzh5OGxiTHNfYXYxQlc1UkwxeWFwbmZJclE?oc=5) (Tue, 13 Oct 2026 01:00:00 GMT)
+- [Global watchdog warns the $300 billion stablecoin market could face bank runs even with full reserves - CryptoRank](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkR5ZVdqcS1laFBoeGFHVU5ST0V6MlJqQ1hhb1Nzb0M1b2V2em9JSDlpOURwb1pPWVpvZllfVXBpUU1PRVd1WFRrVkJGdm9ueTIzenM0aDhnaVJNeVM4R0FoeC1vWUxnNjY4cHhfNVpNcUlndkh0bWgtQmJqaFEzMm5PdE1LdE9jc2lfS3RLaGZPeDZ1TmJPMGRTLWtwV2Nfb2ZOT0tKQVJ6UUQ5aW43dHBCbVpMbElqcUxTaXdtV184WGd6eW1QMGk2aUNhaFZocjF2Vg?oc=5) (Mon, 12 Oct 2026 23:02:03 GMT)
+- [Global watchdog warns the $300 billion stablecoin market could face bank runs even with full reserves - CryptoSlate](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdk4zZEw3c0d5VGstVzJFQ3c1VEd0T1F5ZmN0OWZwM1plNXk2dXpNaWpHYXhfbERGdjY3b1ZwYWI5dm5UWjYyMGVUWVBIU2dQQm9EaUg2VXF1akJDRjgyQzFjS09MVmowMlI1ZVdjVXZVWE9UaDVtaGRxLVp0Ry1vT3ZmcGlNWDVzNkNnTGRpTE4xdDJHUmNULUxyMG05azAxbjNpa0I5bFRkOFozWTFFXzZMTDR6bEdzLWJIRHp0RF91RFU?oc=5) (Mon, 12 Oct 2026 22:10:30 GMT)
+- [Stablecoins Have a $10 Million Problem: All That Money Is Going Back to the Bank - PYMNTS.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2xjcnM2MTJEcDhfQTd2Y2tCSmhmOFlndWlKZmZKWC1udVo0LU41VWdKcWlxaGN2SGlKWnoyYkpBZlBOVF9wT1Zmb3NmUUVUNnRWU2Z5SkJwcUprRVQ1cmU0endxNFZOa1FLVlhhaDVUZnJHcXIxV2RmVVpHNDRFRlBXYXFva0pCOTlxVG9ISm5sZWI1TTBoQm5ERFlOZ2VUS0hGOA?oc=5) (Mon, 12 Oct 2026 21:48:35 GMT)
