@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-13 04:44:23 (UTC)*
+*Last Updated: 2026-10-14 02:52:45 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,899,018,874** | 🔴 -0.07% | 🔴 -0.64% |
+| **$291,133,768,637** | 🟢 +0.08% | 🔴 -0.61% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Xash’s Kevin Huynh Pitches Stablecoin Issuers on Gold Rewards Instead of Passive Yield - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxPempCVGJWYWtPOVJfbElpZEhRclZwQmZ6NHNKZWFkUnNHSWVEQnZjS2QzX0RtaG1hdFpTMEw0Vm1acVBoTHpQdXIzeWxOdEFqVlc1YnhCS2pZdElrY20teXg1d2N2V2pzQW9SbUJGVzZUU01ZVmc5SWY5NkFBbzNxX3N4MkhBM2NibjAzUkFVTEphQ1BWbjZZNF9XbkFocXpBS3c?oc=5) (Tue, 13 Oct 2026 01:57:00 GMT)
-- [The stablecoin conversation is missing the everyday user - Asian Banking &amp; Finance](https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0J4dE1jcFpKTmVoN3ZVS2NXek5mT2hubUg3aGJyZldhMVAzXzFDOW9vR043TzY2SUo0OF9mYkpnM19naTNPNmFkMjN5Vmp6SlNNdDBzQTE4azN6M1pPYzN0Z1BXemEyQWNfTnFlTHlFSm9OT2FwdFVnTG03Zzh5OGxiTHNfYXYxQlc1UkwxeWFwbmZJclE?oc=5) (Tue, 13 Oct 2026 01:00:00 GMT)
-- [Global watchdog warns the $300 billion stablecoin market could face bank runs even with full reserves - CryptoRank](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkR5ZVdqcS1laFBoeGFHVU5ST0V6MlJqQ1hhb1Nzb0M1b2V2em9JSDlpOURwb1pPWVpvZllfVXBpUU1PRVd1WFRrVkJGdm9ueTIzenM0aDhnaVJNeVM4R0FoeC1vWUxnNjY4cHhfNVpNcUlndkh0bWgtQmJqaFEzMm5PdE1LdE9jc2lfS3RLaGZPeDZ1TmJPMGRTLWtwV2Nfb2ZOT0tKQVJ6UUQ5aW43dHBCbVpMbElqcUxTaXdtV184WGd6eW1QMGk2aUNhaFZocjF2Vg?oc=5) (Mon, 12 Oct 2026 23:02:03 GMT)
-- [Global watchdog warns the $300 billion stablecoin market could face bank runs even with full reserves - CryptoSlate](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdk4zZEw3c0d5VGstVzJFQ3c1VEd0T1F5ZmN0OWZwM1plNXk2dXpNaWpHYXhfbERGdjY3b1ZwYWI5dm5UWjYyMGVUWVBIU2dQQm9EaUg2VXF1akJDRjgyQzFjS09MVmowMlI1ZVdjVXZVWE9UaDVtaGRxLVp0Ry1vT3ZmcGlNWDVzNkNnTGRpTE4xdDJHUmNULUxyMG05azAxbjNpa0I5bFRkOFozWTFFXzZMTDR6bEdzLWJIRHp0RF91RFU?oc=5) (Mon, 12 Oct 2026 22:10:30 GMT)
-- [Stablecoins Have a $10 Million Problem: All That Money Is Going Back to the Bank - PYMNTS.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2xjcnM2MTJEcDhfQTd2Y2tCSmhmOFlndWlKZmZKWC1udVo0LU41VWdKcWlxaGN2SGlKWnoyYkpBZlBOVF9wT1Zmb3NmUUVUNnRWU2Z5SkJwcUprRVQ1cmU0endxNFZOa1FLVlhhaDVUZnJHcXIxV2RmVVpHNDRFRlBXYXFva0pCOTlxVG9ISm5sZWI1TTBoQm5ERFlOZ2VUS0hGOA?oc=5) (Mon, 12 Oct 2026 21:48:35 GMT)
+- [MiCA Stablecoin Rules Reshape EU Liquidity, 100 Days On - FinanceX Magazine](https://news.google.com/rss/articles/CBMilwFBVV95cUxOcS1VSU1WaEtQekZNME5qWllKV09NU3FodUtVeFJURHF2aXBKUGFlZUlBa3E1RFFNVE5IblBoalFHQUlTRDVuYUQzMnVrakUzVzF3My1PQkJDS0JJaGNBTjBtbjZtdjU2YVlCc0E2M0V6QzBQV3Rqb0prR3Z0dy1mZ3FHclZONTNvRklpSnR5cGdDd1FXWW9n?oc=5) (Wed, 14 Oct 2026 01:05:27 GMT)
+- [Citi’s Fraser Says Enterprises Value Tokenized Deposits Over Stablecoins - PYMNTS.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNR19wSWZ0VlAwZDcwdXV2b001d0FFSHRaMGZGUGVYRG84M09ublU3Yk5ON0RFNjZlRHdiMVBXR3ZIdzN0MnA0bFV0OER6X1piekVNX2xYZy1MV0dJTVpIOUwxVm0zQTBrdXJaZHQzNG1SZF9iNUJ5VXkwcXlPd1BTX1JPREdxUENDUmlPQWpqcV9lUnE0VHgtblZZaU95UUI2Z0NtY0REOFUtUUF5OGxvTTlR?oc=5) (Tue, 13 Oct 2026 23:16:23 GMT)
+- [Stablecore’s Nick Elledge on Making Stablecoins “Feel Like Banking” - Finovate](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHAzeG1LdFZzTGFWMFdHNGdwXzdWdjRISnJkSzNqYjRSQTFXeG1TODR0TnVDSFB4Y1NHbXRHQjM4QjZrbmwwekpHTHJCWThRZm5BUW54WXlkM3N1clVNSFlpMmpfT2tnR2hmWjNZWTdSTzd1ODFOeDR4RWZfalp1NDRWUXFvb2ZHQlc4Z3JzQQ?oc=5) (Tue, 13 Oct 2026 23:09:23 GMT)
+- [SAP and Samsung Shift Stablecoin Battle From Issuance to Distribution - Payments Industry Intelligence](https://news.google.com/rss/articles/CBMilAFBVV95cUxNUzRGb09KU0tKbDBrckVSWEptbUZKX2JfMU5faGxRRWxxUjJONlZmcldMVXhFOWo0TkFzdFFVQlJwS3NYckRQT1k5b2FkanhGMFRQcEcxazFRUVozamJDSDc1UDlLYTNMazM5Y3YyZjM0SkhSNWRZZHNJR3htdzg0dlRCbVozYm9pdWphVXVSLUdFakZU?oc=5) (Tue, 13 Oct 2026 22:07:05 GMT)
+- [Stablecoins Have A Weakness, And New Research Finds Banks &amp; CUs Can Exploit It - CU Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxNRVhXa0IwLWdsWEV3T29tbXVmWEFGZnFXaTQ0OWM4a3Rpc1FrWS1TSlhrUnV2TXJWNEpEVEZraExBWkltWUU1anZkRHBKNFRvYzRJQ0hFSGFNVDhMcVRpN2g4Qk5MV2VjV2wxaTdhN2FqYUVKTEdRTGNpY2w5MW9reDVWVm5LVnM4U2FWN2lPbGIxOVR5U0t0bkNXWXhzVS12M2JYdGdIeXFod0g2UUEyM2d3?oc=5) (Tue, 13 Oct 2026 22:02:06 GMT)
 
 <!-- END_dashboard -->
 
