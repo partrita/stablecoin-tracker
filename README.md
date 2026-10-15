@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-14 02:52:45 (UTC)*
+*Last Updated: 2026-10-15 02:31:43 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$291,133,768,637** | 🟢 +0.08% | 🔴 -0.61% |
+| **$290,509,916,418** | 🔴 -0.21% | 🔴 -0.57% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [MiCA Stablecoin Rules Reshape EU Liquidity, 100 Days On - FinanceX Magazine](https://news.google.com/rss/articles/CBMilwFBVV95cUxOcS1VSU1WaEtQekZNME5qWllKV09NU3FodUtVeFJURHF2aXBKUGFlZUlBa3E1RFFNVE5IblBoalFHQUlTRDVuYUQzMnVrakUzVzF3My1PQkJDS0JJaGNBTjBtbjZtdjU2YVlCc0E2M0V6QzBQV3Rqb0prR3Z0dy1mZ3FHclZONTNvRklpSnR5cGdDd1FXWW9n?oc=5) (Wed, 14 Oct 2026 01:05:27 GMT)
-- [Citi’s Fraser Says Enterprises Value Tokenized Deposits Over Stablecoins - PYMNTS.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNR19wSWZ0VlAwZDcwdXV2b001d0FFSHRaMGZGUGVYRG84M09ublU3Yk5ON0RFNjZlRHdiMVBXR3ZIdzN0MnA0bFV0OER6X1piekVNX2xYZy1MV0dJTVpIOUwxVm0zQTBrdXJaZHQzNG1SZF9iNUJ5VXkwcXlPd1BTX1JPREdxUENDUmlPQWpqcV9lUnE0VHgtblZZaU95UUI2Z0NtY0REOFUtUUF5OGxvTTlR?oc=5) (Tue, 13 Oct 2026 23:16:23 GMT)
-- [Stablecore’s Nick Elledge on Making Stablecoins “Feel Like Banking” - Finovate](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHAzeG1LdFZzTGFWMFdHNGdwXzdWdjRISnJkSzNqYjRSQTFXeG1TODR0TnVDSFB4Y1NHbXRHQjM4QjZrbmwwekpHTHJCWThRZm5BUW54WXlkM3N1clVNSFlpMmpfT2tnR2hmWjNZWTdSTzd1ODFOeDR4RWZfalp1NDRWUXFvb2ZHQlc4Z3JzQQ?oc=5) (Tue, 13 Oct 2026 23:09:23 GMT)
-- [SAP and Samsung Shift Stablecoin Battle From Issuance to Distribution - Payments Industry Intelligence](https://news.google.com/rss/articles/CBMilAFBVV95cUxNUzRGb09KU0tKbDBrckVSWEptbUZKX2JfMU5faGxRRWxxUjJONlZmcldMVXhFOWo0TkFzdFFVQlJwS3NYckRQT1k5b2FkanhGMFRQcEcxazFRUVozamJDSDc1UDlLYTNMazM5Y3YyZjM0SkhSNWRZZHNJR3htdzg0dlRCbVozYm9pdWphVXVSLUdFakZU?oc=5) (Tue, 13 Oct 2026 22:07:05 GMT)
-- [Stablecoins Have A Weakness, And New Research Finds Banks &amp; CUs Can Exploit It - CU Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxNRVhXa0IwLWdsWEV3T29tbXVmWEFGZnFXaTQ0OWM4a3Rpc1FrWS1TSlhrUnV2TXJWNEpEVEZraExBWkltWUU1anZkRHBKNFRvYzRJQ0hFSGFNVDhMcVRpN2g4Qk5MV2VjV2wxaTdhN2FqYUVKTEdRTGNpY2w5MW9reDVWVm5LVnM4U2FWN2lPbGIxOVR5U0t0bkNXWXhzVS12M2JYdGdIeXFod0g2UUEyM2d3?oc=5) (Tue, 13 Oct 2026 22:02:06 GMT)
+- [Stablecoins in Latin America: Why Mexico and Brazil Lead - Ripple](https://news.google.com/rss/articles/CBMigAFBVV95cUxQMVhWTFRKYW15alZZaWZ6UGk1eGllZnhMYkVaRXY0d2tVNXBfUUxZYzFWbWZ5dTVGOUduWm5rbmNRRnhYYzI2a3NZLVhTZktYNkllRGJ0bHRyMG5NUERSVWpjZVdrTnlkcXNGU3U2cnNFd3ZFTUZMUzAzZ0hWSjFITA?oc=5) (Wed, 14 Oct 2026 21:25:11 GMT)
+- [Qivalis: EMI licence for a euro stablecoin - CryptoTicker](https://news.google.com/rss/articles/CBMib0FVX3lxTE9Fb0pSeHNxT0lRUWFreHNZTkpNall3cTMwWEdnV0Fmcm41eVlqLTN4a1ZxXzJZQmNqRkZPcGVMMEhFVlhPM0xlem1yZEtORnpESWFCSFQtazVPdGFySEIxTFFUUHI1eUJOeWllSnNMbw?oc=5) (Wed, 14 Oct 2026 21:21:58 GMT)
+- [FSB outlines AI risks and stablecoin oversight &#124; Inside FinTech &#124; Global law firm - Norton Rose Fulbright](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSkI2ck5iT00wTlBGTm9HWjNrXzRkbVMxZzI5Q3RnWWdYMlFITFlrR1U2SVFlc0RzMTl2cVV2UmVIZWo0QlByOHRxLTN0bHhKZVdvby1qZnhCaGRFdnNJYmRnZGZEWTFlVGkzZXNZam43ZnF5ZXgxWS13ZWtJOUItWnpiX3pPN09SeTJaY3Jsajc4RnVBR1VVcDVsMklrLVBJdDR2SmQzTEN5Q0pzVmd4NFc4TQ?oc=5) (Wed, 14 Oct 2026 21:03:10 GMT)
+- [Stablecoin Firm Qivalis Moves Closer to Issuing Electronic Money Tokens - PYMNTS.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEdUUDZXZFZBcWp3bFU4YS1VbkJ5VEt5LWZacEF6SUo5bEdJWmVwLWdzYUl3TmJBemRyRG1KeWc0T1BlSjR5bjFKc3ZXVW5oZk1NVWhmaU1Ocm15S1N6eHNYLVB0aldIOFM0ZDZDaUpmODNPRWMwS21JSzBKVWlNNUM0Y0hzNG85cGRjUkhWaXhfYlJfeEZkOWxHZmJHZDJwSEp2U1ZJYTBXRFNlOEc3NQ?oc=5) (Wed, 14 Oct 2026 19:43:37 GMT)
+- [France&#x27;s 31.4% stablecoin tax proposal risks driving crypto activity offshore, warns Chainalysis - CoinDesk](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNW43UjByZ0pBWkZucXpEalprQ1ozN0VSOVF1OXRmaFhOQUp5Q2llR3haZHdWcDlIT3A0OUd4cjRGWU1YSUMxSjRHcTRqRUFPZWhRXy1TZVptTS1MVW55OFJpeVdURFFDZEZhM2hOeFBHRE84UXNRSFVJMzVaZUJGWFIwczFUVno3aDZwVGdQMV9Nal85cHZzWTBlaFIzaUc0UnRqWGVmQXFod0c1cG1tUFlyb3h3TV9hRzRSRS1BbDQ?oc=5) (Wed, 14 Oct 2026 19:33:00 GMT)
 
 <!-- END_dashboard -->
 
