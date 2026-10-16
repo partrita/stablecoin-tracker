@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-15 02:31:43 (UTC)*
+*Last Updated: 2026-10-16 02:26:34 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$290,509,916,418** | 🔴 -0.21% | 🔴 -0.57% |
+| **$290,009,164,258** | 🔴 -0.17% | 🔴 -0.49% |
 
 ### 📰 Latest News
-- [Stablecoins in Latin America: Why Mexico and Brazil Lead - Ripple](https://news.google.com/rss/articles/CBMigAFBVV95cUxQMVhWTFRKYW15alZZaWZ6UGk1eGllZnhMYkVaRXY0d2tVNXBfUUxZYzFWbWZ5dTVGOUduWm5rbmNRRnhYYzI2a3NZLVhTZktYNkllRGJ0bHRyMG5NUERSVWpjZVdrTnlkcXNGU3U2cnNFd3ZFTUZMUzAzZ0hWSjFITA?oc=5) (Wed, 14 Oct 2026 21:25:11 GMT)
-- [Qivalis: EMI licence for a euro stablecoin - CryptoTicker](https://news.google.com/rss/articles/CBMib0FVX3lxTE9Fb0pSeHNxT0lRUWFreHNZTkpNall3cTMwWEdnV0Fmcm41eVlqLTN4a1ZxXzJZQmNqRkZPcGVMMEhFVlhPM0xlem1yZEtORnpESWFCSFQtazVPdGFySEIxTFFUUHI1eUJOeWllSnNMbw?oc=5) (Wed, 14 Oct 2026 21:21:58 GMT)
-- [FSB outlines AI risks and stablecoin oversight &#124; Inside FinTech &#124; Global law firm - Norton Rose Fulbright](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSkI2ck5iT00wTlBGTm9HWjNrXzRkbVMxZzI5Q3RnWWdYMlFITFlrR1U2SVFlc0RzMTl2cVV2UmVIZWo0QlByOHRxLTN0bHhKZVdvby1qZnhCaGRFdnNJYmRnZGZEWTFlVGkzZXNZam43ZnF5ZXgxWS13ZWtJOUItWnpiX3pPN09SeTJaY3Jsajc4RnVBR1VVcDVsMklrLVBJdDR2SmQzTEN5Q0pzVmd4NFc4TQ?oc=5) (Wed, 14 Oct 2026 21:03:10 GMT)
-- [Stablecoin Firm Qivalis Moves Closer to Issuing Electronic Money Tokens - PYMNTS.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEdUUDZXZFZBcWp3bFU4YS1VbkJ5VEt5LWZacEF6SUo5bEdJWmVwLWdzYUl3TmJBemRyRG1KeWc0T1BlSjR5bjFKc3ZXVW5oZk1NVWhmaU1Ocm15S1N6eHNYLVB0aldIOFM0ZDZDaUpmODNPRWMwS21JSzBKVWlNNUM0Y0hzNG85cGRjUkhWaXhfYlJfeEZkOWxHZmJHZDJwSEp2U1ZJYTBXRFNlOEc3NQ?oc=5) (Wed, 14 Oct 2026 19:43:37 GMT)
-- [France&#x27;s 31.4% stablecoin tax proposal risks driving crypto activity offshore, warns Chainalysis - CoinDesk](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNW43UjByZ0pBWkZucXpEalprQ1ozN0VSOVF1OXRmaFhOQUp5Q2llR3haZHdWcDlIT3A0OUd4cjRGWU1YSUMxSjRHcTRqRUFPZWhRXy1TZVptTS1MVW55OFJpeVdURFFDZEZhM2hOeFBHRE84UXNRSFVJMzVaZUJGWFIwczFUVno3aDZwVGdQMV9Nal85cHZzWTBlaFIzaUc0UnRqWGVmQXFod0c1cG1tUFlyb3h3TV9hRzRSRS1BbDQ?oc=5) (Wed, 14 Oct 2026 19:33:00 GMT)
+- [Why Liquidity Is the Real Bottleneck in Stablecoin Payments - Fireblocks](https://news.google.com/rss/articles/CBMifEFVX3lxTE8yWVRNX3Jldm8xV3JEbjVsakh4NURabG1DZDhSUEhtZ2VqNkw1dllfV01EV3BZOHI1UGs5aU1Ed2N5V3Y4UTJRMTQ0NlNVRDZObHJjUmN1SWxJNm12aHBMTkpZd1NjeXNCaVlzdmF4NE5FQ0NnS21aNno5dy0?oc=5) (Thu, 15 Oct 2026 21:39:13 GMT)
+- [GetPicks Raises $3M to Bring Stablecoin-Powered Payments to Daily Fantasy Sports - markets.businessinsider.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUjFMUlB1RGZVejE5Z2J3WnFGZGZ1UEZOMzNna1hrWFUzdjFhaE9DMkdTaGhrcjVjdnlHZ1VKZ3JVM05uRlM2TXZxTmxNNzFWMlpyUGlYcFlsODZHZlpUb2c0bTgtRXFMOU9VTjNnbE56ank1T3UtbVBoeGNjR0xWdWhRYzVYRktiNUtod1I4MVJUVTVMbjYtNUhKOElqbjlHTnJBbGZjVUtQQlVGZlMycE5TV3FaMWd3YlYzY0V2M1lveExsSFZrbGxnWGU1dGZTMTltSg?oc=5) (Thu, 15 Oct 2026 21:10:09 GMT)
+- [Stablecoins Move Into Supermarket Checkouts - Abasto, Food and Beverage Industry News](https://news.google.com/rss/articles/CBMifkFVX3lxTE1SVjlJQ0w0RWYwOGRPdDh6b1ZLNUlkS3ZGYUo3NVhDakh4cmZUTVJaUHRwVVpNeU9naTFUb2dMdDZEUGF5OGd0TENjeC1LQ3ZuSHF1X0Q3X2tvOWsyZEJaNk85R1A0WlR3eWw2cTh4N0JzYUhybzMzX2hZQ08xUQ?oc=5) (Thu, 15 Oct 2026 21:01:29 GMT)
+- [Getting Money Back Could Be Stablecoins’ Next Big Selling Point - PYMNTS.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNSmJ5ZzE3cElxeWlpYVRPNTdxVzUtMk5ITDg5THZuMG5YZVF2RlB0a0YtV1hSQzBiV0xzRW5KSVJhYlU0NmY2M21EdU5jV0p5UUJOWEdrUExnSjU2NjlWeDNNUTIwUy15a1hBY2NwRTRyLWIybWR3UkxMNmx4OG9KR1d4RnRjWHhCZXl4dkphNi0xdEZNWEI1SUhFNFZLUmZVRE9ybg?oc=5) (Thu, 15 Oct 2026 20:59:28 GMT)
+- [Stripe Teams With Plasma To Unveil Multi-Currency Stablecoin Cards - PYMNTS.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQSDNwSTFaTXRXWGw4bGRMc05UbExJXzExcGlpQWo0SzQzYmIxOWd0ODVOaEpVWDB3SjFGLTU0NVJrTndRZUdLY0xvNDdvRFZPMmpzeFQzUkdEcU9pVUJTTms2cWRGc0ZBV0pYLVlpVzNQNlJzSXlpY0Nha1FCSTVhbWEyMmR2TjdRRjcxOW9ERFkxUy03ZlQ3ZHZxMXRPSmlmQ1ZGMDlod1ZfT29OZzlxVGdkdEp0bkU?oc=5) (Thu, 15 Oct 2026 20:14:30 GMT)
