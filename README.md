@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-17 02:19:02 (UTC)*
+*Last Updated: 2026-10-18 02:19:02 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,683,357,306** | 🔴 -0.11% | 🔴 -0.47% |
+| **$289,575,827,831** | 🔴 -0.04% | 🔴 -0.52% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Marqeta and Coinbase Take Stablecoin Spending Mainstream - PYMNTS.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxPZGV0eDEtSHFQV19mdnNLZDU1bjhSUk55QW5NN014bUdaaFBQRWdTWUFYN1ZPVDB1MllLQmRUZEFVV045SWMwa0F6akh4bXJvU2cxNzVpSDR2cGczemI1VmlkSnRIcVB5bmw4emhOOXRtM1cwc1VncDBwc09oZkw3M0RzTEdJclJDbksyMGg3ekpJa1FFbzYyb0txUU4?oc=5) (Fri, 16 Oct 2026 22:40:02 GMT)
-- [Japan’s three big banks complete joint stablecoin trial for cross-border payments - Trade Finance Global](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHktR2lPaDc0LXU0Z3dSMkRkVmxCaXhudC1BVHV0S0JINVEzQkdxYThfX2VmMWQwNXFjOEJhR1hVLUpxS2ppb0VZa2ZwakVvR0xxdlRWUlhGN0xiQmZUaWk2OVhVYURiZThmQzI0RkxLbWM4NkphNEpYWk1MdTNmNFJuU2JBTUlaaDVINGRWRlBaUWRDeHo3VEdBczRjMjVmSzF2dUFUR1AtT0tqTVpFMThVaUFkQndMRXhQNVRNMA?oc=5) (Fri, 16 Oct 2026 20:12:01 GMT)
-- [Visa (V) Could Be 64% Overvalued As Stablecoin Rollout Tests Valuation - Simply Wall Street](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNkhVSnRKYlYxV3RhZ3FtaWtQaWo3cWFpSTZaTDRnTkxPN1JoaEVpWlF0NzZZcEMzLV93Yjg4RkxCZXJEMHI4NnBpdnpkYzUzeUlxYTdXWDlFWHVQR25uV2xvenppRlRxdUZ4QXBTVk1GUm85QnAyLTNmMW9Xa2xZTzViMHphbVlUTVYtcGk0WVdxcXVRWk1Xd1ZGSnJwd25MaEJvalVXMUdVMGJZcHZyX1hJZEVjYXFCUTlabGVWaWV5dG5NMDE5SFZBWWJXS2g4UXfSAdIBQVVfeXFMTzZIVUp0SmJWMVd0YWdxbWlrUGlqN3FhaUk2Wkw0Z05MTzdSaGhFaVpRdDc2WXBDMy1fd2I4OEZMQmVyRDByODZwaXZ6ZGM1M3lJcWE3V1g5RVh1UEdubldsb3p6aUZUcXVGeEFwU1ZNRlJvOUJwMi0zZjFvV2tsWU81YjB6YW1ZVE1WLXBpNFlXcXF1UVpNV3dWRkpycHduTGhCb2pVVzFHVTBiWXB2cl9YSWRFY2FxQlE5WmxlVmlleXRuTTAxOUhWQVliV0toOFF3?oc=5) (Fri, 16 Oct 2026 19:39:09 GMT)
-- [Stablecoins Take Aim at Cash Locked in Prefunding - PYMNTS.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUDZUT3BvTVRfLWN1RDdqSk0weU96NXRWcm5SYkprUERnVjJEQ1BEMWctSHlWSlA2a2xjNVI1OG91TF9jTVhPU3dkbjJqLWJrTTBBVEh0QXNmOGNrc1ZoV1E4NzRiSXN6UXQ3ZVF0SU1QMTF6MnZvR2Mtbk43WnI4cjNCSlM4bGVJbEgxQTB0OUY?oc=5) (Fri, 16 Oct 2026 19:29:31 GMT)
-- [Stablecoin Rails Go Mainstream: Ripple, Kora, FSB Oct 2026 - FinanceX Magazine](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTXhCbHctQkNtS0dmYXh4OGhDMTBKSldZdi0xaDJTZnRGTnJYUUV1VnN6UF9sTkV3cW8ydGZtVlZKdDJMRGpjckpMNVlnaUdLWTZRQ1NOVUgwZ1dKOVFZMl9XZ2kxTFJvb2FnanZmYXFCY1JsRThmMndiZzJCTmdqeEFYTzFIS3VobTI4MFFMQWdRbHdYVkUwbTk5SUFBZGdlcS01N2xMT29kdnc5V0E?oc=5) (Fri, 16 Oct 2026 19:03:40 GMT)
+- [Circle defends USDC economics as stablecoin rivals court its partners with bigger cut - CoinDesk](https://news.google.com/rss/articles/CBMiygFBVV95cUxNQjVkOHY2NE1PVHZRZVEtckFySlVGa3ZWcWhxcG1vblhjekM0VUhYemVwYWRYQzlDTmxoUkNrYUtLd2tsblFJY2UwazBWV0dWZVJxcDVxdWIybDhvc1U2eDlzQ0Z0VGtza1JyQ0taZzBDRjlZR2hMLVZSbXFwTWtDT2tQM094RTgxa1dVSWlXdEh5aGdOQ0tRN0NfVDZZTUFuNXZMZ21KOVMzUE1ndlJ6RXQxVXNDd0E4VC1jV1RzdDBvTXFYZmlyVkRB?oc=5) (Sun, 18 Oct 2026 01:06:00 GMT)
+- [Visa Direct Moves Stablecoin Cross-Border Payments to Commercial Production with Inyo Global - Forkast News](https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0hjZGxJSER2NDFQRElFRDhVV2hidXhnSzhrRHpJcTJGdzJYTTJpZVh2REw4bXhxbGx4RXB6dDdXOGdUM1p4Rk9RMEZMWDZWMjlRdlJNZWpoZ1l3VzBGem9DVlF5bUU5UmFTYnhCRjBfZzM2Y1hfajRJSkNtaVBMTEIyZHAzXzdVNjltcy1ndFdjOTVMR1BHNjhhVFQ2b0gyeGs4djhCSEZYZld3czIxdVFvRXA?oc=5) (Sat, 17 Oct 2026 21:12:39 GMT)
+- [Visa Direct Moves Stablecoin Cross-Border Payments to Commercial Production with Inyo Global - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWU1hdEtGczliY0NOLS02bzNnVVNBNFFXTHpDRkZkSjdCaXlsTnBlV1FjRU5JNXFSZk1BRjBOQV9USXYzeGQyU0tmQ3ppTUpDZVhlbGlVNC1WUWplQVI3eDV3UlNvY2F0cEo1c2RUdjZnemhRcGFObDBYZGphMXhQMURVUERwaXoyaVBNWk1ESVpQUmxIbjFTaENHdjFuZjlN?oc=5) (Sat, 17 Oct 2026 21:12:39 GMT)
+- [French Assembly Backs Tax on Crypto-to-Stablecoin Swaps by One Vote - The Defiant](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUHNlRURPVjJQMzFkc3gwMGZmMHlBd3lBQjVIMUJvcTFWbU1ld2ZVQ2ZQNzduWEF0SDExQXgzVmNLUmFXc1g1eDlOa3gydXEyWVdZejhsSEhQeGRnTkc4VC1Vb3BpbkktNnhDQ2dOZm1wQ3F1RXRZR3RONklOZWRGbnVqS3hoUEgxWnF2VFczU01wRFh5WW5ONC12N2RlN21VUU05eXA3RHY?oc=5) (Sat, 17 Oct 2026 20:44:46 GMT)
+- [How Megabank Stablecoin Pilot At TISI (TSE:3626) Has Changed Its Investment Story - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzFRTmk5dWlCVm9PdFpteGl4TWxqSWt0dmlyemVLS18yUVNYa1g0OElETi1aYlNzWGpObWFjaEVzUUpwWTk3NzVjNkVheHFKLVlWQmZPYzh4LTRRVHR4MXQ5aHJHUWc1S1NWYV83R3JZMEdVLWpQbnlCZnVaajdrMUpNWlVpZmxVUUo0Vk5NRTRzN3BaM2E5Z1dYS1g4Y0li?oc=5) (Sat, 17 Oct 2026 19:15:23 GMT)
 
 <!-- END_dashboard -->
 
