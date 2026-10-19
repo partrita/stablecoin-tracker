@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-18 02:19:02 (UTC)*
+*Last Updated: 2026-10-19 02:34:16 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,575,827,831** | 🔴 -0.04% | 🔴 -0.52% |
+| **$289,672,174,634** | 🟢 +0.03% | 🔴 -0.49% |
 
 ### 📰 Latest News
-- [Circle defends USDC economics as stablecoin rivals court its partners with bigger cut - CoinDesk](https://news.google.com/rss/articles/CBMiygFBVV95cUxNQjVkOHY2NE1PVHZRZVEtckFySlVGa3ZWcWhxcG1vblhjekM0VUhYemVwYWRYQzlDTmxoUkNrYUtLd2tsblFJY2UwazBWV0dWZVJxcDVxdWIybDhvc1U2eDlzQ0Z0VGtza1JyQ0taZzBDRjlZR2hMLVZSbXFwTWtDT2tQM094RTgxa1dVSWlXdEh5aGdOQ0tRN0NfVDZZTUFuNXZMZ21KOVMzUE1ndlJ6RXQxVXNDd0E4VC1jV1RzdDBvTXFYZmlyVkRB?oc=5) (Sun, 18 Oct 2026 01:06:00 GMT)
-- [Visa Direct Moves Stablecoin Cross-Border Payments to Commercial Production with Inyo Global - Forkast News](https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0hjZGxJSER2NDFQRElFRDhVV2hidXhnSzhrRHpJcTJGdzJYTTJpZVh2REw4bXhxbGx4RXB6dDdXOGdUM1p4Rk9RMEZMWDZWMjlRdlJNZWpoZ1l3VzBGem9DVlF5bUU5UmFTYnhCRjBfZzM2Y1hfajRJSkNtaVBMTEIyZHAzXzdVNjltcy1ndFdjOTVMR1BHNjhhVFQ2b0gyeGs4djhCSEZYZld3czIxdVFvRXA?oc=5) (Sat, 17 Oct 2026 21:12:39 GMT)
-- [Visa Direct Moves Stablecoin Cross-Border Payments to Commercial Production with Inyo Global - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWU1hdEtGczliY0NOLS02bzNnVVNBNFFXTHpDRkZkSjdCaXlsTnBlV1FjRU5JNXFSZk1BRjBOQV9USXYzeGQyU0tmQ3ppTUpDZVhlbGlVNC1WUWplQVI3eDV3UlNvY2F0cEo1c2RUdjZnemhRcGFObDBYZGphMXhQMURVUERwaXoyaVBNWk1ESVpQUmxIbjFTaENHdjFuZjlN?oc=5) (Sat, 17 Oct 2026 21:12:39 GMT)
-- [French Assembly Backs Tax on Crypto-to-Stablecoin Swaps by One Vote - The Defiant](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUHNlRURPVjJQMzFkc3gwMGZmMHlBd3lBQjVIMUJvcTFWbU1ld2ZVQ2ZQNzduWEF0SDExQXgzVmNLUmFXc1g1eDlOa3gydXEyWVdZejhsSEhQeGRnTkc4VC1Vb3BpbkktNnhDQ2dOZm1wQ3F1RXRZR3RONklOZWRGbnVqS3hoUEgxWnF2VFczU01wRFh5WW5ONC12N2RlN21VUU05eXA3RHY?oc=5) (Sat, 17 Oct 2026 20:44:46 GMT)
-- [How Megabank Stablecoin Pilot At TISI (TSE:3626) Has Changed Its Investment Story - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzFRTmk5dWlCVm9PdFpteGl4TWxqSWt0dmlyemVLS18yUVNYa1g0OElETi1aYlNzWGpObWFjaEVzUUpwWTk3NzVjNkVheHFKLVlWQmZPYzh4LTRRVHR4MXQ5aHJHUWc1S1NWYV83R3JZMEdVLWpQbnlCZnVaajdrMUpNWlVpZmxVUUo0Vk5NRTRzN3BaM2E5Z1dYS1g4Y0li?oc=5) (Sat, 17 Oct 2026 19:15:23 GMT)
+- [Stablecoin Payments Jump 45% to $482B as Visa, Mastercard, Stripe Connect Crypto to Cash: 5 outlets compared - NewsCord](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcGlibjRwRzU3a3k4d1JnNVpUT3JlNnhDa0JrTlN0U1lQeG1mOEdtdFhLRW03djdpNkVWcWJmbnk5UmJ0OGc0bGU0SnAtWllLdjNXRjdyM3JiUmY2cDNKNzkzX2h1bXdpaHBvQjQ5TnRPTXpDdlIxVW9qQlM5bVhkQm5kR2xBR1NQdDBkQzRCY25wR3JmUm0ybHI4T2VIX2RjeEVfcVdNZkRodmxVbHFtaHJrelNjNXU5N0VoUU12X2VyQXRtRXQzZmd3a2M2NUlxay0xWmY1VnAtZEYyeEZuRDdsdF9VZ2Zm?oc=5) (Sun, 18 Oct 2026 23:55:43 GMT)
+- [Higher bank deposit rates are linked to slower stablecoin growth, a BIS study finds - Digital Watch Observatory](https://news.google.com/rss/articles/CBMicEFVX3lxTE10a3AwX0NScmk3UU9FWEtKdHVDeXZKTDhUWFZnczg4bWkzV19mZHVPVWtNeDRHWTdzeDJrWlkwUDhKazZ5emxYM1BIV1ExbVUzLUw3RWhGdzBZQi1QV0VmSXZzRVY2blJ3bmVQTlRnVEQ?oc=5) (Sun, 18 Oct 2026 17:12:10 GMT)
+- [Audit a Stablecoin’s Reserves: 12 Steps, 90 Min &#91;2026&#93; - shattered.io](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RY3ZScTl1VWp2S0ZQTmFEZENRWHAwZFdxaHRUaGxFUW10dnRPaU5iMHRfdy1WYXctV0RMbWpMVXZTUEo3TFBCdTVtVnNVOTVOZVhXWklRYUY5T3ZjWkE3M1N3?oc=5) (Sun, 18 Oct 2026 17:00:26 GMT)
+- [France advances tax proposal on crypto-to-stablecoin swaps - Digital Watch Observatory](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RVXJ3WmpodkZXUkcwc0tkUlA3NkRIU0x3MzBYbEMyazRpUHpLYnZVX0xpdUc4NFZwU3BjMHlveFRkSWJTYkhTLXBzWlBaZnhaN1c1VUkxNEhFMWFVNVlfUl9HbkhCRVk?oc=5) (Sun, 18 Oct 2026 16:10:11 GMT)
+- [Two Aave stablecoin backstops shrank $12.4 million as reward rates rose - CryptoSlate](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVRJaTZZLVY0NGV6WVQyM3ozcUVpRG5tVG1TOU50b2RPQUx0Vk5kNkoyWnJTU1FtdWg0ZjFUNGVuQUJBdDVEVE9RMFZiU3NwVVU4UXBsOHoxNi0xVk1hUnJTWTFWdE9SOVN4Y1c3cVY0Nm9OT3djQzVVSlAzMTlWNzVjekZ2dUNId1c4dmhGVnhBaU1ITVRRWjNUYw?oc=5) (Sun, 18 Oct 2026 16:00:22 GMT)
