@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-19 02:34:16 (UTC)*
+*Last Updated: 2026-10-20 02:46:42 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$289,672,174,634** | 🟢 +0.03% | 🔴 -0.49% |
+| **$288,611,265,254** | 🔴 -0.37% | 🔴 -0.79% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoin Payments Jump 45% to $482B as Visa, Mastercard, Stripe Connect Crypto to Cash: 5 outlets compared - NewsCord](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcGlibjRwRzU3a3k4d1JnNVpUT3JlNnhDa0JrTlN0U1lQeG1mOEdtdFhLRW03djdpNkVWcWJmbnk5UmJ0OGc0bGU0SnAtWllLdjNXRjdyM3JiUmY2cDNKNzkzX2h1bXdpaHBvQjQ5TnRPTXpDdlIxVW9qQlM5bVhkQm5kR2xBR1NQdDBkQzRCY25wR3JmUm0ybHI4T2VIX2RjeEVfcVdNZkRodmxVbHFtaHJrelNjNXU5N0VoUU12X2VyQXRtRXQzZmd3a2M2NUlxay0xWmY1VnAtZEYyeEZuRDdsdF9VZ2Zm?oc=5) (Sun, 18 Oct 2026 23:55:43 GMT)
-- [Higher bank deposit rates are linked to slower stablecoin growth, a BIS study finds - Digital Watch Observatory](https://news.google.com/rss/articles/CBMicEFVX3lxTE10a3AwX0NScmk3UU9FWEtKdHVDeXZKTDhUWFZnczg4bWkzV19mZHVPVWtNeDRHWTdzeDJrWlkwUDhKazZ5emxYM1BIV1ExbVUzLUw3RWhGdzBZQi1QV0VmSXZzRVY2blJ3bmVQTlRnVEQ?oc=5) (Sun, 18 Oct 2026 17:12:10 GMT)
-- [Audit a Stablecoin’s Reserves: 12 Steps, 90 Min &#91;2026&#93; - shattered.io](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RY3ZScTl1VWp2S0ZQTmFEZENRWHAwZFdxaHRUaGxFUW10dnRPaU5iMHRfdy1WYXctV0RMbWpMVXZTUEo3TFBCdTVtVnNVOTVOZVhXWklRYUY5T3ZjWkE3M1N3?oc=5) (Sun, 18 Oct 2026 17:00:26 GMT)
-- [France advances tax proposal on crypto-to-stablecoin swaps - Digital Watch Observatory](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RVXJ3WmpodkZXUkcwc0tkUlA3NkRIU0x3MzBYbEMyazRpUHpLYnZVX0xpdUc4NFZwU3BjMHlveFRkSWJTYkhTLXBzWlBaZnhaN1c1VUkxNEhFMWFVNVlfUl9HbkhCRVk?oc=5) (Sun, 18 Oct 2026 16:10:11 GMT)
-- [Two Aave stablecoin backstops shrank $12.4 million as reward rates rose - CryptoSlate](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVRJaTZZLVY0NGV6WVQyM3ozcUVpRG5tVG1TOU50b2RPQUx0Vk5kNkoyWnJTU1FtdWg0ZjFUNGVuQUJBdDVEVE9RMFZiU3NwVVU4UXBsOHoxNi0xVk1hUnJTWTFWdE9SOVN4Y1c3cVY0Nm9OT3djQzVVSlAzMTlWNzVjekZ2dUNId1c4dmhGVnhBaU1ITVRRWjNUYw?oc=5) (Sun, 18 Oct 2026 16:00:22 GMT)
+- [Tether Says Iran-Linked Stablecoin Volumes Fell 94% as It Rebuts Senate Report - Blockhead](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjZYTTFTdEhZTlR3bUs1djNpS1NpeHoxcHVVZkpWbnJMZU13V3Y5OHJTWUotUExSdUh5Rmg0M29TQWFXNmNLSWtpRjJEaVgwZVcyQUhxemFZQm4ybV9RQ2JWYVZNcVdaRFJRZHRYWlhRek9kZHg3dlp3MjBBUVFDNnhJX2ROdXNqdW5ULWl1S2xlRS16SlBzaDVGN3U5Yk5SVkdmT0YxcF9zaXRQQlBPQV9DZjA?oc=5) (Tue, 20 Oct 2026 01:57:12 GMT)
+- [Visa Moves Stablecoin Prefunding for Visa Direct Into Production, With Inyo Global as First Partner - Blockhead](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY1JsTF9acUJKbEVObG1PRkxPbURRM0lrNHZqUDdkWTZ4OGlQZjJFTURwWjlEeS1ZYzdFY1JvTWJ3b3Raa0Q0ZXhSTGlvYzZHSHZXQW1fYi1FdmpqdmNMYWZlTzdGY2tDLUlEZ3dVVE44dnVXU3NTRVdMUEhocUxXSEgzc1hKcmZ6NFQzczVUQlhONlNKdHlHVVlxd3pRMHFwUFpVdnM3XzFmd2p3U2dLRnFvR1lQbEg1bEJwb1kzVFgyZ25yeFBTZmNOb3VyMVU5?oc=5) (Tue, 20 Oct 2026 01:52:12 GMT)
+- [Visa and Mesh Partner to Make Crypto and Stablecoin Balances Spendable at 175M+ Visa Merchant Locations - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFJUZlZxcE91XzlnaEZfeUhGTUMzNlRYZWJqSDM3U3J4clZKZWVnQlF2cFpxaFlHOW1POFI0c2djcHBTZWZOVVJHeXl2SnBLNVlZbmlqTl9SVlFtOGNGT3Q2MVFDQ3NlWUh1d3FDWDRkZ2RRX2VPcExaemFYb3pMc0RuUm1xOVNjSDZ5dUxkX3d2enFzX2lLaTFRRUpMZ1hsOEE?oc=5) (Tue, 20 Oct 2026 01:13:00 GMT)
+- [Best stablecoin yield in 2026: 6 ways to earn on USDT and USDC, ranked by where the money comes from - Crypto News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0VnTWJDS1JKWlBPR21JVlVwQ0lDMmxjdzdkcjVsSHNnSXpKOWstRzJkalhNOUItRHZkR1NsbG50NjM1eDl6ZHdfclo1YjFpNEQ4V3ZBbE1SNzRWcWhCNnhZZ1NGZi1tbmpMM1diS3J3MTRHaTltWHZoQjJVSWl5eVRQRkROLWYyZkZPdzlLU3lKakphS3BjTWZnS1lscjAzVmVmMV9LdnJFMmxyTGNZdHZ4Y3NxVjFvcmtF?oc=5) (Mon, 19 Oct 2026 21:00:00 GMT)
+- [Stablecoins Are Writing the Banks’ Obituary - Brownstone Research](https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1B6cFVnOWVIT1JWODNHaUlTY3Z5WmU2RHZMbnF2alJNV2xra25HZDFoNlB5YV91VzRCWUlVcGN6eVQ4dlExZUFZYV9jbWc5Vm82OXJFanJub3NXTHNUa0NRY1RjMzZ3eWdQeWs1MXduaXlOVDljRWctYTMwYkg1UFpxNGtXTkFvSXQ0OTNCaTBHY2NsQWpZ?oc=5) (Mon, 19 Oct 2026 20:26:20 GMT)
 
 <!-- END_dashboard -->
 
