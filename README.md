@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-21 02:40:35 (UTC)*
+*Last Updated: 2026-10-22 02:38:25 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$288,496,673,898** | 🔴 -0.04% | 🔴 -0.91% |
+| **$288,875,779,328** | 🟢 +0.13% | 🔴 -0.56% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Lead Bank Rolls Out Stablecoin On-Ramps, Off-Ramps and 44-Country FX Payouts - Forkast News](https://news.google.com/rss/articles/CBMingFBVV95cUxOUDNqSEFPcmlKVWphTF9CcWNOQzVCd2RzVkl4R2JrUEdtLS1JM1JUczg3NWJ6cXplTGFycXRNNDhWSVVnc1F6MUV3cEJ5S0U0OHgyWUJoM2xsSjRtVVhjNEV6RnFjT0FWLXNoUEI0dEdvc1R2Tjh4NnpaQUd0MG9ITlE2emk0RjdkUHVBRXJYcHZ0bGZRTzJqY2JXMUkwUQ?oc=5) (Wed, 21 Oct 2026 02:21:00 GMT)
-- [Sh Suhyup Bank Completes Stablecoin Banking PoC - www.thelec.net](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tcVA0aWhJLVhvVDdyN0RCNUVuZ0dyOVA5dTRoODd3TmlDZmc3M3dXeHh2SkJnWklWXzNOY2RNMVNicXFLLXkzdG9WSENaYjlPcHFlUmFXd19RMlZORGhxcG93OHk5UVE?oc=5) (Wed, 21 Oct 2026 00:31:48 GMT)
-- [Injective Collaborates with BDACS to Bring Korea&#x27;s First Won-Backed Stablecoin to Onchain RWAs - TradingView](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV3huYllJN0N3cVdDSWJfR0QwUy16UXJYbFU5b1NQNHhXdk1taWFtSmNMSmRKUjlJNWdmWGtvUGVyeGxaU1VtanRPZzJqd0lKODI0Szd2dnBlcTFVeVozZ3Z2MElVdGw2ZlY4N0RKVklwV1hnTk5kdGVfcENFU0pXcnJQOEc2R2UzdVV1ZXlrd3VkUUZDbkE2dzdhVUFmMUQzeFRDaVUyOXRxdExmRTlNN2FmMm1WWFVQeHJLRHhFcy1nQzFUQ0VTQk1hbnJVbjBpSEx0SjZiYzhpSERBNmpNRmxENy1tZEI3UkIxWQ?oc=5) (Wed, 21 Oct 2026 00:00:00 GMT)
-- [Stablecoin Transfers Hit $891 Billion in Third Quarter: Report - Yahoo Finance](https://news.google.com/rss/articles/CBMiowFBVV95cUxNN2dQYVJRQXdpWWxGX0dOMXlxTVFiU0dGb1ByQ21pOGZISzRYdVctMWdGUjVTcDA1TllMU1hJQ0RKazQ0dTdaR3Z3clJIVUpKbG9qWTJwRTJHaG85aXhPb3R0c3RYWnpqcXhiZlpSNU1NbXhtQkFJb3NDYjBCMS1QUllpckQ1Rmp6NnJvRXhSUW9LWmx4bkdTQ3k4V2pXNWJDSS04?oc=5) (Tue, 20 Oct 2026 22:51:00 GMT)
-- [How Stablecoin Card Issuing At Euronet Worldwide (EEFT) Has Changed Its Investment Story - Simply Wall Street](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQUllMEd1bzl0OUFZeS1wOWQ0bE9wdmV0V0lvUTJKRE0wUEVKVFdvMGJBVGs3YmJtRUhZRVM3UnJ6WHgyMTgyY29QNF82OVJvdDJ5U05wX0RPcGFNZ2JGaHpSRnhLSnZudWRyYXhXaGc3TmMwNjNWVjdEbFRFeW83emh1Z010Z0lxQlJWdTh2SlNLZXhTbEcxaXFMaW9IOEhidWxqTHVLcHpEai04YkpYckFKM3ZsQ1dPSlhqWjVkMHd0aElqci04Q044U0dMc2lYbTJuNnBDTWpsWXlHYjhyRDNkNGnSAeoBQVVfeXFMTmM0cG5oYUhnS3lFeFVablFvRURpaHNhSHlOSTRUSjJpZy1RTGEtR0lvXzM3aF9YRlRjWERSWlUyNXRtY05QeEJ2bjBjcldlS0xYYnVqcWV1LW9SWk5iOGdCbTl1QUlyMlluNmdUZXhjejRJZFFBRXpNTU8yRFBlS2ExU2tNSnZNTWxIT2taa01EUWZjRVkzQURsTFo3MmhhUXJ0aFlocF8wa3NpRWhxbWk0N3RsV1ZVbXJMcWpXQVhBcFhzS3otZnVHOWZFWWJlNGpMSHNBQkpPbVYtc2dNSURJeVI1Rzh2enJ3?oc=5) (Tue, 20 Oct 2026 21:53:56 GMT)
+- [FINANCIAL TECHNOLOGY—OCC finalizes GENIUS Act payment stablecoin rule for 2027 (Oct 21, 2026) - VitalLaw.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTFhmbkpOblZjNjVLcmgzN25tY1ZMM2JfZVl6SkstbWFpMzhaRkgwcUVfYlJCMW1LZEhtb0pLdDZUaEFWY19TVWMxN3pxQVp1YkkzVWx4ZUR2dGFCMjBBay1fTTlQUFhIUURWRVhzUGxqZXZKWjBXRDdHeE5yVjllS0szMWkzUk0zaGt5UGRXNkthVWszYTJ5ZGRpcjltcUtqQ3dUcjFvLUpZbUVYVWszY2c4SU83TTEyaFQzaWZpb0cybTA2SC03WEFORFM2alk1ME5UNkdYWU5PMVpTZlJj?oc=5) (Wed, 21 Oct 2026 20:57:55 GMT)
+- [NEWS: Tether claims 94% drop in Iran-linked stablecoin transactons amid sanctions probe - AML Intelligence](https://news.google.com/rss/articles/CBMixAFBVV95cUxOYU1GclZITWlUc1VZX3hDVzJ0S0V2emFpbGN6ZkpqcDNWODFBQms0c1JpaEYwNUd0WThieDJyNDRwcno2Z1hQZ2xud2hmR25COE9qc3MtNXJZQ0VNTkxscWwzR0o3dUJYSmtRdmhNcjZlOEJocnpSWHJBdk1iVkZjeHJCcG9yTHJaOUFBZG9FLTY0b2dTRFgtUnpuSm5lZlBmdFd4WE5GQWZZbjBFclQ4VFkxX1ZRWFZHVjdGano3Y18yVU1n?oc=5) (Wed, 21 Oct 2026 20:19:58 GMT)
+- [OCC issues final rule on stablecoin framework - Banking Dive](https://news.google.com/rss/articles/CBMinwFBVV95cUxOSlg5bkhITk5JUktEZUFYVWNJb1Z2dFFlLTdfTWQtVXJzSmViUEdNbEVkek8zejF2aVhrRmltOGZ6Q0dnQUdWR3JVNTlFUkNIUkw0enpGem5nZGpQcmdFY2FZU0hHeTdlWVNxY1JUaU00bnNieHUwdm11TWxfRXgtWm1LYmwwTlN6MmtFa1BwXzhqenlfa0Mzdk12X0NGS1k?oc=5) (Wed, 21 Oct 2026 19:09:31 GMT)
+- [OCC issues final rule on stablecoin framework - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxPSWVqYi05NXdaMDNvN0FwX05qbEZfWjUwUC1Yd0RuOHRHaVljR0ZvQTFKZUJfN1V1UmZ5QzBtVDJlZ3RWZ3JWQTZXcGdNV3NnZGlZTzFGdGJMSHBSV011cG5FajF0eVlCU25UbEpPeE9DdUZ2MC1YMU1FLXZ0aVBiUk1RN2RnWFA2enhISjA2Y1l4QXM4d1B3Q1gwMkVFQQ?oc=5) (Wed, 21 Oct 2026 19:05:00 GMT)
+- [Stablecoin transfers hit $891 billion — a 4x jump since 2023 - Yahoo Finance](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkcxdHpSLXRRTFdMOEUwOE02bjdKZEM4OGtwU1JhckJJNWpQWGhqYVFsTkNGM1hlakdoY3BZVThtQ2pHSzJmeTFMVDBlY01DSE5ua19sa1BoUmV4Ml8wR1FwdENNOUNXOXhyV2daWDlRZ0gzaU16WWoxQkctNGJ1V0w3Z0x2Ymo5UGVB?oc=5) (Wed, 21 Oct 2026 19:00:00 GMT)
 
 <!-- END_dashboard -->
 
