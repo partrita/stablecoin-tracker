@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-22 02:38:25 (UTC)*
+*Last Updated: 2026-10-23 02:42:57 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$288,875,779,328** | 🟢 +0.13% | 🔴 -0.56% |
+| **$288,239,414,969** | 🔴 -0.22% | 🔴 -0.61% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [FINANCIAL TECHNOLOGY—OCC finalizes GENIUS Act payment stablecoin rule for 2027 (Oct 21, 2026) - VitalLaw.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTFhmbkpOblZjNjVLcmgzN25tY1ZMM2JfZVl6SkstbWFpMzhaRkgwcUVfYlJCMW1LZEhtb0pLdDZUaEFWY19TVWMxN3pxQVp1YkkzVWx4ZUR2dGFCMjBBay1fTTlQUFhIUURWRVhzUGxqZXZKWjBXRDdHeE5yVjllS0szMWkzUk0zaGt5UGRXNkthVWszYTJ5ZGRpcjltcUtqQ3dUcjFvLUpZbUVYVWszY2c4SU83TTEyaFQzaWZpb0cybTA2SC03WEFORFM2alk1ME5UNkdYWU5PMVpTZlJj?oc=5) (Wed, 21 Oct 2026 20:57:55 GMT)
-- [NEWS: Tether claims 94% drop in Iran-linked stablecoin transactons amid sanctions probe - AML Intelligence](https://news.google.com/rss/articles/CBMixAFBVV95cUxOYU1GclZITWlUc1VZX3hDVzJ0S0V2emFpbGN6ZkpqcDNWODFBQms0c1JpaEYwNUd0WThieDJyNDRwcno2Z1hQZ2xud2hmR25COE9qc3MtNXJZQ0VNTkxscWwzR0o3dUJYSmtRdmhNcjZlOEJocnpSWHJBdk1iVkZjeHJCcG9yTHJaOUFBZG9FLTY0b2dTRFgtUnpuSm5lZlBmdFd4WE5GQWZZbjBFclQ4VFkxX1ZRWFZHVjdGano3Y18yVU1n?oc=5) (Wed, 21 Oct 2026 20:19:58 GMT)
-- [OCC issues final rule on stablecoin framework - Banking Dive](https://news.google.com/rss/articles/CBMinwFBVV95cUxOSlg5bkhITk5JUktEZUFYVWNJb1Z2dFFlLTdfTWQtVXJzSmViUEdNbEVkek8zejF2aVhrRmltOGZ6Q0dnQUdWR3JVNTlFUkNIUkw0enpGem5nZGpQcmdFY2FZU0hHeTdlWVNxY1JUaU00bnNieHUwdm11TWxfRXgtWm1LYmwwTlN6MmtFa1BwXzhqenlfa0Mzdk12X0NGS1k?oc=5) (Wed, 21 Oct 2026 19:09:31 GMT)
-- [OCC issues final rule on stablecoin framework - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxPSWVqYi05NXdaMDNvN0FwX05qbEZfWjUwUC1Yd0RuOHRHaVljR0ZvQTFKZUJfN1V1UmZ5QzBtVDJlZ3RWZ3JWQTZXcGdNV3NnZGlZTzFGdGJMSHBSV011cG5FajF0eVlCU25UbEpPeE9DdUZ2MC1YMU1FLXZ0aVBiUk1RN2RnWFA2enhISjA2Y1l4QXM4d1B3Q1gwMkVFQQ?oc=5) (Wed, 21 Oct 2026 19:05:00 GMT)
-- [Stablecoin transfers hit $891 billion — a 4x jump since 2023 - Yahoo Finance](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkcxdHpSLXRRTFdMOEUwOE02bjdKZEM4OGtwU1JhckJJNWpQWGhqYVFsTkNGM1hlakdoY3BZVThtQ2pHSzJmeTFMVDBlY01DSE5ua19sa1BoUmV4Ml8wR1FwdENNOUNXOXhyV2daWDlRZ0gzaU16WWoxQkctNGJ1V0w3Z0x2Ymo5UGVB?oc=5) (Wed, 21 Oct 2026 19:00:00 GMT)
+- [HSBC RedCoin stablecoin launches for 3.3 million PayMe users in Hong Kong - South China Morning Post](https://news.google.com/rss/articles/CBMixAFBVV95cUxQSXU3dDdnb1dNLUNITkNUX1NCUlVPUnVzZXNlQ0RDWUJ1Y18tQnZpX1FNampjVXRIelIyLWtmQjE4dHMtWkZ3OGRRdmZVcnJnUUdoUnlxS3NGUzUwdzZ0ZVVGRm1zSWVyQVlrVkRzZTFTbk85Y2RTTkJOVjFvM2o1djdYVklhOURDTzZpSTNScjd4WEM0MWhWZ2xXMjlTWmpldl9Fd3llazl5bVJ3SE5VM2h4aVdMNFI4aGRjSFNsd1djUWQz?oc=5) (Thu, 22 Oct 2026 23:00:09 GMT)
+- [Mastercard (MA) Introduced A Stablecoin Security API - Yahoo Finance](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVlsQ1Jvb2oyVEhwN1NKRjBfZVlITzRWUlpIcE1VMXRTRDNNem51dFpuSGl5UFRTc1lUMFBuclY1S09MZEk2LWp1WjRRNDY3VkdFMzFoR0RyWWJpT3pRQnJoSk8zRzVOQkdHVm8xOG52YmVwemU0d3RKTnYycXR0QjJlZEZFemd5blZlWjRNeVM3eHFRcUhpZXVrbTc2elY2cHJpZzljNzQ5UGlPRWc?oc=5) (Thu, 22 Oct 2026 21:13:03 GMT)
+- [Crypto for Advisors: Stablecoins are ready for prime time - CoinDesk](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmlxc2lzSDEwUGxEZXdzeFk0Q3ZMTXY0bjhieUx2a2xGQllrNXZSUXZaSU93emlaSkFNcnlFMjQyeTlOZWpOemlKeEYtWUpFdHhTZVZNRUpkdTA5QWs4NVZuZXBGcGZEMmlDa0Z2eHNGUklEaXl5eWNvbC1KWXpuYVpibHZXOUpWaVNfT0gxQzVPTVpyQlNHVC1YMXdCSmVRekNGSng4LUQ0dWVuM3c?oc=5) (Thu, 22 Oct 2026 20:00:28 GMT)
+- [OCC’s Rules Leave Door Open to Stablecoin Yield - PaymentsJournal](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVldudHVSS09sT1QxU1U3d0U3MTZrTHFfRnFuclpBbWswZ3hTV0lJeFNIeGJfUTlXYS1PNGpkbXowNFNMZlRad3dXTkhZa3lyVElnQWg1eWlPQ1IzN1BsY3NmLV9vSEN3Yi0zR1A2T3Zid19DSnRpSi04NS1RQnR0T0JqRm1nZ9IBiwFBVV95cUxNUmJoZkZwWUtPNmJhZWMwQUdZNV9OeUJLQU1iVjE2b2RBeGdMbnk0aElhMVBsSFh3d3dMYTB2dDRnRlZrTUZZMU9VX1JxRS1fSVl0MVVSYkFYOFZyMDdnVzc4dUEzRFRVVk1IVThZYkt6SnUxeGJSendjY3ZHWkM0T3pmRHJNMnJTOFpJ?oc=5) (Thu, 22 Oct 2026 18:00:00 GMT)
+- [The OCC’s Stablecoin Rule: The Limits of Regulatory Clarity - The American Action Forum](https://news.google.com/rss/articles/CBMirAFBVV95cUxOLXlRWk4xUTVwZHdielJveFY2Y2VmNjJDWG9GSWp0QjZaeV84ZWVrdVh1NWQ3WmVYX0VHR09VeGMtQWdabTMwSXIzY21zeWVkRHI4OFJOcndFWlJYX3duQjJrVVBBYnFtMWYyNnQxMWJGQXVCTXAwRGZ1QWdvRHJ6M21FdUliTXhxTkhlOEh5Tk0yVmZ3bW02VTRUUUpZbzhaUXVTcUNocmVmYkJs?oc=5) (Thu, 22 Oct 2026 14:51:52 GMT)
 
 <!-- END_dashboard -->
 
