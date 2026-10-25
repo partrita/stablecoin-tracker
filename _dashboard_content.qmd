@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-24 02:40:20 (UTC)*
+*Last Updated: 2026-10-25 02:29:13 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$287,804,756,931** | 🔴 -0.15% | 🔴 -0.65% |
+| **$287,657,116,916** | 🔴 -0.05% | 🔴 -0.66% |
 
 ### 📰 Latest News
-- [Money 20/20, AI agents, agentic commerce and stablecoins - Mastercard](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWXpFVmpqSW9aempHNm1fdDV6RjhmT05kMERralFjVkJtN04wLU5jZTlydGxjdS1reE40SC1CWUhjMmF6dU9wZkk0bjZYTWZaai1qQWI1Umh1dXhGTFBxRFIzcEM3U1JtUG9vWVhaUGFHOWpoUjhkQTRDaTRrXzhGWV9aRDVTUFY2TC03UEluTGViRTJScmpPajIweEtnV1NwT3I1UUdR?oc=5) (Sat, 24 Oct 2026 00:08:56 GMT)
-- [HSBC Launches Hong Kong Dollar Stablecoin for Everyday Payments - PYMNTS.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxOckFRb0tPUkFndjBMN1dtQ3I5dzBmWkJHaTU5amVtWTdLWlVKbDkyTnprejhNLW1yU2hFSXE3RmpTdFM5MDlGdEQ5MGR2VnVLZm9pZGh3WVRINFVpM1dDaVpfVU1xdFRJM0FNb3lsQk1FX1JSMERWbXI4WlVsM0VpVzlQRmlpZlNJZFNHd0x6MWRfQ0MxTDdHTlMtWGMycklQTFZiT0pn?oc=5) (Fri, 23 Oct 2026 19:56:58 GMT)
-- [OCC Finalizes Stablecoin Rules That Supervise Issuers Like Banks - Forbes](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDAxV25tY2Eta0JSRGhBNHctMjBRVzJRWTFVcmhwY2hoeGExZXNuMzM0RG9vUi1UR0RORjdzcXFJeXdUVThYQUJpOWdXcGczNGlEdVJXd0NIaEtFUGxTM1NSdUo0OVNaRHdrX3hCZ09YdWxkQkJFN28wM0VDMkdsci1NZnNxWmZWOHNUVVB2Y0o4Tl9RdE5mSGVoZi13aGQ1RHZZQ2llNlk2eTI0NXgzTEJpRlVPcm8?oc=5) (Fri, 23 Oct 2026 18:25:57 GMT)
-- [Coinbase to drop this Japanese yen stablecoin years after its price crash sparked investor lawsuits - CryptoSlate](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOTdpaGRHTzkyaUJSdk5WaGZWckhNdk1KWkR3dUNULTdFOUdmYWZQZ1lXVmxSMlJqRGlqOVF0WFotM2FnRkRDa0k5MkpGeDVoazBiT2FWSU02SG9UZS1yM0QxSUxsd3huQVJvbm9HVXBkbTFPck15NGQ4WllwY3FVZlNjSk1IVjBmX0tZQkE1Q0E2eVVLeGRWckJHSzhpSFBOWnhBSjdyUHNYbTdqZzRzODRxcTZJY1Vqanpjb2dnRlBoZw?oc=5) (Fri, 23 Oct 2026 17:10:05 GMT)
-- [Solidgate Wins MiCA CASP Licence for Its Own Stablecoin Rails - FinanceX Magazine](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjZheW1WLURvdXp1NmFWRlF0WF9icHpXZTE4YWRScnNnYmlvQjBHVGo4WWlXMzVjSnJsSXhIQkdFRjQwM0tFYjA2R3ZrSWlxOEFESVFoUW5fd2hWV2hqdzRPaUdFZXlYRjB0OHE1TFU0MS1KRlB5ZlpCNXVCVnUzSEE1dncxSk1JMi1LWDh2NERGb19fVzVvY3g1bEdhdFpn?oc=5) (Fri, 23 Oct 2026 17:04:57 GMT)
+- [Scott Bessent Calls GENIUS Act a ‘Watershed Moment’ as OCC Sets Stablecoin Rules - CryptoRank](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnhia0JvVDhzLVA4aHpEQkRtODZKUkZxU0ZsNTRVRjdHS1RrUkx5emtsMVVrMzJqYjVVTHVCdjVhWDYtTlVQWFVkMmRtNC0wNkttcUZlR1R2Nm1Ic3dpVHBPT2RfMkFlVE0xRVJwNWFOTUpieFhQeTZkbjFMSXA5U1NXVGhfTTNYZkVXaW0ybk96anRTQzJrNi01VGM2RWVhdWlIZHRsWmRCejFRR0hmdHpDZ2lvVG8?oc=5) (Sat, 24 Oct 2026 22:41:12 GMT)
+- [Reserve Composition and Design in Stablecoin Regulation - orfonline.org](https://news.google.com/rss/articles/CBMimgFBVV95cUxObF95UUtJM1NodkVkNGVjUmV5cW9uZnJsdDdMYjkzTVhlNmFXNzE5NWJxR19mdExJQTg5UXA3cDBNQnJBZEZDVl9vNmI5RGcxZTRxTU5xdVlqQTFxXzRwa250YlNUdnZNTWdfRDlUTmF3M2Zha3pIdFJjT2FydUhKRS0tVWVDNEFUaDZiZ2s3NTluYXVWUm55MEJn?oc=5) (Sat, 24 Oct 2026 18:36:28 GMT)
+- [Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets - Yahoo Finance](https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0VWaFdkR1lTVFRZNjRQS21adDBUeENFUF9QeGN0VS16TDU1UUJGTy1IWVRLUTFLc1JocXRld3pDZ24xZ0s0YUJIdTdsVEh1RkhTWXhxaVFlS3NlaEwyaWs2d3RXMW4zMVg4TWhlNnRTZWwtYnVpT2g2Z25CcEtVdUlYMV9NanEySkVHUVVXS1ExdkRlaUxV?oc=5) (Sat, 24 Oct 2026 13:01:02 GMT)
+- [Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets - Decrypt](https://news.google.com/rss/articles/CBMif0FVX3lxTE4yOGc3dkxtRWRNX2dqRXMxTzFMTlZKdnJWS3Bxb3ZJMllnQjd5YTdVOTFLaExSQUZ3YlJRblNEUEE5VWRZaU5tVUJWWG5sZ3FINm9PYnJyVE1PRDVXTE92bTZEWTRGVUhobC1IZkdPenB0b2l5NmMtLUhISEN4cFE?oc=5) (Sat, 24 Oct 2026 13:01:02 GMT)
+- [Is Stripe&#x27;s New Stablecoin Card a Major Threat to XRP? - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjdTX05LTGhzTk1UaUI0RDdvQXNWaWUtOXgzMlhPOTNOQl9rbkNpWElSVTJURDRWM1BFZVp3YkxpcTVSVTFJaVNQUTNkblVpTnBaVFlOSVdkaGJfWkVoRjA1bklJckFqN2dFTWZxMXZRZHVWUU5TVzJncWtUaGFZS2RnMmRETFBKR0xiYTZqSkswdDl6SUJuTw?oc=5) (Sat, 24 Oct 2026 11:10:00 GMT)
