@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-25 02:29:13 (UTC)*
+*Last Updated: 2026-10-26 02:28:50 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$287,657,116,916** | 🔴 -0.05% | 🔴 -0.66% |
+| **$287,516,167,709** | 🔴 -0.05% | 🔴 -0.74% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
+- [Standard Chartered-led Anchorpoint plans retail stablecoin on public blockchain - South China Morning Post](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeTJ4ZDQxZDFSemN2N0xnVzVvaDA5T3JVQmRfc2NZckJnSWlmUEZyUnZpMkRfY05KTnJpNzB3UkgwRUtaWVh5R1hma1VWTzhCWUFCYnRoQzh6WjZWR25CVzVyMzRVVDg0VVVzUEVobm8xVzN5OVl1ZnpkXzl4WUVIenNySzlxZlVPaWVNWC0xcVBjcnhhR1J4S3hPR29fUmVSQXIxamhMc3A0TDZPMTZ0QmM3UGN0Y3BnRzF4VmpQS1VLODJsVHF6RjJWUVE4b1QycmNWeG9kbknSAdgBQVVfeXFMTW5rbDVaVHE0YjEtSGdObDd2VFhBZWhwVVBEZ3NaSVhhcWJZRm9wRkdLeE1pUFZnZ0JoVEswRWUyNlFORUdZQzVFVlhKWndTd2NkSjBIWk9LRGsyS0RZbDBQaTJlRE5rT3NCZGU0SV81cldtOTRYZmdzUGdQSUktaUJvN1FMbm9SRHk0d1VHSGM1UGRTTl9mMk5rOWJxdG42d2JrMURlTWFGNzZGY3JSSXdvNUplajlqOGowUzJBYzduQWlLM0FJem1MTEptR0R0RmpYMHpRTjNr?oc=5) (Sun, 25 Oct 2026 23:00:15 GMT)
+- [Bank Lobby Presses OCC For Clarity On Stablecoin Rewards After Final Rule - TradingView](https://news.google.com/rss/articles/CBMiywFBVV95cUxOb20tbzM2WFdsY2w4WV9uZkEtWnVfU2hhZkh2UEs1Q05hZjdmbHRNN01TUlplaWZpVnZkUUNEUlNfLVR2N0ctX2VOb2IwR0Z3b0V4dWlwbHpUNm1OOTZ4Qk5VeFRpVEZaRjFMNDdyUW9TUTlQZXZUaVZOYkV0cE1zZ19HR0N6LUY5dzBLX0dlQzZZZnNTRHljNnQ3ajNmNzVBNkVZUnNHTnp4ODlKVTdsNUxtZk43Q21NZzhPSk04YTBhQXJ6ejdqTWNTdw?oc=5) (Sun, 25 Oct 2026 19:00:00 GMT)
+- [‘This Is The Blockbuster Moment’: Credit Union Leaders Warn Of Risks In OCC Stablecoin Rule - CUToday](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaE9rakNSenVVdWduRElWNnp6ckRnRHhLVkVRZ2o4N1JoUU5hb1d3MWp5R3VOUWJsdkpRTG45OTV1Qms0c04wWVdiVWU4LVBpb2REanB1djhFcUl3MzJDY3dSZHNER1BBMWtEcm1nQ2VtVlZONktpWHhqS3VJc05MbVF1Nkg5ejVuT2RDNG5KdEJGVEFUT2FlVGRtNGUyNmdyRGRSS1VpRWp1bHVXcVhmdjhoOFE3TWkzNUZIcEgwb21yc0U?oc=5) (Sun, 25 Oct 2026 12:51:49 GMT)
+- [Reserve Composition and Design in Stablecoin Regulation - orfonline.org](https://news.google.com/rss/articles/CBMimgFBVV95cUxObF95UUtJM1NodkVkNGVjUmV5cW9uZnJsdDdMYjkzTVhlNmFXNzE5NWJxR19mdExJQTg5UXA3cDBNQnJBZEZDVl9vNmI5RGcxZTRxTU5xdVlqQTFxXzRwa250YlNUdnZNTWdfRDlUTmF3M2Zha3pIdFJjT2FydUhKRS0tVWVDNEFUaDZiZ2s3NTluYXVWUm55MEJn?oc=5) (Sun, 25 Oct 2026 05:48:40 GMT)
 - [Scott Bessent Calls GENIUS Act a ‘Watershed Moment’ as OCC Sets Stablecoin Rules - CryptoRank](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnhia0JvVDhzLVA4aHpEQkRtODZKUkZxU0ZsNTRVRjdHS1RrUkx5emtsMVVrMzJqYjVVTHVCdjVhWDYtTlVQWFVkMmRtNC0wNkttcUZlR1R2Nm1Ic3dpVHBPT2RfMkFlVE0xRVJwNWFOTUpieFhQeTZkbjFMSXA5U1NXVGhfTTNYZkVXaW0ybk96anRTQzJrNi01VGM2RWVhdWlIZHRsWmRCejFRR0hmdHpDZ2lvVG8?oc=5) (Sat, 24 Oct 2026 22:41:12 GMT)
-- [Reserve Composition and Design in Stablecoin Regulation - orfonline.org](https://news.google.com/rss/articles/CBMimgFBVV95cUxObF95UUtJM1NodkVkNGVjUmV5cW9uZnJsdDdMYjkzTVhlNmFXNzE5NWJxR19mdExJQTg5UXA3cDBNQnJBZEZDVl9vNmI5RGcxZTRxTU5xdVlqQTFxXzRwa250YlNUdnZNTWdfRDlUTmF3M2Zha3pIdFJjT2FydUhKRS0tVWVDNEFUaDZiZ2s3NTluYXVWUm55MEJn?oc=5) (Sat, 24 Oct 2026 18:36:28 GMT)
-- [Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets - Yahoo Finance](https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0VWaFdkR1lTVFRZNjRQS21adDBUeENFUF9QeGN0VS16TDU1UUJGTy1IWVRLUTFLc1JocXRld3pDZ24xZ0s0YUJIdTdsVEh1RkhTWXhxaVFlS3NlaEwyaWs2d3RXMW4zMVg4TWhlNnRTZWwtYnVpT2g2Z25CcEtVdUlYMV9NanEySkVHUVVXS1ExdkRlaUxV?oc=5) (Sat, 24 Oct 2026 13:01:02 GMT)
-- [Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets - Decrypt](https://news.google.com/rss/articles/CBMif0FVX3lxTE4yOGc3dkxtRWRNX2dqRXMxTzFMTlZKdnJWS3Bxb3ZJMllnQjd5YTdVOTFLaExSQUZ3YlJRblNEUEE5VWRZaU5tVUJWWG5sZ3FINm9PYnJyVE1PRDVXTE92bTZEWTRGVUhobC1IZkdPenB0b2l5NmMtLUhISEN4cFE?oc=5) (Sat, 24 Oct 2026 13:01:02 GMT)
-- [Is Stripe&#x27;s New Stablecoin Card a Major Threat to XRP? - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjdTX05LTGhzTk1UaUI0RDdvQXNWaWUtOXgzMlhPOTNOQl9rbkNpWElSVTJURDRWM1BFZVp3YkxpcTVSVTFJaVNQUTNkblVpTnBaVFlOSVdkaGJfWkVoRjA1bklJckFqN2dFTWZxMXZRZHVWUU5TVzJncWtUaGFZS2RnMmRETFBKR0xiYTZqSkswdDl6SUJuTw?oc=5) (Sat, 24 Oct 2026 11:10:00 GMT)
 
 <!-- END_dashboard -->
 
