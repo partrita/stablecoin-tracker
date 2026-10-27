@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-26 02:28:50 (UTC)*
+*Last Updated: 2026-10-27 03:03:47 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$287,516,167,709** | 🔴 -0.05% | 🔴 -0.74% |
+| **$286,943,864,021** | 🔴 -0.20% | 🔴 -0.58% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin - TradingView](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWjlreG9oaWt1NmZoNnc2aENaVmI4Z2N5VjlnWVZRV0E1cmI3X3ozNTZrOS1VdlZFcHNLQUZCTHJ1dzlZdE1QallpdGVBOHZJMFYzX0VnX0h5aUJLUFcydUJ6RG5ZN0JPdGo0cFBwRUdXLWxlc2VSMm53TXhhV3BURFhTWXdDdDNlVDg4MndLZ1ZDOHBiVGd6V2ZGYjFJNEtNVV83MG5fOGtxOHludzl5QWx0VEJqUjJyRUpWaWJKOFdyb1ozZEpwTHphMlI2RkVQelV5ZQ?oc=5) (Mon, 26 Oct 2026 00:13:00 GMT)
-- [Standard Chartered-led Anchorpoint plans retail stablecoin on public blockchain - South China Morning Post](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeTJ4ZDQxZDFSemN2N0xnVzVvaDA5T3JVQmRfc2NZckJnSWlmUEZyUnZpMkRfY05KTnJpNzB3UkgwRUtaWVh5R1hma1VWTzhCWUFCYnRoQzh6WjZWR25CVzVyMzRVVDg0VVVzUEVobm8xVzN5OVl1ZnpkXzl4WUVIenNySzlxZlVPaWVNWC0xcVBjcnhhR1J4S3hPR29fUmVSQXIxamhMc3A0TDZPMTZ0QmM3UGN0Y3BnRzF4VmpQS1VLODJsVHF6RjJWUVE4b1QycmNWeG9kbknSAdgBQVVfeXFMTW5rbDVaVHE0YjEtSGdObDd2VFhBZWhwVVBEZ3NaSVhhcWJZRm9wRkdLeE1pUFZnZ0JoVEswRWUyNlFORUdZQzVFVlhKWndTd2NkSjBIWk9LRGsyS0RZbDBQaTJlRE5rT3NCZGU0SV81cldtOTRYZmdzUGdQSUktaUJvN1FMbm9SRHk0d1VHSGM1UGRTTl9mMk5rOWJxdG42d2JrMURlTWFGNzZGY3JSSXdvNUplajlqOGowUzJBYzduQWlLM0FJem1MTEptR0R0RmpYMHpRTjNr?oc=5) (Sun, 25 Oct 2026 23:00:15 GMT)
-- [Exchange Stablecoin Reserves at 60.6B, a 12-Month Low - CryptoQuant](https://news.google.com/rss/articles/CBMidkFVX3lxTE1jQ21HQUNXMkZNaDJkTkFlZ0xnd1VMcExEUExOamstYjc1RkZmMzNzbDYxcTBDWmpHVnZ1OVdYYVVEMkdfSTVSZjRwbzAwQnVqZ19BZjktUEtTS1V4R2VFTTZrMFBEcDRaTDRmbXgwY1k4MFRhRnc?oc=5) (Sun, 25 Oct 2026 20:04:44 GMT)
-- [Bank Lobby Presses OCC For Clarity On Stablecoin Rewards After Final Rule - TradingView](https://news.google.com/rss/articles/CBMiywFBVV95cUxOb20tbzM2WFdsY2w4WV9uZkEtWnVfU2hhZkh2UEs1Q05hZjdmbHRNN01TUlplaWZpVnZkUUNEUlNfLVR2N0ctX2VOb2IwR0Z3b0V4dWlwbHpUNm1OOTZ4Qk5VeFRpVEZaRjFMNDdyUW9TUTlQZXZUaVZOYkV0cE1zZ19HR0N6LUY5dzBLX0dlQzZZZnNTRHljNnQ3ajNmNzVBNkVZUnNHTnp4ODlKVTdsNUxtZk43Q21NZzhPSk04YTBhQXJ6ejdqTWNTdw?oc=5) (Sun, 25 Oct 2026 19:00:00 GMT)
-- [Tokenized Deposits vs. Stablecoins: What JPM Coin and USDC Holders Own - The Defiant](https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2RZaWEwaWtuYlFVVFRZMWc4bXdDREFGak0zN0ExY0xfQk5waC1lU3pkdzZ3TW1WaXYwTUNXcV8yS3NYeHRnV0J3Q1lhdEVjY1hCcE5kQjR4dUxaeHpQYVAyaGlpWGFxSkNYSGwtS1JFQUwtZFo3ZGFSa2lNdFlhb3FLREg1TkdabEhxTXlyenFycDZ2amtRQ21zRzBpQXlOdkp1YlJOT25NOUVoWWIyWUZhV1U?oc=5) (Sun, 25 Oct 2026 14:19:06 GMT)
+- [Circle exec urges room for banks, startups in Asian stablecoin regimes - Nikkei Asia](https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmRjQnhXenlBQW13Z05ySExNME9fSmRHaDJmZ0Mxd2F2RFFyU0lQckxseHVjbEdtaWlzYlVnN1JnM3RGZXMwdTRFZzJZdkp1WHpnampWOHVKVVhRS2I4ZTlwNEc5cGtPbmF3SWRsMDNuUEFUbEhLR21yVThUNzFqbFZidHR1RlBaVUNLRGhTOWRLaDhxbWZFM0pfOUhGWE4xSUszRkx6MEw3cGdfbFdHRGNOcHg4R2VjRkFsWg?oc=5) (Tue, 27 Oct 2026 01:26:00 GMT)
+- [Visa’s Stablecoin Funding Moves Beyond the Pilot Stage - TradingView](https://news.google.com/rss/articles/CBMisgFBVV95cUxQY3VIUU5zYmd5SlZVNTRfUVJpdWV1T1VMN25ISkRNSERwSUdqWUtNMFBmTVVNZkRRV0R5akQzSUdhVVRxLXJfQ3VHS25xTm9rd1RxM2lFMmNWSERDV1NlVmhnd0p2YlNMQ0RHNm56SzE3MjYtaldJOExyR3VBbC01MS1RRUJoZUtmVU5pQ09TSjUzQ0dabmw5b1lSbXAySkFFXzEwNDRkcFo1eTVoN2tvNHFR?oc=5) (Tue, 27 Oct 2026 01:00:00 GMT)
+- [Canada Opens 60-Day Stablecoin Consultation, Caps Redemption Fees At 1% And Bars Interest: 9 outlets compared - NewsCord](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOV1JRcGRCM3FtYjFWdlFjdmlxQWJFVnRnNWNaOE4xdXk3RVZjYmhLcUg3Uk1taXNISEZIc3pmaFhsT29KNVByU19GVE5ldjgtLTI2OUJ4bXRhWmNkeFVodWJrSmdUa0FzUHJnTks2WUZOTDAxb201bkUwVFU1VXhWdm5HU0RUYnp5MjFtSENYYmRZZEYxLU42X2g2SWpkM0RIZkF4SU90NVBCdTRWSm03enN3NTlQTm1WbnJtNk1JVnY5a1V6c09ncDJ4Q3Z0TXo4UWtDRWRaYzJrOWtxb0w2ekw5eG40cXZIdXc?oc=5) (Mon, 26 Oct 2026 23:27:16 GMT)
+- [Canada Stablecoin Rules Propose 1% Redemption Fee Cap - Bitcoin Foundation](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR3ZNWjdIN1hwZDRSbWxaTGpaWVNKbERBQlIyWDd5Wk56SmRwQkZXTm95akt5WXU2SlA5UHBRQ2dDZW5Sb0xQOGVZak5XMWJvaFBDLXpyMjRCby03cm9UQkdVa1BXRVBEVzJJWUlDeWlzYWxjRXdVbzF5N0dnaEhFdDVUYWM1alhGTWhwOURNUzFCckJYbVI1ZWtieFNxTWJ5MUV6YmU1Tm5FbU0?oc=5) (Mon, 26 Oct 2026 22:55:18 GMT)
+- [Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield - Decrypt](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFlkdFBvR2gzQ1pWU2p1Ny1fSTAtc0ZzQXF6dG95bUo0RzZpV1RxZTdUaXgwVjBoajRNY2F3bm5idmN5cENxcmlOX29TVGhyNUJFQVU4eU1USExHODdKMjlPODlDTTRZMWxORnJIblRfUW82TkNDQjdIdGVOYm0tQnRBQUJvMHdR?oc=5) (Mon, 26 Oct 2026 22:16:03 GMT)
 
 <!-- END_dashboard -->
 
