@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-27 03:03:47 (UTC)*
+*Last Updated: 2026-10-28 03:15:32 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$286,943,864,021** | 🔴 -0.20% | 🔴 -0.58% |
+| **$286,295,229,003** | 🔴 -0.23% | 🔴 -0.76% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Circle exec urges room for banks, startups in Asian stablecoin regimes - Nikkei Asia](https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmRjQnhXenlBQW13Z05ySExNME9fSmRHaDJmZ0Mxd2F2RFFyU0lQckxseHVjbEdtaWlzYlVnN1JnM3RGZXMwdTRFZzJZdkp1WHpnampWOHVKVVhRS2I4ZTlwNEc5cGtPbmF3SWRsMDNuUEFUbEhLR21yVThUNzFqbFZidHR1RlBaVUNLRGhTOWRLaDhxbWZFM0pfOUhGWE4xSUszRkx6MEw3cGdfbFdHRGNOcHg4R2VjRkFsWg?oc=5) (Tue, 27 Oct 2026 01:26:00 GMT)
-- [Visa’s Stablecoin Funding Moves Beyond the Pilot Stage - TradingView](https://news.google.com/rss/articles/CBMisgFBVV95cUxQY3VIUU5zYmd5SlZVNTRfUVJpdWV1T1VMN25ISkRNSERwSUdqWUtNMFBmTVVNZkRRV0R5akQzSUdhVVRxLXJfQ3VHS25xTm9rd1RxM2lFMmNWSERDV1NlVmhnd0p2YlNMQ0RHNm56SzE3MjYtaldJOExyR3VBbC01MS1RRUJoZUtmVU5pQ09TSjUzQ0dabmw5b1lSbXAySkFFXzEwNDRkcFo1eTVoN2tvNHFR?oc=5) (Tue, 27 Oct 2026 01:00:00 GMT)
-- [Canada Opens 60-Day Stablecoin Consultation, Caps Redemption Fees At 1% And Bars Interest: 9 outlets compared - NewsCord](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOV1JRcGRCM3FtYjFWdlFjdmlxQWJFVnRnNWNaOE4xdXk3RVZjYmhLcUg3Uk1taXNISEZIc3pmaFhsT29KNVByU19GVE5ldjgtLTI2OUJ4bXRhWmNkeFVodWJrSmdUa0FzUHJnTks2WUZOTDAxb201bkUwVFU1VXhWdm5HU0RUYnp5MjFtSENYYmRZZEYxLU42X2g2SWpkM0RIZkF4SU90NVBCdTRWSm03enN3NTlQTm1WbnJtNk1JVnY5a1V6c09ncDJ4Q3Z0TXo4UWtDRWRaYzJrOWtxb0w2ekw5eG40cXZIdXc?oc=5) (Mon, 26 Oct 2026 23:27:16 GMT)
-- [Canada Stablecoin Rules Propose 1% Redemption Fee Cap - Bitcoin Foundation](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR3ZNWjdIN1hwZDRSbWxaTGpaWVNKbERBQlIyWDd5Wk56SmRwQkZXTm95akt5WXU2SlA5UHBRQ2dDZW5Sb0xQOGVZak5XMWJvaFBDLXpyMjRCby03cm9UQkdVa1BXRVBEVzJJWUlDeWlzYWxjRXdVbzF5N0dnaEhFdDVUYWM1alhGTWhwOURNUzFCckJYbVI1ZWtieFNxTWJ5MUV6YmU1Tm5FbU0?oc=5) (Mon, 26 Oct 2026 22:55:18 GMT)
-- [Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield - Decrypt](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFlkdFBvR2gzQ1pWU2p1Ny1fSTAtc0ZzQXF6dG95bUo0RzZpV1RxZTdUaXgwVjBoajRNY2F3bm5idmN5cENxcmlOX29TVGhyNUJFQVU4eU1USExHODdKMjlPODlDTTRZMWxORnJIblRfUW82TkNDQjdIdGVOYm0tQnRBQUJvMHdR?oc=5) (Mon, 26 Oct 2026 22:16:03 GMT)
+- [Anchorage expands Bitso partnership for US-Mexico stablecoin corridor - grafa.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3Fjb3hQT2dNRlNOLUZaYjMydWc1OF93MVRZYXYwbWtIQ3p1MG9CTDVhbUp4M05mZy03TUNmMXRSUjBfdXM4ZGJ4bnZhTDY4dURQenVsTHpsaVRTZGk2TTNqMEVBM3h6bW8zRU5fdkhLaWQ3TW5zQXBPdHpvZm9VcTVRMThmVGQwMHR0WUxYSjdYQk8wbXhnRGJXY3ZFdG1SeFliMg?oc=5) (Wed, 28 Oct 2026 02:10:58 GMT)
+- [Canada Begins 60-Day Consultation on Stablecoin Regulations, Aligning with U.S. GENIUS Act - Crowdfund Insider](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV0hnYkxVSXgyNXVodnczWTR0UWptTnQwcFc1MHhWaUtWaWV3X3NrcmRQUHdFeWcyYlJfMjRRVHdrNHRsbUxJYmdOQmlLS2ZHQnNiUzhDRUQ5dFFMTDlQNVRzbXBrazNub2NYeHVhQ3lIbUxlOG1BcmM4Rkk0ZlA2bllfekVhSEI2WUQwX2lkLUpWeTZEWU41QldIeUlod2lCMEdaTkRzU1NQR0NFUkxUZzAxaGFkM3EwRG14ZjM4RmlfM1V6aUU2YjJ1TU52QUEzNnBF?oc=5) (Wed, 28 Oct 2026 01:35:46 GMT)
+- [Coinbase Converts GYEN Balances to USDC as Stablecoin Winds Down - TradingView](https://news.google.com/rss/articles/CBMivwFBVV95cUxQV29vdDRMMURBMEJPMGlGUUNSOERYSjhvLXJmNjd0Vy1kR2RlRDYzbV9YdkJxVHVVeTBOODI2MzFBQThJYlM3QWdaMFZ6WEFNdmpwMXowcWtWZ2lFNHVEem1VWTdMWExvdHRZWUpBV1l6QzZsQW42QVZwMEpyejVtLWtZV2J5Y0xIV1d2TEpHU1A1VzJQZGVLNGk2MWw0cV95c3Nicy1FQ3pEc3ZiVmZFeHdUSDVWZEZadXRKTnFGUQ?oc=5) (Wed, 28 Oct 2026 01:00:00 GMT)
+- [Refund Approved, Transfer Pending: The Second Risk in Stablecoin Payments - KoreaTechDesk](https://news.google.com/rss/articles/CBMijgFBVV95cUxPVUs0ZnZhQ2tMNk11V2YzNklfaUFGT0VlTWlGVlZlY2VtdVNxME5oQnNNRy1Qd21oZ2xmTVZWdlVIWTZoMzlOelZySzFrNmhma1BxbExPVUNkSm1JV3k3N2Fmc3lsMVpwb2dWYTFwX2hwTEFnYzJoN2pjdHI5NVViaEh6azhRNzlEUGsySTFn?oc=5) (Wed, 28 Oct 2026 00:30:26 GMT)
+- [HSBC bets on retail base to drive stablecoin adoption - Asian Banking &amp; Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQl9KRWtRRUJrYWNta2hEcEp3MW1pMTkxd0ZYMVJEZF80OUlxbEYyUEpfZENoMU9IZTdyZFY3SWNkbG5jZi05ZmdGLXVORFdkMmdQLXZpN2N6RHlWdnU5OUlKeFFEQzNlV3YwbDlaOG1MNXRuNHJmZ0l6QV9NWHN6ZVZTbGRMQ2xGd1BfS0RsSmw1OXZVOUs2M3cwNmZGVUdaYjVRSFEtM1huQQ?oc=5) (Tue, 27 Oct 2026 21:30:00 GMT)
 
 <!-- END_dashboard -->
 
