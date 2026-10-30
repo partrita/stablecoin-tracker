@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-29 03:40:43 (UTC)*
+*Last Updated: 2026-10-30 03:43:33 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$285,477,541,730** | 🔴 -0.29% | 🔴 -1.18% |
+| **$284,651,738,533** | 🔴 -0.29% | 🔴 -1.24% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Ripple&#x27;s RLUSD Has a Moody&#x27;s A2 Rating and Is Live on Coinbase. Does a Stronger Stablecoin Help XRP? - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOS3NoV1cxQWtxZGxCck5Oa24zc2hLN2tzWWgxeERxY2lyVFlPcjQwTUJvc3B2eUpMc3pCYVNPdHpkXzBYaWdwWjI0UWtXOWFHdGUyTDdBUVRwTDUtdEVyd3c4NnJwa0U4WW9XTnczc21iaDdSa2dCWjRYX1NFaVZFNFgyLU5nVmpTRVlPdkRXRzhoVTFpNWYyNUZZVW5FekxWcFVZVmNzMmlNeGVGZm5PbU85Q2dkM0JlUjlPV2pFRVpoQjhQbk5TLXdYSnBoZGw5Smlld01BTzVxaWtuc3VRdFktd2N6eWxndUpV?oc=5) (Thu, 29 Oct 2026 02:20:25 GMT)
-- [Ripple Expects Its Stablecoin to Reach Robinhood App Users Later This Year - Yahoo Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc3RsNjZlMW5jbFdUcGxKcVdSWUJqc3RsMFBOdm5ORlJfNmhqV2ZOZ0RpbmUyYXpNVXFSbXp0aThFckp2WlUzOF9KM0JRcDdHS3AxbnJ4YVNyWUs4a0ZrakJaUEhTZ3ZRTGZYaUlMcXBwTENmRkE3a21uTDY5OXlKNDAxRnhTelJiMXEzQmxvZUlhT0d6M2lyMGtfWE9sejBkUnBwNHhPVDl6dw?oc=5) (Thu, 29 Oct 2026 00:05:00 GMT)
-- [1TCH Simplifies Fiat-to-Stablecoin Conversion for Freelancers and Global Businesses - markets.businessinsider.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeUFia21PNDI4S0FycHU5LWhja282MzdNaVVmTEpRekNQUEtYZ2pMTHBDcV8xUlhUX0ZrQVRyamZnT1g2M1NZbVJ1Xzk5UlZFeG54MmVLdElNWlZNaENEUDdVUUEwX3dwcklGYXV1UWpXU0dnQTYyU0x0UkhQNnluU0huWTZ2RXU2TEtwUjEzVzJhSWRRMmUxMk5FZXdWVmNqdEtyMEhUUW1JZVU0eGx0WXdjV2FzZWVXNVJNcGp3TGhIV2dEQ2JmdEpaNDR6dElmdVI2cXZxQlVxdw?oc=5) (Wed, 28 Oct 2026 23:15:08 GMT)
-- [Stablecoin Payments Are Fast. But They Have a Cost Problem - BeInCrypto](https://news.google.com/rss/articles/CBMiekFVX3lxTE5xQ00wU01qdE9GWXJwVDF6bjlVOGx6R0tLR3BreWg0VWxSMEZFRUViOXdCcDZNUkNBVWw5OGhzMlF3RkRvbmdXbE1CNjZST3Y2RzFhSlJoa1hIR1NkTnEydFVyc21pUlpJMjFvZDRuTndYYUdENTdwUDdB?oc=5) (Wed, 28 Oct 2026 21:47:00 GMT)
-- [Ripple Wins Final OCC Approval For National Trust Bank, Expanding Stablecoin Reach - CU Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2ZuZE9kdTQ4d282SHBTTjhHYktRamhTWUZVaWJhd0ZwblZsSFh4Z01CbDlLckxBSnZTNE00NWlKSWxYVGs3ZndmVWZVYkc0LUd5aFJRbG5YZDUtQWhMUWljMS1yMzRlNFdDZHZXbl91TGo2MkZGQ2dFSnBqZUdCaW1paURqamVQNF9CQVpkQlhnT1dOX3FQN1pZbnNpM1ZnZjJtZ1c3YW9pRGozY2gzakwtbVU0dVllMEE?oc=5) (Wed, 28 Oct 2026 20:29:27 GMT)
+- [Stablecoin treasury firm SDEV raises $45.9M via ATM after $50.4M SKY-driven quarter - Dealroom](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSFhBNjdFbjlRT2ZKWFVWM0s0OVJISlhCaGRtUXdYODFMV0xQVV9JbnZQald6TTM4Yy1XQ0o1MXlnZ3hTSTBPM0N0RWdRdkpsT3g2eEhMYml5N0ZlQkU1by1aeUEtMDZDeXRIeGdEcWFhZ2M1enFkSi1zSS03OFFjcnNpTzJEYUJNczJOWFJvMllVRXh6YmFvdXRRS1NwM20zRDB4LWpXbGtVc1QwSmNFLXNIOWc2UQ?oc=5) (Fri, 30 Oct 2026 01:31:12 GMT)
+- [How can banks drive stablecoin adoption among consumers? - Asian Banking &amp; Finance](https://news.google.com/rss/articles/CBMivAFBVV95cUxNYWFncWxPUE1QWUk3OXdhWjI3eWdlYlB6bWJQc2k4V1IwVkV1alQ0UzA0ZE5lQ3I0TkJxd1JZZkRYclpBYklSaVlKQzNfaXpxQVBhWkVzVWxKYmZDcy0zQjVMal9Cd3ZRN1JIVVpDaWNIdzMyOHppWU9OSGRxc1JMMXZJN0FwM1F0SFBiT0tkX0JyT0k2Y0VwZXdoVnBOTzk0UGhHbHdQWU1XWWpCNkV5Y050ZVh0cjBVVUt3Rg?oc=5) (Fri, 30 Oct 2026 01:06:18 GMT)
+- [OCC finalizes GENIUS Act rules for stablecoin issuers - Winston Taylor](https://news.google.com/rss/articles/CBMilwFBVV95cUxONUJLR0dBMHllNlFQSS1GZi1vcFo2WEV1WFUwZjhmamIwQ204N0dCc0hKZDBiUExGQlNWR2RmLTNDMmctM1B3aVBmbktNWXA0dUJkaE81VGhNaGFYU0dOa3JNbnhHSVN1YmRLNzV5ZWxUX3hrS1I4R3p6QldwWFE2Y0NibGVVeEpXSWxGcEdhX0VreTZZbUs0?oc=5) (Fri, 30 Oct 2026 00:06:51 GMT)
+- [PhotonPay raises $40m for stablecoin-centric financial OS - Finextra Research](https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjV3c0VqTlNGRXd1VGJyQkNYNkZkNVFkdl9HMW9Ic3E5SVBic2ZFb0pHNUFHRTk0NzNiSEh4eXk1YXV6ZDR6dzZsTFFQWktuSzRKRFI3emRwdWU4WGxkMkYzc0w1U2IwSHdlaVNkcWktRHhuc0NJYk41VkM4ZG1lNmp3Q0ZOVnFudDJWMU1WRDE3c18tanhJaTRLZkMyWUxX?oc=5) (Fri, 30 Oct 2026 00:01:00 GMT)
+- [Ripple&#x27;s RLUSD Grew 88% This Year While XRP Fell 29%. Is the Stablecoin Replacing XRP? - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMkVWR1F1UWM1MWtLbmtybTNadVhuQ1RnVm9FaEE3aTVpSnRXVmlVWi1qY2VpS3Z2OG05eVpvVXBmaktidTlhaU15OUQwbkRYXy1EV2lsSzBVcmFwTnRqZThCR1NzN1lsdk5uVVlvQ2tHUEEyVFRzMkw2UE5TNlFoSFU5Z3llRUlLT29TWndCckRmNFpGVy1lRnNaUlhtVUROcDdzQ3ZTalJvbzRNNmQxSGY5NG0wZkF5V2dsSFlHb0R5RHh6S0NfRVMxdXh3MlZVTlBrajVyOA?oc=5) (Thu, 29 Oct 2026 23:59:00 GMT)
 
 <!-- END_dashboard -->
 
