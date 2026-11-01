@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-10-31 03:27:39 (UTC)*
+*Last Updated: 2026-11-01 03:30:06 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$284,331,199,566** | 🔴 -0.11% | 🔴 -1.21% |
+| **$284,272,974,717** | 🔴 -0.02% | 🔴 -1.18% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoins as a vehicle for dollarisation: Evidence from capital controls and currency crises - CEPR](https://news.google.com/rss/articles/CBMirwFBVV95cUxQb0Y4N00zMW5tQkVZUmFLbzFqWHBROUJvZVNiTlc5Zk0zSFlaOVpyQ2swR0dKM2VKSUhKbHJVaHpqSUF5VUI4RjlNd1MtaXQ2U0ZnUWRRTThRdUFtR0Nwak0tNE1hQ1E0eUZrOG5CVzBGNGQ0LWxYaXVvdUJDNjJ0Sm1uY0stUkVFT19lX0VpbzZrQkFBQXBncVlxWG8xYUxuM3lUNEZfOUZ0UVZBU2pj?oc=5) (Sat, 31 Oct 2026 00:13:03 GMT)
-- [Implementing the GENIUS Act: The OCC’s Final Rule on the Issuance of Payment Stablecoin - Arnold &amp; Porter](https://news.google.com/rss/articles/CBMisAFBVV95cUxQelpFbi1qck9GYVo4aFFkTE13ZGN4M1ZpRkxSN1prUEluZjBMWDBJeGVPT0I0bXB6cEh3eVh5bWFKYmVxUGhyejlZam5kdlJFaHR2ZmVfc3gzUUQwdVVjdTAwTl9VcU1KazJEQ0M3b0ZhRzdNR1ZhbTRLVF9yMlhVcjJuTjQ5QWcyNHZIaERCREZfUlVad2tiRW12UmliMnNSOTh6R2VjNUVVYm9VTHlSSg?oc=5) (Fri, 30 Oct 2026 22:04:11 GMT)
-- [Brazil&#x27;s Bloquo raises $3.67M seed for stablecoin payments infrastructure - Dealroom](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbmh6VHNPSVBBMjVjOWRtekZ6VjR3M3RDSVdVYVpQVHJlcUZMaXdVNVdSSXpwa1NZaEx2QjlYVXBIc1ZEa1AzVXZEd0NSeWFsS2NqMjlTWDhWNDJtcGhMOElhdDJwWV9oTWRoci1kbk15UkRjZDk2ZzZ0MElpcE1meHVteVNFVy0ybmxnODN2bGJnVUl5Rm5BeF92cXhjRDhPc2JrckFodWdEZw?oc=5) (Fri, 30 Oct 2026 20:21:14 GMT)
-- [U.S. stablecoin rules raise the stakes overseas - Axios](https://news.google.com/rss/articles/CBMilgFBVV95cUxQVk1VZm5RaFoycXFlUEFIdUlfdk9ndEdOeko5WTNTbVdTQ3dRRm8zVjM1cTVJdlpUbEx2Vld3d0wxdUxlUUhVb2k3S00xbFFkWnNlY3dyaE9ydWVFcnFlaUJVcEgyY1FMYkVmYWhSS0V0NVBpRGxmQW5qQXpGQWNBZ3ZWTFRhVlJPdkM1Z1BRS3JyUmhiVlE?oc=5) (Fri, 30 Oct 2026 20:14:23 GMT)
-- [Stablecoin Payments Rails Collide With Regulation October 2026 - FinanceX Magazine](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTMzY0EydHJiZFFtYjZVVzlkZXU1dWhyVk5lSkpMbzdDSmpQOFRMN25BTmVuUVBicW9HdEptdDRJMG5FMndSa1VFWndsR0RIX3pDaElGNnV5M3AyVUlkUlN2c2dhY2ZkQU1RbWR0Tk5xNVpjcmEyMWlBUDNmMW9sTzB1emhBRE4xRjBBX0dkMHlJTWJBTGdaMU9COFJTdVFhQThMdmV4SjR3Z0lTT3c?oc=5) (Fri, 30 Oct 2026 19:04:15 GMT)
+- [Bitcoin Vs. Stablecoins Vs. CBDCs: The Fight Over Digital Money - Forbes](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFNKTjFGMXV4UTFBZVk2SkRyNElTbVJRY0R3R3BPYUE4MmpQa0RIOUZZQ2l1LXVZVFp1R01XekVIa2puckhvWnlqTS1xS005WTZ4NjRtaUxJdW1rUmtGWVdRUUl6bnVtZEd1NlFhMzdCWVNhQzNlU1JGZVNRZm0tYXpVSmNmcHF0MTZtZHRUdmhjUWpnWXJSWnU1bHFwQkhKSnZsaGgwNDNUcE50bENucEVnUXY0bk0?oc=5) (Sat, 31 Oct 2026 21:27:28 GMT)
+- [Shopify’s Base USDC Checkout Puts Stablecoins Into Mainstream E-Commerce - TradingView](https://news.google.com/rss/articles/CBMiygFBVV95cUxQckRwTm5iVERhZU5CUzJIdkNUdlQ3Q1ZFTzhKVEc1T3V3ZFZRMUR3OTlTaE9OZ1BUaWVkQV9DUlZxNDQtenhQWEFoTDJqLTlJdXJzaF9vWkliVFdpUVNEdmNRMkt3VjdGMkNFWklHNlZrRnRFTDZtMk05RUJESmxRQlJ5TzM1UmdQTThJU19nWW9Da1M0ekpwTXB4TzJOaW9VcXR0WjJMNEZwNDZ6cjBQbWZGTDMzV0ctQ0stanlzaExFOERpY2xsWk5R?oc=5) (Sat, 31 Oct 2026 21:00:00 GMT)
+- [Polygon Extends Open Money Stack to Solana for Stablecoin Payment Flows - TradingView](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaHV2RnNmTTFlYi1HWWx4VHRiUE12bllUSkNvc3phWkZIdkZkcFlXMG9KTlpqajl5UmtvMHJWUG5YODFNVS1DRGxhUUpibVVxM3RCdzByR3I3QUlQbWd2YUhjN1VPYmN4QTRKTFl3N3otRElYaXdNTXhoOHEwOUo4T3p2dGxSQU1VOVFnSGRTbHduUWdNVE9feEpyNF82XzlPdXlvTE11TE1MVUlWY2YtdWI5SUJGYndsUjhZVTlQeC1sYjZOWEtfNA?oc=5) (Sat, 31 Oct 2026 17:00:00 GMT)
+- [GENIUS Act: What New Financial Standards Must Stablecoin Issuers Meet in 2027? - Coinpedia](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFViWDlidWQ0aE50eURHaGM0bGhzLWx6SFFoYXlnekM0amcwLXIxSWw0OE9JMVRGQlhsVG1iN3N1aHpBSVhoNE5Hb0FsbDlOLThPTFVFVU4yM0tlVXQtUWR5OVlFZXpDaG1nZFpwSnNDcmlrbDZubEZBbjNpUFlRTTctdjBEMi1vY0NZZF9IOG9abkhTQllpTnBQaHVsRTY5OE1kamZxdXhCNjVhd0lUQkRpcjdFdw?oc=5) (Sat, 31 Oct 2026 14:09:55 GMT)
+- [STABLECOINS &#124; World’s Largest Stablecoin Reports $1.5 Billion in Q3 2026 Operating Profit - BitKE](https://news.google.com/rss/articles/CBMicEFVX3lxTFA1NVVyc3hhNmROREVjRUdhbmQ2Z1k2cXVJMTlBb2ZEYmE5R29zUmFkZE9vYnphSEJjOUxqRkdGWFM3VWJPTlBVOW1zazl4ZlpISkZHaTQycnlYdDdVV3FHX3pYTDFuRE9tRU43QlZTYks?oc=5) (Sat, 31 Oct 2026 04:00:35 GMT)
 
 <!-- END_dashboard -->
 
