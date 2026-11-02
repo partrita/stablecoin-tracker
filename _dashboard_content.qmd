@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-01 03:30:06 (UTC)*
+*Last Updated: 2026-11-02 03:38:41 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$284,272,974,717** | 🔴 -0.02% | 🔴 -1.18% |
+| **$283,796,786,453** | 🔴 -0.17% | 🔴 -1.29% |
 
 ### 📰 Latest News
-- [Bitcoin Vs. Stablecoins Vs. CBDCs: The Fight Over Digital Money - Forbes](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFNKTjFGMXV4UTFBZVk2SkRyNElTbVJRY0R3R3BPYUE4MmpQa0RIOUZZQ2l1LXVZVFp1R01XekVIa2puckhvWnlqTS1xS005WTZ4NjRtaUxJdW1rUmtGWVdRUUl6bnVtZEd1NlFhMzdCWVNhQzNlU1JGZVNRZm0tYXpVSmNmcHF0MTZtZHRUdmhjUWpnWXJSWnU1bHFwQkhKSnZsaGgwNDNUcE50bENucEVnUXY0bk0?oc=5) (Sat, 31 Oct 2026 21:27:28 GMT)
-- [Shopify’s Base USDC Checkout Puts Stablecoins Into Mainstream E-Commerce - TradingView](https://news.google.com/rss/articles/CBMiygFBVV95cUxQckRwTm5iVERhZU5CUzJIdkNUdlQ3Q1ZFTzhKVEc1T3V3ZFZRMUR3OTlTaE9OZ1BUaWVkQV9DUlZxNDQtenhQWEFoTDJqLTlJdXJzaF9vWkliVFdpUVNEdmNRMkt3VjdGMkNFWklHNlZrRnRFTDZtMk05RUJESmxRQlJ5TzM1UmdQTThJU19nWW9Da1M0ekpwTXB4TzJOaW9VcXR0WjJMNEZwNDZ6cjBQbWZGTDMzV0ctQ0stanlzaExFOERpY2xsWk5R?oc=5) (Sat, 31 Oct 2026 21:00:00 GMT)
-- [Polygon Extends Open Money Stack to Solana for Stablecoin Payment Flows - TradingView](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaHV2RnNmTTFlYi1HWWx4VHRiUE12bllUSkNvc3phWkZIdkZkcFlXMG9KTlpqajl5UmtvMHJWUG5YODFNVS1DRGxhUUpibVVxM3RCdzByR3I3QUlQbWd2YUhjN1VPYmN4QTRKTFl3N3otRElYaXdNTXhoOHEwOUo4T3p2dGxSQU1VOVFnSGRTbHduUWdNVE9feEpyNF82XzlPdXlvTE11TE1MVUlWY2YtdWI5SUJGYndsUjhZVTlQeC1sYjZOWEtfNA?oc=5) (Sat, 31 Oct 2026 17:00:00 GMT)
-- [GENIUS Act: What New Financial Standards Must Stablecoin Issuers Meet in 2027? - Coinpedia](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFViWDlidWQ0aE50eURHaGM0bGhzLWx6SFFoYXlnekM0amcwLXIxSWw0OE9JMVRGQlhsVG1iN3N1aHpBSVhoNE5Hb0FsbDlOLThPTFVFVU4yM0tlVXQtUWR5OVlFZXpDaG1nZFpwSnNDcmlrbDZubEZBbjNpUFlRTTctdjBEMi1vY0NZZF9IOG9abkhTQllpTnBQaHVsRTY5OE1kamZxdXhCNjVhd0lUQkRpcjdFdw?oc=5) (Sat, 31 Oct 2026 14:09:55 GMT)
-- [STABLECOINS &#124; World’s Largest Stablecoin Reports $1.5 Billion in Q3 2026 Operating Profit - BitKE](https://news.google.com/rss/articles/CBMicEFVX3lxTFA1NVVyc3hhNmROREVjRUdhbmQ2Z1k2cXVJMTlBb2ZEYmE5R29zUmFkZE9vYnphSEJjOUxqRkdGWFM3VWJPTlBVOW1zazl4ZlpISkZHaTQycnlYdDdVV3FHX3pYTDFuRE9tRU43QlZTYks?oc=5) (Sat, 31 Oct 2026 04:00:35 GMT)
+- [Stablecoins and the macroeconomy: Bank disintermediation versus fiscal space - CEPR](https://news.google.com/rss/articles/CBMipAFBVV95cUxPakNTOXdLeWgyMFd5NWRSclpvcW8xMGJnanU5MFFUYWJfZUU4UGkySTFiRktUX1hvVmJFT3dpc2dzZnd6bzd6ODdrbnpFSW51d01OaTBHOFJzY2EyWEQxcUtSdW9OOUZ3NWQ3RjYyVkJuNGZfTExKd1NDQ2tkcUZBS2U5OUtRS2VuSWhGR2xoeGlRcXQ2d0ZHcUR6bHk3bnVEeDJEMw?oc=5) (Mon, 02 Nov 2026 00:45:00 GMT)
+- [What Is RLUSD? Ripple’s Stablecoin Backing and Redemption Explained - The Defiant](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUUdSTHJUMmQ4MXN1TW9nUEpLRi1BLW9uX0pVNXp0T09ObVlud2c2WnNDSk1hR0ZjcUgtRXhrYzFSNllvQnMwSDJXdGFOWTJRVG9Fak1DTUdUQXktNFpYZ3dCZGotV0pWWkVXNjJUQ19SbGFEaTVYb0FuM1dnZjc5dUVhLXNUV0xIN2Q4bjZMYUppNzFHbW9DTEt6M1Y2MlZPdEY2enlpN3JfV2ZJWF9CNmZidDJteFk?oc=5) (Sun, 01 Nov 2026 22:39:10 GMT)
+- [XRP Ledger Stablecoin Transfer Value Reached $14.09 Billion in Q3 2026 - www.tokenpost.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtcnBwN3BZR2NvT25neGEzT3RKQVZyVnN4aTdqMVlNVm1kZGg3VUtsQ2tHS3hLTW5GZzhHb1NHTHZyY0wzQ19xb2RvU21zS1RYNlNhRUFVZzBlUQ?oc=5) (Sun, 01 Nov 2026 20:51:00 GMT)
+- [XRPL Stablecoin Supply Tops $1B as RLUSD Captures 98% of Market - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE0tdC0tVlhYckIxd0hYSG5sX201OU9JYnFHNEFYN3JZNzZOcEdTSWJaeXNsaXl6b1BLci1jb2s5VXlfclFKUWJDYkl3TWc2Uk9RRENuMGJ3aW03VHlhYUxDLTI5cEEyWGZxNEhxSEJ1cUNpWmFrc1E?oc=5) (Sun, 01 Nov 2026 19:55:00 GMT)
+- [Standard Chartered Predicts the Stablecoin Market Will Hit $2 Trillion by 2030. These Are the 3 Stablecoins Investors Need to Know. - AOL.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxOZE5UclcySGl6MHhVV2p1TXJTU016M3I1alNUN0ZZMk9IZUFaVDYxSWdkSHhZdGNjNl9iN0ZoYlVlblJ2enNET1M2dDd1TXhfd1dlNW9oNWVNTHdldXUwYmx2Q09GeXlVVWhQeTNYdXdpcWxkOXFnTG1mQThpYUt4OVIxWXc5M3NJTml1OHAzVEdiYm8?oc=5) (Sun, 01 Nov 2026 13:55:00 GMT)
