@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-03 04:43:22 (UTC)*
+*Last Updated: 2026-11-04 04:05:32 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$282,345,080,012** | 🔴 -0.51% | 🔴 -1.60% |
+| **$281,169,817,804** | 🔴 -0.42% | 🔴 -1.79% |
 
 ### 📰 Latest News
-- [Stablecoin Dollarization Is Widening the Dollar’s Lead Over China’s e-CNY - https://economy.ac/](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PMWY2SnZHWm5KcTQzcDF2Wk4zS1N2YXFUU05KX1NVNHgxLTVRVVppSEVJNV9fWVZLcHUxMFBGczZGNjJCQmxzLXM1ZFNvVHdFX2ZIRGM4d2VLQQ?oc=5) (Tue, 03 Nov 2026 02:48:28 GMT)
-- [SBI injects $100 million into US bank, betting on stablecoin access - Moomoo](https://news.google.com/rss/articles/CBMipAFBVV95cUxNS1N4N1ZKbExTdUo4bm1JMTlzNDRnaHhmeC13RmxNR1lfZkFqMEZURmpOYi1aeGVsYlFTWXhqTzlFczdVWTdwWXNCTG1HazhhaDJXaDhQbkVxc3VaTF9yX0VJTmF2TTZnRWtBSDAzaDMwUEYxMHgwOFVJUW4wbTRLVXd2RFF6aHczQlpvUzJYQXhEVjF4Um5taUUzVnAzZVdjOUs5Ug?oc=5) (Tue, 03 Nov 2026 01:48:52 GMT)
-- [Weekly Blockchain Blog - November 2026 - JD Supra](https://news.google.com/rss/articles/CBMihgFBVV95cUxQUm1kZ1FuOXpRd2ZoMDNpOE9vWkQ2LVFFNy1uZTJxNUN0UmNqUUhOWjJHaDIyU3RGbzZHS3NnSWF1ZTAyY1g0Umk0bWpMSzMweHJiZ0tHOS02Ym50RnVBd0dyTUUxWXlrclJ1M0NsSWpuTERHWHlXb1Vtd3ZfM0FyQVJiLUNBUQ?oc=5) (Tue, 03 Nov 2026 01:44:48 GMT)
-- [This Money Market ETF Was Built with Stablecoin Issuers in Mind. Here&#x27;s What That Means if You Park Your Cash in It - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQamUweUE2SEFjYTktcjRrNmUtUHIyV0VrWk8zVTE5aFFLTUlWYjRob1RfUzREbzBjVDkybDVTam03RmtJN2VMUk5OaVFpS2hkYnlLR3pOVk1BUExvdmY3VFpQYVZwYkt6Q2tyWklGMG5zUW5EUlF1d3NYYkQzRXVwaGgxTzI4c2Q2c3EyWVhCaDc0UmZjM0RJaUQ5NHpaaENWSmFtd01zV1JGM2JQT01CcHpHRkNrUHNjSnFlM1UwT1o5Ym9RbUl1a1dqQk9hTE5BbUgtbTJOT3l5bmJoRUZLaGZva0hKWXR5cEp0RWlVYmJscWc?oc=5) (Tue, 03 Nov 2026 01:33:00 GMT)
-- [OKX and Mastercard Bring Stablecoin Card to Most US States - PYMNTS.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEJyT2xIRU5kaWQ4TXVqbXB0cDNQQkpzQmxKUUZyc1BIcnNuOHVjZTExUE1UZnh5ZVBtRE9ON2gwdGVKckhDb1hiLUVIVVNpMUR4MXpkeUd6OGMtNTBiUDFlT3l1TXJaWkR6azUtUmZIaUE1VkR6VnlBekF0ZFZKUjV0YTV0RFQxcW5DQUxVQzAwd2dLdmxOc1RkU2FzWGNkYWwwWg?oc=5) (Mon, 02 Nov 2026 21:40:22 GMT)
+- [China’s Crypto Ban Pushed $104 Billion in Stablecoin Payments Outside Regulated Firms - International Business Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOanJQX0dfeUREUGF0ZTMxQjhyNU4tVjE3VmFOV2xkeW5QdFQwWEIxWmhsUDQ0Z1ZXcEQtQ2NKR09uM3RyMGpOcUhHS0F0Tk8xckhyQUxKTzE3cTNiLUdaMjdBOXhFMHg3blBveTFZUU1yc2Fhc2JtZFZCMXJ3dXNlcGZPRFMwdUxnRC1UM0dB?oc=5) (Wed, 04 Nov 2026 01:25:01 GMT)
+- [Taiwan restricts stablecoin issuance to bank-backed firms - IntelliNews](https://news.google.com/rss/articles/CBMimAFBVV95cUxObHN5NktpQnkza3F3b2lyYjlUUWZJaTc3dWYwWC1qeDJoT3RidVhKUEZNUUVCT2MtUEhFN2JQalNhbGU2ODQ4d2ZZWTBxMXA0XzVmVmJ3d3ZfTlZlU0tVbFdyd0c1UkViUUM3Vk9JN2ZjVFcwcTZua2FNSmZXb0VEUUdxUlRMN2VyVHFIZm1fUXhWWW9pR3pQdg?oc=5) (Wed, 04 Nov 2026 01:02:23 GMT)
+- [OCC Opens Stablecoin Issuance Path for Community Banks - PYMNTS.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDNoZ084VTlnU3FSdVY5QmZnWTRGdlo3aHVIUDhXalY2cHdhSkxHSDNHMmRoVnJianFQa1B1b2R3VF92YTRac1Y5cFF1bGxpQzk4bEoyZU5Ja18xRnFDTXp6THdRVXlURmhhZV9DTml1LUlQMEtjdEpBUkc4TEN2RU5qX0U1QnFQRGlDb3VWc2ZFVmFqRDlvc2Nn?oc=5) (Tue, 03 Nov 2026 23:00:36 GMT)
+- [OnePay Taps Stripe to Power Stablecoin Deposits - Finovate](https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZcEpzREhEQmlsaWdfdTluX2YzRE5kUmU5UGkxY2JrWXMwdVVaS0ZKVjhvZkNTSW9idjRMWFpoT0JIczROalJSZnlNaXFLeG90RGpPODZtX1hHREhxX2c0TnZlaTM4NHV0Y0NKSTJnenpzRWF5QjVpaw?oc=5) (Tue, 03 Nov 2026 22:49:55 GMT)
+- [Understanding the Impact of the OCC&#x27;s Final Rule Implementing the GENIUS Act - Davis Wright Tremaine](https://news.google.com/rss/articles/CBMirgFBVV95cUxPckxvQWVtWjlnMjg0YlJtYzFKMW1QVE80NE5OdlVNMklGU1FCcDI2Zmx1eTFJMXkzSkh0Y0hVOXZyS1JTUUd6aUxmZ1VYOHl2RGtwNUFoQmdBRGxFV29Jb1M0LWtxTW05NlBwTlFJTnU4cVhjR2RDQ1d0Wjk3MllqZVBTS0ozZDJGMHJYOFhjNHYzZWpvM0U4emQ4SndHeDdXX3lHeU1KcGdpYmh4cnc?oc=5) (Tue, 03 Nov 2026 22:48:47 GMT)
