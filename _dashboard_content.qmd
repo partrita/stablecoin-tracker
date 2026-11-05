@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-04 04:05:32 (UTC)*
+*Last Updated: 2026-11-05 04:27:01 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$281,169,817,804** | 🔴 -0.42% | 🔴 -1.79% |
+| **$281,424,453,289** | 🟢 +0.09% | 🔴 -1.42% |
 
 ### 📰 Latest News
-- [China’s Crypto Ban Pushed $104 Billion in Stablecoin Payments Outside Regulated Firms - International Business Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOanJQX0dfeUREUGF0ZTMxQjhyNU4tVjE3VmFOV2xkeW5QdFQwWEIxWmhsUDQ0Z1ZXcEQtQ2NKR09uM3RyMGpOcUhHS0F0Tk8xckhyQUxKTzE3cTNiLUdaMjdBOXhFMHg3blBveTFZUU1yc2Fhc2JtZFZCMXJ3dXNlcGZPRFMwdUxnRC1UM0dB?oc=5) (Wed, 04 Nov 2026 01:25:01 GMT)
-- [Taiwan restricts stablecoin issuance to bank-backed firms - IntelliNews](https://news.google.com/rss/articles/CBMimAFBVV95cUxObHN5NktpQnkza3F3b2lyYjlUUWZJaTc3dWYwWC1qeDJoT3RidVhKUEZNUUVCT2MtUEhFN2JQalNhbGU2ODQ4d2ZZWTBxMXA0XzVmVmJ3d3ZfTlZlU0tVbFdyd0c1UkViUUM3Vk9JN2ZjVFcwcTZua2FNSmZXb0VEUUdxUlRMN2VyVHFIZm1fUXhWWW9pR3pQdg?oc=5) (Wed, 04 Nov 2026 01:02:23 GMT)
-- [OCC Opens Stablecoin Issuance Path for Community Banks - PYMNTS.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDNoZ084VTlnU3FSdVY5QmZnWTRGdlo3aHVIUDhXalY2cHdhSkxHSDNHMmRoVnJianFQa1B1b2R3VF92YTRac1Y5cFF1bGxpQzk4bEoyZU5Ja18xRnFDTXp6THdRVXlURmhhZV9DTml1LUlQMEtjdEpBUkc4TEN2RU5qX0U1QnFQRGlDb3VWc2ZFVmFqRDlvc2Nn?oc=5) (Tue, 03 Nov 2026 23:00:36 GMT)
-- [OnePay Taps Stripe to Power Stablecoin Deposits - Finovate](https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZcEpzREhEQmlsaWdfdTluX2YzRE5kUmU5UGkxY2JrWXMwdVVaS0ZKVjhvZkNTSW9idjRMWFpoT0JIczROalJSZnlNaXFLeG90RGpPODZtX1hHREhxX2c0TnZlaTM4NHV0Y0NKSTJnenpzRWF5QjVpaw?oc=5) (Tue, 03 Nov 2026 22:49:55 GMT)
-- [Understanding the Impact of the OCC&#x27;s Final Rule Implementing the GENIUS Act - Davis Wright Tremaine](https://news.google.com/rss/articles/CBMirgFBVV95cUxPckxvQWVtWjlnMjg0YlJtYzFKMW1QVE80NE5OdlVNMklGU1FCcDI2Zmx1eTFJMXkzSkh0Y0hVOXZyS1JTUUd6aUxmZ1VYOHl2RGtwNUFoQmdBRGxFV29Jb1M0LWtxTW05NlBwTlFJTnU4cVhjR2RDQ1d0Wjk3MllqZVBTS0ozZDJGMHJYOFhjNHYzZWpvM0U4emQ4SndHeDdXX3lHeU1KcGdpYmh4cnc?oc=5) (Tue, 03 Nov 2026 22:48:47 GMT)
+- [Western Union Fights Revenue Slump With Stablecoin Card - PYMNTS.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNmhGWkhCdk92YjNzTkhWbzZnNGJNRGQyaDdia1RWeXBLdHpvUnZsWXJrZ09FUlJJZUFYZERrRElPWlExQk1TZmZSNFJieE1RNlRlN2lzbE1WYmdkSWJJa0g2eWFQVWUzSGtra1ZIZlE1bHVpRERMYldrQURFM29xU3dqVUo0dGVQY29oSFByVDQ1QVJWQ29pcQ?oc=5) (Thu, 05 Nov 2026 02:14:51 GMT)
+- [Stablecoin adoption hits new highs: Tron reaches 76.53M holders, RLUSD climbs past $2.5B - AMBCrypto](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMS1PNlV5TkRoZTNOVlRRRFNxa1Z3Q2p5WkdDUFNvc3ZRbm9IdUpiTklrTWdDeEdFMVZuLWZVU1JXV29ZeTNra1RSSC1XVHF4T1NmRnAxT1ZJNm5jLXhXUmhQekV2dUx2R1ZOQWxtRHNlODIyVzdUcHJhTXFVc3A4aTNaV2lmelpLTmhzaEk2ZGJETFhsNjhReUhOTUwxVy1DTnJUZDZraWUyNjgy?oc=5) (Thu, 05 Nov 2026 01:00:17 GMT)
+- [Circle Reports 17% Revenue Growth as Stablecoin Payments Network Expands - Finovate](https://news.google.com/rss/articles/CBMimAFBVV95cUxPMXhVOGt5STVZV0NGc0VFbi1qVWJDeHh6YTdaSkNSZzZFSmZHNUVnMGNRd1NQUTRuWXN4VkxPZjI1Z01CdEg4cVZMbXhkSE9tT2drSTcwWWcwYzNqeDZWa0I4ajVLaVNSN3gwY2hMUmR2RzlkdjFzZjlXSFJWb0VIdlFoSTZzbC04SDNkYnpVdUJhdFVaWEw3WQ?oc=5) (Thu, 05 Nov 2026 00:22:22 GMT)
+- [The Stablecoin Era: Canada Proposes Stablecoin Regulations and Expands the Payment Regulatory Framework - Borden Ladner Gervais LLP (BLG)](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSGdDd3Y2S1BtbVBtaEs1eHI4MFRpQlBueUgwV1VwOU1NY1dGOEt1TkpYMEdzbHQ5WlIyUV9wNnFfX0JTcy0ta2VUVkM3cnFKUjFHSTd5WHRNUmFiZWdUOUk4R09nbTJFM0V1RmtDTGhLQUFUXzlKSnJWQUFiTXFEYi1rWGN1QVNXNE5iUGlOOXV5YWF5bFFRZ2VWSXZUdG9QQmVLX0JDQWlLMzhSUmQ3QnpkS0ZaMDNaV0VwMUI4eXhxLTVucU03RklKdmlPWTlDNXRFcA?oc=5) (Wed, 04 Nov 2026 23:59:38 GMT)
+- [Tokenization and stablecoins may weather Democrats&#x27; sweep as broader crypto rules face uncertainty - CoinDesk](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdmswcTRmQmFqWFhPeFdtY1YtUi1ZUDU0WENyejFNZS1ENkVOdWpJdXFPLTc5ZXh1dUoycHEycVpGUGpnOHJidEc5TnRTTUt2XzFRd3A5b19DNXNsMmJWOFQyR3hhMF9BM2tCNndxQ1ZVbG9iVFZSY0tleHRodllQSUhlM3NqVHNZQnhkX2JmTHllenpJUUNJNV9YTE51ZkozQkdEazVYX0hhMS0zZWVjU2Z5MU00dURVdldBeDlxaFlha0FJRGpXcWVOU19zOFdfM0dRamFOTQ?oc=5) (Wed, 04 Nov 2026 23:21:04 GMT)
