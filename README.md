@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-05 04:27:01 (UTC)*
+*Last Updated: 2026-11-06 04:25:05 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$281,424,453,289** | 🟢 +0.09% | 🔴 -1.42% |
+| **$280,143,156,652** | 🔴 -0.46% | 🔴 -1.58% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Western Union Fights Revenue Slump With Stablecoin Card - PYMNTS.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNmhGWkhCdk92YjNzTkhWbzZnNGJNRGQyaDdia1RWeXBLdHpvUnZsWXJrZ09FUlJJZUFYZERrRElPWlExQk1TZmZSNFJieE1RNlRlN2lzbE1WYmdkSWJJa0g2eWFQVWUzSGtra1ZIZlE1bHVpRERMYldrQURFM29xU3dqVUo0dGVQY29oSFByVDQ1QVJWQ29pcQ?oc=5) (Thu, 05 Nov 2026 02:14:51 GMT)
-- [Stablecoin adoption hits new highs: Tron reaches 76.53M holders, RLUSD climbs past $2.5B - AMBCrypto](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMS1PNlV5TkRoZTNOVlRRRFNxa1Z3Q2p5WkdDUFNvc3ZRbm9IdUpiTklrTWdDeEdFMVZuLWZVU1JXV29ZeTNra1RSSC1XVHF4T1NmRnAxT1ZJNm5jLXhXUmhQekV2dUx2R1ZOQWxtRHNlODIyVzdUcHJhTXFVc3A4aTNaV2lmelpLTmhzaEk2ZGJETFhsNjhReUhOTUwxVy1DTnJUZDZraWUyNjgy?oc=5) (Thu, 05 Nov 2026 01:00:17 GMT)
-- [Circle Reports 17% Revenue Growth as Stablecoin Payments Network Expands - Finovate](https://news.google.com/rss/articles/CBMimAFBVV95cUxPMXhVOGt5STVZV0NGc0VFbi1qVWJDeHh6YTdaSkNSZzZFSmZHNUVnMGNRd1NQUTRuWXN4VkxPZjI1Z01CdEg4cVZMbXhkSE9tT2drSTcwWWcwYzNqeDZWa0I4ajVLaVNSN3gwY2hMUmR2RzlkdjFzZjlXSFJWb0VIdlFoSTZzbC04SDNkYnpVdUJhdFVaWEw3WQ?oc=5) (Thu, 05 Nov 2026 00:22:22 GMT)
-- [The Stablecoin Era: Canada Proposes Stablecoin Regulations and Expands the Payment Regulatory Framework - Borden Ladner Gervais LLP (BLG)](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSGdDd3Y2S1BtbVBtaEs1eHI4MFRpQlBueUgwV1VwOU1NY1dGOEt1TkpYMEdzbHQ5WlIyUV9wNnFfX0JTcy0ta2VUVkM3cnFKUjFHSTd5WHRNUmFiZWdUOUk4R09nbTJFM0V1RmtDTGhLQUFUXzlKSnJWQUFiTXFEYi1rWGN1QVNXNE5iUGlOOXV5YWF5bFFRZ2VWSXZUdG9QQmVLX0JDQWlLMzhSUmQ3QnpkS0ZaMDNaV0VwMUI4eXhxLTVucU03RklKdmlPWTlDNXRFcA?oc=5) (Wed, 04 Nov 2026 23:59:38 GMT)
-- [Tokenization and stablecoins may weather Democrats&#x27; sweep as broader crypto rules face uncertainty - CoinDesk](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdmswcTRmQmFqWFhPeFdtY1YtUi1ZUDU0WENyejFNZS1ENkVOdWpJdXFPLTc5ZXh1dUoycHEycVpGUGpnOHJidEc5TnRTTUt2XzFRd3A5b19DNXNsMmJWOFQyR3hhMF9BM2tCNndxQ1ZVbG9iVFZSY0tleHRodllQSUhlM3NqVHNZQnhkX2JmTHllenpJUUNJNV9YTE51ZkozQkdEazVYX0hhMS0zZWVjU2Z5MU00dURVdldBeDlxaFlha0FJRGpXcWVOU19zOFdfM0dRamFOTQ?oc=5) (Wed, 04 Nov 2026 23:21:04 GMT)
+- [Takenos Raises $7 Million to Build Stablecoin Financial Network in Latin America - bloomingbit](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kaWt6Z3BIeHhfTzJYOHAxZWZxenVKbHBaSjE0ZE1UT2xvTmM1emVIbjAzRWRxaDBxcXRhZTRJZk1hSVRTMUI1WGpLWmlIQXk4UzhEbA?oc=5) (Fri, 06 Nov 2026 02:51:15 GMT)
+- [Anchorpoint Completes Pilot of Open Wallet Verification Framework for HKDAP Stablecoin - Hubbis](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSk9KTUZJei1XZUpRbHRZeHdKMUN4YjFtajZkZWJEbWhGZmdHeUhISnVaRGQ0X08yVmxBVHVITjVoazFxNEp1S0ZNNTBvTGFBaURyaVZYMlVNQUxiSW5Za28xN3JoSERpcVdmaVRXdEt4RWI0WF9LQW9CYUtWa1VmU2FQcGZ1M3owZl9lcFd4aThjeFRWZ2JydUlicEM2ckxCOFRMQy0zOU1YckNIVFZNR0p2M04?oc=5) (Thu, 05 Nov 2026 23:26:11 GMT)
+- [XRP Ledger Welcomes New Euro Stablecoin - Cryptonews.net](https://news.google.com/rss/articles/CBMiWkFVX3lxTE42MEVDVm1sZmNvQ0dPRXZwdUUwTGt1VFBNRGhpbjA4c3Z1WGczb19XOGpZdVUtUVdxczlNUWdBZzVfNmNDOXpQS0N1T2NaNmtYWjFWV1JQSy1oQQ?oc=5) (Thu, 05 Nov 2026 22:52:04 GMT)
+- [Solana: Samsung Wallet adds USDC through its Stablecoin Account - 05 Nov 2026 - TradingView](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRjBXc3ZOYVRCa1d2Z2c1a3RIQWRJcnZoNHdBR3ZVelYtY0xGQmxCRmNUOGRlVExhRVRBZUppdVc3dmxKOEdjSjgzU2dqMzRWM09XZS15d1hsMmZsMVpoa3NLVjNtM1YyVXA4bll2ck14NmZiRVY5WXR6ZWc5NDdVYThBd29DUkZJaDlOaXhkR09kX09wdHY4MVk5WmhYNXhDQW44UVRoVUEwNEJPV3pydE14U3ZjZnZzVHlTdU16LVh0RWRYVFF3RU96UHc5VThRTWk4OQ?oc=5) (Thu, 05 Nov 2026 21:21:56 GMT)
+- [World Liberty&#x27;s WLFI Buyback Could Draw on Stablecoin Reserve Income - BeInCrypto](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4dlBXMm4wSnp2MjJKLUFNTUkydHhsTkJvUktkNm56S291OUlvc0RnVld3TnZOblVFS0k4a0Vra3pFY3EyeGxmLXc0aTNFeU9KMHFqbjBPWlBDZy1YMnVMVDhmTmQtRGM?oc=5) (Thu, 05 Nov 2026 20:30:44 GMT)
 
 <!-- END_dashboard -->
 
