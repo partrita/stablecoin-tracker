@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-06 04:25:05 (UTC)*
+*Last Updated: 2026-11-07 03:53:13 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$280,143,156,652** | 🔴 -0.46% | 🔴 -1.58% |
+| **$278,627,387,219** | 🔴 -0.54% | 🔴 -2.01% |
 
 ### 📰 Latest News
-- [Takenos Raises $7 Million to Build Stablecoin Financial Network in Latin America - bloomingbit](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kaWt6Z3BIeHhfTzJYOHAxZWZxenVKbHBaSjE0ZE1UT2xvTmM1emVIbjAzRWRxaDBxcXRhZTRJZk1hSVRTMUI1WGpLWmlIQXk4UzhEbA?oc=5) (Fri, 06 Nov 2026 02:51:15 GMT)
-- [Anchorpoint Completes Pilot of Open Wallet Verification Framework for HKDAP Stablecoin - Hubbis](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSk9KTUZJei1XZUpRbHRZeHdKMUN4YjFtajZkZWJEbWhGZmdHeUhISnVaRGQ0X08yVmxBVHVITjVoazFxNEp1S0ZNNTBvTGFBaURyaVZYMlVNQUxiSW5Za28xN3JoSERpcVdmaVRXdEt4RWI0WF9LQW9CYUtWa1VmU2FQcGZ1M3owZl9lcFd4aThjeFRWZ2JydUlicEM2ckxCOFRMQy0zOU1YckNIVFZNR0p2M04?oc=5) (Thu, 05 Nov 2026 23:26:11 GMT)
-- [XRP Ledger Welcomes New Euro Stablecoin - Cryptonews.net](https://news.google.com/rss/articles/CBMiWkFVX3lxTE42MEVDVm1sZmNvQ0dPRXZwdUUwTGt1VFBNRGhpbjA4c3Z1WGczb19XOGpZdVUtUVdxczlNUWdBZzVfNmNDOXpQS0N1T2NaNmtYWjFWV1JQSy1oQQ?oc=5) (Thu, 05 Nov 2026 22:52:04 GMT)
-- [Solana: Samsung Wallet adds USDC through its Stablecoin Account - 05 Nov 2026 - TradingView](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRjBXc3ZOYVRCa1d2Z2c1a3RIQWRJcnZoNHdBR3ZVelYtY0xGQmxCRmNUOGRlVExhRVRBZUppdVc3dmxKOEdjSjgzU2dqMzRWM09XZS15d1hsMmZsMVpoa3NLVjNtM1YyVXA4bll2ck14NmZiRVY5WXR6ZWc5NDdVYThBd29DUkZJaDlOaXhkR09kX09wdHY4MVk5WmhYNXhDQW44UVRoVUEwNEJPV3pydE14U3ZjZnZzVHlTdU16LVh0RWRYVFF3RU96UHc5VThRTWk4OQ?oc=5) (Thu, 05 Nov 2026 21:21:56 GMT)
-- [World Liberty&#x27;s WLFI Buyback Could Draw on Stablecoin Reserve Income - BeInCrypto](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4dlBXMm4wSnp2MjJKLUFNTUkydHhsTkJvUktkNm56S291OUlvc0RnVld3TnZOblVFS0k4a0Vra3pFY3EyeGxmLXc0aTNFeU9KMHFqbjBPWlBDZy1YMnVMVDhmTmQtRGM?oc=5) (Thu, 05 Nov 2026 20:30:44 GMT)
+- [Stablecoin Holders Eye Remittix Earn as USDT and USDC Deposits Meet Live Maple Finance and Fluid Pools - StreetInsider](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX29JYXN1UTZYdWluWFRUNTkxLUo3aXo4dEV0YXI3X0ZZcXJTZFhKS3V5dGx4TnVqcmpDVkdqZFh4blUyYUpQZG1NeHJmSkhhdUxBUWJkUFhXckR2LUJKT3FGNmZGWTA4ZmhsVkh6YzZSUFh4YUJ1SHpIOUQwWTNOQTd3SGRDRmRlaGgzckxnR3kwRU9HRERfRXFkcDE1eDFidVFtOXQtbUwtLWNhWDg4VVd4anZ1ZHNEbE1JQkhuc1FCeEdKQlFGVkRrdXZQcTVsVHZLdUhqNFo2d2pEWFV4Rk5VcU1fb3BkcFNwUXFEUkNUR2Vl?oc=5) (Sat, 07 Nov 2026 02:02:14 GMT)
+- [Figure&#x27;s Karl Samsen on YLDS, a yield-bearing stablecoin built on Stellar - CoinDesk](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMUN1Y2UwSEFuMkZzbXFteEZETG5kUFkxaEVwREFod1dNLWRCRDZrNkIyOEdIQ1ZkRlR1RXFiOWhWa1BhenoybE1YZVVUaFlqYmQ5cGNOY1dLVGVRdUtRMzl3MUJKRlJYZ0s4ZjJBbHlkMWY0OWxMT0tRZWNpSk5fV0V1WlFlOUdDYXJ4dzJ4aVNhS0FBQWlPYVFqc1EtQmpXck1YQ0Fn?oc=5) (Fri, 06 Nov 2026 22:39:09 GMT)
+- [Samsung’s 82-Million-Device Bet Shows Stablecoin Wars Moving Beyond Crypto - PYMNTS.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUVJORDhHTjJjRmNmRGp6NUc3TTZaNkI4UGo3ZlU0ZVJXbC1zM1hHa3o4Vk50Zm1HSTgwVW1aWHhVemVlbFpvQlhQM0tMeEFIZm5iUnVoeWw2YVN2dFBfdEZ5MHpVdVk4QmNQLTFrTUtuVDV4dnNoMHF4ZllJV05VVXE1cmtySVZwdjlYc3JrQTFCbFdGcVgyel9BSll1bjZxQ0ItYVRjSWNFN0NxREFzb1g1WQ?oc=5) (Fri, 06 Nov 2026 21:55:19 GMT)
+- [Study Finds Most Stablecoins Fail GENIUS Act Requirements - PYMNTS.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWnYyY1lQVlc1SEtUT3p6U1pwWUFhaTQtXzNVWURkREJFQl9wRWhpdTJxeEU0V1lxTGVGVGduVVZYSklhNU5WVlBGb3dReXlYZDhWS1ZnRi1kQzQ2eG5Xa01CRHJOS1J5S2haNmZIWnFKSzFtQmFud2VLYmd6ay1hWldUUFJhUWM1UUdsYnh5NW55bnp3MWc?oc=5) (Fri, 06 Nov 2026 21:55:19 GMT)
+- [Nigeria Erects Strict Stablecoin Wall, Demanding $11M Local Subsidiaries for US Dollar Tokens - Finance Magnates](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZHA3dTZuZTdteElSVmtUeC1tUy1aN1pJemxzT0ZwRjlFQUJCT3pneEJNMTFtTFZDeXNEZ0dDNEo4bE9KOW1zMnBtUzk1ZldvX0M4T2IzSGpfV2hTcVhRNEpTRFZ5TzVQWWVoVDFWT1N2RXRmMVlFUFBwOEs5MVRwZk0tNlBlSzhnTFRGamFjV2gtbWNwWFpTSjRzQUdpRHluN3BkTjcwaE5wZHNoMTk2aG4wbFBILW9EQ3BWS01jeVBwSmpjSVc2LVNOT3k5TjVDc20yMFNZdFF4SXVXdkJhN3VFNGc?oc=5) (Fri, 06 Nov 2026 21:54:00 GMT)
