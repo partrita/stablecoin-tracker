@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-07 03:53:13 (UTC)*
+*Last Updated: 2026-11-08 03:37:06 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$278,627,387,219** | 🔴 -0.54% | 🔴 -2.01% |
+| **$278,651,602,245** | 🟢 +0.01% | 🔴 -1.98% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoin Holders Eye Remittix Earn as USDT and USDC Deposits Meet Live Maple Finance and Fluid Pools - StreetInsider](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX29JYXN1UTZYdWluWFRUNTkxLUo3aXo4dEV0YXI3X0ZZcXJTZFhKS3V5dGx4TnVqcmpDVkdqZFh4blUyYUpQZG1NeHJmSkhhdUxBUWJkUFhXckR2LUJKT3FGNmZGWTA4ZmhsVkh6YzZSUFh4YUJ1SHpIOUQwWTNOQTd3SGRDRmRlaGgzckxnR3kwRU9HRERfRXFkcDE1eDFidVFtOXQtbUwtLWNhWDg4VVd4anZ1ZHNEbE1JQkhuc1FCeEdKQlFGVkRrdXZQcTVsVHZLdUhqNFo2d2pEWFV4Rk5VcU1fb3BkcFNwUXFEUkNUR2Vl?oc=5) (Sat, 07 Nov 2026 02:02:14 GMT)
-- [Figure&#x27;s Karl Samsen on YLDS, a yield-bearing stablecoin built on Stellar - CoinDesk](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMUN1Y2UwSEFuMkZzbXFteEZETG5kUFkxaEVwREFod1dNLWRCRDZrNkIyOEdIQ1ZkRlR1RXFiOWhWa1BhenoybE1YZVVUaFlqYmQ5cGNOY1dLVGVRdUtRMzl3MUJKRlJYZ0s4ZjJBbHlkMWY0OWxMT0tRZWNpSk5fV0V1WlFlOUdDYXJ4dzJ4aVNhS0FBQWlPYVFqc1EtQmpXck1YQ0Fn?oc=5) (Fri, 06 Nov 2026 22:39:09 GMT)
-- [Samsung’s 82-Million-Device Bet Shows Stablecoin Wars Moving Beyond Crypto - PYMNTS.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUVJORDhHTjJjRmNmRGp6NUc3TTZaNkI4UGo3ZlU0ZVJXbC1zM1hHa3o4Vk50Zm1HSTgwVW1aWHhVemVlbFpvQlhQM0tMeEFIZm5iUnVoeWw2YVN2dFBfdEZ5MHpVdVk4QmNQLTFrTUtuVDV4dnNoMHF4ZllJV05VVXE1cmtySVZwdjlYc3JrQTFCbFdGcVgyel9BSll1bjZxQ0ItYVRjSWNFN0NxREFzb1g1WQ?oc=5) (Fri, 06 Nov 2026 21:55:19 GMT)
-- [Study Finds Most Stablecoins Fail GENIUS Act Requirements - PYMNTS.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWnYyY1lQVlc1SEtUT3p6U1pwWUFhaTQtXzNVWURkREJFQl9wRWhpdTJxeEU0V1lxTGVGVGduVVZYSklhNU5WVlBGb3dReXlYZDhWS1ZnRi1kQzQ2eG5Xa01CRHJOS1J5S2haNmZIWnFKSzFtQmFud2VLYmd6ay1hWldUUFJhUWM1UUdsYnh5NW55bnp3MWc?oc=5) (Fri, 06 Nov 2026 21:55:19 GMT)
-- [Nigeria Erects Strict Stablecoin Wall, Demanding $11M Local Subsidiaries for US Dollar Tokens - Finance Magnates](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZHA3dTZuZTdteElSVmtUeC1tUy1aN1pJemxzT0ZwRjlFQUJCT3pneEJNMTFtTFZDeXNEZ0dDNEo4bE9KOW1zMnBtUzk1ZldvX0M4T2IzSGpfV2hTcVhRNEpTRFZ5TzVQWWVoVDFWT1N2RXRmMVlFUFBwOEs5MVRwZk0tNlBlSzhnTFRGamFjV2gtbWNwWFpTSjRzQUdpRHluN3BkTjcwaE5wZHNoMTk2aG4wbFBILW9EQ3BWS01jeVBwSmpjSVc2LVNOT3k5TjVDc20yMFNZdFF4SXVXdkJhN3VFNGc?oc=5) (Fri, 06 Nov 2026 21:54:00 GMT)
+- [Stablecoin Adoption at the Periphery: Why Local Appeal Has Yet to Reshape Global Finance - https://economy.ac/](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FRXpHbjRwWHI0XzRQWnI0eHBnZGN1R0hyVVpKRGh5V05iX0o5dmkwOWRrRkFabkRSZWN0ajBCcDVGc04xN1pnRFAyWXRiRWI5T0hBTDIxakpRQQ?oc=5) (Sun, 08 Nov 2026 00:27:30 GMT)
+- [Stablecoins Shrank by $5 Billion in a Week. Can Ethereum Rally While Money Leaves Crypto? - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc1oxb1VLeUdpVWxHOC1pMzdpMUFVeVZhRDE2a2l3bTRhRnZCYUZfUjM2U0RQLUUyYlM0RV9mYnlsZGVOTGlXUXI3ODJ0SXZ6d0FJR2J6UEFOTVl1d1JxcTFQRm16dUMzZGs3cW9OODJXdWpJMWdwcVRPWDRsRG5qSmVpcDVnUmNEalhUZEYxNmk3aTd4RXZrVDVrWC1SMVp1eHRDakZ0WnVaQlg2OTQ2STNfSmpfVENkZHJYbzYwVXhfOWgyM21GblBGQUZKVTJfMlFKMXJ4NWZja1h2ZHc?oc=5) (Sat, 07 Nov 2026 22:59:00 GMT)
+- [Nigeria Sets New Stablecoin Licensing Rules and Capital Requirements - TradingView](https://news.google.com/rss/articles/CBMixAFBVV95cUxOcThiLVA5MjFON2EzenZ2NXZ3RkZUSEVDNTQ5OHl5M2RPSzdKMWlsWmxjZ080UHFRWXZoR2ZZeHhpdXFLX2M3emFLeFBnZ25oaUZraEpDclotYnZtMWhnbEgydGRCN2l6dFF5VmlmSXdDY1Jhai1VR3JHX2tWWER4RHdyX0NkQjNIQ05BaVhNLW9JSUViVENTa2ROUUJ0VjFFd3pZRThlZm5qeHFfc3AwR3kzZlpOeDRwSEVqWkFRMzBvX2Yz?oc=5) (Sat, 07 Nov 2026 22:00:00 GMT)
+- [Samsung Wallet’s USDC on Solana Is Live — Here’s What the Rollout Actually Covers - TradingView](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNlZTUDZWSzVXZGZ2VHR2Umh1dWpuWjN4ZXktd3FtSEE5YVJSa1NuU01WcTVVdnhOM29TUUs3TjIxY1NxbmMwbFNwMUI4RW9MYjl4WmVEWllYWWhqSHdGd1lGdHdvcVBsMW94M3hsZTRaM3JYVjVWVGtFZTdTWXhNSW5Nd3YtLTE3aDB4SDEyLU90SDkwQXljYU42a3R2UnZ4QWpnemZxY3FCRlRxdEphYWhPYzFKYmZ1Rk9ZX1BkNDhmd0NGTFFVTGc0UWZ3TzdXYUlN?oc=5) (Sat, 07 Nov 2026 17:00:00 GMT)
+- [Stablecoin contraction forces Bitcoin drop despite Fed reserve gains - CryptoSlate](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMUNZS2pQNmVYM0oxWGhnckFuT3cwak5NejNESlBNNDcyYkE5QjNORkQzVmk4YTBMc0s2WEFDbW1OLUFUTnVtMjZZNzBrZXQtaWhnQXZEbnkwSGVjTVJ4RmR4OG1USzJMNWJPak9oV3N1SHJITVR3NE9qS2pGRVBTdTNCbEZtVENEWFhJSjJua1hzQzk1dTZMNg?oc=5) (Sat, 07 Nov 2026 12:40:07 GMT)
 
 <!-- END_dashboard -->
 
