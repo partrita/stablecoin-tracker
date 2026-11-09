@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-08 03:37:06 (UTC)*
+*Last Updated: 2026-11-09 03:50:35 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$278,651,602,245** | 🟢 +0.01% | 🔴 -1.98% |
+| **$278,640,586,758** | 🔴 -0.00% | 🔴 -1.82% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoin Adoption at the Periphery: Why Local Appeal Has Yet to Reshape Global Finance - https://economy.ac/](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FRXpHbjRwWHI0XzRQWnI0eHBnZGN1R0hyVVpKRGh5V05iX0o5dmkwOWRrRkFabkRSZWN0ajBCcDVGc04xN1pnRFAyWXRiRWI5T0hBTDIxakpRQQ?oc=5) (Sun, 08 Nov 2026 00:27:30 GMT)
-- [Stablecoins Shrank by $5 Billion in a Week. Can Ethereum Rally While Money Leaves Crypto? - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc1oxb1VLeUdpVWxHOC1pMzdpMUFVeVZhRDE2a2l3bTRhRnZCYUZfUjM2U0RQLUUyYlM0RV9mYnlsZGVOTGlXUXI3ODJ0SXZ6d0FJR2J6UEFOTVl1d1JxcTFQRm16dUMzZGs3cW9OODJXdWpJMWdwcVRPWDRsRG5qSmVpcDVnUmNEalhUZEYxNmk3aTd4RXZrVDVrWC1SMVp1eHRDakZ0WnVaQlg2OTQ2STNfSmpfVENkZHJYbzYwVXhfOWgyM21GblBGQUZKVTJfMlFKMXJ4NWZja1h2ZHc?oc=5) (Sat, 07 Nov 2026 22:59:00 GMT)
-- [Nigeria Sets New Stablecoin Licensing Rules and Capital Requirements - TradingView](https://news.google.com/rss/articles/CBMixAFBVV95cUxOcThiLVA5MjFON2EzenZ2NXZ3RkZUSEVDNTQ5OHl5M2RPSzdKMWlsWmxjZ080UHFRWXZoR2ZZeHhpdXFLX2M3emFLeFBnZ25oaUZraEpDclotYnZtMWhnbEgydGRCN2l6dFF5VmlmSXdDY1Jhai1VR3JHX2tWWER4RHdyX0NkQjNIQ05BaVhNLW9JSUViVENTa2ROUUJ0VjFFd3pZRThlZm5qeHFfc3AwR3kzZlpOeDRwSEVqWkFRMzBvX2Yz?oc=5) (Sat, 07 Nov 2026 22:00:00 GMT)
-- [Samsung Wallet’s USDC on Solana Is Live — Here’s What the Rollout Actually Covers - TradingView](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNlZTUDZWSzVXZGZ2VHR2Umh1dWpuWjN4ZXktd3FtSEE5YVJSa1NuU01WcTVVdnhOM29TUUs3TjIxY1NxbmMwbFNwMUI4RW9MYjl4WmVEWllYWWhqSHdGd1lGdHdvcVBsMW94M3hsZTRaM3JYVjVWVGtFZTdTWXhNSW5Nd3YtLTE3aDB4SDEyLU90SDkwQXljYU42a3R2UnZ4QWpnemZxY3FCRlRxdEphYWhPYzFKYmZ1Rk9ZX1BkNDhmd0NGTFFVTGc0UWZ3TzdXYUlN?oc=5) (Sat, 07 Nov 2026 17:00:00 GMT)
-- [Stablecoin contraction forces Bitcoin drop despite Fed reserve gains - CryptoSlate](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMUNZS2pQNmVYM0oxWGhnckFuT3cwak5NejNESlBNNDcyYkE5QjNORkQzVmk4YTBMc0s2WEFDbW1OLUFUTnVtMjZZNzBrZXQtaWhnQXZEbnkwSGVjTVJ4RmR4OG1USzJMNWJPak9oV3N1SHJITVR3NE9qS2pGRVBTdTNCbEZtVENEWFhJSjJua1hzQzk1dTZMNg?oc=5) (Sat, 07 Nov 2026 12:40:07 GMT)
+- [Tagged: Stablecoin Regulatory Frameworks - Crowdfund Insider](https://news.google.com/rss/articles/CBMiekFVX3lxTE84TUllNlRsYjhnS0JvQXNPUU5LZkt5MDAxRGlONlF6eDRFV0JPLTdlQXNreVNhNW9TNjRzWGZrU1QzUUlqVDhJdWxVV1FXX0VINVZwN1FjdWpRdDNJeDZNc0lEc2ZpUHkyQzB1QnRhdmpNRGFOTS1RLS1R?oc=5) (Mon, 09 Nov 2026 03:19:38 GMT)
+- [Stablecoin Regulatory Frameworks, Travel Rule, Bitcoin ETFs, and Ethereum (ETH) Tokenization Analyzed in Crypto Regulation Report - Crowdfund Insider](https://news.google.com/rss/articles/CBMigwJBVV95cUxPQXBDMUFPbFhYczZxZ1doQWw2YmJ3VWlxR1FCemtNVGxWZ0tPOUg0OTQ5WTgwSnREUTB1aHZUX1ZZbW5VN1hxUHNTcXBMT0NvcUZkblk1andRbmlMSVEteVJwakR0S25SSnlaeEM2dWZNWDJILWotYi13clc0OHJnWTR5YkctRGFodlB6eHA5N0t0RzRFeEhkNHFaRzMwWkhKa1NHalE5RTNfTWl0OGQ1NzlaNUFaSlBMUExVdkotc0x1M01iaXFQU19Nc1lRZWhQejJyN1ZOTXZ4OGdHakRXZjE3X0gyMlhZQThha0lTOVdOMDJPZ0xiVk43YVQzNzFtSE9z?oc=5) (Mon, 09 Nov 2026 03:19:38 GMT)
+- [Stablecoin Supply Stalls as Payment Volume Jumps 45%, Signaling Broader Real-World Use - bloomingbit](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1odmUxMVZ4aVFpTkRjb2FjUTFtUmdyeEd5WWhSU0l6Z2wxcUM4MGdxU2hOQ0d0aGhFaXF5UTlkMy0yS00za05NZnJhbGJkNS1Kc2xjTQ?oc=5) (Sun, 08 Nov 2026 22:39:26 GMT)
+- [Stablecoin market cap is frozen. The money inside it isn’t - CoinDesk](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMk9zVHZ6aDBkQnEwUFp5VkdoMGNWUVJ5allCemtiWEhZZFRUcFVacUZfRG9WVGhHMzZiNFFLM0ItWDB4S2Y4MjdlQTdzNUwtakNWY28xMWIyZmVId0F2THNwbzdQS0JFbFB6Z2QtWXBNTXk5NUloM05aZGFpNEZhb0hJOVZRYnMwQ2FlbFhjSm1iVDhZOUY1RFdfWVNvbFhH?oc=5) (Sun, 08 Nov 2026 19:16:42 GMT)
+- [Bridge’s OCC Approval Opens Path to Federal Stablecoin Trust Bank - The Defiant](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGstd2JPa2ZsbjRsUGJsNmFnT2ZlVlphRU1aQjBQRHhVb2ZkVmVJRmFjX3cwME9mb0xiSWpzS1Nha3BNNkc4d2Z0bDBWeVpqX3U3UEpyYXVhRkhlWGx3a19xWEtXVG1RNUE1emJQOVVMQVdEcVRGLU9vbHRBcDgzWk9SUmNmSnNobDAxZ2l3c3VlSFJPZm1lU2xmOUl5Q3JpS2owZ0R3VFhGcGs?oc=5) (Sun, 08 Nov 2026 17:36:15 GMT)
 
 <!-- END_dashboard -->
 
