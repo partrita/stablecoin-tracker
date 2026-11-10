@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-09 03:50:35 (UTC)*
+*Last Updated: 2026-11-10 05:24:44 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$278,640,586,758** | 🔴 -0.00% | 🔴 -1.82% |
+| **$278,307,525,378** | 🔴 -0.12% | 🔴 -1.43% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Tagged: Stablecoin Regulatory Frameworks - Crowdfund Insider](https://news.google.com/rss/articles/CBMiekFVX3lxTE84TUllNlRsYjhnS0JvQXNPUU5LZkt5MDAxRGlONlF6eDRFV0JPLTdlQXNreVNhNW9TNjRzWGZrU1QzUUlqVDhJdWxVV1FXX0VINVZwN1FjdWpRdDNJeDZNc0lEc2ZpUHkyQzB1QnRhdmpNRGFOTS1RLS1R?oc=5) (Mon, 09 Nov 2026 03:19:38 GMT)
-- [Stablecoin Regulatory Frameworks, Travel Rule, Bitcoin ETFs, and Ethereum (ETH) Tokenization Analyzed in Crypto Regulation Report - Crowdfund Insider](https://news.google.com/rss/articles/CBMigwJBVV95cUxPQXBDMUFPbFhYczZxZ1doQWw2YmJ3VWlxR1FCemtNVGxWZ0tPOUg0OTQ5WTgwSnREUTB1aHZUX1ZZbW5VN1hxUHNTcXBMT0NvcUZkblk1andRbmlMSVEteVJwakR0S25SSnlaeEM2dWZNWDJILWotYi13clc0OHJnWTR5YkctRGFodlB6eHA5N0t0RzRFeEhkNHFaRzMwWkhKa1NHalE5RTNfTWl0OGQ1NzlaNUFaSlBMUExVdkotc0x1M01iaXFQU19Nc1lRZWhQejJyN1ZOTXZ4OGdHakRXZjE3X0gyMlhZQThha0lTOVdOMDJPZ0xiVk43YVQzNzFtSE9z?oc=5) (Mon, 09 Nov 2026 03:19:38 GMT)
-- [Stablecoin Supply Stalls as Payment Volume Jumps 45%, Signaling Broader Real-World Use - bloomingbit](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1odmUxMVZ4aVFpTkRjb2FjUTFtUmdyeEd5WWhSU0l6Z2wxcUM4MGdxU2hOQ0d0aGhFaXF5UTlkMy0yS00za05NZnJhbGJkNS1Kc2xjTQ?oc=5) (Sun, 08 Nov 2026 22:39:26 GMT)
-- [Stablecoin market cap is frozen. The money inside it isn’t - CoinDesk](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMk9zVHZ6aDBkQnEwUFp5VkdoMGNWUVJ5allCemtiWEhZZFRUcFVacUZfRG9WVGhHMzZiNFFLM0ItWDB4S2Y4MjdlQTdzNUwtakNWY28xMWIyZmVId0F2THNwbzdQS0JFbFB6Z2QtWXBNTXk5NUloM05aZGFpNEZhb0hJOVZRYnMwQ2FlbFhjSm1iVDhZOUY1RFdfWVNvbFhH?oc=5) (Sun, 08 Nov 2026 19:16:42 GMT)
-- [Bridge’s OCC Approval Opens Path to Federal Stablecoin Trust Bank - The Defiant](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGstd2JPa2ZsbjRsUGJsNmFnT2ZlVlphRU1aQjBQRHhVb2ZkVmVJRmFjX3cwME9mb0xiSWpzS1Nha3BNNkc4d2Z0bDBWeVpqX3U3UEpyYXVhRkhlWGx3a19xWEtXVG1RNUE1emJQOVVMQVdEcVRGLU9vbHRBcDgzWk9SUmNmSnNobDAxZ2l3c3VlSFJPZm1lU2xmOUl5Q3JpS2owZ0R3VFhGcGs?oc=5) (Sun, 08 Nov 2026 17:36:15 GMT)
+- [Bitso Business Says Stablecoin Payment Volume Now Runs Above $150B Annualized - TradingView](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWE9LQTFkV0RUUUpBM1Y5eVBQcWMxdzZlbEtnT1p5bDlOMXFQWGU1WEI5YXRuNTgwM1l6YXN0bXdXYUgxdlFBd2FxeUFXdVEzQkRkUmtMY0xySGxpRXhfaDZkaW9RbFpEZ3k4UkpUOVd5QVJOckdKQjYxbTJDYkdQeHBqUVFZcEZySFFZNDR3YVlHR1pnbENlSlcyOVhGM19oNkx6Z0RrWU1RMnFqaW1uWm1TbGRrb0FxaFh1OUtaVDZ1MzJROW1XNlo3dTdfaUU?oc=5) (Tue, 10 Nov 2026 04:00:00 GMT)
+- [&#91;WDAF 2026&#93; Tether eyes USDT as bridge between Korea, global consumers - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE84ZU45dDM1aVhDdG00UmpTdWZwMWN3aTV2VGRSWG5SR196RElWUVVLWkpjenAzV0xFeXNfWWEyWTY4OFZVdjkxd3VydE5ES1V1ajNYYXZhOA?oc=5) (Tue, 10 Nov 2026 02:51:58 GMT)
+- [NHN Ramps Up Stablecoin, AI Payments Business With Groupwide Push - bloomingbit](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPYUJBbXVkMlpsaTd1MUFpTElOVWZ5QS1UbE5iblU4UUxpd0FPY08zcENNdVg2NktGVm4wUGF0a1ZKWTNXeUNTVmxybXl6WkE3OXZ1OA?oc=5) (Tue, 10 Nov 2026 01:32:20 GMT)
+- [Canada opens bank stablecoin access, but strips deposit guarantees - CryptoSlate](https://news.google.com/rss/articles/CBMilAFBVV95cUxNT21nQWRoRVkxVWs3LTNyeVpHcm43OW50XzJJRHJnc2dMYVREU0RUY1ZFMHR6YlJwYXpieHgxdnZ2UWJqbzY0MmN5VG5ta3ZUTE5vU3B4RFJYYnloYjd2cjM4OE9leUJQLU5uRDZTRWJPQm1HMUNvdm5ieW85TzJOcEdCb3ZuUHZ0YXh1cjJESFJhOVV1?oc=5) (Tue, 10 Nov 2026 00:40:00 GMT)
+- [PNC launches stablecoin payments for corporate clients - Finextra Research](https://news.google.com/rss/articles/CBMingFBVV95cUxNUU9FaEZoRWV4b01sTmg0UG5GTlN6V1R1VUpfLWE1YVNtb01mcDVJLTFrTnRpSmd0dnJKc3RjVjdVUEZCSWYtRVlveFl5MDg3QVRTRHgzZl9oZlM3VzJJaEhpdjlESXpEVmx2OWZaXzFrbFd4MlNPZy1RYVFKeGRMNlFjTllUZ2RRYkMwQjJXYm03Vmg1NXhvNUJvLU5nQQ?oc=5) (Tue, 10 Nov 2026 00:01:00 GMT)
 
 <!-- END_dashboard -->
 
