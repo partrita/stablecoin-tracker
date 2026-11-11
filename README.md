@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-10 05:24:44 (UTC)*
+*Last Updated: 2026-11-11 03:55:10 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$278,307,525,378** | 🔴 -0.12% | 🔴 -1.43% |
+| **$276,916,976,963** | 🔴 -0.50% | 🔴 -1.51% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Bitso Business Says Stablecoin Payment Volume Now Runs Above $150B Annualized - TradingView](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWE9LQTFkV0RUUUpBM1Y5eVBQcWMxdzZlbEtnT1p5bDlOMXFQWGU1WEI5YXRuNTgwM1l6YXN0bXdXYUgxdlFBd2FxeUFXdVEzQkRkUmtMY0xySGxpRXhfaDZkaW9RbFpEZ3k4UkpUOVd5QVJOckdKQjYxbTJDYkdQeHBqUVFZcEZySFFZNDR3YVlHR1pnbENlSlcyOVhGM19oNkx6Z0RrWU1RMnFqaW1uWm1TbGRrb0FxaFh1OUtaVDZ1MzJROW1XNlo3dTdfaUU?oc=5) (Tue, 10 Nov 2026 04:00:00 GMT)
-- [&#91;WDAF 2026&#93; Tether eyes USDT as bridge between Korea, global consumers - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE84ZU45dDM1aVhDdG00UmpTdWZwMWN3aTV2VGRSWG5SR196RElWUVVLWkpjenAzV0xFeXNfWWEyWTY4OFZVdjkxd3VydE5ES1V1ajNYYXZhOA?oc=5) (Tue, 10 Nov 2026 02:51:58 GMT)
-- [NHN Ramps Up Stablecoin, AI Payments Business With Groupwide Push - bloomingbit](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPYUJBbXVkMlpsaTd1MUFpTElOVWZ5QS1UbE5iblU4UUxpd0FPY08zcENNdVg2NktGVm4wUGF0a1ZKWTNXeUNTVmxybXl6WkE3OXZ1OA?oc=5) (Tue, 10 Nov 2026 01:32:20 GMT)
-- [Canada opens bank stablecoin access, but strips deposit guarantees - CryptoSlate](https://news.google.com/rss/articles/CBMilAFBVV95cUxNT21nQWRoRVkxVWs3LTNyeVpHcm43OW50XzJJRHJnc2dMYVREU0RUY1ZFMHR6YlJwYXpieHgxdnZ2UWJqbzY0MmN5VG5ta3ZUTE5vU3B4RFJYYnloYjd2cjM4OE9leUJQLU5uRDZTRWJPQm1HMUNvdm5ieW85TzJOcEdCb3ZuUHZ0YXh1cjJESFJhOVV1?oc=5) (Tue, 10 Nov 2026 00:40:00 GMT)
-- [PNC launches stablecoin payments for corporate clients - Finextra Research](https://news.google.com/rss/articles/CBMingFBVV95cUxNUU9FaEZoRWV4b01sTmg0UG5GTlN6V1R1VUpfLWE1YVNtb01mcDVJLTFrTnRpSmd0dnJKc3RjVjdVUEZCSWYtRVlveFl5MDg3QVRTRHgzZl9oZlM3VzJJaEhpdjlESXpEVmx2OWZaXzFrbFd4MlNPZy1RYVFKeGRMNlFjTllUZ2RRYkMwQjJXYm03Vmg1NXhvNUJvLU5nQQ?oc=5) (Tue, 10 Nov 2026 00:01:00 GMT)
+- [Twenty-one financial institutions have formed a stablecoin joint venture, Project Faro, with $270 million allocated to cover five years of operations. - Moomoo](https://news.google.com/rss/articles/CBMitwFBVV95cUxOR3poOTh2Sk1WODdyTUJmM0NsbUVJM1JHQVY3WnZkaVN1bkJLOHVqWWdybmJ4LW9IeHNKeEZUZTdBOW9sVDJITjcyNGk4SF9BR0hlMnowZTQ3V3poOGdrRWhweWJwRTRNM1UzYVczTWliM1VEcXVWZVVBeUlVREh0MU4tYUZ1aFRxeWNpQUZVTlRUUU5mNHhrbW5xTUd1VWRWa2s1SDRoejRLSUFDYW5zb0FQdXljbm8?oc=5) (Wed, 11 Nov 2026 03:43:13 GMT)
+- [Morph Report: 96% of APAC Respondents Cite Regulatory Compliance as Key to Stablecoin Adoption - FF News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLW9kbHpIOElWVlpNNzZuYVVsVW5JdWh3a2d5YngzTk9fOUtKa0V3aUNZU0ZXdkhoWXdPWExvMUVHdFY5UndwNFo2cUU2am9WZ3hMTk4wVURYZ3N4ZkdqMGkzYkNYc2JXMzBodnZpc3VJMWlVem5jSlBZbWJRSTAtaGNIZVkySDR6cTBqQmxtdWQ5emVtR1NCcDRIVVE4WjNjdEhlSEMzZEY?oc=5) (Wed, 11 Nov 2026 01:00:50 GMT)
+- [Global banks commit $270M to stablecoin venture targeting 2027 launch - Cryptonews.net](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGRV9oM293cVltS3pSQ0hNbjB0ZDJ2LTlFdDl0LXZhYzlXYV9Id3VSZldDU3QwYzZVcG9pSy1FQ3VoSVgxMmxQZVN6MklwdkRnSnEzR3hPMWg?oc=5) (Wed, 11 Nov 2026 00:26:58 GMT)
+- [Goldman and Citi Help Fund $270 Million Stablecoin Venture - PYMNTS.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZjl6Z055dTJZMEZyQmp2NnJlQ1BuTW9FbXM2N1pxbDRGZkpsdkt1dGJINDBPWkU2elp6WHdZNDh6NE1IbXE0UTFNWVpYYjR0dnFLeXpDZFdBbFRkbEhWMjFEeERNeHZGcm11TG1ORFFVSUhwZFBxZFV4V2hqTk1iMjhvVXBCVjByV1h3QmNxTHNTcTZlNFdoUjVZOEVFQ1k1R2Q0?oc=5) (Wed, 11 Nov 2026 00:00:00 GMT)
+- [Goldman Sachs and Citigroup Lead 21-Bank $270 Million Stablecoin Venture for 2027 Launch: 6 outlets compared - NewsCord](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNR2duSjZWWG8zNHJ5b2tOQWM1ODZYc01DODhFV3h1MTRoaFJnTzJfUTBiak5Rdk43bnQ5aFd0Ung0U2tURDVUZXBHYXJFa0ZSbmZiaXlJczFmam9RSzFyQlNuRWdHNUxYcTJ1cGlTZmRNV1lMZHJrWFJhV1RRbFZKbUtpMVk0MC1sNzFlWkRZVFEyU1J2VF9zbW1tTGRoeDRZUkM2LTNjVUcwa1BHMjl0TTBjNHd2RDQ0aWNvVE5BUGRQbW5lc3c4b0NmTDdtWDJGTV93T0RaMWJZcEJSY3hBdWN3bXI1Y0dLZlE?oc=5) (Tue, 10 Nov 2026 23:27:55 GMT)
 
 <!-- END_dashboard -->
 
