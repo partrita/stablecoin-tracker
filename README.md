@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-11 03:55:10 (UTC)*
+*Last Updated: 2026-11-12 05:03:11 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$276,916,976,963** | 🔴 -0.50% | 🔴 -1.51% |
+| **$276,417,728,371** | 🔴 -0.18% | 🔴 -1.78% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Twenty-one financial institutions have formed a stablecoin joint venture, Project Faro, with $270 million allocated to cover five years of operations. - Moomoo](https://news.google.com/rss/articles/CBMitwFBVV95cUxOR3poOTh2Sk1WODdyTUJmM0NsbUVJM1JHQVY3WnZkaVN1bkJLOHVqWWdybmJ4LW9IeHNKeEZUZTdBOW9sVDJITjcyNGk4SF9BR0hlMnowZTQ3V3poOGdrRWhweWJwRTRNM1UzYVczTWliM1VEcXVWZVVBeUlVREh0MU4tYUZ1aFRxeWNpQUZVTlRUUU5mNHhrbW5xTUd1VWRWa2s1SDRoejRLSUFDYW5zb0FQdXljbm8?oc=5) (Wed, 11 Nov 2026 03:43:13 GMT)
-- [Morph Report: 96% of APAC Respondents Cite Regulatory Compliance as Key to Stablecoin Adoption - FF News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLW9kbHpIOElWVlpNNzZuYVVsVW5JdWh3a2d5YngzTk9fOUtKa0V3aUNZU0ZXdkhoWXdPWExvMUVHdFY5UndwNFo2cUU2am9WZ3hMTk4wVURYZ3N4ZkdqMGkzYkNYc2JXMzBodnZpc3VJMWlVem5jSlBZbWJRSTAtaGNIZVkySDR6cTBqQmxtdWQ5emVtR1NCcDRIVVE4WjNjdEhlSEMzZEY?oc=5) (Wed, 11 Nov 2026 01:00:50 GMT)
-- [Global banks commit $270M to stablecoin venture targeting 2027 launch - Cryptonews.net](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGRV9oM293cVltS3pSQ0hNbjB0ZDJ2LTlFdDl0LXZhYzlXYV9Id3VSZldDU3QwYzZVcG9pSy1FQ3VoSVgxMmxQZVN6MklwdkRnSnEzR3hPMWg?oc=5) (Wed, 11 Nov 2026 00:26:58 GMT)
-- [Goldman and Citi Help Fund $270 Million Stablecoin Venture - PYMNTS.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZjl6Z055dTJZMEZyQmp2NnJlQ1BuTW9FbXM2N1pxbDRGZkpsdkt1dGJINDBPWkU2elp6WHdZNDh6NE1IbXE0UTFNWVpYYjR0dnFLeXpDZFdBbFRkbEhWMjFEeERNeHZGcm11TG1ORFFVSUhwZFBxZFV4V2hqTk1iMjhvVXBCVjByV1h3QmNxTHNTcTZlNFdoUjVZOEVFQ1k1R2Q0?oc=5) (Wed, 11 Nov 2026 00:00:00 GMT)
-- [Goldman Sachs and Citigroup Lead 21-Bank $270 Million Stablecoin Venture for 2027 Launch: 6 outlets compared - NewsCord](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNR2duSjZWWG8zNHJ5b2tOQWM1ODZYc01DODhFV3h1MTRoaFJnTzJfUTBiak5Rdk43bnQ5aFd0Ung0U2tURDVUZXBHYXJFa0ZSbmZiaXlJczFmam9RSzFyQlNuRWdHNUxYcTJ1cGlTZmRNV1lMZHJrWFJhV1RRbFZKbUtpMVk0MC1sNzFlWkRZVFEyU1J2VF9zbW1tTGRoeDRZUkM2LTNjVUcwa1BHMjl0TTBjNHd2RDQ0aWNvVE5BUGRQbW5lc3c4b0NmTDdtWDJGTV93T0RaMWJZcEJSY3hBdWN3bXI1Y0dLZlE?oc=5) (Tue, 10 Nov 2026 23:27:55 GMT)
+- [Bitcoin faces $70,000 test as $14.2 billion stablecoin contraction exposes demand weakness - Cryptonews.net](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pb3ZncHh1b3RiME1xVEpIc0xsM25IY0NVN2h4bXZBQm9JOEk5c0hfQ2FybmpMdVJ4Uk1mWFg4MWRRdlhMLWNnd1RXak82VmhSaFNEZE5KUEU?oc=5) (Thu, 12 Nov 2026 00:27:19 GMT)
+- [Stablecoin Drain, ETF Outflows Leave Bitcoin &#x27;Running on Empty&#x27; - Decrypt](https://news.google.com/rss/articles/CBMigwFBVV95cUxNaDZUcGZfeFZSMU5lb3A5MkhjM1dOVnl1ZVNfeDlPbzNjSkhFMFhVdUtsSk8yb3VXbGlEMTRyNmkwQnZRRG51QzVUM200X3VYWjBMWDVEclZNVENBZERzd0czd1J2bGdEUGRIZ0tfeWFMSlJSd3NfMVFuaF9lN184Q1BXWQ?oc=5) (Wed, 11 Nov 2026 21:46:03 GMT)
+- [Visa (V) Ties Monad Stablecoin Settlement Move To New Fraud API Rollout - Yahoo Finance](https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnVKSXRaODhCbjJ5eDhlWDFTV1BhTnNFR21pZXVSYV9OWVJ4MHo5REo2NXd6dV9VR1RuUEZVNWN5dWZVTXpCejBGNk0zZHdvTkNKNTNFYlMxWUlIb1IwNXM3MjlnNGxWam5rZzNJU0ZiWTM5NE1LbDJsTU1zTGdUN3BzYTZpQjlfanBVT3Z1NlhHdkVoV1FiTg?oc=5) (Wed, 11 Nov 2026 21:16:00 GMT)
+- [PNC pilots stablecoin payment solution for corporate clients - The Business Journals](https://news.google.com/rss/articles/CBMifEFVX3lxTFBDTVJGUU9WLVM1ODBZajVHOGctQWRpTjBjekM1VE1tTjV1R01TSVlFQUdjbGE1TTd3RDJTMVRZa1hBUURvalk5WmtlaFhISzA5dFV0OTlzSVcyTkJDWnM1QTh2aUQwQXlJUVRGeXZkU1JONjBuZG1iUlE5QW4?oc=5) (Wed, 11 Nov 2026 20:25:00 GMT)
+- [Can Visa&#x27;s Monad Integration Boost Its Stablecoin Strategy? - TradingView](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHRMQUpwamRUYkRmczgxRDNhbnVnUTA3RThXdS1xa0VEYTNWc0xmamN5V3U2dXdYQVdYU0RpVzF6MmFmNjFCeWlGejFZUnpISGwzNE9SdTZQRjBIRVI4YThjQ2xzM2hZeXJ6SmFhVldLTWtHamVucVdOaXNsQTBkXzhtNzhpRHEzYnZpU28tLTFaY3BFQmtzYm1YMUd6cko0bS1YcWMzYS1aRUJzcUU0S0ViSVk?oc=5) (Wed, 11 Nov 2026 20:10:32 GMT)
 
 <!-- END_dashboard -->
 
