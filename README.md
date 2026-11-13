@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-12 05:03:11 (UTC)*
+*Last Updated: 2026-11-13 04:19:01 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$276,417,728,371** | 🔴 -0.18% | 🔴 -1.78% |
+| **$275,701,331,248** | 🔴 -0.26% | 🔴 -1.59% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Bitcoin faces $70,000 test as $14.2 billion stablecoin contraction exposes demand weakness - Cryptonews.net](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pb3ZncHh1b3RiME1xVEpIc0xsM25IY0NVN2h4bXZBQm9JOEk5c0hfQ2FybmpMdVJ4Uk1mWFg4MWRRdlhMLWNnd1RXak82VmhSaFNEZE5KUEU?oc=5) (Thu, 12 Nov 2026 00:27:19 GMT)
-- [Stablecoin Drain, ETF Outflows Leave Bitcoin &#x27;Running on Empty&#x27; - Decrypt](https://news.google.com/rss/articles/CBMigwFBVV95cUxNaDZUcGZfeFZSMU5lb3A5MkhjM1dOVnl1ZVNfeDlPbzNjSkhFMFhVdUtsSk8yb3VXbGlEMTRyNmkwQnZRRG51QzVUM200X3VYWjBMWDVEclZNVENBZERzd0czd1J2bGdEUGRIZ0tfeWFMSlJSd3NfMVFuaF9lN184Q1BXWQ?oc=5) (Wed, 11 Nov 2026 21:46:03 GMT)
-- [Visa (V) Ties Monad Stablecoin Settlement Move To New Fraud API Rollout - Yahoo Finance](https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnVKSXRaODhCbjJ5eDhlWDFTV1BhTnNFR21pZXVSYV9OWVJ4MHo5REo2NXd6dV9VR1RuUEZVNWN5dWZVTXpCejBGNk0zZHdvTkNKNTNFYlMxWUlIb1IwNXM3MjlnNGxWam5rZzNJU0ZiWTM5NE1LbDJsTU1zTGdUN3BzYTZpQjlfanBVT3Z1NlhHdkVoV1FiTg?oc=5) (Wed, 11 Nov 2026 21:16:00 GMT)
-- [PNC pilots stablecoin payment solution for corporate clients - The Business Journals](https://news.google.com/rss/articles/CBMifEFVX3lxTFBDTVJGUU9WLVM1ODBZajVHOGctQWRpTjBjekM1VE1tTjV1R01TSVlFQUdjbGE1TTd3RDJTMVRZa1hBUURvalk5WmtlaFhISzA5dFV0OTlzSVcyTkJDWnM1QTh2aUQwQXlJUVRGeXZkU1JONjBuZG1iUlE5QW4?oc=5) (Wed, 11 Nov 2026 20:25:00 GMT)
-- [Can Visa&#x27;s Monad Integration Boost Its Stablecoin Strategy? - TradingView](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHRMQUpwamRUYkRmczgxRDNhbnVnUTA3RThXdS1xa0VEYTNWc0xmamN5V3U2dXdYQVdYU0RpVzF6MmFmNjFCeWlGejFZUnpISGwzNE9SdTZQRjBIRVI4YThjQ2xzM2hZeXJ6SmFhVldLTWtHamVucVdOaXNsQTBkXzhtNzhpRHEzYnZpU28tLTFaY3BFQmtzYm1YMUd6cko0bS1YcWMzYS1aRUJzcUU0S0ViSVk?oc=5) (Wed, 11 Nov 2026 20:10:32 GMT)
+- [SoFi Takes Bank-Issued Stablecoin SoFiUSD Live on Polygon, Opening It to 17 Million Members - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE1wSlNIS2JuSnVqaHBpN0pUSG52MHVrbnJqZHZraWs5dURlbTJnZlFMajFFdjdySGU4bzdHYWtPV1dIMUN0X1B2YWpuNU5VWGRrMDBKZGUyNGdwS1VvcEI4RGZXZDdRWnd6RzkzT29kdjYtYkFxZkE?oc=5) (Fri, 13 Nov 2026 02:25:00 GMT)
+- [Visa and Anchorage Digital bring Western Union stablecoin to settlement network - Finextra Research](https://news.google.com/rss/articles/CBMivwFBVV95cUxPNndkRnJiQ0twLXBIbHR3cmFDVFd2U3o5aEh1ZW9hcGkwWjRIQ1dyMXZub1VZZ19samRiRWhzMkZhTXFpYWw4Skwya2lXWmJNd3owLXNPaW4yS3gzMkR3R01mSmJRVmstekM0Q2xIMDZ2eHV4UWI4UzA2ZGc0SnJRSkJyR2labVprUUZIbGE1ZkZScWVScDdUendhR0pFd1Q0WXFOWkw0aXBMYzQ2bkM5MVp4QUQwaDlCVTVQdkd5dw?oc=5) (Fri, 13 Nov 2026 00:01:00 GMT)
+- [US Details $2.7 Billion Freeze After North Korea’s Binance Hack - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeW1GTEtDNFJteWJfNTQ3X0hZbFp6X283dU1aWkZ2SnlVNG5EQmdQcHhQeXpPMHJmUkxTMlNYUUNsZXN1aGVjVzhQMzFaUzBKZXlHT1ZYc2V4dlh2Y1VfM1pYSTB5SjhQWnRjZFVvQ01RTHllbGtvVmktWmp5cTBYV2FCUWpUNTVTd3dHM211Q1BpV0RJcEJURXJSbnlOcVQ4U213el9WX1pGODJmUDJORWxHZw?oc=5) (Thu, 12 Nov 2026 21:40:07 GMT)
+- [A New Blockchain Payments Survey Shows Stablecoins Going Mainstream. Here&#x27;s How to Buy Into the Stablecoin Investment Trend. - The Globe and Mail](https://news.google.com/rss/articles/CBMirwJBVV95cUxOdXdtMVY4cEFYaTU5MWg5WmpKNnlzVDVrc19mUERqWFR1VlNWUWFCOWlNQTVQMGU2MnVraXlpRVN5aDlXaUVUZkFnV2VhN25pOU8zRkRhbXJMbzkwNEVzR3JwcXJ5UG41M2lKUE9qcWtob2dhYnhjZ3F3aWNJNFA5bWRDZlFVSWYxUFZGNGhBMFk1LUc1M1pocFNtMFI4MXJBYy1IWTlxS1NPcDlRc1pjS1lLMEFIbVdrYjZaWkM2T2g5UjZWUENGSll2ODlnQVhHWkRyWU90Q0NqWmdHcHFxR21OeUN1Y3B3cjNZYnplMDBQeXFjVFZrUUM1alpoRjRSczZ4SnZkTTBoaU1WZXdRZ3ExNVdtZ0xuSzN1cDdQaktQSzc0NjNmdy1VY3RNbmc?oc=5) (Thu, 12 Nov 2026 20:42:55 GMT)
+- [Visa Expands Stablecoin Services With Anchorage Partnership - PYMNTS.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRmU4N2N1XzZRSTh3YkhtdkxCSjlMVFM3SDBKR01WU3pqbk0wUk16eG9Sb1F3NHdaczZTMW9YSVVXemxFT180SGV1VXVtTE1WQ0V3SVRESUZVU3JzdG1YSG9KUXhxUzFHdm9Ya3p1eVhpR3hZMFVVb2lvNDB1SVZONTZZdzk2S1dRdF9TOXBCRHVoOHg5a2JXbS1TRlpVcXItTEc1N1BFcldIdw?oc=5) (Thu, 12 Nov 2026 20:34:56 GMT)
 
 <!-- END_dashboard -->
 
