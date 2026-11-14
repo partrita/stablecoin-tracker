@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-13 04:19:01 (UTC)*
+*Last Updated: 2026-11-14 04:15:11 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$275,701,331,248** | 🔴 -0.26% | 🔴 -1.59% |
+| **$275,058,082,247** | 🔴 -0.23% | 🔴 -1.28% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [SoFi Takes Bank-Issued Stablecoin SoFiUSD Live on Polygon, Opening It to 17 Million Members - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE1wSlNIS2JuSnVqaHBpN0pUSG52MHVrbnJqZHZraWs5dURlbTJnZlFMajFFdjdySGU4bzdHYWtPV1dIMUN0X1B2YWpuNU5VWGRrMDBKZGUyNGdwS1VvcEI4RGZXZDdRWnd6RzkzT29kdjYtYkFxZkE?oc=5) (Fri, 13 Nov 2026 02:25:00 GMT)
-- [Visa and Anchorage Digital bring Western Union stablecoin to settlement network - Finextra Research](https://news.google.com/rss/articles/CBMivwFBVV95cUxPNndkRnJiQ0twLXBIbHR3cmFDVFd2U3o5aEh1ZW9hcGkwWjRIQ1dyMXZub1VZZ19samRiRWhzMkZhTXFpYWw4Skwya2lXWmJNd3owLXNPaW4yS3gzMkR3R01mSmJRVmstekM0Q2xIMDZ2eHV4UWI4UzA2ZGc0SnJRSkJyR2labVprUUZIbGE1ZkZScWVScDdUendhR0pFd1Q0WXFOWkw0aXBMYzQ2bkM5MVp4QUQwaDlCVTVQdkd5dw?oc=5) (Fri, 13 Nov 2026 00:01:00 GMT)
-- [US Details $2.7 Billion Freeze After North Korea’s Binance Hack - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeW1GTEtDNFJteWJfNTQ3X0hZbFp6X283dU1aWkZ2SnlVNG5EQmdQcHhQeXpPMHJmUkxTMlNYUUNsZXN1aGVjVzhQMzFaUzBKZXlHT1ZYc2V4dlh2Y1VfM1pYSTB5SjhQWnRjZFVvQ01RTHllbGtvVmktWmp5cTBYV2FCUWpUNTVTd3dHM211Q1BpV0RJcEJURXJSbnlOcVQ4U213el9WX1pGODJmUDJORWxHZw?oc=5) (Thu, 12 Nov 2026 21:40:07 GMT)
-- [A New Blockchain Payments Survey Shows Stablecoins Going Mainstream. Here&#x27;s How to Buy Into the Stablecoin Investment Trend. - The Globe and Mail](https://news.google.com/rss/articles/CBMirwJBVV95cUxOdXdtMVY4cEFYaTU5MWg5WmpKNnlzVDVrc19mUERqWFR1VlNWUWFCOWlNQTVQMGU2MnVraXlpRVN5aDlXaUVUZkFnV2VhN25pOU8zRkRhbXJMbzkwNEVzR3JwcXJ5UG41M2lKUE9qcWtob2dhYnhjZ3F3aWNJNFA5bWRDZlFVSWYxUFZGNGhBMFk1LUc1M1pocFNtMFI4MXJBYy1IWTlxS1NPcDlRc1pjS1lLMEFIbVdrYjZaWkM2T2g5UjZWUENGSll2ODlnQVhHWkRyWU90Q0NqWmdHcHFxR21OeUN1Y3B3cjNZYnplMDBQeXFjVFZrUUM1alpoRjRSczZ4SnZkTTBoaU1WZXdRZ3ExNVdtZ0xuSzN1cDdQaktQSzc0NjNmdy1VY3RNbmc?oc=5) (Thu, 12 Nov 2026 20:42:55 GMT)
-- [Visa Expands Stablecoin Services With Anchorage Partnership - PYMNTS.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRmU4N2N1XzZRSTh3YkhtdkxCSjlMVFM3SDBKR01WU3pqbk0wUk16eG9Sb1F3NHdaczZTMW9YSVVXemxFT180SGV1VXVtTE1WQ0V3SVRESUZVU3JzdG1YSG9KUXhxUzFHdm9Ya3p1eVhpR3hZMFVVb2lvNDB1SVZONTZZdzk2S1dRdF9TOXBCRHVoOHg5a2JXbS1TRlpVcXItTEc1N1BFcldIdw?oc=5) (Thu, 12 Nov 2026 20:34:56 GMT)
+- [Thailand SEC proposes 5 million Baht daily cap on stablecoin transfers — Why? - AMBCrypto](https://news.google.com/rss/articles/CBMingFBVV95cUxOMjRjQXNTdG1ySmxzSEU0VzlhRkw2RHVGQUpjTFYzRVZMU2NHbDY4bzBGLWxkaWZDQ0I0SW9xU2ZRV0dYbFNlVF9KdXltSlpvWk5pbjlHWGxwRlpiMTJoX2Rkb0RiN05VUlItcEVVMTl0cVFXWlpTTzBta3B4OHRoTkV5dzV6a0hXaU9UbDZQRHQ1bUdpMEVkUFExRGxEdw?oc=5) (Sat, 14 Nov 2026 01:00:08 GMT)
+- [Stablecoins Beyond Trading: Moving Value in Everyday Life - Eye On Annapolis](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMVJyVDlWaDdxTTBWZ3Bjbkkza3BJMkk3ZzE2NGlDRVpyZnhvUDJtMlN2eF82eVZoXzd4ZWl1SWItUWkxVnN1QVhaWWc1OENsR0NRcE1TSjJQdUxGZVR5b1k1RF9sSjRiWHZXeXVDWlhJemNsMGlXNTViSF9TRmthelpOX2RyNG9INmFDaDNKUHFndzdGMndzNGUxd2w?oc=5) (Fri, 13 Nov 2026 23:00:00 GMT)
+- [Goldman Sachs (GS) Backs $270 Million Stablecoin Push With Project Faro - Yahoo Finance](https://news.google.com/rss/articles/CBMilgFBVV95cUxQbTMzQjhlUzJlakJGa0tmTFVJNWJBSHlpbFVyOHd1ZjU0SkNwandHSTVVZ01TY3RMZjBDaFI4MHNqcFJYSndyQlVzTW04bk01VTNHMGlVTVBsSlVCSHE3U2p3TXZCMGhTTmxpYndNaTRoemcyOUhwbVVUeTB4QWV3Tk04Z3ROVm5qdm4wTTBPOFRiNjltanc?oc=5) (Fri, 13 Nov 2026 20:07:43 GMT)
+- [Sui stablecoin supply climbs over 10% to $538M as the wider market shrinks - Crypto Briefing](https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2dTX2c4VDdoTDlEVTFEMUEyRjlFZU05OU9zYmhVTEY4bllERkxHZ0NiVURWaUFVOUVwUkxheFZaWHdTN056MEdlT3phZjZrWTBmYzNpSGlYLUVXWlVNYU93aHBwdTNwNFF2NVlDMkZMSEFWZVZVVFZ0ZmZUdFNOSA?oc=5) (Fri, 13 Nov 2026 18:00:56 GMT)
+- [The hard part of stablecoin payments is the exit - Yahoo Finance](https://news.google.com/rss/articles/CBMihwFBVV95cUxOQzhqSF9SM3VEZ2Etc2tIenN0MExhbmJyRGkwZk5lOFdSUkYtTWQ4bnN4SmpCRkJYZ3RPbl9wM3cwQmVab3RBUWJJbFhKQzJzbGM0Nk9ubmlGN21UcDNqaHpaWFAxZF95cXlzdXNqNW1LZ0hZeWFYRWdWRW9zT0RvYU9LaFZQZ2s?oc=5) (Fri, 13 Nov 2026 17:58:00 GMT)
 
 <!-- END_dashboard -->
 
