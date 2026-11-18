@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-17 05:51:50 (UTC)*
+*Last Updated: 2026-11-18 05:18:42 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$274,693,647,529** | 🔴 -0.14% | 🔴 -1.30% |
+| **$274,365,713,324** | 🔴 -0.12% | 🔴 -0.92% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Visa And Mastercard Stocks Face A Stablecoin Test Investors Should Watch - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMEJVX1dsT3Q5ZVRDZTA3S0xES1V5VGIyc25ZdEJ5ajV2UGliZ3ZxeXdRUi1ORHdxTWRJNWI5c2l5M3RxMFBSc3VBUzVSVVVmVFVKcUt4eXExOG9JRDJlazlHUnZKaEhrSWVmUTFCVTRZcnBtWDB3RE9zNk1CRTFrcnU2RGtqekxLRHRTRkpabjd0Rlp1MTdjdEw2azVvb28yQnM1OXpB?oc=5) (Mon, 16 Nov 2026 02:09:00 GMT)
-- [Stripe Focuses On Tempo Blockchain And Stablecoin Enabled Initiatives - Crowdfund Insider](https://news.google.com/rss/articles/CBMiugFBVV95cUxNU05lMWVJY2F1bm9ydXp6b0xqcGVXbDcySDNzUnRpY1N5MUlqbjZkYlRucFZHanRCQkZZR2o2MFpHZjlBNE9oT3J3MVZ0YWkzcjVQa2ptdFh2VXJNVGlQXy01c1c1OE4yMkp4aVNkWnFtbE44cGtNRGlDbEJ1LUJ1NkhzMmRQTE1TNnNpbWJVV0FNaE1kelRyTmRRdTZrdGZvaDItTi12S29WTFgxWFhGejFWX1JIQmNkQkE?oc=5) (Sun, 15 Nov 2026 22:13:25 GMT)
-- [Stablecoin Supply Shrinkage Raises a Bigger Question About Crypto Liquidity - TradingView](https://news.google.com/rss/articles/CBMizgFBVV95cUxQeEQ4aG16bUpCWWVmM0F1aGxJWXdIZm5QZDJ3VUFjWm5nUVhnazY5X1JZVGdva0VGMTZzMnRXeVRHMnBDdFdvNnhURmJoZnVRUlU1bW4wcTdYMEotMHhOaTBGWm5tbnRkZTJVUTZfQllNdHhXMkVodjlneDhya3N5cXNTamFVSjJJdjRQa2JoSzREbmNxMTlRZEgzRG5xNW5pY2prckpMWW1MU0o3N1loZ2ZRNUZMQ3lrT1VoY0pqdU5YZTExblZ6aHpXSURTUQ?oc=5) (Sun, 15 Nov 2026 20:00:00 GMT)
-- [Arbitrum Draws $91.8M in Stablecoins as ARB Token Sinks 20% in a Week - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTFBLZm1sVHE2S2JlRC1RR2hSa1JfNjZ0WjBIWnpIN1o0VGNzeGl0LVpXS2gtZXZ0b0RYS0ExSWRBUFNCdm1rMFo5enk2dmlSSmV1THQzRFl0Qlh2RWxqQWExU09FVHRoTUNwamNfMTd2VWZXUkhmUEE?oc=5) (Sun, 15 Nov 2026 18:35:00 GMT)
-- [21 Financial Institutions Plan to Launch a New Dollar Stablecoin in 2027. Who Will Be the Biggest Winners and Losers? - The Globe and Mail](https://news.google.com/rss/articles/CBMipAJBVV95cUxPLUJTNzdQaWZ2dkVnbDktdU85d1FYSmNDRU53TkYxRC1oMjNsMEFFdjVLY1p0QktiMUlFSW5kOW5Dc0VtdTB1aHp4V0wwdXJVbThoOThOQVV3Q3Q3a1kxRU9vOFM3cVlGa2R4MDNUREZpcWRhdWFtUUEyYW1HdXlNUEQ3X0FDOEpydGM3MHFzUkxJWE41Ym1wbTJsRUV6V2hZU2tCTzd5ZndXdlJZeFdPRDhsYUdoSmRHZGMwaUx0bEpqYWdTSmtTcHd3ZHdCT1dwNVQ2T2tadEFFN3JnOW9PVkVGQnRCTURadlhKY3Nxb2loSlQtM1FfUTFiSDVkX0V0Nnk3eDdLS1V4SmQwdXdNN0YzaFdNdmdZQzUtSEdMcXB0bHlD?oc=5) (Sun, 15 Nov 2026 15:40:12 GMT)
+- [New Stablecoin Regulations from Thai SEC Aim - Cryptonews.net](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xemtVSHIzcTg1bWVBMTRvTnM1Mko1VnBXdEp3N3o1NnlXTnFPTXNsT05hY1ZZZEdLZEV3TUM1SndrNlU5eUxRVElGMVJ4NlpPRzgzZnp3?oc=5) (Wed, 18 Nov 2026 04:47:34 GMT)
+- [Visa Direct Advances Stablecoin-Powered Money Movement in Asia Pacific - PR Newswire](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN05UMUJNcUVRSUZfTlVrZ3k4RWRla2ZucUYyWFp3NUtTd3REeW9qZFA5VWxGcW5fcWtpb1RlYUJleHBHZEFvbDQ2cWkta1Y0XzBHQmJGaGkwZVIzMk1Hc2F4ZDR4X2pfb29hUWI0MXlyQUlTUXhualdkSGNheENkcmJtaExCdEh3NndxdUNVOHlMWUlMQlhxUl96aVlzXzY3T0oxbEJYd0RGcXV6d0NuZmtPSjA3cjBkOW5mZ1JkaHFvMVZrS04wbWhhTQ?oc=5) (Wed, 18 Nov 2026 04:37:32 GMT)
+- [Visa (V) Plans Stablecoin-Powered Cross-Border Payouts in Asia Pacific - TradingView](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRk5BWVlJX0Z0cVpLelo1UHNCTGFGbEZVNHlCNDZwbmFkbER4N0pYbWpva1M4aVJ6dGM2UXd2QXRmOUFiYkhjbEE3QmJ4VUIxZUZINVNRSzhRS2pvUEFMZ1FGWnkwTEMteGdDUEhVVEltU29lQlpaN212Z3dkRm9tM2ttRFA4eG96bVB1ZmF1YTUwczdmWVVPMGZxRkJpVTZucFJUZWpJb0hSVXJwZG1SSDdzZ3JuNTV1NDRzcTh3OWpOQWFFRngxc0dR?oc=5) (Wed, 18 Nov 2026 04:30:00 GMT)
+- [World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements - The Block](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZmd6RmdaUFVzbXpzNXZyQVV1UWdaUU52UTY0QXZaS0UxbFBubUVIY2llMnFjckowMU52c2FYWmpyY3oxVDBnVEh6LWpmZVMxNUlIZ0dZOENNc1dBTFNKQkt2WTI5amJxLTUxRGtPM25xTGFHVkx0TXVBaHhKX08zazdHeGJmQ0tkNHQ5OGVpMHlaY0J3eDdnZHdFMkNrRXU0dng5aUxR?oc=5) (Wed, 18 Nov 2026 04:21:00 GMT)
+- [Cardano Ecosystem Stablecoin DJED and Reserve Token SHEN to End Service on January 1, 2027 - TradingView](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdEI4RjhaMTVGMGNFYUlzeXZraU5PUEJsME1aYWRhNlJFVTR0MTdWdllhWFpUVFM3eGVMV2drbDJ4dVluSmM5WWhqdXRZTWR1RVgtZTdUalVTZzlNd0RhTU1xenlCa2FmOU04TWJBWl9PazhqalRCVHVGVTRVbndHc1AwbTNobG1vY3NmOFFzQ2NOOTFNRDJHR0l4WHgwaVdfTGxGYWU5ODhHUDl3dlNXeVlJcmpYZ3R1X18xMGtHMHBrSWpncXVHODNyV3JzU0Q1aHlsajhQdXcwSHd0QWFxYXdrbVJfclE?oc=5) (Wed, 18 Nov 2026 02:31:00 GMT)
 
 <!-- END_dashboard -->
 
