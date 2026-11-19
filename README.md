@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-18 05:18:42 (UTC)*
+*Last Updated: 2026-11-19 05:13:36 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$274,365,713,324** | 🔴 -0.12% | 🔴 -0.92% |
+| **$273,519,824,105** | 🔴 -0.31% | 🔴 -1.05% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [New Stablecoin Regulations from Thai SEC Aim - Cryptonews.net](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xemtVSHIzcTg1bWVBMTRvTnM1Mko1VnBXdEp3N3o1NnlXTnFPTXNsT05hY1ZZZEdLZEV3TUM1SndrNlU5eUxRVElGMVJ4NlpPRzgzZnp3?oc=5) (Wed, 18 Nov 2026 04:47:34 GMT)
-- [Visa Direct Advances Stablecoin-Powered Money Movement in Asia Pacific - PR Newswire](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN05UMUJNcUVRSUZfTlVrZ3k4RWRla2ZucUYyWFp3NUtTd3REeW9qZFA5VWxGcW5fcWtpb1RlYUJleHBHZEFvbDQ2cWkta1Y0XzBHQmJGaGkwZVIzMk1Hc2F4ZDR4X2pfb29hUWI0MXlyQUlTUXhualdkSGNheENkcmJtaExCdEh3NndxdUNVOHlMWUlMQlhxUl96aVlzXzY3T0oxbEJYd0RGcXV6d0NuZmtPSjA3cjBkOW5mZ1JkaHFvMVZrS04wbWhhTQ?oc=5) (Wed, 18 Nov 2026 04:37:32 GMT)
-- [Visa (V) Plans Stablecoin-Powered Cross-Border Payouts in Asia Pacific - TradingView](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRk5BWVlJX0Z0cVpLelo1UHNCTGFGbEZVNHlCNDZwbmFkbER4N0pYbWpva1M4aVJ6dGM2UXd2QXRmOUFiYkhjbEE3QmJ4VUIxZUZINVNRSzhRS2pvUEFMZ1FGWnkwTEMteGdDUEhVVEltU29lQlpaN212Z3dkRm9tM2ttRFA4eG96bVB1ZmF1YTUwczdmWVVPMGZxRkJpVTZucFJUZWpJb0hSVXJwZG1SSDdzZ3JuNTV1NDRzcTh3OWpOQWFFRngxc0dR?oc=5) (Wed, 18 Nov 2026 04:30:00 GMT)
-- [World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements - The Block](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZmd6RmdaUFVzbXpzNXZyQVV1UWdaUU52UTY0QXZaS0UxbFBubUVIY2llMnFjckowMU52c2FYWmpyY3oxVDBnVEh6LWpmZVMxNUlIZ0dZOENNc1dBTFNKQkt2WTI5amJxLTUxRGtPM25xTGFHVkx0TXVBaHhKX08zazdHeGJmQ0tkNHQ5OGVpMHlaY0J3eDdnZHdFMkNrRXU0dng5aUxR?oc=5) (Wed, 18 Nov 2026 04:21:00 GMT)
-- [Cardano Ecosystem Stablecoin DJED and Reserve Token SHEN to End Service on January 1, 2027 - TradingView](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdEI4RjhaMTVGMGNFYUlzeXZraU5PUEJsME1aYWRhNlJFVTR0MTdWdllhWFpUVFM3eGVMV2drbDJ4dVluSmM5WWhqdXRZTWR1RVgtZTdUalVTZzlNd0RhTU1xenlCa2FmOU04TWJBWl9PazhqalRCVHVGVTRVbndHc1AwbTNobG1vY3NmOFFzQ2NOOTFNRDJHR0l4WHgwaVdfTGxGYWU5ODhHUDl3dlNXeVlJcmpYZ3R1X18xMGtHMHBrSWpncXVHODNyV3JzU0Q1aHlsajhQdXcwSHd0QWFxYXdrbVJfclE?oc=5) (Wed, 18 Nov 2026 02:31:00 GMT)
+- [Stablecoins, Tokenised Deposits and the Future of Money and Payments - International Banker](https://news.google.com/rss/articles/CBMirAFBVV95cUxNWHFSTE9wQnpGNGlqVVJ5WFRMX25qQzladkhMTWlmaGxhdU1tRkdrMVd6c203R01OSVRBaVZKNldyQkpUMFFhTVRkOFZJRmF4YjhGNm9qTlhBbkJycVRPNWdHZVlHaDRScnBXd2NYRlBSamRvOC13bjhmTzZkUTQ5TkZaRlM2RTdtTjl4Yy1yVUZnTWNDTUpmalNQMm9MbXVIeFlpc3BadmMxbnNM?oc=5) (Thu, 19 Nov 2026 05:05:02 GMT)
+- [FOMO Pay taps Anchorage Digital for US stablecoin infrastructure - TNGlobal](https://news.google.com/rss/articles/CBMikgFBVV95cUxPLTU5YTVUeHFxTVpYTTFkMkE4cE5JQmFrZmNQRU9HSjZrcUUwd25QOFRrQ2xGd2pqQ3U3ek5LZEFyRkpINGVTbHRxb0U5NUQyZW9YS1BTOUZNZDYzaEtHZ0pHZGtrS1prRWJuYUJiYUlmTlBFcDdacjd2bzJQaFlFMC1rY0hqTzRNeTczbm90dDE0QQ?oc=5) (Thu, 19 Nov 2026 02:39:24 GMT)
+- [Gonka Bridge Exploit Drains Stablecoins, Mints WGNK - The Defiant](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaklGWEV1TGhMbFR3ZFB0aEZ5bElweHZHWHA5aE5vZTRueG1vQmhlWWFZQk1vUm5wUnVkQVZaeXlnclhfd3hkNTctU3p2VmdWNUgtV0RoRjlrcEZBMGE3NlZHWnVBVTNfczd1QTZJOGtmbTlQSk9RX0s2X3dZYjN6Nzl3TnQxZVhXOUlN?oc=5) (Wed, 18 Nov 2026 23:29:09 GMT)
+- [Senators Press Treasury to Ensure ‘Equal Footing’ for Stablecoin Issuers in GENIUS Act - TradingView](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYjlsdVJPV1FIQS1SV0piclR1enpvdU44aTNCa2ZrMGJDWmNoWXVJVFY3ak8xYmtZSXM3aFNISDg4aVg5cXI0WDViQ2ZFallfNm1acHNwMGVjUWp5RTZXSEg4TWpleUpfRG5xT3JKcHM0cEV0UmVadm1xODZzMFVWRmNKTzdoTzlsWkdBMU9SZmZoXzNIMFFCZzNVMWRGdFJfcnFhM3o3Qlk2OXA5OWxEb2N6Zi1jZEl0N09hQ2lzY05yUjY5eXBJaTJoTVlpZ0tjRWE0MUg4VXNjbG9HVVdVcg?oc=5) (Wed, 18 Nov 2026 23:04:25 GMT)
+- [Senators: Treasury must ensure &#x27;equal footing&#x27; for stablecoin issuers in GENIUS Act implementation - Cryptonews.net](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JVzZZRnY2ajNSMm9oMU9Tb2syNlprRlFBSFFnMGJBaWctVVYzMmJxUm5QZGlwTE1GQ01pcmVQTGlXVklSUGRMSkR3SnlsbUluTlJoQndn?oc=5) (Wed, 18 Nov 2026 22:21:42 GMT)
 
 <!-- END_dashboard -->
 
