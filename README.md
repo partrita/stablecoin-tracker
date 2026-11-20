@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-19 05:13:36 (UTC)*
+*Last Updated: 2026-11-20 05:00:28 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$273,519,824,105** | 🔴 -0.31% | 🔴 -1.05% |
+| **$271,905,417,442** | 🔴 -0.59% | 🔴 -1.38% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Stablecoins, Tokenised Deposits and the Future of Money and Payments - International Banker](https://news.google.com/rss/articles/CBMirAFBVV95cUxNWHFSTE9wQnpGNGlqVVJ5WFRMX25qQzladkhMTWlmaGxhdU1tRkdrMVd6c203R01OSVRBaVZKNldyQkpUMFFhTVRkOFZJRmF4YjhGNm9qTlhBbkJycVRPNWdHZVlHaDRScnBXd2NYRlBSamRvOC13bjhmTzZkUTQ5TkZaRlM2RTdtTjl4Yy1yVUZnTWNDTUpmalNQMm9MbXVIeFlpc3BadmMxbnNM?oc=5) (Thu, 19 Nov 2026 05:05:02 GMT)
-- [FOMO Pay taps Anchorage Digital for US stablecoin infrastructure - TNGlobal](https://news.google.com/rss/articles/CBMikgFBVV95cUxPLTU5YTVUeHFxTVpYTTFkMkE4cE5JQmFrZmNQRU9HSjZrcUUwd25QOFRrQ2xGd2pqQ3U3ek5LZEFyRkpINGVTbHRxb0U5NUQyZW9YS1BTOUZNZDYzaEtHZ0pHZGtrS1prRWJuYUJiYUlmTlBFcDdacjd2bzJQaFlFMC1rY0hqTzRNeTczbm90dDE0QQ?oc=5) (Thu, 19 Nov 2026 02:39:24 GMT)
-- [Gonka Bridge Exploit Drains Stablecoins, Mints WGNK - The Defiant](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaklGWEV1TGhMbFR3ZFB0aEZ5bElweHZHWHA5aE5vZTRueG1vQmhlWWFZQk1vUm5wUnVkQVZaeXlnclhfd3hkNTctU3p2VmdWNUgtV0RoRjlrcEZBMGE3NlZHWnVBVTNfczd1QTZJOGtmbTlQSk9RX0s2X3dZYjN6Nzl3TnQxZVhXOUlN?oc=5) (Wed, 18 Nov 2026 23:29:09 GMT)
-- [Senators Press Treasury to Ensure ‘Equal Footing’ for Stablecoin Issuers in GENIUS Act - TradingView](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYjlsdVJPV1FIQS1SV0piclR1enpvdU44aTNCa2ZrMGJDWmNoWXVJVFY3ak8xYmtZSXM3aFNISDg4aVg5cXI0WDViQ2ZFallfNm1acHNwMGVjUWp5RTZXSEg4TWpleUpfRG5xT3JKcHM0cEV0UmVadm1xODZzMFVWRmNKTzdoTzlsWkdBMU9SZmZoXzNIMFFCZzNVMWRGdFJfcnFhM3o3Qlk2OXA5OWxEb2N6Zi1jZEl0N09hQ2lzY05yUjY5eXBJaTJoTVlpZ0tjRWE0MUg4VXNjbG9HVVdVcg?oc=5) (Wed, 18 Nov 2026 23:04:25 GMT)
-- [Senators: Treasury must ensure &#x27;equal footing&#x27; for stablecoin issuers in GENIUS Act implementation - Cryptonews.net](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JVzZZRnY2ajNSMm9oMU9Tb2syNlprRlFBSFFnMGJBaWctVVYzMmJxUm5QZGlwTE1GQ01pcmVQTGlXVklSUGRMSkR3SnlsbUluTlJoQndn?oc=5) (Wed, 18 Nov 2026 22:21:42 GMT)
+- [MoonPay Applies for National Trust Bank Charter to Offer Stablecoin and Custody Services - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYVdtYXB3bGxQTEFkTS1DaGFVRGNNM2hTanFXY0hwV0lNMDZFbW5DakRlWHlTZHlaOFRYd0RaOTg4U0stSlJ4Z3JLS09ReC1CR05DV20tTGE1b1BPVW1zQVcySm9pc1hISTJvT0UyQThfWWZsX2t3eUYxY1pteXVtVUp6ejY4SGp3QzJJZ0dQN2VNeFpYZG9fZTVpUV92Ym9ta3c?oc=5) (Fri, 20 Nov 2026 03:06:00 GMT)
+- [Bitcoin Slides Toward $62,000 as Stablecoin Liquidity Shrinks - Businesskorea](https://news.google.com/rss/articles/CBMidEFVX3lxTE9zbGVLRHdUQkJkMlpDVjlZOHd1VDlFREFnVzF2ajNhMDZDcVlrTUJxSU1RLUpGMlBhMzRWMDlaWTUyaW1GelZxS3pZZmlsOG84ZWdFMXJFTGdNUnNzWE5YbnVXNGtNNEZzcnlEMElnYllBcEdi?oc=5) (Fri, 20 Nov 2026 00:30:17 GMT)
+- [MoonPay Files With OCC to Create MoonPay National Trust Bank for Stablecoins: 6 outlets compared - NewsCord](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTy11RVRZNXpLZUZWd1JXVkFlVFZMUlo3eVlNdF9udGJKNUllMHNPMEV3aVdsOGlJdjJ4bEVzc2FJS09RVmt0aTVReHZ6WGpmVEFLWU9rcjlIbzhJc1lmQXVWRnZseFFaUEUyYXBJR3R5SzZwbFR4X0hpR1ZhdlBqX0pjYlJuM2VPTDY1NzMzaUlMNV85NTVkVEY3TEswYVAtNDUtMlJHQkZ1QVBTMTVpMjF0WjhycWRJeDNmYUg4THhNcFpyZVViLVFONjJoU2U5S3kwaHVLdEhKRnNlLVNnOHRCdjM?oc=5) (Thu, 19 Nov 2026 23:24:19 GMT)
+- [Tether Takes Stake in Swiss Stablecoin Firm SCRYPT to Build Out Cross-Border Payments - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE44eW9RbTVsWXpCRjFoa3Y3ekZ6QWc0Y05DMmNzY09CWWJJNzh0QllhczhhbVFXeTFsN1IzYUJiUmxaanQtaTV4bWlMS3BmRUV5dHBaUHhhN19UTkhPNk9WSmVDel9rdnpxal9DSnVPcGVPQVJYbkE?oc=5) (Thu, 19 Nov 2026 23:05:00 GMT)
+- [MoonPay Files for National Trust Bank Charter to House Stablecoin Reserves - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE9Sb1dkSGdFX09WeF9OaENsVHE5aGpJclhHZkx4bWZxSGNrTlgtWFhaSzgwMjh5bUVJNEFiUTNjdXNBU2QyRVB2Q0w0NXNjZ1RiVzVETlM4SmJ1QnZvR3hSYlM0azJna0FUdURLQzR5eGt6QU9Id0E?oc=5) (Thu, 19 Nov 2026 22:25:00 GMT)
 
 <!-- END_dashboard -->
 
