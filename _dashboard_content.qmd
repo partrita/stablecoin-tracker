@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-20 05:00:28 (UTC)*
+*Last Updated: 2026-11-21 04:56:29 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$271,905,417,442** | 🔴 -0.59% | 🔴 -1.38% |
+| **$270,969,286,991** | 🔴 -0.34% | 🔴 -1.49% |
 
 ### 📰 Latest News
-- [MoonPay Applies for National Trust Bank Charter to Offer Stablecoin and Custody Services - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYVdtYXB3bGxQTEFkTS1DaGFVRGNNM2hTanFXY0hwV0lNMDZFbW5DakRlWHlTZHlaOFRYd0RaOTg4U0stSlJ4Z3JLS09ReC1CR05DV20tTGE1b1BPVW1zQVcySm9pc1hISTJvT0UyQThfWWZsX2t3eUYxY1pteXVtVUp6ejY4SGp3QzJJZ0dQN2VNeFpYZG9fZTVpUV92Ym9ta3c?oc=5) (Fri, 20 Nov 2026 03:06:00 GMT)
-- [Bitcoin Slides Toward $62,000 as Stablecoin Liquidity Shrinks - Businesskorea](https://news.google.com/rss/articles/CBMidEFVX3lxTE9zbGVLRHdUQkJkMlpDVjlZOHd1VDlFREFnVzF2ajNhMDZDcVlrTUJxSU1RLUpGMlBhMzRWMDlaWTUyaW1GelZxS3pZZmlsOG84ZWdFMXJFTGdNUnNzWE5YbnVXNGtNNEZzcnlEMElnYllBcEdi?oc=5) (Fri, 20 Nov 2026 00:30:17 GMT)
-- [MoonPay Files With OCC to Create MoonPay National Trust Bank for Stablecoins: 6 outlets compared - NewsCord](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTy11RVRZNXpLZUZWd1JXVkFlVFZMUlo3eVlNdF9udGJKNUllMHNPMEV3aVdsOGlJdjJ4bEVzc2FJS09RVmt0aTVReHZ6WGpmVEFLWU9rcjlIbzhJc1lmQXVWRnZseFFaUEUyYXBJR3R5SzZwbFR4X0hpR1ZhdlBqX0pjYlJuM2VPTDY1NzMzaUlMNV85NTVkVEY3TEswYVAtNDUtMlJHQkZ1QVBTMTVpMjF0WjhycWRJeDNmYUg4THhNcFpyZVViLVFONjJoU2U5S3kwaHVLdEhKRnNlLVNnOHRCdjM?oc=5) (Thu, 19 Nov 2026 23:24:19 GMT)
-- [Tether Takes Stake in Swiss Stablecoin Firm SCRYPT to Build Out Cross-Border Payments - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE44eW9RbTVsWXpCRjFoa3Y3ekZ6QWc0Y05DMmNzY09CWWJJNzh0QllhczhhbVFXeTFsN1IzYUJiUmxaanQtaTV4bWlMS3BmRUV5dHBaUHhhN19UTkhPNk9WSmVDel9rdnpxal9DSnVPcGVPQVJYbkE?oc=5) (Thu, 19 Nov 2026 23:05:00 GMT)
-- [MoonPay Files for National Trust Bank Charter to House Stablecoin Reserves - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE9Sb1dkSGdFX09WeF9OaENsVHE5aGpJclhHZkx4bWZxSGNrTlgtWFhaSzgwMjh5bUVJNEFiUTNjdXNBU2QyRVB2Q0w0NXNjZ1RiVzVETlM4SmJ1QnZvR3hSYlM0azJna0FUdURLQzR5eGt6QU9Id0E?oc=5) (Thu, 19 Nov 2026 22:25:00 GMT)
+- [COTI to Pull Plug on Cardano&#x27;s DJED Stablecoin Dec. 31, With Under 900,000 Tokens Left - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE9QN2Y1RDFvbjFyWjlyVTlQQ3N5Ql9RdEsxazg0bEQzUDhWaFNsUFNneFczZVdxYXdXcVV3Q3hQVmJCSnhwdW05dEU4QjJKWDI5dGFxNThjQnBYWE9EZHJjSDF2YXNoU0xJY0thMHhqT3FaTUFFclE?oc=5) (Fri, 20 Nov 2026 23:55:00 GMT)
+- [The Final Missing Pieces of America&#x27;s Stablecoin Rulebook Have Arrived at White House - Latin Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmkwT3k3NG1xRDdPTW9yb2c3cUtXVm15cEVXXzU5TUlDM2lQakVjSWk0eFRUMklaQ051VzI0Z1dZX3gxZFE5dnZkNGUyT3RwdzQzR09Mb3RqdW0zd0EtNGYzZFAwOVM5ajZCblhxWWtKTG5EbHVrNmJjOVdFZU9VbzlWVjFuQnVoMUluN1BHRXFlOUkzMGg0R1N3TFBRZS1OZWd0dV9QVHUxaWhJ?oc=5) (Fri, 20 Nov 2026 20:26:46 GMT)
+- [Visa Pulls Stablecoins Out of the Lab: Why This Week Marks Payments&#x27; Real Inflection Point - FinanceX Magazine](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXJSalpJY3FnUkgzRk4zOUlZYnFQLTFBcVZxMGlvWGZUbmh0YUxVdDFsY2xjQWV4QUpfUVVzZlJHZDJlcEgwUVdmWmtmOE1YMHhpTTlKTWJBTjFzQW5hSVJsNVlvSlZEdG5fOGoyVEFLSmEwOGdncjFja2JuY2loMzlVTVhpWHNIUl9MZFdBRG1PWERnYUVrcQ?oc=5) (Fri, 20 Nov 2026 19:01:40 GMT)
+- [Ethereum Holds 80.5% of Binance&#x27;s Stablecoin Balance Despite Lower Address Activity - CryptoQuant](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS0VyMEF3WlZSTVVCNmpTazhPZzZEcXBYYnJjOHhMa213Z1E5eVVMcDlZMUMtMWI2eDQ3MGtLMTZrVDdkdERwQVBuMGZYbmp4OG5mbFJfU3l6cU5QQjlxZGVPSEtGcG50VkRfUE9zQkpPbDdkQlVDMXF6QzloVTFQcS10cmpfQjAyQmYtUF9ySlRHYVVpZ0V3MkEwT3F1M0YtenpXblFyaWRiRU9jQUtjcDI5UFVpdThWTUNHOU8xRldtZHEyLWpBN0xMd2NZWEp1dTVvTWJXbFdfM2dTdWdfLXBR?oc=5) (Fri, 20 Nov 2026 17:58:32 GMT)
+- [Why Ramp Says Stablecoins Are Already Changing How Money Moves - Yahoo Finance](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdG1RNTJfTTRTNC1IRG0wVkVYWEVxWFN5RTNRX2VzWV94UnVkckRvdUtmTHNGVk5KZnBsM1h5VXhoS2xNQm9OWHVoT2YxMHVtZk9vMFF5TmNTQUU5dEFmNGxrR1lCWWU5aWEwekhWVDBoZ184R1BhWWJjdXpxek1Tc2hhUC1lV2liaENDY1hpMVlkbFhidE52WHVyekRFeGc?oc=5) (Fri, 20 Nov 2026 16:50:00 GMT)
