@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-21 04:56:29 (UTC)*
+*Last Updated: 2026-11-22 04:16:48 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$270,969,286,991** | 🔴 -0.34% | 🔴 -1.49% |
+| **$270,901,200,274** | 🔴 -0.03% | 🔴 -1.53% |
 
 ### 📰 Latest News
-- [COTI to Pull Plug on Cardano&#x27;s DJED Stablecoin Dec. 31, With Under 900,000 Tokens Left - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE9QN2Y1RDFvbjFyWjlyVTlQQ3N5Ql9RdEsxazg0bEQzUDhWaFNsUFNneFczZVdxYXdXcVV3Q3hQVmJCSnhwdW05dEU4QjJKWDI5dGFxNThjQnBYWE9EZHJjSDF2YXNoU0xJY0thMHhqT3FaTUFFclE?oc=5) (Fri, 20 Nov 2026 23:55:00 GMT)
-- [The Final Missing Pieces of America&#x27;s Stablecoin Rulebook Have Arrived at White House - Latin Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmkwT3k3NG1xRDdPTW9yb2c3cUtXVm15cEVXXzU5TUlDM2lQakVjSWk0eFRUMklaQ051VzI0Z1dZX3gxZFE5dnZkNGUyT3RwdzQzR09Mb3RqdW0zd0EtNGYzZFAwOVM5ajZCblhxWWtKTG5EbHVrNmJjOVdFZU9VbzlWVjFuQnVoMUluN1BHRXFlOUkzMGg0R1N3TFBRZS1OZWd0dV9QVHUxaWhJ?oc=5) (Fri, 20 Nov 2026 20:26:46 GMT)
-- [Visa Pulls Stablecoins Out of the Lab: Why This Week Marks Payments&#x27; Real Inflection Point - FinanceX Magazine](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXJSalpJY3FnUkgzRk4zOUlZYnFQLTFBcVZxMGlvWGZUbmh0YUxVdDFsY2xjQWV4QUpfUVVzZlJHZDJlcEgwUVdmWmtmOE1YMHhpTTlKTWJBTjFzQW5hSVJsNVlvSlZEdG5fOGoyVEFLSmEwOGdncjFja2JuY2loMzlVTVhpWHNIUl9MZFdBRG1PWERnYUVrcQ?oc=5) (Fri, 20 Nov 2026 19:01:40 GMT)
-- [Ethereum Holds 80.5% of Binance&#x27;s Stablecoin Balance Despite Lower Address Activity - CryptoQuant](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS0VyMEF3WlZSTVVCNmpTazhPZzZEcXBYYnJjOHhMa213Z1E5eVVMcDlZMUMtMWI2eDQ3MGtLMTZrVDdkdERwQVBuMGZYbmp4OG5mbFJfU3l6cU5QQjlxZGVPSEtGcG50VkRfUE9zQkpPbDdkQlVDMXF6QzloVTFQcS10cmpfQjAyQmYtUF9ySlRHYVVpZ0V3MkEwT3F1M0YtenpXblFyaWRiRU9jQUtjcDI5UFVpdThWTUNHOU8xRldtZHEyLWpBN0xMd2NZWEp1dTVvTWJXbFdfM2dTdWdfLXBR?oc=5) (Fri, 20 Nov 2026 17:58:32 GMT)
-- [Why Ramp Says Stablecoins Are Already Changing How Money Moves - Yahoo Finance](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdG1RNTJfTTRTNC1IRG0wVkVYWEVxWFN5RTNRX2VzWV94UnVkckRvdUtmTHNGVk5KZnBsM1h5VXhoS2xNQm9OWHVoT2YxMHVtZk9vMFF5TmNTQUU5dEFmNGxrR1lCWWU5aWEwekhWVDBoZ184R1BhWWJjdXpxek1Tc2hhUC1lV2liaENDY1hpMVlkbFhidE52WHVyekRFeGc?oc=5) (Fri, 20 Nov 2026 16:50:00 GMT)
+- [Chainalysis Finds 55% Jump in China-Linked Stablecoin Payments Tied to AI Proxy Access - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTFBOOENJelFNUTVyYjZqWU5VbEFYM084SnlHMUhEdWFwSTVLR3QzRVZMOGNTLVhlMlhKY1BRS3N5S2h0bTdPd0lxQW1yanY0UkhGd3NoU2VXekgtMzFsazZZNWNObFp6RFNsdEpFTGdkVXB0eEtNbEE?oc=5) (Sun, 22 Nov 2026 01:25:00 GMT)
+- [Singapore wants to test stablecoin payments by AI agents - CryptoSlate](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSm91N2dCRDVmU245WG9tcWZzQWJLM29YWllnTmxBZk1mOHJGbVlhY3ZmbzJCVExnSmdPZ0lxSnZrZjVLbWRLVFZ5V19kRFNRNmJtN2wxYUUzRXVqWG1Dd2lfM1Z0a2ZXeEhkd3ZzSzhqU1l1TmVsMnJiZnZZbm4tQVNYNFdQd3lo?oc=5) (Sat, 21 Nov 2026 17:40:11 GMT)
+- [Chainalysis reports 55% surge in China-linked stablecoin payments after US AI launches - Crypto Briefing](https://news.google.com/rss/articles/CBMigAFBVV95cUxPV0Q1STZOVllEWmZRZlVtNF9FbDU4Sk0zNUxCOFpfOWYwcEVYcE1oYjY4V05LRzBjR3dneFJ0bUQ3VHVwN1V1NmdWNkFhZVpwZ2FCdzdwWjBPYlM2XzVzZFpHczJlZjZkZWU1eFVRZ2E2WUszODRtZTlYZVpJV2podw?oc=5) (Sat, 21 Nov 2026 15:35:45 GMT)
+- [Visa Pulls Stablecoins Out of the Lab: Why This Week Marks Payments&#x27; Real Inflection Point - FinanceX Magazine](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXJSalpJY3FnUkgzRk4zOUlZYnFQLTFBcVZxMGlvWGZUbmh0YUxVdDFsY2xjQWV4QUpfUVVzZlJHZDJlcEgwUVdmWmtmOE1YMHhpTTlKTWJBTjFzQW5hSVJsNVlvSlZEdG5fOGoyVEFLSmEwOGdncjFja2JuY2loMzlVTVhpWHNIUl9MZFdBRG1PWERnYUVrcQ?oc=5) (Sat, 21 Nov 2026 15:34:55 GMT)
+- [Why Rising T-Bill Yields Could Drive Cash From Stablecoins to Tokenized Funds - CCN.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE9rU1Rka1o3RmMycHZXSHU4X3FtdUdKUVVZTEVxQWQwc05NWU0wazB4eDEyZTJGNThHMnJVTklERk1EQTlSV095RmVQaXZvaDJNTnRxUTFjR2JiY080MERhMkt2TUc1UzVwNjVqZi1abDhqQmc4SndJSGtmbEl6dkE?oc=5) (Sat, 21 Nov 2026 11:04:06 GMT)
