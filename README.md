@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-23 04:55:35 (UTC)*
+*Last Updated: 2026-11-24 07:44:11 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$271,031,612,871** | 🟢 +0.05% | 🔴 -1.47% |
+| **$271,650,355,208** | 🟢 +0.23% | 🔴 -1.11% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Visa Direct advances stablecoin-powered money movement in Asia Pacific - CoinGeek](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdGhZcTlaWGxHTl95b3J5enc0ZnFuYTJHLUVlejROQzZiRC1wQl85RnAzbThELXF0SmpPM3BIaWNnaVlaZXJvb3FoOHE3dGtZX1dQUDRLTzdqMG5mS24ybi1uSUYzZDhySlR5Mm1KWTRtendlb180TVlramdzRVdxLXBBVnFMU2V5RUxNRUVOeGVLMmkxM2tj?oc=5) (Mon, 23 Nov 2026 04:00:00 GMT)
-- [Curve Founder Says Onchain FX Will Scale From Stablecoin Swaps, Not Bank Desks - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE9GM3pFTkhHcXc3ekR6eHpLREpaUkJzNnJRcHZON0pURTN1RmpnVGc1clM1VGZ4VnpzVUFnS3VTRnJYbE1kNVh5enA2bUY1bm4xR2JEZzBlR2lkXzNWc1ByWXVQWjFveDBXRkVEVVM4eXQ0QUxNaVE?oc=5) (Mon, 23 Nov 2026 03:35:00 GMT)
-- [Aptos named sole Move-based chain in PayPal’s PYUSD0 stablecoin rollout - Crypto Briefing](https://news.google.com/rss/articles/CBMic0FVX3lxTE1KaW5abnRiamF3VVJ1MmxzWkVPdXlUQkVpXy1iZ2w2TDBmczhKV0RRRnJBVFJXSEhqZlRzYjF1NXFXeDhOVlhlNUNyQVNWRFQ4MVB4R19TWUhIRUZORGZSbTI4TFBQNk1DUFhSMG5zR3JfTHM?oc=5) (Sun, 22 Nov 2026 23:05:37 GMT)
-- [Senators want state-licensed firms to keep issuing stablecoins after Jan. 18 - CryptoSlate](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdlVmdjFvSEFuZGMwODFId1c1U1FaaFhvZHk4NG9jTnpuUk9HczBwQ183NGpLQ2NMMWxmUXJoalV4VjdueHF1aUlQX1RpX1pIWk52SHVzbkZ3b3l3R2JqbHltUDlhUWJiTmFvOURUcHo5Nmo4M280T1c1NHdka1VHdzN5SkIyT3JTVlJsaXlkQzEwLXk1V3QyNC13aFFncmRkSUE?oc=5) (Sun, 22 Nov 2026 22:05:49 GMT)
-- [Sky Protocol Handles Over $2 Billion in One-Day Stablecoin Redemptions While Maintaining Dollar Peg and Contesting Illicit Activity Allegations - Crowdfund Insider](https://news.google.com/rss/articles/CBMimwJBVV95cUxQdXlOOEphVHJJU2JtYVZla0RsTllkRnI0OFlSblhSdG92NV9DR1dYazhITVJ6SXl4eld6alNLTm1uY3EydDZiSW9Jc3Z4M0t2RjYxaFRzUkZxQUp1dXI4VEZlSHlFZjZqaTh4U3l4MERWY093NVo5VncwRlA2RHI5ZWVaTm1TZjJ5VlRCbkVCSVllY244S3hQREdGUll5bmtWdDRuVGNqUzVBeEZTSUc1d2FBVmpTeWRkb0NtcTVEcHItLWFzVlRlNllYVTBsUncxaXhZWk9Vc1hLQmJLLVIxOEFyT2R4VVYxcFd5bDR2S1Y0LXBhZTZhS0gxZllxaVlLQzBKZGJVX1RSNmh0b0x2bzVmV2RielhRNmxJ?oc=5) (Sun, 22 Nov 2026 16:44:28 GMT)
+- [Korean banks set to lead stablecoin issuance under proposed digital asset rules - Korea JoongAng Daily](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUWc0SlJPVGp0b3BBNk5nYlJRTjRQMU1KdE1rdWpPR2Eyd1NDU204NGIzaDNhanFKNjNPNE1uS3hFR2p1X2VuRFF0MVNxVXFfczk0REVZZHJsOXRDU0hsYlp0OEhwQTJCUzF1TjBpamtFdWxZaTJsY21oYmNaVElPNjl5ajRXRjJsaWxraFRYZzJROERDY3ltNnA4YWhIRXBkQmVxRGFLSWNsSFo5eXdGVUcxOHppbzE3WXhadVFUYkNWLVpJa1hVd1pxa24?oc=5) (Tue, 24 Nov 2026 07:18:45 GMT)
+- [BlackRock taps Hong Kong stablecoins for new money market fund - South China Morning Post](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMzl6ekJwNy0zUVBrekEwVWZIRkl6Q3lBTmQ5S2tkLUZ6NHdSS0ZnQjVqb0pvdG5xV1F4WGFoRzJGeTJ3b2JKR21VbWF2ZnQ1VTB2aDhBMEJLSFhWcGlibm0xaDlUaG1hdnBiUGZCM2gxcnNvVG5LV1JrZDMxbmlrNmRiVXJsQzZGbzNTRmdEZU9tSGRTYWpMQW1FTVpQWW1ERkp6TGtVNElHTF9tbU1LSmhDbVU5OC1jMFpJRw?oc=5) (Tue, 24 Nov 2026 06:07:29 GMT)
+- [TOK27: Tokenisation, Stablecoins and the Future of Global Markets - Mayer Brown](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUXlXekVIamNYM2txMXlrMWlpenJYcGtYNVd2OTZFcUR2Mko4NkxTVGxUdUp4VGRvUF9lY2lFTW9TcFBHVXV0UEM3N0RCei1ZQ2R5czFKWm5Wem9aSDRQN0JiRTVkYTJrcExVY3FacVpRN3cwWUhqSFk5NFlyNG9vYndyYnpGSVFtX0QyRnVpcTUzZldpZThXV1VlNXhYV1BCNFRxSkxncDBhdHhXMHBnT3BzVzg1MWg2?oc=5) (Tue, 24 Nov 2026 02:06:20 GMT)
+- [BlackRock Opens Hong Kong Fund to Stablecoin Payments - The Defiant](https://news.google.com/rss/articles/CBMipgFBVV95cUxOTjd5M3lmbHJDcnVJN1N2UmZqbEdUeWNtRHdIOHl6RHhCZHVrYm5lSXItNEZZQWVIS0hWVXZzRmxmLVhsc3JWelVFSmxkcWZfdXo1UWh3NS0xeko3ME01Vnl4dHp3T21KblVQU2NoTUstdWNBblBqTGJTczlrb2JMdm80aUtGMEJReHlOZDlXWTJDbEJHQmhlSzBkWE1pMDZPUkZCRll3?oc=5) (Tue, 24 Nov 2026 00:35:39 GMT)
+- [Payoneer Gets OCC Green Light For Stablecoin Trust Bank - Law360](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQk9YNklBc213OEoyVGRPX2czTjR3anJIZzZlb095M0NTUWZCWUhtLXQ5QVpjY0szUVM1dFJtR2prTTRHZVhYSDJCaWx6TkFlVXEtZGRwWUw0NjJvZVZGNGIydE9fb3E5TGtNanZqUGlXdmxUOExCUkpyRUl3Y1JnTlQ3MjVVQ0hwcm1lYkxVUWFNWTl1TWZsM3Q3ZlB3SFZKc0pvcmg3NnAwSG1JaldGa0pCb2VLNUM3R1F5Wmw0SGLSAVZBVV95cUxOaTVhWjVKUXlIU1NyWHo2X0I4dFZCUXRScndNeElXVkpmZzZwTHBFLXhBT3h5S2JDb2Y2U2xmby1NM1pacWhiUG9najJmWklOYnRtMWxqQQ?oc=5) (Mon, 23 Nov 2026 23:31:50 GMT)
 
 <!-- END_dashboard -->
 
