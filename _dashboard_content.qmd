@@ -1,14 +1,14 @@
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-26 06:07:50 (UTC)*
+*Last Updated: 2026-11-27 05:58:28 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$270,990,515,740** | 🔴 -0.25% | 🔴 -0.92% |
+| **$270,845,728,132** | 🔴 -0.05% | 🔴 -0.39% |
 
 ### 📰 Latest News
-- [HSBC sees over 100,000 users of its stablecoin in first month since launch - South China Morning Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYTdtYTU5YkNZeWJuWXY1VnRPYm1haFFsSEtsa2ZCdW1semlqNkQyNVZJNkdmanVYTWNoelM5bl9pS1RFNHlDd1pyRk9XaVE5VnYxelVCbUQ3N2h2T1BqVGZ1TlpCenItVGVrUk52bDc1c3F6ekNWUWwtcjBXbUxNOVNrR3RaWWdsRmJSVlpfd1Y3a1Z4REpsUTk3d3JIdms0dGhoRzFPVFRmTGM?oc=5) (Thu, 26 Nov 2026 03:00:11 GMT)
-- [BlackRock Launches Its First Tokenized Fund in Asia, a Hong Kong Dollar Money Market Fund Open to HKDAP Stablecoin Subscriptions - HedgeCo.Net](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWjBnX24wcEhXRmNFbkxYQ3lVVl9xMWFtSXVsc1F4dHpoaDB0OUo1cnl0cnd3SlM2Sm9xTl9BM0tjMnY5bFZldzV4czdSYkRwMEtXSEJCTHBfZzNHQ3pWXzZEUU83cDdyaWtVU1pnY05CdlNyaE84amN1Nk9hSFRzZDZHUXJxN0lLNmZLZDhweFJUWFBMYnB4b0tnQm9CUzRiYUl5a0hCMjlRLUk0Wm4wNTRSWDNqM1ptNlFjT3V4QUpMNXpnRFBJM3JBZ1VMcGJ1bXpsMkJlSzBzcWVMWnN1RVpwcFc1NEJzUURGUkxDWlY1YWp3ck5NNQ?oc=5) (Wed, 25 Nov 2026 21:51:12 GMT)
-- [EBA cautions over stablecoin risks in decentralised finance, eyes MiCA review - INSIGHT EU MONITORING](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYkN5Nmp0U1JEYlU0WnJmbnZwb1VoUE5wcS1MQWljUXZTMUV0WTU5YXctQUZoQVNVUE9kdDZ2WXNLbjdqVkhPcmRVcGJFZVlKSHdqNmdudms5bFJaSklRRjZDdzVET3RybTNwa0EtQXo1NnlPWjZTSDRYNzZzNURCY1R1SXlKd2xLd1RZR2dfTXN6Q2UwcFVEVDB6LWN6dnFvUDdZSHM1QVUwbUhZNl9OdmlwX1owOXp4bTR4N2phTVEteGlVVUtMREZPUlRpdGdQOXVrU1pIeEpiRWM?oc=5) (Wed, 25 Nov 2026 21:40:14 GMT)
-- [Stablecoin: what HR needs to know for payroll purposes - Canadian HR Reporter](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkNrR3I3a0JxbkRMWFM3NEtITkRSTUF0RXY1TV9RZm41cGRfZG1JZGRSXzhGeWY2a3lRSF9pdDI3Vmx1UlIxeXJFTlJXM3VmczFuSW9TMmYxS0k4c2FsbnlxZ2Q2UFMwY3Fid2JJVlUxSDM0ZDNpUVBnaE5KdlhUSGx1TjRBak12bTdiYWRuUzkxVW5oYTVWalVEQnU1MG1aOEF1cy1jU1I2cGs?oc=5) (Wed, 25 Nov 2026 20:11:50 GMT)
-- [Payoneer gets conditional OCC approval for stablecoin bank - American Banker](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRV9PMHlJYzVjYXZUYjNoR2tmcWpFdzZzTGtLcnVXeDZZTk9wZDdIcUdZUzRjazFFWk05ck1HOVlUcThraVVNa2t1R3pZOVVneUxQVEJuVHI2Qmp4ZDJDcHR5Q1ZUem0zYTNJYm82X1g4Q3dBTGZWbDNVWEx4M0ZqQ1RHZUtDZzBBNkJDNUlYNnh5ZWdrMGZFWC1n?oc=5) (Wed, 25 Nov 2026 19:46:16 GMT)
+- [Visa and NBX plan stablecoin-linked payment card - Electronic Payments International](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUl83RmxZdWdodGhrVEtBRm4ydVVZS3VHMGlKS3N2OU9ZYTMxR0FLWUJqQm93cWluWi1PZ1c4cF9tV1NKRGlVWjFjM0R3T2JCdXBJdl90VXpJTlFnQWtxdnpjOVVINkxZRlozSUZ6YU5zTU1TWEo2S2laY0hCZlRRYzVJdElJc2ZTQmkwY0RZckxpS1RHM2x4N1pZNVJ0dk5lN1JKRQ?oc=5) (Fri, 27 Nov 2026 05:48:39 GMT)
+- [Ripple&#x27;s lending plan moves closer to tapping XRP Ledger&#x27;s $800 million in stablecoins - CoinDesk](https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0k5aC1VNWtUdzd2MGNURlNHQ1dCNndEY3FwQXNvMGNXaHVPcFNpX3NYSTYtcGI1SE9Fc0lwVGMtX0ZtWDY4UmxoVXRfdmFLcHAtbGtKLTV2RG11N1Z2YThiWjZ0MUF6V29TNld1SlBaS0NsR2FhM3Z4aVZ5WVdkY2MweUgzS0RoUmxPcU82VG5qVXdacUhCZXR2a3I0X3lIT2M2WUpZdmVSSllnLTZzSW54TlpCc1czUkVQZTYwQ0pIX0QxT01kbkhaVjY?oc=5) (Fri, 27 Nov 2026 05:12:38 GMT)
+- [Bank of Japan executive director stresses need for stablecoin frameworks - Crypto Briefing](https://news.google.com/rss/articles/CBMie0FVX3lxTE1HYzRhdVRtUnNLYWk3aDZuNXNmeWVadG1EbGplMlYySWtGLTJNRURQdkh1ODA0UFJPaHBCanNuTl9xS0F6UkVfdEhCSWlXYk91MHkyVEJiVE9ORlNwdzdSWnR3c2M5LVJZdW9HcFJYVFJDZVBUb1lZam5fTQ?oc=5) (Fri, 27 Nov 2026 00:57:44 GMT)
+- [The chokepoints Europe cannot see - CEPR](https://news.google.com/rss/articles/CBMibEFVX3lxTE1saTRpV3U5NFladEJvdkJlcmozUVpaUF9vODAzcVBGX29wS2RvZExIRTk2ZGJERHduYW5wcXQwU214TlJ4Y2diN05uZTRzVmM1U0ZEaTBFZEdIbUkxTTF4Z0gzSGpoRlV6dFR4Wg?oc=5) (Fri, 27 Nov 2026 00:24:38 GMT)
+- [TRON leads stablecoin market cap growth with $195.5 million daily gain - Crypto Briefing](https://news.google.com/rss/articles/CBMieEFVX3lxTE5wWkFWNTV3QTFCY3l0M1JuX1duM0w3UkVSaW5fU3J1S1ItNUVnWEhHMC1KUDNYcnY5XzBFSktDMlpodjRVbm8zVEttbmdYY2hZZUVqeS1ucUpNdTczazc1Z1dGSjczTEE5amJGS1VVQ05JRlVLT2UtVA?oc=5) (Thu, 26 Nov 2026 21:59:31 GMT)
