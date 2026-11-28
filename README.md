@@ -3,11 +3,11 @@
 <!-- START_dashboard -->
 
 ### 📊 Market Overview
-*Last Updated: 2026-11-27 05:58:28 (UTC)*
+*Last Updated: 2026-11-28 05:40:18 (UTC)*
 
 | Total Market Cap | 24h Change | 7d Change |
 | :--- | :--- | :--- |
-| **$270,845,728,132** | 🔴 -0.05% | 🔴 -0.39% |
+| **$270,767,318,265** | 🔴 -0.03% | 🔴 -0.07% |
 
 ### 📈 Charts
 | Market Cap History | Market Dominance |
@@ -15,11 +15,11 @@
 | ![History](data/stablecoin_marketcap_plot.png) | ![Dominance](data/stablecoin_dominance_plot.png) |
 
 ### 📰 Latest News
-- [Visa and NBX plan stablecoin-linked payment card - Electronic Payments International](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUl83RmxZdWdodGhrVEtBRm4ydVVZS3VHMGlKS3N2OU9ZYTMxR0FLWUJqQm93cWluWi1PZ1c4cF9tV1NKRGlVWjFjM0R3T2JCdXBJdl90VXpJTlFnQWtxdnpjOVVINkxZRlozSUZ6YU5zTU1TWEo2S2laY0hCZlRRYzVJdElJc2ZTQmkwY0RZckxpS1RHM2x4N1pZNVJ0dk5lN1JKRQ?oc=5) (Fri, 27 Nov 2026 05:48:39 GMT)
-- [Ripple&#x27;s lending plan moves closer to tapping XRP Ledger&#x27;s $800 million in stablecoins - CoinDesk](https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0k5aC1VNWtUdzd2MGNURlNHQ1dCNndEY3FwQXNvMGNXaHVPcFNpX3NYSTYtcGI1SE9Fc0lwVGMtX0ZtWDY4UmxoVXRfdmFLcHAtbGtKLTV2RG11N1Z2YThiWjZ0MUF6V29TNld1SlBaS0NsR2FhM3Z4aVZ5WVdkY2MweUgzS0RoUmxPcU82VG5qVXdacUhCZXR2a3I0X3lIT2M2WUpZdmVSSllnLTZzSW54TlpCc1czUkVQZTYwQ0pIX0QxT01kbkhaVjY?oc=5) (Fri, 27 Nov 2026 05:12:38 GMT)
-- [Bank of Japan executive director stresses need for stablecoin frameworks - Crypto Briefing](https://news.google.com/rss/articles/CBMie0FVX3lxTE1HYzRhdVRtUnNLYWk3aDZuNXNmeWVadG1EbGplMlYySWtGLTJNRURQdkh1ODA0UFJPaHBCanNuTl9xS0F6UkVfdEhCSWlXYk91MHkyVEJiVE9ORlNwdzdSWnR3c2M5LVJZdW9HcFJYVFJDZVBUb1lZam5fTQ?oc=5) (Fri, 27 Nov 2026 00:57:44 GMT)
-- [The chokepoints Europe cannot see - CEPR](https://news.google.com/rss/articles/CBMibEFVX3lxTE1saTRpV3U5NFladEJvdkJlcmozUVpaUF9vODAzcVBGX29wS2RvZExIRTk2ZGJERHduYW5wcXQwU214TlJ4Y2diN05uZTRzVmM1U0ZEaTBFZEdIbUkxTTF4Z0gzSGpoRlV6dFR4Wg?oc=5) (Fri, 27 Nov 2026 00:24:38 GMT)
-- [TRON leads stablecoin market cap growth with $195.5 million daily gain - Crypto Briefing](https://news.google.com/rss/articles/CBMieEFVX3lxTE5wWkFWNTV3QTFCY3l0M1JuX1duM0w3UkVSaW5fU3J1S1ItNUVnWEhHMC1KUDNYcnY5XzBFSktDMlpodjRVbm8zVEttbmdYY2hZZUVqeS1ucUpNdTczazc1Z1dGSjczTEE5amJGS1VVQ05JRlVLT2UtVA?oc=5) (Thu, 26 Nov 2026 21:59:31 GMT)
+- [PayPal’s PYUSD stablecoin goes live on Sei with sub-second settlement - Crypto Briefing](https://news.google.com/rss/articles/CBMidkFVX3lxTE1famJlSk1ibGI1Tmp4X1NNd1hJTl9zOVV6dExTZUFoUVd4UThlYnpRRGk5c0taX05adUhwVnZTRW1lV3owQjc3MEtUV04teS0xdkNweGxBTGlwbUtfSmFXVDFPZlJtVDJoeVl1Q093bE9rWGpNNHc?oc=5) (Sat, 28 Nov 2026 01:04:28 GMT)
+- [Schuman Financial to Launch MiCA-Compliant Euro Stablecoin EURØP on Celo, the Most Widely Adopted Stablecoin Network - celo-blockchain](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQmJlenFzOUtKZGplbS0zU19CN3kycDl0VDR1M1NqRHdXQnFucDlHUHlxZUNrdDQ1M1RYRF94QU9nX2hUVGhqSFpHWFhSZzBIWlRraEVoS2FyUDVWTzZIQ0k4NC0yNllSakRyTjJUS1VqcGtZRFAzWHk2UVFuNEk4M1BERUsxLXR3NjdjRnFFbXN0X3U4aXdNNjZrS185cUs4aGc2OTN0QWl2d0hxSGFwZmlnQXE2eE42Uk1kUUg2dV9JREl5Z2duMkRSR1NTMVZTdV9kTXlBcmpYZw?oc=5) (Sat, 28 Nov 2026 00:00:00 GMT)
+- [Aon says it settled two stablecoin insurance premiums on Solana - Crypto News](https://news.google.com/rss/articles/CBMibkFVX3lxTFAtYnFiR0FOdVRIenUzVVlOZmxib2RWT1JlOG9LcVpmZW9DLVRPMl9aWFM2a0s1eFJ5eFdkSndYRjUtY1U2T0JqdERib3VYeF9oMXgwSjJJUzF0WFJhckJFTVJVU09zSUNqdlVUZkp3?oc=5) (Fri, 27 Nov 2026 20:30:00 GMT)
+- [MiCA for business: stablecoin budget, plan and calendar - Global Advisory Experts](https://news.google.com/rss/articles/CBMikwFBVV95cUxOc0RLT242Yk1hOHhDTGhzNzFfWGFUR0M1czlrUHBwSnZZdGNCdWZoeWVmYVNJUFdNcjhBSDFsbTlwbWtOWW9qWm5CeGRQbkIyVHU3eTljZ2FpaDgxOFBtZ0NZQk9vcE8ycGVDWXd2RDlaWGlGUmxZeXczbk9BUzFxeGVzX1dpTnhlc2xobzZqTlp1Q0U?oc=5) (Fri, 27 Nov 2026 17:29:06 GMT)
+- [B3 and banks team up to launch real-backed stablecoin - Valor International](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ3picUkwYTk4eHp5NVd1bG9nQms0cjEza0dtU2psZU5jaFdfQVZVZXJwUmZqQy0waW95czdnOTdDd1k1SE4taVBRN1hUd2lXcHg0NkNjOVVuTHFHR2c1NFNydE40VmZmd2hSdEJweG9oSUJqWnZUXy1VZ3VYZTJUeEplTnJGUTRFN1VjNzAwdzR5SUhQNHFBSTFnUEEyQU5ReUFZSTYzWGRhQ1NyeU9aX2EzZEVsTWNjLWtDWdIBywFBVV95cUxQODZzZkFNQ0R4c01fM3R6d2pUblBpcjJyVFhlZHpxNXRyOGhrdUdQaG8ybDJyNlRncXl2cDF1dk9yU1pRQllKTEdxbFo3SHVnOF9tZ2NZUEpSMmpTUHh4YWNHUEZZMmFaODNiQTJmMUFRVlN4dlMzaF83ZllLZG5BQ1VnV1NjbzVrUzl1Nzlmb2g2OXJqODRqS1JqXy1GckdJU0hsd3l4RmZjTXhINHlTVUliRmczUnY1Ym1zVzc1M0E3ZWJaYUx4ZEpiUQ?oc=5) (Fri, 27 Nov 2026 17:14:28 GMT)
 
 <!-- END_dashboard -->
 
